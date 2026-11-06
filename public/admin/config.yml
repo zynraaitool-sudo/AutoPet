@@ -38,6 +38,14 @@ collections:
       - label: Category
         name: category
         widget: string
+      - label: Featured image
+        name: image
+        widget: image
+        required: false
+      - label: Image alt text
+        name: imageAlt
+        widget: string
+        required: false
       - label: Quick verdict
         name: quickVerdict
         widget: text
@@ -52,6 +60,10 @@ collections:
           - label: Price range
             name: priceRange
             widget: string
+          - label: Image
+            name: image
+            widget: image
+            required: false
           - label: Features
             name: features
             widget: list
@@ -111,3 +123,4 @@ collections:
           - quote
           - bulleted-list
           - numbered-list
+          - image

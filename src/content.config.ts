@@ -9,6 +9,8 @@ const reviews = defineCollection({
     date: z.coerce.date(),
     updated: z.coerce.date().optional(),
     category: z.string(),
+    image: z.string().optional(),
+    imageAlt: z.string().optional(),
     draft: z.boolean().default(false),
     quickVerdict: z.string(),
     products: z.array(
@@ -18,6 +20,7 @@ const reviews = defineCollection({
         features: z.array(z.string()),
         rating: z.number().min(0).max(5),
         url: z.string().url(),
+        image: z.string().optional(),
       }),
     ),
     pros: z.array(z.string()),
