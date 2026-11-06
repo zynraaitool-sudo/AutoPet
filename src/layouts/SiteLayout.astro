@@ -1,0 +1,131 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  canonical?: string;
+  type?: "website" | "article";
+  image?: string;
+  noindex?: boolean;
+}
+
+const {
+  title,
+  description,
+  canonical = Astro.url.href,
+  type = "website",
+  image = "/images/feeder-illustration.svg",
+  noindex = false,
+} = Astro.props;
+const absoluteImage = new URL(image, Astro.site ?? Astro.url).href;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    {noindex && <meta name="robots" content="noindex, nofollow" />}
+    <meta property="og:type" content={type} />
+    <meta property="og:site_name" content="AutoPet" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={absoluteImage} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={absoluteImage} />
+    <meta name="theme-color" content="#123f43" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="brand" href="/" aria-label="AutoPet home">
+          <span class="brand-mark" aria-hidden="true">a</span><span>AutoPet</span>
+        </a>
+        <nav aria-label="Main navigation">
+          <a href="/reviews/best-automatic-cat-feeders-2026/">Reviews</a>
+          <a href="/category/automatic-cat-feeders/">Categories</a>
+          <a href="/about/">About</a>
+        </nav>
+      </div>
+    </header>
+    <main id="main">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="footer-inner">
+        <div>
+          <a class="footer-brand" href="/">AutoPet</a>
+          <p>Clear-eyed reviews for better days with pets.</p>
+        </div>
+        <nav aria-label="Footer navigation">
+          <a href="/about/">About</a>
+          <a href="/contact/">Contact</a>
+          <a href="/affiliate-disclosure/">Affiliate disclosure</a>
+          <a href="/privacy-policy/">Privacy</a>
+          <a href="/terms/">Terms</a>
+        </nav>
+        <small>© {new Date().getFullYear()} AutoPet. Independent product guides for pet people.</small>
+      </div>
+    </footer>
+  </body>
+</html>
+
+<style is:global>
+  :root {
+    color-scheme: light;
+    --ink: #173537;
+    --muted-ink: #435c5d;
+    --teal: #185b5d;
+    --teal-deep: #123f43;
+    --sun: #f2c14e;
+    --sun-deep: #e2aa26;
+    --paper: #fffefa;
+    --mist: #e8f1ed;
+    --line: #c9d8d2;
+    --heading-font: "Trebuchet MS", "Avenir Next", sans-serif;
+    --body-font: "Segoe UI", "Helvetica Neue", sans-serif;
+    font-family: var(--body-font);
+    color: var(--ink);
+    background: var(--paper);
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+  }
+  *, *::before, *::after { box-sizing: border-box; }
+  body { margin: 0; line-height: 1.65; }
+  a { color: var(--teal); }
+  a:hover { color: var(--teal-deep); }
+  a:focus-visible, button:focus-visible { outline: 3px solid var(--sun-deep); outline-offset: 4px; }
+  h1, h2, h3 { font-family: var(--heading-font); line-height: 1.15; letter-spacing: -0.025em; }
+  h1 { font-size: clamp(2.4rem, 8vw, 5rem); }
+  h2 { font-size: clamp(1.7rem, 4vw, 2.6rem); }
+  p { max-width: 70ch; }
+  .eyebrow { font-size: 0.95rem; }
+  .skip-link { position: absolute; top: 0.5rem; left: 0.5rem; z-index: 20; padding: 0.7rem 1rem; background: var(--paper); transform: translateY(-150%); }
+  .skip-link:focus { transform: translateY(0); }
+  .site-header { border-bottom: 1px solid var(--line); background: var(--paper); }
+  .header-inner, .footer-inner { width: min(1120px, calc(100% - 2rem)); margin-inline: auto; }
+  .header-inner { min-height: 4.8rem; display: flex; justify-content: space-between; align-items: center; gap: 1rem; }
+  .brand { display: inline-flex; align-items: center; gap: 0.6rem; color: var(--ink); font-family: var(--heading-font); font-size: 1.4rem; font-weight: 800; text-decoration: none; }
+  .brand-mark { display: grid; place-items: center; width: 2rem; height: 2rem; border-radius: 50% 50% 50% 0; transform: rotate(-45deg); background: var(--sun); color: var(--ink); }
+  .brand-mark::first-letter { transform: rotate(45deg); }
+  .header-inner nav { display: flex; gap: clamp(0.7rem, 3vw, 1.8rem); }
+  .header-inner nav a { color: var(--ink); font-size: 0.94rem; font-weight: 650; text-decoration: none; }
+  main { min-height: 60vh; }
+  .site-footer { margin-top: 5rem; background: var(--teal-deep); color: var(--paper); }
+  .footer-inner { display: grid; grid-template-columns: 1fr; gap: 1.3rem; padding-block: 2.5rem; }
+  .footer-brand { color: var(--sun); font-family: var(--heading-font); font-size: 1.5rem; font-weight: 800; text-decoration: none; }
+  .footer-inner p { margin: 0.3rem 0; color: #e0eeea; }
+  .footer-inner nav { display: flex; flex-wrap: wrap; gap: 0.7rem 1.2rem; }
+  .footer-inner nav a { color: var(--paper); }
+  .footer-inner small { color: #c8dcd7; }
+  @media (min-width: 720px) { .footer-inner { grid-template-columns: 1.1fr 1.5fr; } .footer-inner small { grid-column: 1 / -1; } }
+  @media (max-width: 480px) { .header-inner { align-items: flex-start; flex-direction: column; padding-block: 0.75rem; } .header-inner nav { width: 100%; justify-content: space-between; } }
+</style>

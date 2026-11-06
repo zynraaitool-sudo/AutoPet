@@ -1,0 +1,80 @@
+---
+import AffiliateButton from "./AffiliateButton.astro";
+
+interface Product {
+  name: string;
+  priceRange: string;
+  features: string[];
+  rating: number;
+  url: string;
+}
+
+interface Props {
+  products: Product[];
+}
+
+const { products } = Astro.props;
+---
+
+<div class="table-wrap" role="region" aria-label="Product comparison" tabindex="0">
+  <table>
+    <caption>Automatic cat feeder comparison</caption>
+    <thead>
+      <tr>
+        <th scope="col">Feeder</th>
+        <th scope="col">Price range</th>
+        <th scope="col">Key features</th>
+        <th scope="col">Rating</th>
+        <th scope="col"><span class="sr-only">Retailer link</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      {products.map((product) => (
+        <tr>
+          <th scope="row">{product.name}</th>
+          <td>{product.priceRange}</td>
+          <td>{product.features.join(", ")}</td>
+          <td><span aria-label={`${product.rating} out of 5`}>{product.rating.toFixed(1)}/5</span></td>
+          <td><AffiliateButton url={product.url} /></td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+</div>
+
+<style>
+  .table-wrap {
+    overflow-x: auto;
+    border: 1px solid var(--line);
+    background: var(--paper);
+  }
+  table {
+    width: 100%;
+    min-width: 720px;
+    border-collapse: collapse;
+    text-align: left;
+  }
+  caption {
+    padding: 1rem;
+    color: var(--ink);
+    font-family: var(--heading-font);
+    font-size: 1.15rem;
+    font-weight: 700;
+    text-align: left;
+  }
+  th, td { padding: 0.9rem 1rem; border-top: 1px solid var(--line); vertical-align: top; }
+  thead th { background: var(--teal); color: var(--paper); font-size: 0.88rem; }
+  tbody th { min-width: 160px; }
+  td { color: var(--muted-ink); }
+  .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+</style>

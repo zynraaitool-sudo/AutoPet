@@ -1,0 +1,75 @@
+---
+import { getCollection } from "astro:content";
+import SiteLayout from "../../layouts/SiteLayout.astro";
+
+const labels: Record<string, { title: string; description: string }> = {
+  "automatic-cat-feeders": {
+    title: "Automatic cat feeders",
+    description: "Independent guides to automatic cat feeders, portion control, scheduling, and everyday reliability.",
+  },
+  "pet-water-fountains": {
+    title: "Pet water fountains",
+    description: "Practical advice on pet water fountains, filtration, cleaning, and the features worth paying for.",
+  },
+  "smart-litter-boxes": {
+    title: "Smart litter boxes",
+    description: "Compare smart litter boxes with an eye on safety, cleanup, setup, and ongoing costs.",
+  },
+};
+
+export function getStaticPaths() {
+  return [
+    { params: { name: "automatic-cat-feeders" } },
+    { params: { name: "pet-water-fountains" } },
+    { params: { name: "smart-litter-boxes" } },
+  ];
+}
+
+const { name } = Astro.params;
+const category = labels[name ?? ""] ?? {
+  title: "Pet gear",
+  description: "Independent, practical reviews of smart pet gear.",
+};
+const reviews = (await getCollection("reviews", ({ data }) => !data.draft && data.category.toLowerCase().replaceAll(" ", "-") === name))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+---
+
+<SiteLayout title={`${category.title} | AutoPet`} description={category.description}>
+  <section class="category-page">
+    <a href="/" class="back-link">← AutoPet home</a>
+    <p class="eyebrow">Browse reviews</p>
+    <h1>{category.title}</h1>
+    <p class="intro">{category.description}</p>
+    {reviews.length > 0 ? (
+      <div class="review-list">
+        {reviews.map((review) => (
+          <article>
+            <div><p class="date"><time datetime={review.data.date.toISOString()}>{review.data.date.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}</time></p>
+              <h2><a href={`/reviews/${review.id}/`}>{review.data.title}</a></h2>
+              <p>{review.data.description}</p>
+            </div>
+            <a class="read-link" href={`/reviews/${review.id}/`}>Read review <span aria-hidden="true">→</span></a>
+          </article>
+        ))}
+      </div>
+    ) : (
+      <div class="empty-state"><p>We're researching this category now. Check back soon for considered recommendations and hands-on buying advice.</p><a href="/">Browse the latest review</a></div>
+    )}
+  </section>
+</SiteLayout>
+
+<style>
+  .category-page { width: min(920px, calc(100% - 2rem)); margin: auto; padding-block: 3rem; }
+  .back-link { font-size: 0.9rem; font-weight: 700; }
+  .eyebrow { margin: 2rem 0 0.4rem; color: var(--teal); font-weight: 750; }
+  h1 { margin: 0; }
+  .intro { color: var(--muted-ink); font-size: 1.15rem; }
+  .review-list { margin-top: 2rem; border-top: 1px solid var(--line); }
+  article { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 1rem; padding: 1.4rem 0; border-bottom: 1px solid var(--line); }
+  article h2 { margin: 0.2rem 0; font-size: 1.5rem; }
+  article h2 a { color: var(--ink); text-decoration: none; }
+  article p { margin: 0.3rem 0; color: var(--muted-ink); }
+  .date { font-size: 0.88rem; }
+  .read-link { font-weight: 750; white-space: nowrap; }
+  .empty-state { margin-top: 2rem; padding: 1.5rem; border-left: 4px solid var(--sun-deep); background: var(--mist); }
+</style>

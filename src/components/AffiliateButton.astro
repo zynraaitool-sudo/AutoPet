@@ -1,0 +1,36 @@
+---
+interface Props {
+  url: string;
+  label?: string;
+}
+
+const { url, label = "Check price" } = Astro.props;
+---
+
+<a class="affiliate-button" href={url} target="_blank" rel="sponsored nofollow noopener">{label}</a>
+
+<style>
+  .affiliate-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 2.75rem;
+    padding: 0.65rem 1rem;
+    border: 2px solid var(--ink);
+    background: var(--sun);
+    color: var(--ink);
+    font-weight: 750;
+    text-decoration: none;
+    transition: background-color 160ms ease, transform 160ms ease;
+  }
+
+  .affiliate-button:hover {
+    background: var(--sun-deep);
+    transform: translateY(-2px);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .affiliate-button { transition: none; }
+    .affiliate-button:hover { transform: none; }
+  }
+</style>

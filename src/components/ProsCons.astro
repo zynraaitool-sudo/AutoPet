@@ -1,0 +1,28 @@
+---
+interface Props {
+  pros: string[];
+  cons: string[];
+}
+
+const { pros, cons } = Astro.props;
+---
+
+<div class="pros-cons">
+  <section aria-labelledby="pros-heading">
+    <h3 id="pros-heading">What works well</h3>
+    <ul>{pros.map((item) => <li>{item}</li>)}</ul>
+  </section>
+  <section aria-labelledby="cons-heading">
+    <h3 id="cons-heading">What to keep in mind</h3>
+    <ul>{cons.map((item) => <li>{item}</li>)}</ul>
+  </section>
+</div>
+
+<style>
+  .pros-cons { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 16rem), 1fr)); gap: 1rem; }
+  section { padding: 1.2rem; border: 1px solid var(--line); border-top: 4px solid var(--teal); }
+  section + section { border-top-color: var(--sun-deep); }
+  h3 { margin-top: 0; font-family: var(--heading-font); }
+  ul { margin-bottom: 0; padding-left: 1.2rem; }
+  li + li { margin-top: 0.6rem; }
+</style>

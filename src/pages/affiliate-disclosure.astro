@@ -1,0 +1,18 @@
+---
+import SiteLayout from "../layouts/SiteLayout.astro";
+---
+<SiteLayout title="Affiliate Disclosure | AutoPet" description="How affiliate links support AutoPet and how they relate to our product recommendations.">
+  <article class="page">
+    <p class="eyebrow">Transparency matters</p>
+    <h1>Affiliate disclosure</h1>
+    <p class="lead">Some links on AutoPet are affiliate links. If you make a purchase through one, we may receive a commission at no additional cost to you.</p>
+    <p>As an Amazon Associate I earn from qualifying purchases.</p>
+    <p>Affiliate relationships do not guarantee a positive review or determine which products we include. We aim to explain the trade-offs, limitations, and intended use of products so readers can make their own decisions. Prices and availability can change; please confirm details with the retailer.</p>
+    <p>Affiliate links are marked with appropriate link attributes and appear alongside our editorial recommendations.</p>
+  </article>
+</SiteLayout>
+<style>
+  .page { width: min(760px, calc(100% - 2rem)); margin: auto; padding-block: 3rem; }
+  .eyebrow { color: var(--teal); font-weight: 750; }
+  .lead { color: var(--muted-ink); font-size: 1.2rem; }
+</style>
