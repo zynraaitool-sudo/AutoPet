@@ -10,10 +10,16 @@ function popupResponse(message, status = 200) {
   <body>
     <p>Finishing GitHub authorization. You can close this window if it does not close automatically.</p>
     <script nonce="${nonce}">
-      if (window.opener) {
-        window.opener.postMessage(${serializedMessage}, ${JSON.stringify(SITE_ORIGIN)});
-        window.close();
-      }
+      const result = ${serializedMessage};
+      window.addEventListener("load", () => {
+        if (!window.opener) return;
+        window.addEventListener("message", (event) => {
+          if (event.source !== window.opener || event.origin !== ${JSON.stringify(SITE_ORIGIN)}) return;
+          window.opener.postMessage(result, event.origin);
+          window.close();
+        });
+        window.opener.postMessage("authorizing:github", "*");
+      }, { once: true });
     </script>
   </body>
 </html>`;
