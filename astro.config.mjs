@@ -3,5 +3,9 @@ import sitemap from "@astrojs/sitemap";
 
 export default defineConfig({
   site: "https://autopet.store",
-  integrations: [sitemap()],
+  integrations: [
+    sitemap({
+      filter: (page) => !new URL(page).pathname.startsWith("/admin"),
+    }),
+  ],
 });

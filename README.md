@@ -30,3 +30,12 @@ Edit the CSS custom properties at the top of the global styles in `src/layouts/S
 5. Save and deploy. Cloudflare will build on later pushes to the connected branch.
 
 The public domain is set to `https://autopet.store` in `astro.config.mjs`; update it there if the production domain changes.
+
+## Publish reviews with Decap CMS
+
+1. Create a GitHub OAuth App with homepage URL `https://autopet.store` and authorization callback URL `https://autopet.store/api/callback`.
+2. In the Cloudflare Pages project, add `GITHUB_CLIENT_ID` and `GITHUB_CLIENT_SECRET` as environment variables for production. Use the OAuth App's Client ID and Client secret, then redeploy.
+3. Visit `https://autopet.store/admin/` and sign in with a GitHub account that can push to `zynraaitool-sudo/AutoPet`.
+4. Create or edit a review, and publish by leaving **Draft** unchecked. Decap saves the Markdown file in `src/content/reviews`; publishing triggers a Pages build.
+
+The editor fields follow `src/content.config.ts`, including quick verdict, products, pros, cons, FAQs, and the Markdown article body.
