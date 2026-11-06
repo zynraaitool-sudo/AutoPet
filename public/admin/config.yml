@@ -123,4 +123,4 @@ collections:
           - quote
           - bulleted-list
           - numbered-list
-          - image
+        editor_components: [image]
