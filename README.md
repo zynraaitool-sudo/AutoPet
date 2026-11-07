@@ -12,10 +12,12 @@ AutoPet is a static Astro site for practical smart-pet product reviews. It build
 ## Add an article
 
 1. Create a Markdown file in `src/content/reviews/`, for example `quiet-pet-fountain.md`.
-2. Add the required frontmatter: `title`, `description`, `date`, `category`, `draft`, `quickVerdict`, `products`, `pros`, `cons`, and `faqs`. `updated` is optional. See `best-automatic-cat-feeders-2026.md` for the expected shape.
+2. Add the required frontmatter: `title`, `description`, `date`, `category`, and `draft`. `updated`, featured image fields, quick verdict, products, pros, cons, and FAQs are optional. See `best-automatic-cat-feeders-2026.md` for the expected shape.
 3. Write the article body in Markdown. Product entries need `name`, `priceRange`, `features`, `rating` (0–5), and a valid `url`.
 4. Set `draft: true` while working. Draft reviews are excluded from category pages, home, and article routes; change it to `false` when ready to publish.
 5. Before publishing, replace affiliate placeholders listed in `TODO.md`, then run `npm run build`.
+
+The Decap editor also provides raw HTML, affiliate button, callout, and quick comparison table blocks from the Markdown editor's **+** menu. Raw HTML blocks are rendered as HTML; use them only for trusted content.
 
 ## Change the colors
 
@@ -38,4 +40,4 @@ The public domain is set to `https://autopet.store` in `astro.config.mjs`; updat
 3. Visit `https://autopet.store/admin/` and sign in with a GitHub account that can push to `zynraaitool-sudo/AutoPet`.
 4. Create or edit a review, and publish by leaving **Draft** unchecked. Decap saves the Markdown file in `src/content/reviews`; publishing triggers a Pages build.
 
-The editor fields follow `src/content.config.ts`, including quick verdict, products, pros, cons, FAQs, and the Markdown article body.
+The editor fields follow `src/content.config.ts`. New entries start as drafts; uncheck **Draft** to publish. The Markdown body includes image, raw HTML, affiliate button, callout, and quick comparison table blocks.

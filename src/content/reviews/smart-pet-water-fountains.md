@@ -2,7 +2,7 @@
 title: "Best Smart Pet Water Fountains"
 description: "A draft comparison of connected pet fountains, filtration, cleaning, and noise."
 date: 2026-11-06
-category: "Pet water fountains"
+category: pet-water-fountains
 draft: true
 quickVerdict: "Draft article."
 products: []

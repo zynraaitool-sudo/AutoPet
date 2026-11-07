@@ -8,5 +8,134 @@
   </head>
   <body>
     <script src="https://unpkg.com/decap-cms@3.8.3/dist/decap-cms.js"></script>
+    <script>
+      const escapeHtml = (value) =>
+        String(value ?? "").replace(/[&<>"']/g, (character) => ({
+          "&": "&amp;",
+          "<": "&lt;",
+          ">": "&gt;",
+          '"': "&quot;",
+          "'": "&#39;",
+        })[character]);
+
+      const decodeHtml = (value) => {
+        const element = document.createElement("textarea");
+        element.innerHTML = value;
+        return element.value;
+      };
+
+      const calloutBlock = ({ type, text }) => {
+        const safeType = ["tip", "warning", "note"].includes(type) ? type : "note";
+        return `<aside class="callout callout-${safeType}" data-type="${safeType}"><p>${escapeHtml(text)}</p></aside>`;
+      };
+
+      CMS.registerEditorComponent({
+        id: "html_block",
+        label: "Raw HTML",
+        fields: [{ name: "code", label: "HTML", widget: "text", rows: 16 }],
+        pattern: /^(`{3,})html_block[ \t]*\r?\n([\s\S]*?)\r?\n\1[ \t]*$/m,
+        fromBlock: (match) => ({ code: match[2] }),
+        toBlock: ({ code = "" }) => {
+          let fence = "```";
+          while (code.includes(`\n${fence}\n`)) fence += "`";
+          return `${fence}html_block\n${code}\n${fence}`;
+        },
+        toPreview: ({ code }) => `<div class="raw-html">${code ?? ""}</div>`,
+      });
+
+      CMS.registerEditorComponent({
+        id: "affiliate_button",
+        label: "Affiliate button",
+        fields: [
+          { name: "url", label: "URL", widget: "string" },
+          { name: "label", label: "Button label", widget: "string" },
+        ],
+        pattern: /^<a class="affiliate-button" href="([^"]*)" target="_blank" rel="sponsored nofollow noopener">([\s\S]*?)<\/a>$/m,
+        fromBlock: (match) => ({ url: decodeHtml(match[1]), label: decodeHtml(match[2]) }),
+        toBlock: ({ url, label }) =>
+          `<a class="affiliate-button" href="${escapeHtml(url)}" target="_blank" rel="sponsored nofollow noopener">${escapeHtml(label || "Check price")}</a>`,
+        toPreview: ({ url, label }) =>
+          `<a class="affiliate-button" href="${escapeHtml(url)}" target="_blank" rel="sponsored nofollow noopener">${escapeHtml(label || "Check price")}</a>`,
+      });
+
+      CMS.registerEditorComponent({
+        id: "callout",
+        label: "Callout",
+        fields: [
+          { name: "type", label: "Type", widget: "select", options: ["tip", "warning", "note"] },
+          { name: "text", label: "Text", widget: "text", rows: 4 },
+        ],
+        pattern: /^<aside class="callout callout-(tip|warning|note)" data-type="\1"><p>([\s\S]*?)<\/p><\/aside>$/m,
+        fromBlock: (match) => ({ type: match[1], text: decodeHtml(match[2]) }),
+        toBlock: calloutBlock,
+        toPreview: calloutBlock,
+      });
+
+      const tablePattern = /^<div class="quick-table-wrap">\s*<table>\s*<thead>[\s\S]*?<\/thead>\s*<tbody>([\s\S]*?)<\/tbody>\s*<\/table>\s*<\/div>$/m;
+      const tableRowPattern = /<tr><td>([\s\S]*?)<\/td><td>([\s\S]*?)<\/td><td>([\s\S]*?)<\/td><td><a class="affiliate-button" href="([^"]*)" target="_blank" rel="sponsored nofollow noopener">[\s\S]*?<\/a><\/td><\/tr>/g;
+      const tableFromBlock = (match) => {
+        const rows = [];
+        for (const row of match[1].matchAll(tableRowPattern)) {
+          rows.push({
+            product: decodeHtml(row[1]),
+            price: decodeHtml(row[2]),
+            feature: decodeHtml(row[3]),
+            url: decodeHtml(row[4]),
+          });
+        }
+        return { rows };
+      };
+      const tableToBlock = ({ rows = [] }) =>
+        `<div class="quick-table-wrap"><table><thead><tr><th>Product</th><th>Price</th><th>Feature</th><th>Retailer</th></tr></thead><tbody>${rows
+          .map(
+            ({ product, price, feature, url }) =>
+              `<tr><td>${escapeHtml(product)}</td><td>${escapeHtml(price)}</td><td>${escapeHtml(feature)}</td><td><a class="affiliate-button" href="${escapeHtml(url)}" target="_blank" rel="sponsored nofollow noopener">Check price</a></td></tr>`,
+          )
+          .join("")}</tbody></table></div>`;
+
+      CMS.registerEditorComponent({
+        id: "quick_table",
+        label: "Quick comparison table",
+        fields: [
+          {
+            name: "rows",
+            label: "Rows",
+            widget: "list",
+            fields: [
+              { name: "product", label: "Product", widget: "string" },
+              { name: "price", label: "Price", widget: "string" },
+              { name: "feature", label: "Feature", widget: "string" },
+              { name: "url", label: "URL", widget: "string" },
+            ],
+          },
+        ],
+        pattern: tablePattern,
+        fromBlock: tableFromBlock,
+        toBlock: tableToBlock,
+        toPreview: tableToBlock,
+      });
+
+      CMS.registerPreviewTemplate(
+        "reviews",
+        createClass({
+          render() {
+            const entry = this.props.entry;
+            const title = entry.getIn(["data", "title"]) || "Untitled review";
+            const image = entry.getIn(["data", "image"]);
+            const imageAlt = entry.getIn(["data", "imageAlt"]) || title;
+            const quickVerdict = entry.getIn(["data", "quickVerdict"]);
+
+            return h(
+              "article",
+              { className: "review-preview" },
+              h("h1", {}, title),
+              image && h("img", { src: image, alt: imageAlt, style: { maxWidth: "100%", height: "auto" } }),
+              quickVerdict && h("blockquote", {}, quickVerdict),
+              this.props.widgetFor("body"),
+            );
+          },
+        }),
+      );
+    </script>
   </body>
 </html>

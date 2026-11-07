@@ -13,6 +13,12 @@ export async function getStaticPaths() {
 const { review } = Astro.props;
 const { Content } = await render(review);
 const { title, description, date, updated, category, image, imageAlt, quickVerdict, products, pros, cons, faqs } = review.data;
+const categoryLabels: Record<string, string> = {
+  "automatic-cat-feeders": "Automatic cat feeders",
+  "pet-water-fountains": "Pet water fountains",
+  "smart-litter-boxes": "Smart litter boxes",
+};
+const categoryLabel = categoryLabels[category] ?? category;
 const isoDate = date.toISOString();
 const isoUpdated = (updated ?? date).toISOString();
 const readingMinutes = Math.max(1, Math.ceil(review.body.split(/\s+/).length / 220));
@@ -32,7 +38,7 @@ const reviewSchema = {
   "@context": "https://schema.org",
   "@type": "Review",
   name: title,
-  reviewBody: quickVerdict,
+  reviewBody: quickVerdict || undefined,
   datePublished: isoDate,
   dateModified: isoUpdated,
   author: { "@type": "Organization", name: "AutoPet" },
@@ -44,7 +50,7 @@ const reviewSchema = {
   <article class="article-shell">
     {image && <img class="featured-image" src={image} width="1200" height="675" loading="lazy" alt={imageAlt ?? title} />}
     <header class="article-header">
-      <a class="back-link" href={`/category/${category.toLowerCase().replaceAll(" ", "-")}/`}>← {category}</a>
+      <a class="back-link" href={`/category/${category.toLowerCase().replaceAll(" ", "-")}/`}>← {categoryLabel}</a>
       <h1>{title}</h1>
       <p class="dek">{description}</p>
       <div class="meta">
@@ -56,27 +62,35 @@ const reviewSchema = {
     </header>
 
     <div class="article-content">
-      <aside class="verdict" aria-labelledby="verdict-title">
-        <span class="verdict-mark" aria-hidden="true">✓</span>
-        <div><h2 id="verdict-title">Quick verdict</h2><p>{quickVerdict}</p></div>
-      </aside>
+      {quickVerdict && (
+        <aside class="verdict" aria-labelledby="verdict-title">
+          <span class="verdict-mark" aria-hidden="true">✓</span>
+          <div><h2 id="verdict-title">Quick verdict</h2><p>{quickVerdict}</p></div>
+        </aside>
+      )}
 
-      <section aria-labelledby="comparison-heading">
-        <h2 id="comparison-heading">Compare our top picks</h2>
-        <ProductTable products={products} />
-      </section>
+      {products.length > 0 && (
+        <section aria-labelledby="comparison-heading">
+          <h2 id="comparison-heading">Compare our top picks</h2>
+          <ProductTable products={products} />
+        </section>
+      )}
 
-      <section aria-labelledby="pros-cons-heading">
-        <h2 id="pros-cons-heading">The short version</h2>
-        <ProsCons pros={pros} cons={cons} />
-      </section>
+      {(pros.length > 0 || cons.length > 0) && (
+        <section aria-labelledby="pros-cons-heading">
+          <h2 id="pros-cons-heading">The short version</h2>
+          <ProsCons pros={pros} cons={cons} />
+        </section>
+      )}
 
       <div class="prose"><Content /></div>
 
-      <section aria-labelledby="faq-heading">
-        <h2 id="faq-heading">Frequently asked questions</h2>
-        <FAQSection faqs={faqs} />
-      </section>
+      {faqs.length > 0 && (
+        <section aria-labelledby="faq-heading">
+          <h2 id="faq-heading">Frequently asked questions</h2>
+          <FAQSection faqs={faqs} />
+        </section>
+      )}
       <p class="last-reviewed">Product details checked on <time datetime={isoUpdated}>{(updated ?? date).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}</time>. Prices and availability can change.</p>
     </div>
   </article>
@@ -105,5 +119,14 @@ const reviewSchema = {
   .prose :global(h3) { margin-top: 1.8rem; }
   .prose :global(p), .prose :global(li) { max-width: 70ch; color: #314b4c; }
   .prose :global(strong) { color: var(--ink); }
+  .prose :global(.raw-html) { max-width: 100%; overflow-x: auto; }
+  .prose :global(.raw-html img) { max-width: 100%; height: auto; }
+  .prose :global(.raw-html table) { width: 100%; border-collapse: collapse; text-align: left; }
+  .prose :global(.raw-html th), .prose :global(.raw-html td) { padding: 0.75rem; border: 1px solid var(--line); vertical-align: top; }
+  .prose :global(.raw-html th) { background: var(--teal); color: var(--paper); }
+  .prose :global(.affiliate-button) { display: inline-flex; align-items: center; justify-content: center; min-height: 2.75rem; padding: 0.65rem 1rem; border: 2px solid var(--ink); background: var(--sun); color: var(--ink); font-weight: 750; text-decoration: none; }
+  .prose :global(.callout) { margin-block: 1.5rem; padding: 1rem 1.2rem; border-left: 4px solid var(--teal); background: var(--mist); }
+  .prose :global(.callout p) { margin: 0; }
+  .prose :global(.callout-warning) { border-left-color: var(--sun-deep); background: #f8f3df; }
   .last-reviewed { margin-top: 3rem; color: var(--muted-ink); font-size: 0.9rem; }
 </style>

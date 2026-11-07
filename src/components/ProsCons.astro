@@ -8,14 +8,18 @@ const { pros, cons } = Astro.props;
 ---
 
 <div class="pros-cons">
-  <section aria-labelledby="pros-heading">
-    <h3 id="pros-heading">What works well</h3>
-    <ul>{pros.map((item) => <li>{item}</li>)}</ul>
-  </section>
-  <section aria-labelledby="cons-heading">
-    <h3 id="cons-heading">What to keep in mind</h3>
-    <ul>{cons.map((item) => <li>{item}</li>)}</ul>
-  </section>
+  {pros.length > 0 && (
+    <section aria-labelledby="pros-heading">
+      <h3 id="pros-heading">What works well</h3>
+      <ul>{pros.map((item) => <li>{item}</li>)}</ul>
+    </section>
+  )}
+  {cons.length > 0 && (
+    <section aria-labelledby="cons-heading">
+      <h3 id="cons-heading">What to keep in mind</h3>
+      <ul>{cons.map((item) => <li>{item}</li>)}</ul>
+    </section>
+  )}
 </div>
 
 <style>

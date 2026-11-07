@@ -21,12 +21,15 @@ collections:
       - label: Title
         name: title
         widget: string
+        hint: Keep the generated article slug short and lowercase.
       - label: Description
         name: description
         widget: text
+        hint: Write a concise meta description of 150-160 characters.
       - label: Publication date
         name: date
         widget: datetime
+        default: "{{now}}"
         date_format: "YYYY-MM-DD"
         time_format: false
       - label: Updated date
@@ -37,7 +40,11 @@ collections:
         required: false
       - label: Category
         name: category
-        widget: string
+        widget: select
+        options:
+          - automatic-cat-feeders
+          - pet-water-fountains
+          - smart-litter-boxes
       - label: Featured image
         name: image
         widget: image
@@ -49,9 +56,11 @@ collections:
       - label: Quick verdict
         name: quickVerdict
         widget: text
+        required: false
       - label: Products
         name: products
         widget: list
+        required: false
         summary: "{{fields.name}}"
         fields:
           - label: Name
@@ -85,6 +94,7 @@ collections:
       - label: Pros
         name: pros
         widget: list
+        required: false
         field:
           label: Pro
           name: pro
@@ -92,6 +102,7 @@ collections:
       - label: Cons
         name: cons
         widget: list
+        required: false
         field:
           label: Con
           name: con
@@ -99,6 +110,7 @@ collections:
       - label: Frequently asked questions
         name: faqs
         widget: list
+        required: false
         fields:
           - label: Question
             name: question
@@ -109,7 +121,8 @@ collections:
       - label: Draft
         name: draft
         widget: boolean
-        default: false
+        default: true
+        hint: Uncheck Draft to publish this article.
       - label: Article body
         name: body
         widget: markdown
@@ -123,4 +136,9 @@ collections:
           - quote
           - bulleted-list
           - numbered-list
-        editor_components: [image]
+        editor_components:
+          - image
+          - html_block
+          - affiliate_button
+          - callout
+          - quick_table

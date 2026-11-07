@@ -11,8 +11,8 @@ const reviews = defineCollection({
     category: z.string(),
     image: z.string().optional(),
     imageAlt: z.string().optional(),
-    draft: z.boolean().default(false),
-    quickVerdict: z.string(),
+    draft: z.boolean().default(true),
+    quickVerdict: z.string().default(""),
     products: z.array(
       z.object({
         name: z.string(),
@@ -22,15 +22,15 @@ const reviews = defineCollection({
         url: z.string().url(),
         image: z.string().optional(),
       }),
-    ),
-    pros: z.array(z.string()),
-    cons: z.array(z.string()),
+    ).default([]),
+    pros: z.array(z.string()).default([]),
+    cons: z.array(z.string()).default([]),
     faqs: z.array(
       z.object({
         question: z.string(),
         answer: z.string(),
       }),
-    ),
+    ).default([]),
   }),
 });
 
