@@ -12,151 +12,26 @@ products:
     priceRange: $85-$100
     rating: 5
     url: https://s.click.aliexpress.com/e/_c4sIyewB
-    features:
-      - Smart feeding with built-in camera The 4L Smart Pet Feeder features a
-        built-in camera allowing you to monitor your cat or dog in real time via
-        the APP. Stay connected and ensure your pet is eating safely from
-        anywhere.
-      - Timed and quantitative food dispensing With precise timed and
-        quantitative dispensing, this feeder automatically releases the right
-        amount of dry food at set intervals, helping maintain a healthy feeding
-        schedule.
-      - Large 4L food capacity Designed with a 4L capacity, this feeder holds
-        enough dry food for multiple meals, reducing the need for frequent
-        refills and ideal for busy pet owners.
-      - Available in black and white video versions Choose between 4L Black
-        Videos or 4L White Videos to match your home décor. Both versions offer
-        the same smart functionality with a sleek, modern design.
-      - "Compact and lightweight packaging The package measures 38 x 22 x 22 cm
-        and weighs only 3.000 kg, making it easy to handle, store, and ship
-        safely to your doorstep. Related items Mini Shell Ejecting Soft Dart Toy
-        Gun FN365 Double Row Magazine Toy Blaster Shooting No Priming Slide Lock
-        Toy Gun Model Mini Shell Ejecting Soft Dart Toy Gun FN365 Double Row
-        Magazine Toy Blaster Shooting No Priming Slide Lock Toy Gun Model
-        $5.09$5.09 Fastest delivery in 6 days Free shipping Fastest delivery in
-        6 days JHK 4L Automatic Cat Feeder WiFi Timed Cat Food Dispenser with
-        APP Control Dual Power Supply Indoor Programmable Pet Feeder  JHK 4L
-        Automatic Cat Feeder WiFi Timed Cat Food Dispenser with APP Control Dual
-        Power Supply Indoor Programmable Pet Feeder 6 sold $43.04$43.04 $116.46
-        saved Fastest delivery in 5 days Free shipping Fastest delivery in 5
-        days ROJECO Automatic Cat Feeder With Camera Video Cat Food Dispenser
-        Pet Smart Voice Recorder Remote Control Auto Feeder For Cat Dog  ROJECO
-        Automatic Cat Feeder With Camera Video Cat Food Dispenser Pet Smart
-        Voice Recorder Remote Control Auto Feeder For Cat Dog 478 sold  4.9 (78)
-        $68.6$68.6 $170.76 saved Fastest delivery in 6 days Free shipping
-        Fastest delivery in 6 days Ad ROJECO Automatic Cat Feeder Pet Smart Cat
-        Food Kibble Dispenser Remote Control Auto WiFi Double Feeder For Cats
-        Dog Accessories  ROJECO Automatic Cat Feeder Pet Smart Cat Food Kibble
-        Dispenser Remote Control Auto WiFi Double Feeder For Cats Dog
-        Accessories 239 sold  4.8 (25) $40.43$40.43 $62.60 saved Free shipping
-        Free shipping Ad 2L with Video Automatic Cat Feeder, Intelligent Timed
-        and Quantitative Feeding, Cat, Dog and Pet Feeding Bowl Controlled by
-        App  2L with Video Automatic Cat Feeder, Intelligent Timed and
-        Quantitative Feeding, Cat, Dog and Pet Feeding Bowl Controlled by App 50
-        sold $31.52$31.52 $52.57 saved Free shipping Free shipping Ad ROJECO
-        8.5L Automatic Pet Feeder Water Fountain WIFI APP Remote Control Smart
-        Dog 5L Food Dispenser 3.5L Gravity Water Drinker ﻿  ROJECO 8.5L
-        Automatic Pet Feeder Water Fountain WIFI APP Remote Control Smart Dog 5L
-        Food Dispenser 3.5L Gravity Water Drinker ﻿ 829 sold  4.9 (149)
-        $41.13$41.13 $75.19 saved Free shipping Free shipping Ad NITYERS 4L
-        Automatic Cat Feeder, Smart Pet Food Dispenser with Key Control, Voice
-        Recorder, Dual Power Supply, Timed Auto Dog Feeder with Stainless Steel
-        Bowl NITYERS 4L Automatic Cat Feeder, Smart Pet Food Dispenser with Key
-        Control, Voice Recorder, Dual Power Supply, Timed Auto Dog Feeder with
-        Stainless Steel Bowl 17 sold $35.59$35.59 Delivery: Nov 15 - 20 Free
-        shipping Delivery: Nov 15 - 20 4L With HD Camera Automatic Pet Feeder
-        Cat And Dog Food Automatic Dispenser Suitable For Two Pet Cat And Dog
-        Feeding Remote Feed  4L With HD Camera Automatic Pet Feeder Cat And Dog
-        Food Automatic Dispenser Suitable For Two Pet Cat And Dog Feeding Remote
-        Feed 365 sold  4.9 (59) $43.01$43.01 $116.39 saved Free shipping Free
-        shipping JHK 6L Automatic Cat Feeder with 2 Stainless Bowls Timed Cat
-        Food Dispenser Dual Power Supply Dual Pet Feeder for Cat and Dog JHK 6L
-        Automatic Cat Feeder with 2 Stainless Bowls Timed Cat Food Dispenser
-        Dual Power Supply Dual Pet Feeder for Cat and Dog $51.7$51.7 Fastest
-        delivery in 5 days Free shipping Fastest delivery in 5 days Programmable
-        4L Automatic Pet Feeder for Small Dogs Cats, Up to 6 Meals Daily,
-        Timer/Portion Control, Pet Feeding Food Dispenser  Programmable 4L
-        Automatic Pet Feeder for Small Dogs Cats, Up to 6 Meals Daily,
-        Timer/Portion Control, Pet Feeding Food Dispenser 132 sold  4.6 (22)
-        $23.48$23.48 $85.45 saved Fastest delivery in 5 days Free shipping
-        Fastest delivery in 5 days ROJECO Stainless Steel Cat Water Fountain
-        Automatic Cat Drinker Drinking Fountain For Cats Dogs Pet Water
-        Dispenser Accessories  ROJECO Stainless Steel Cat Water Fountain
-        Automatic Cat Drinker Drinking Fountain For Cats Dogs Pet Water
-        Dispenser Accessories 368 sold  4.8 (53) $39.32$39.32 $108.56 saved
-        Fastest delivery in 6 days Free shipping Fastest delivery in 6 days Ad
-        JHK 24IN Stainless Steel Cat Litter Box with Fully Enclosed 30L Large
-        Cat Litter Box for Big Cats Cat Box Scoop and Mat Included  JHK 24IN
-        Stainless Steel Cat Litter Box with Fully Enclosed 30L Large Cat Litter
-        Box for Big Cats Cat Box Scoop and Mat Included 98 sold  4.7 (23)
-        $37.75$37.75 $111.11 saved Fastest delivery in 5 days Free shipping
-        Fastest delivery in 5 days Customer Reviews Specifications Description
-        Store More to love  Reviews Specifications Origin Mainland China
-        Description Report this item or seller Sold By Shop1105521101
-        Store  Message     Seller info Service commitment  Economy:
-        $27.70  Delivery: Dec 08 - 30   Free returns within 90 days  Security &
-        Privacy secure personal details Safe payments: We do not share your
-        personal details with any third parties without your consent. Secure
-        personal details: We protect your privacy and keep your personal details
-        safe and secure.  Shop sustainably Quantity 1 10000 available"
+    features: []
   - image: /images/s07073ce7b99c43a0b9cd1f0e553f1256x.jpg_220x220q75.jpg_.avif
     name: " 7L Smart Automatic Pet Feeder with HD Camera"
     priceRange: $52-100
     url: https://s.click.aliexpress.com/e/_c3anRYAR
     ratingNote: ""
     rating: 5
-    features:
-      - 7L Large Capacity for Multi-Pet Feeding This 7L smart pet feeder offers
-        ample space to store food for multiple cats or dogs, ensuring meals last
-        for days. The dual-bowl design supports feeding several pets
-        simultaneously with ease and convenience.
-      - HD Camera with Remote Monitoring Equipped with an HD camera, the feeder
-        allows real-time video monitoring of your pets while they eat. Stay
-        connected and check on your pets anytime from anywhere using the Tuya
-        app.
-      - Two-Way Audio & Voice Recording The built-in two-way audio system lets
-        you talk to your pets remotely. You can also record their sounds with
-        the voice recorder feature, capturing precious moments during feeding
-        time.
-      - WiFi & Tuya App Control With WiFi connectivity and full Tuya app
-        control, you can schedule feeding times, adjust portion sizes, and
-        monitor your pet’s feeding habits from your smartphone, no matter where
-        you are.
-      - Adjustable Timer & Portion Control The feeder supports time setting with
-        precise portion control from 50g to 2000g. Customize feeding schedules
-        to match your pet’s routine and ensure consistent, healthy meal
-        portions.
+    features: []
   - name: Automatic Cordless Cat Feeder for Wet & Moist Food
     priceRange: $81-$90
     rating: 4.7
     image: /images/s62e02232d58a47b2a5c9af337a454f3dv.jpg_220x220q75.jpg_.avif
     url: https://s.click.aliexpress.com/e/_c4Mj3eyF
-    features:
-      - Automatic Cordless Cat Feeder for Wet & Moist Food
-      - Rechargeable Auto Pet Food Dispenser with 4 Ice Packs
-      - Programmable Timer and Low Battery Indicator
-      - for Cats and Small Dogs
+    features: []
   - name: Automatic Cat Feeder with Stainless Steel Bowl
     image: /images/s4ad3d2fefed2483bb43708ea003cc79bx.jpg_220x220q75.jpg_.avif
     priceRange: $65-85
     url: https://s.click.aliexpress.com/e/_c4Om2Sj1
     rating: 4.1
-    features:
-      - Smart automatic pet feeder with timed feeding This smart phone feeder
-        allows you to schedule meals with precision using the time setting
-        function, ensuring your pet is fed on time, even when you're away.
-      - Portion control for healthy feeding With a min output of 50g and max
-        output of 400g, this feeder offers accurate portion control, helping
-        maintain your pet’s healthy diet with consistent meal sizes.
-      - Remote control via smartphone As a remote control feeder, it connects
-        via Wi-Fi to your smartphone, letting you manage feeding schedules and
-        start dispensing food from anywhere in the world.
-      - Clear LCD display for easy monitoring The built-in LCD display provides
-        real-time feedback on feeding status, battery level, and settings,
-        making it simple to monitor and adjust your pet’s feeding routine.
-      - Powered by battery for flexible placement Operating on battery power,
-        this feeder can be placed anywhere without needing a nearby power
-        outlet, offering greater flexibility in your home setup.
+    features: []
   - name: 7L Smart Automatic Cat Feeder with Dual Bowls
     image: /images/s308ade6460534fbb90843b72f8c9dc04q.jpg_220x220q75.jpg_.avif
     priceRange: $67-$100
