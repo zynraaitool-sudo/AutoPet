@@ -3,7 +3,7 @@ title: "Best Automatic Cat Feeders in 2026"
 description: "A practical comparison of five automatic cat feeders, with notes on portions, reliability, setup, and who each model suits."
 date: 2026-11-06
 updated: 2026-11-06
-category: automatic-cat-feeders
+category: "Automatic cat feeders"
 draft: false
 quickVerdict: "For most homes, the Petlibro Granary is a balanced place to start: it offers dependable scheduled meals and useful backup power without making setup feel like a hobby. Choose a simpler PetSafe model if you prefer fewer connected features, or a camera-equipped feeder if checking in remotely matters more than keeping the price down."
 products:

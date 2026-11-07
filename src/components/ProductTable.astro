@@ -5,8 +5,8 @@ interface Product {
   name: string;
   priceRange: string;
   features: string[];
-  rating: number;
-  url: string;
+  rating?: number;
+  url?: string;
   image?: string;
 }
 
@@ -15,6 +15,8 @@ interface Props {
 }
 
 const { products } = Astro.props;
+const showRating = products.some((product) => product.rating !== undefined);
+const showUrl = products.some((product) => product.url !== undefined);
 ---
 
 <div class="table-wrap" role="region" aria-label="Product comparison" tabindex="0">
@@ -25,8 +27,8 @@ const { products } = Astro.props;
         <th scope="col">Feeder</th>
         <th scope="col">Price range</th>
         <th scope="col">Key features</th>
-        <th scope="col">Rating</th>
-        <th scope="col"><span class="sr-only">Retailer link</span></th>
+        {showRating && <th scope="col">Rating</th>}
+        {showUrl && <th scope="col"><span class="sr-only">Retailer link</span></th>}
       </tr>
     </thead>
     <tbody>
@@ -38,8 +40,8 @@ const { products } = Astro.props;
           </th>
           <td>{product.priceRange}</td>
           <td>{product.features.join(", ")}</td>
-          <td><span aria-label={`${product.rating} out of 5`}>{product.rating.toFixed(1)}/5</span></td>
-          <td><AffiliateButton url={product.url} /></td>
+          {showRating && <td>{product.rating !== undefined && <span aria-label={`${product.rating} out of 5`}>{product.rating.toFixed(1)}/5</span>}</td>}
+          {showUrl && <td>{product.url && <AffiliateButton url={product.url} />}</td>}
         </tr>
       ))}
     </tbody>

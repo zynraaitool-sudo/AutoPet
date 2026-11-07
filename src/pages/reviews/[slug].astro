@@ -55,7 +55,7 @@ const reviewSchema = {
       <p class="dek">{description}</p>
       <div class="meta">
         <span>Published <time datetime={isoDate}>{date.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}</time></span>
-        <span>Updated <time datetime={isoUpdated}>{(updated ?? date).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}</time></span>
+        {updated && <span>Updated <time datetime={isoUpdated}>{updated.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}</time></span>}
         <span>{readingMinutes} min read</span>
       </div>
       <p class="disclosure">This article contains affiliate links. If you buy through them, AutoPet may earn a commission at no extra cost to you. <a href="/affiliate-disclosure/">How our links work</a>.</p>
@@ -91,7 +91,7 @@ const reviewSchema = {
           <FAQSection faqs={faqs} />
         </section>
       )}
-      <p class="last-reviewed">Product details checked on <time datetime={isoUpdated}>{(updated ?? date).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}</time>. Prices and availability can change.</p>
+      {updated && <p class="last-reviewed">Product details checked on <time datetime={isoUpdated}>{updated.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}</time>. Prices and availability can change.</p>}
     </div>
   </article>
   <script type="application/ld+json" set:html={JSON.stringify(articleSchema)}></script>

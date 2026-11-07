@@ -20,15 +20,19 @@ const faqSchema = {
 };
 ---
 
-<div class="faqs">
-  {faqs.map((faq) => (
-    <details>
-      <summary>{faq.question}</summary>
-      <p>{faq.answer}</p>
-    </details>
-  ))}
-</div>
-<script type="application/ld+json" set:html={JSON.stringify(faqSchema)}></script>
+{faqs.length > 0 && (
+  <>
+    <div class="faqs">
+      {faqs.map((faq) => (
+        <details>
+          <summary>{faq.question}</summary>
+          <p>{faq.answer}</p>
+        </details>
+      ))}
+    </div>
+    <script type="application/ld+json" set:html={JSON.stringify(faqSchema)}></script>
+  </>
+)}
 
 <style>
   .faqs { border-top: 1px solid var(--line); }
