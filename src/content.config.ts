@@ -18,6 +18,8 @@ const reviews = defineCollection({
     imageAlt: z.preprocess(emptyToUndefined, z.string().optional()),
     draft: z.boolean().default(true),
     quickVerdict: z.preprocess(emptyToUndefined, z.string().default("")),
+    comparisonTitle: z.preprocess(emptyToUndefined, z.string().default("At a glance")),
+    productLabel: z.preprocess(emptyToUndefined, z.string().default("Product")),
     products: z.preprocess(
       emptyToArray,
       z.array(
@@ -29,6 +31,7 @@ const reviews = defineCollection({
             emptyToUndefined,
             z.coerce.number().min(0).max(5).optional(),
           ),
+          ratingNote: z.preprocess(emptyToUndefined, z.string().optional()),
           url: z.preprocess(emptyToUndefined, z.string().url().optional()),
           image: z.preprocess(emptyToUndefined, z.string().optional()),
         }),

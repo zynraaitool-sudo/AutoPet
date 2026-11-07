@@ -12,7 +12,7 @@ export async function getStaticPaths() {
 
 const { review } = Astro.props;
 const { Content } = await render(review);
-const { title, description, date, updated, category, image, imageAlt, quickVerdict, products, pros, cons, faqs } = review.data;
+const { title, description, date, updated, category, image, imageAlt, quickVerdict, comparisonTitle, productLabel, products, pros, cons, faqs } = review.data;
 const categoryLabels: Record<string, string> = {
   "automatic-cat-feeders": "Automatic cat feeders",
   "pet-water-fountains": "Pet water fountains",
@@ -72,7 +72,7 @@ const reviewSchema = {
       {products.length > 0 && (
         <section aria-labelledby="comparison-heading">
           <h2 id="comparison-heading">Compare our top picks</h2>
-          <ProductTable products={products} />
+          <ProductTable products={products} comparisonTitle={comparisonTitle} productLabel={productLabel} />
         </section>
       )}
 

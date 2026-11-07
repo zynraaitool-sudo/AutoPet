@@ -6,28 +6,37 @@ interface Product {
   priceRange: string;
   features: string[];
   rating?: number;
+  ratingNote?: string;
   url?: string;
   image?: string;
 }
 
 interface Props {
   products: Product[];
+  comparisonTitle?: string;
+  productLabel?: string;
 }
 
-const { products } = Astro.props;
-const showRating = products.some((product) => product.rating !== undefined);
+const {
+  products,
+  comparisonTitle = "At a glance",
+  productLabel = "Product",
+} = Astro.props;
+const showRating = products.some(
+  (product) => product.rating !== undefined || product.ratingNote !== undefined,
+);
 const showUrl = products.some((product) => product.url !== undefined);
 ---
 
 <div class="table-wrap" role="region" aria-label="Product comparison" tabindex="0">
   <table>
-    <caption>Automatic cat feeder comparison</caption>
+    <caption>{comparisonTitle}</caption>
     <thead>
       <tr>
-        <th scope="col">Feeder</th>
+        <th scope="col">{productLabel}</th>
         <th scope="col">Price range</th>
         <th scope="col">Key features</th>
-        {showRating && <th scope="col">Rating</th>}
+        {showRating && <th scope="col">Buyer rating</th>}
         {showUrl && <th scope="col"><span class="sr-only">Retailer link</span></th>}
       </tr>
     </thead>
@@ -40,7 +49,12 @@ const showUrl = products.some((product) => product.url !== undefined);
           </th>
           <td>{product.priceRange}</td>
           <td>{product.features.join(", ")}</td>
-          {showRating && <td>{product.rating !== undefined && <span aria-label={`${product.rating} out of 5`}>{product.rating.toFixed(1)}/5</span>}</td>}
+          {showRating && (
+            <td>
+              {product.rating !== undefined && <span aria-label={`${product.rating} out of 5`}>{product.rating.toFixed(1)}/5</span>}
+              {product.ratingNote && <small class="rating-note">{product.ratingNote}</small>}
+            </td>
+          )}
           {showUrl && <td>{product.url && <AffiliateButton url={product.url} />}</td>}
         </tr>
       ))}
@@ -73,6 +87,7 @@ const showUrl = products.some((product) => product.url !== undefined);
   tbody th { min-width: 160px; }
   .product-image { display: block; width: 120px; height: 90px; margin-bottom: 0.6rem; object-fit: contain; }
   td { color: var(--muted-ink); }
+  .rating-note { display: block; margin-top: 0.25rem; }
   .sr-only {
     position: absolute;
     width: 1px;

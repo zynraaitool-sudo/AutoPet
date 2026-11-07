@@ -57,6 +57,16 @@ collections:
         name: quickVerdict
         widget: text
         required: false
+      - label: Comparison title
+        name: comparisonTitle
+        widget: string
+        required: false
+        hint: Optional comparison table caption; defaults to "At a glance".
+      - label: Product column label
+        name: productLabel
+        widget: string
+        required: false
+        hint: Optional label for the first comparison column; defaults to "Product".
       - label: Products
         name: products
         widget: list
@@ -87,6 +97,12 @@ collections:
             min: 0
             max: 5
             step: 0.1
+            required: false
+          - label: Rating note
+            name: ratingNote
+            widget: string
+            required: false
+            hint: Optional source or rating-count note shown below the buyer rating.
           - label: URL
             name: url
             widget: string
