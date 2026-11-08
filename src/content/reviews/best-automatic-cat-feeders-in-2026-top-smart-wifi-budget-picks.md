@@ -85,7 +85,7 @@ faqs:
       WiFi-enabled models, camera feeders, dual-bowl dispensers, and
       programmable feeders. Compare seller ratings, customer reviews, product
       specifications, and shipping costs before ordering.
-draft: false
+draft: true
 ---
 # Best Automatic Cat Feeders in 2026: Top Smart, WiFi & Budget Picks
 

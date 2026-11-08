@@ -72,9 +72,13 @@ const categoryTitle = (category: string) =>
         ))}
       </div>
     ) : (
-      <div class="empty-state">
-        <p class="empty-title">Our product shortlist is taking shape.</p>
-        <p>As we publish reviews with verified product links, considered picks will appear here.</p>
+      <div class="empty-state featured-empty">
+        <div>
+          <p class="empty-kicker">Thoughtful picks, never guesswork</p>
+          <p class="empty-title">Good recommendations take research.</p>
+          <p>Our shortlist will appear as reviews are verified and published.</p>
+        </div>
+        <a class="empty-action" href="#latest-heading">Browse reviews <span aria-hidden="true">→</span></a>
       </div>
     )}
   </section>
@@ -117,14 +121,16 @@ const categoryTitle = (category: string) =>
         })}
       </div>
     ) : (
-      <div class="empty-state">
-        <p class="empty-title">Our first reviews are in the works.</p>
-        <p>Check back soon for practical, carefully researched guides.</p>
+      <div class="empty-state reviews-empty">
+        <p class="empty-kicker">Research before recommendations</p>
+        <p class="empty-title">No published reviews just yet.</p>
+        <p>We’re verifying every guide before it goes live.</p>
+        <a class="empty-action" href="#browse-categories">Browse categories <span aria-hidden="true">→</span></a>
       </div>
     )}
   </section>
 
-  <section class="categories-section" aria-labelledby="categories-heading">
+  <section class="categories-section" id="browse-categories" aria-labelledby="categories-heading">
     <div class="section-shell">
       <p class="eyebrow">Browse by need</p>
       <h2 id="categories-heading">Thoughtful tech for everyday pet care</h2>
@@ -159,7 +165,7 @@ const categoryTitle = (category: string) =>
 </SiteLayout>
 
 <style>
-  .hero { display: grid; align-items: center; gap: clamp(2rem, 5vw, 4.5rem); width: min(1160px, calc(100% - 2.5rem)); margin: auto; padding-block: clamp(3.5rem, 8vw, 7rem); }
+  .hero { display: grid; align-items: center; gap: clamp(2rem, 5vw, 4.5rem); width: 100%; max-width: var(--site-content-width); padding: clamp(3.5rem, 8vw, 7rem) var(--site-content-gutter); margin-inline: auto; }
   .hero-copy { max-width: 630px; }
   .eyebrow { margin: 0 0 0.7rem; color: var(--teal); font-size: 0.82rem; font-weight: 750; letter-spacing: 0.1em; text-transform: uppercase; }
   h1 { max-width: 12ch; margin: 0; font-size: clamp(2.8rem, 7vw, 5.25rem); }
@@ -170,13 +176,13 @@ const categoryTitle = (category: string) =>
   .hero-art { position: relative; max-width: 560px; margin-inline: auto; }
   .hero-art img { display: block; width: 100%; height: auto; }
   .art-note { position: absolute; right: 0; bottom: 1rem; padding: 0.55rem 0.8rem; background: var(--sun); color: var(--ink); font-size: 0.85rem; font-weight: 700; }
-  .section-shell { width: min(1160px, calc(100% - 2.5rem)); margin-inline: auto; }
-  .featured-section, .reviews-section { padding-block: clamp(3.5rem, 7vw, 5.5rem); }
+  .section-shell { width: 100%; max-width: var(--site-content-width); padding-inline: var(--site-content-gutter); margin-inline: auto; }
+  .featured-section, .reviews-section { padding-block: clamp(3.75rem, 7vw, 5.75rem); }
   .featured-section { border-top: 1px solid var(--line); }
-  .section-heading { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: end; gap: 1rem; margin-bottom: 1.65rem; }
+  .section-heading { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: end; gap: 1rem; margin-bottom: clamp(1.5rem, 3vw, 2rem); }
   .section-heading h2, .categories-section h2, .trust-section h2 { margin: 0; }
   .section-note { margin: 0 0 0.25rem; color: var(--muted-ink); font-size: 0.94rem; }
-  .product-grid { display: grid; grid-template-columns: 1fr; gap: 1.2rem; }
+  .product-grid { display: grid; grid-template-columns: 1fr; gap: 1.5rem; }
   .product-card { overflow: hidden; border: 1px solid var(--line); border-radius: 0.35rem; background: var(--paper); box-shadow: 0 8px 26px rgb(23 53 55 / 6%); }
   .product-image, .product-image-placeholder { display: grid; width: 100%; height: 230px; object-fit: contain; background: var(--mist); }
   .product-image-placeholder { place-items: center; color: var(--teal); font-family: var(--heading-font); font-size: 1.3rem; font-weight: 800; }
@@ -185,21 +191,26 @@ const categoryTitle = (category: string) =>
   .product-card h3 { margin: 0.5rem 0 0.35rem; font-size: 1.35rem; }
   .product-description { margin: 0 0 1.1rem; color: var(--muted-ink); font-size: 0.94rem; }
   .text-link { margin-top: auto; color: var(--teal-deep); font-weight: 750; text-underline-offset: 4px; }
-  .empty-state { padding: clamp(1.5rem, 4vw, 2.5rem); border: 1px solid var(--line); border-left: 5px solid var(--sun-deep); border-radius: 0.2rem; background: var(--mist); color: var(--muted-ink); }
+  .empty-state { padding: clamp(1.5rem, 4vw, 2.5rem); border: 1px solid var(--line); border-left: 4px solid var(--sun-deep); border-radius: 0.45rem; background: linear-gradient(110deg, var(--mist), var(--paper)); box-shadow: 0 10px 28px rgb(23 53 55 / 5%); color: var(--muted-ink); }
   .empty-state p { margin: 0; }
-  .empty-state .empty-title { margin-bottom: 0.35rem; color: var(--ink); font-family: var(--heading-font); font-size: 1.25rem; font-weight: 750; }
-  .review-grid { display: grid; grid-template-columns: 1fr; gap: 1.25rem; }
-  .review-card { overflow: hidden; display: flex; flex-direction: column; border: 1px solid var(--line); border-radius: 0.35rem; background: var(--paper); }
-  .review-image-link { display: block; overflow: hidden; height: 230px; background: var(--mist); }
+  .empty-kicker { margin-bottom: 0.45rem !important; color: var(--teal); font-size: 0.76rem; font-weight: 750; letter-spacing: 0.09em; text-transform: uppercase; }
+  .empty-state .empty-title { margin-bottom: 0.35rem; color: var(--ink); font-family: var(--heading-font); font-size: clamp(1.2rem, 2vw, 1.45rem); font-weight: 750; line-height: 1.3; }
+  .featured-empty { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 1.25rem 2rem; }
+  .empty-action { display: inline-flex; align-items: center; gap: 0.55rem; flex-shrink: 0; color: var(--teal-deep); font-weight: 750; text-underline-offset: 4px; }
+  .empty-action:hover { color: var(--teal); }
+  .review-grid { display: grid; grid-template-columns: 1fr; gap: 1.5rem; }
+  .review-card { overflow: hidden; display: flex; flex-direction: column; border: 1px solid var(--line); border-radius: 0.5rem; background: var(--paper); box-shadow: 0 10px 28px rgb(23 53 55 / 5%); transition: transform 160ms ease, box-shadow 160ms ease, border-color 160ms ease; }
+  .review-card:hover { transform: translateY(-2px); border-color: #9bb9af; box-shadow: 0 16px 34px rgb(23 53 55 / 10%); }
+  .review-image-link { display: block; overflow: hidden; height: auto; aspect-ratio: 16 / 10; background: var(--mist); }
   .review-image-link img { display: block; width: 100%; height: 100%; object-fit: cover; transition: transform 180ms ease; }
   .review-card:hover .review-image-link img { transform: scale(1.025); }
-  .review-content { display: flex; flex: 1; flex-direction: column; align-items: flex-start; padding: 1.3rem; }
+  .review-content { display: flex; flex: 1; flex-direction: column; align-items: flex-start; padding: clamp(1.25rem, 2vw, 1.6rem); }
   .review-meta { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 0.4rem 0.8rem; width: 100%; }
   .review-meta time { color: var(--muted-ink); font-size: 0.82rem; }
-  .review-card h3 { margin: 0.8rem 0 0.5rem; font-size: 1.35rem; }
+  .review-card h3 { margin: 0.9rem 0 0.65rem; font-size: clamp(1.35rem, 1.8vw, 1.55rem); line-height: 1.25; }
   .review-card h3 a { color: var(--ink); text-decoration: none; text-decoration-color: var(--teal); text-underline-offset: 4px; }
   .review-card h3 a:hover { color: var(--teal); text-decoration: underline; }
-  .review-description { margin: 0 0 1.25rem; color: var(--muted-ink); }
+  .review-description { margin: 0 0 1.5rem; color: var(--muted-ink); line-height: 1.7; }
   .categories-section { padding-block: clamp(3rem, 7vw, 5rem); background: var(--mist); }
   .category-grid { display: grid; grid-template-columns: 1fr; gap: 0.8rem; margin-top: 1.6rem; }
   .category-card { display: grid; grid-template-columns: 2.7rem 1fr auto; align-items: center; gap: 1rem; min-height: 100px; padding: 1.15rem; border: 1px solid var(--line); border-radius: 0.3rem; background: var(--paper); color: var(--ink); text-decoration: none; transition: border-color 140ms ease, transform 140ms ease; }

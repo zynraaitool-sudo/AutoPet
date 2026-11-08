@@ -127,6 +127,8 @@ const absoluteImage = new URL(image, Astro.site ?? Astro.url).href;
     --paper: #fffefa;
     --mist: #e8f1ed;
     --line: #c9d8d2;
+    --site-content-width: 1200px;
+    --site-content-gutter: clamp(1rem, 3vw, 1.5rem);
     --heading-font: "Trebuchet MS", "Avenir Next", sans-serif;
     --body-font: "Segoe UI", "Helvetica Neue", sans-serif;
     font-family: var(--body-font);
@@ -147,7 +149,7 @@ const absoluteImage = new URL(image, Astro.site ?? Astro.url).href;
   .skip-link { position: absolute; top: 0.5rem; left: 0.5rem; z-index: 20; padding: 0.7rem 1rem; background: var(--paper); transform: translateY(-150%); }
   .skip-link:focus { transform: translateY(0); }
   .site-header { position: relative; z-index: 5; border-bottom: 1px solid var(--line); background: var(--paper); }
-  .header-inner, .footer-inner { width: min(1160px, calc(100% - 2.5rem)); margin-inline: auto; }
+  .header-inner, .footer-inner { width: 100%; max-width: var(--site-content-width); padding-inline: var(--site-content-gutter); margin-inline: auto; }
   .header-inner { min-height: 5rem; display: flex; justify-content: space-between; align-items: center; gap: 1.5rem; }
   .brand { display: inline-flex; align-items: center; gap: 0.6rem; color: var(--ink); font-family: var(--heading-font); font-size: 1.4rem; font-weight: 800; text-decoration: none; }
   .brand-mark { display: grid; place-items: center; width: 2rem; height: 2rem; border-radius: 50% 50% 50% 0; transform: rotate(-45deg); background: var(--sun); color: var(--ink); }
