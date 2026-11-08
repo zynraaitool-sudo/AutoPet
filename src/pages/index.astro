@@ -4,13 +4,21 @@ import SiteLayout from "../layouts/SiteLayout.astro";
 
 const reviews = (await getCollection("reviews", ({ data }) => !data.draft))
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
-const feederReview = reviews.find((review) => review.id === "best-automatic-cat-feeders-2026");
-const bestPicks = feederReview?.data.products.slice(0, 3) ?? [];
+const latestReviews = reviews.slice(0, 3);
+const featuredProducts = reviews.flatMap((review) =>
+  review.data.products.flatMap((product) => {
+    if (!product.url || /REPLACE-WITH-AFFILIATE-LINK/i.test(product.url)) return [];
+    return [{ ...product, url: product.url, review }];
+  }),
+);
 const categories = [
-  { name: "Automatic cat feeders", slug: "automatic-cat-feeders", note: "Measured meals, easier routines" },
-  { name: "Pet water fountains", slug: "pet-water-fountains", note: "Hydration gear, honestly compared" },
-  { name: "Smart litter boxes", slug: "smart-litter-boxes", note: "What automation can—and can't—do" },
+  { name: "Automatic Cat Feeders", slug: "automatic-cat-feeders", note: "Thoughtful feeding routines, made simpler" },
+  { name: "Pet Water Fountains", slug: "pet-water-fountains", note: "A clearer look at everyday hydration" },
+  { name: "Smart Litter Boxes", slug: "smart-litter-boxes", note: "A practical guide to more convenient cleanup" },
 ];
+
+const categoryTitle = (category: string) =>
+  category.replaceAll("-", " ").replace(/\b\w/g, (letter) => letter.toUpperCase());
 ---
 
 <SiteLayout
@@ -20,9 +28,9 @@ const categories = [
   <section class="hero">
     <div class="hero-copy">
       <p class="eyebrow">Practical gear. Happier routines.</p>
-      <h1>Better pet care, <span>one smart choice</span> at a time.</h1>
-      <p class="intro">Honest, useful reviews for pet people who want the convenience without the guesswork. We look at what works in a real home—and what you can skip.</p>
-      <a class="hero-link" href="/reviews/best-automatic-cat-feeders-2026/">Explore our feeder picks <span aria-hidden="true">→</span></a>
+      <h1>Better Pet Care Starts With <span>Smarter Choices.</span></h1>
+      <p class="intro">Honest reviews and practical guides to help you choose better technology for your pets.</p>
+      <a class="button-link" href="#featured-products">Explore Our Top Picks <span aria-hidden="true">→</span></a>
     </div>
     <div class="hero-art">
       <span class="art-note">Made for real-life routines</span>
@@ -30,45 +38,89 @@ const categories = [
     </div>
   </section>
 
-  <section class="section-shell best-picks" aria-labelledby="best-picks-heading">
+  <section class="section-shell featured-section" id="featured-products" aria-labelledby="featured-heading">
     <div class="section-heading">
-      <div><p class="eyebrow">A useful place to start</p><h2 id="best-picks-heading">Best picks for busy cat people</h2></div>
-      <a href="/reviews/best-automatic-cat-feeders-2026/">See the full comparison <span aria-hidden="true">→</span></a>
+      <div>
+        <p class="eyebrow">Considered recommendations</p>
+        <h2 id="featured-heading">Featured products</h2>
+      </div>
+      <p class="section-note">Selected from our published reviews</p>
     </div>
-    {bestPicks.length > 0 ? (
-      <div class="pick-list">
-        {bestPicks.map((product, index) => (
-          <article class="pick-band">
-            <span class="pick-number">0{index + 1}</span>
-            <div>
+    {featuredProducts.length > 0 ? (
+      <div class="product-grid">
+        {featuredProducts.map(({ product, review }) => (
+          <article class="product-card">
+            {product.image || review.data.image ? (
+              <img
+                class="product-image"
+                src={product.image ?? review.data.image}
+                alt={product.image ? product.name : (review.data.imageAlt ?? review.data.title)}
+                loading="lazy"
+              />
+            ) : (
+              <div class="product-image-placeholder" aria-hidden="true">AutoPet</div>
+            )}
+            <div class="product-content">
+              <p class="card-category">{categoryTitle(review.data.category)}</p>
               <h3>{product.name}</h3>
-              <p>{product.priceRange} · {product.features.join(" · ")}</p>
+              <p class="product-description">{product.features.join(" · ")}</p>
+              <a class="text-link" href={product.url} rel="sponsored nofollow noopener">
+                Check current listing <span aria-hidden="true">↗</span>
+              </a>
             </div>
-            <a href={`/reviews/${feederReview?.id}/`}>See the comparison <span aria-hidden="true">↗</span></a>
           </article>
         ))}
       </div>
     ) : (
-      <p class="empty-state">Our recommended products will appear here soon.</p>
+      <div class="empty-state">
+        <p class="empty-title">Our product shortlist is taking shape.</p>
+        <p>As we publish reviews with verified product links, considered picks will appear here.</p>
+      </div>
     )}
   </section>
 
   <section class="section-shell reviews-section" aria-labelledby="latest-heading">
-    <div class="section-heading"><div><p class="eyebrow">Research without the noise</p><h2 id="latest-heading">Latest reviews</h2></div></div>
-    {reviews.length > 0 ? (
+    <div class="section-heading">
+      <div>
+        <p class="eyebrow">Research without the noise</p>
+        <h2 id="latest-heading">Latest reviews</h2>
+      </div>
+    </div>
+    {latestReviews.length > 0 ? (
       <div class="review-grid">
-        {reviews.map((review) => (
-          <article class="review-card">
-            <p class="card-category">{review.data.category}</p>
-            <h3><a href={`/reviews/${review.id}/`}>{review.data.title}</a></h3>
-            <p>{review.data.description}</p>
-            <time datetime={review.data.date.toISOString()}>{review.data.date.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}</time>
-            <a class="text-link" href={`/reviews/${review.id}/`}>Read the review <span aria-hidden="true">→</span></a>
-          </article>
-        ))}
+        {latestReviews.map((review) => {
+          const productImage = review.data.products.find((product) => product.image)?.image;
+          const image = review.data.image ?? productImage ?? "/images/feeder-illustration.svg";
+          const imageAlt = review.data.image
+            ? (review.data.imageAlt ?? review.data.title)
+            : productImage
+              ? review.data.products.find((product) => product.image)?.name ?? review.data.title
+              : "Illustration of a cat beside an automatic feeder";
+          return (
+            <article class="review-card">
+              <a class="review-image-link" href={`/reviews/${review.id}/`} tabindex="-1" aria-hidden="true">
+                <img src={image} alt={imageAlt} loading="lazy" />
+              </a>
+              <div class="review-content">
+                <div class="review-meta">
+                  <p class="card-category">{categoryTitle(review.data.category)}</p>
+                  <time datetime={review.data.date.toISOString()}>
+                    {review.data.date.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}
+                  </time>
+                </div>
+                <h3><a href={`/reviews/${review.id}/`}>{review.data.title}</a></h3>
+                <p class="review-description">{review.data.description}</p>
+                <a class="text-link" href={`/reviews/${review.id}/`}>Read the review <span aria-hidden="true">→</span></a>
+              </div>
+            </article>
+          );
+        })}
       </div>
     ) : (
-      <p class="empty-state">We're working on our first reviews now. Please check back soon.</p>
+      <div class="empty-state">
+        <p class="empty-title">Our first reviews are in the works.</p>
+        <p>Check back soon for practical, carefully researched guides.</p>
+      </div>
     )}
   </section>
 
@@ -78,52 +130,103 @@ const categories = [
       <h2 id="categories-heading">Thoughtful tech for everyday pet care</h2>
       <div class="category-grid">
         {categories.map((category, index) => (
-          <a class="category-link" href={`/category/${category.slug}/`}>
-            <span class="category-number">0{index + 1}</span><span><strong>{category.name}</strong><small>{category.note}</small></span><span aria-hidden="true">↗</span>
+          <a class="category-card" href={`/category/${category.slug}/`}>
+            <span class="category-number">0{index + 1}</span>
+            <span class="category-copy">
+              <strong>{category.name}</strong>
+              <small>{category.note}</small>
+            </span>
+            <span class="category-arrow" aria-hidden="true">↗</span>
           </a>
         ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="trust-section" aria-labelledby="trust-heading">
+    <div class="section-shell trust-inner">
+      <div>
+        <p class="eyebrow">Our promise to you</p>
+        <h2 id="trust-heading">Independent research.<br />Honest comparisons.<br />Practical recommendations.</h2>
+      </div>
+      <div class="trust-links">
+        <p>Clear information helps you find the right fit for your home, your pet, and your routine.</p>
+        <a href="/about/">How we work <span aria-hidden="true">→</span></a>
+        <a href="/affiliate-disclosure/">Our affiliate disclosure <span aria-hidden="true">→</span></a>
       </div>
     </div>
   </section>
 </SiteLayout>
 
 <style>
-  .hero { display: grid; align-items: center; gap: 1.5rem; width: min(1120px, calc(100% - 2rem)); margin: auto; padding-block: clamp(3rem, 8vw, 6.5rem); }
-  .hero-copy { max-width: 620px; }
-  .eyebrow { margin: 0 0 0.65rem; color: var(--teal); font-size: 0.95rem; font-weight: 750; letter-spacing: 0.035em; }
-  h1 { max-width: 11ch; margin: 0; }
+  .hero { display: grid; align-items: center; gap: clamp(2rem, 5vw, 4.5rem); width: min(1160px, calc(100% - 2.5rem)); margin: auto; padding-block: clamp(3.5rem, 8vw, 7rem); }
+  .hero-copy { max-width: 630px; }
+  .eyebrow { margin: 0 0 0.7rem; color: var(--teal); font-size: 0.82rem; font-weight: 750; letter-spacing: 0.1em; text-transform: uppercase; }
+  h1 { max-width: 12ch; margin: 0; font-size: clamp(2.8rem, 7vw, 5.25rem); }
   h1 span { color: var(--teal); }
-  .intro { margin-block: 1.2rem 1.5rem; color: var(--muted-ink); font-size: 1.1rem; }
-  .hero-link, .text-link { font-weight: 750; text-decoration-thickness: 2px; text-underline-offset: 4px; }
-  .hero-art { position: relative; }
+  .intro { max-width: 52ch; margin-block: 1.35rem 1.8rem; color: var(--muted-ink); font-size: clamp(1.05rem, 2vw, 1.2rem); line-height: 1.7; }
+  .button-link { display: inline-flex; align-items: center; gap: 0.7rem; min-height: 3.2rem; padding: 0.75rem 1.2rem; border: 2px solid var(--teal-deep); border-radius: 0.25rem; background: var(--teal-deep); color: var(--paper); font-weight: 750; text-decoration: none; transition: background-color 140ms ease, color 140ms ease; }
+  .button-link:hover { background: transparent; color: var(--teal-deep); }
+  .hero-art { position: relative; max-width: 560px; margin-inline: auto; }
   .hero-art img { display: block; width: 100%; height: auto; }
-  .art-note { position: absolute; right: 0; bottom: 1rem; z-index: 1; padding: 0.55rem 0.8rem; background: var(--sun); color: var(--ink); font-size: 0.85rem; font-weight: 700; }
-  .section-shell { width: min(1120px, calc(100% - 2rem)); margin-inline: auto; }
-  .best-picks { padding-block: 2.7rem; border-top: 1px solid var(--line); }
-  .section-heading { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: end; gap: 1rem; margin-bottom: 1.4rem; }
-  .section-heading h2, .categories-section h2 { margin: 0; }
-  .section-heading > a { margin-bottom: 0.4rem; }
-  .pick-band { display: grid; grid-template-columns: auto 1fr; gap: 1rem; align-items: start; padding: 1.3rem 0; border-bottom: 1px solid var(--line); }
-  .pick-band:first-child { border-top: 1px solid var(--line); }
-  .pick-number { color: var(--sun-deep); font-family: var(--heading-font); font-size: 2.2rem; font-weight: 800; }
-  .pick-band h3 { margin: 0; font-size: 1.3rem; }
-  .pick-band p { margin: 0.3rem 0 0; color: var(--muted-ink); }
-  .pick-band > a { grid-column: 2; font-weight: 700; }
-  .reviews-section { padding-block: 2.8rem; }
-  .review-grid { display: grid; grid-template-columns: 1fr; gap: 1rem; }
-  .review-card { display: flex; flex-direction: column; min-height: 250px; padding: 1.35rem; background: var(--mist); border-bottom: 4px solid var(--teal); }
-  .card-category { margin: 0; color: var(--teal); font-size: 0.86rem; font-weight: 750; }
-  .review-card h3 { margin: 0.75rem 0 0.35rem; font-size: 1.45rem; }
-  .review-card h3 a { color: var(--ink); text-decoration: none; }
-  .review-card > p:not(.card-category) { margin-top: 0; color: var(--muted-ink); }
-  .review-card time { margin-top: 0.4rem; color: var(--muted-ink); font-size: 0.9rem; }
-  .review-card .text-link { margin-top: auto; }
-  .empty-state { margin: 0; padding: 1.25rem; border-left: 4px solid var(--sun-deep); background: var(--mist); color: var(--muted-ink); }
-  .categories-section { padding-block: 3.2rem; background: var(--mist); }
-  .category-grid { margin-top: 1.5rem; border-top: 1px solid var(--line); }
-  .category-link { display: grid; grid-template-columns: 2.5rem 1fr auto; align-items: center; gap: 1rem; padding: 1rem 0; border-bottom: 1px solid var(--line); color: var(--ink); text-decoration: none; }
-  .category-number { color: var(--teal); font-family: var(--heading-font); font-weight: 800; }
-  .category-link strong, .category-link small { display: block; }
-  .category-link small { color: var(--muted-ink); }
-  @media (min-width: 760px) { .hero { grid-template-columns: 1.05fr 0.95fr; } .review-grid { grid-template-columns: repeat(3, 1fr); } .pick-band { grid-template-columns: 3rem 1fr auto; align-items: center; } .pick-band > a { grid-column: auto; } }
+  .art-note { position: absolute; right: 0; bottom: 1rem; padding: 0.55rem 0.8rem; background: var(--sun); color: var(--ink); font-size: 0.85rem; font-weight: 700; }
+  .section-shell { width: min(1160px, calc(100% - 2.5rem)); margin-inline: auto; }
+  .featured-section, .reviews-section { padding-block: clamp(3.5rem, 7vw, 5.5rem); }
+  .featured-section { border-top: 1px solid var(--line); }
+  .section-heading { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: end; gap: 1rem; margin-bottom: 1.65rem; }
+  .section-heading h2, .categories-section h2, .trust-section h2 { margin: 0; }
+  .section-note { margin: 0 0 0.25rem; color: var(--muted-ink); font-size: 0.94rem; }
+  .product-grid { display: grid; grid-template-columns: 1fr; gap: 1.2rem; }
+  .product-card { overflow: hidden; border: 1px solid var(--line); border-radius: 0.35rem; background: var(--paper); box-shadow: 0 8px 26px rgb(23 53 55 / 6%); }
+  .product-image, .product-image-placeholder { display: grid; width: 100%; height: 230px; object-fit: contain; background: var(--mist); }
+  .product-image-placeholder { place-items: center; color: var(--teal); font-family: var(--heading-font); font-size: 1.3rem; font-weight: 800; }
+  .product-content { display: flex; min-height: 225px; flex-direction: column; align-items: flex-start; padding: 1.35rem; }
+  .card-category { margin: 0; color: var(--teal); font-size: 0.78rem; font-weight: 750; letter-spacing: 0.06em; text-transform: uppercase; }
+  .product-card h3 { margin: 0.5rem 0 0.35rem; font-size: 1.35rem; }
+  .product-description { margin: 0 0 1.1rem; color: var(--muted-ink); font-size: 0.94rem; }
+  .text-link { margin-top: auto; color: var(--teal-deep); font-weight: 750; text-underline-offset: 4px; }
+  .empty-state { padding: clamp(1.5rem, 4vw, 2.5rem); border: 1px solid var(--line); border-left: 5px solid var(--sun-deep); border-radius: 0.2rem; background: var(--mist); color: var(--muted-ink); }
+  .empty-state p { margin: 0; }
+  .empty-state .empty-title { margin-bottom: 0.35rem; color: var(--ink); font-family: var(--heading-font); font-size: 1.25rem; font-weight: 750; }
+  .review-grid { display: grid; grid-template-columns: 1fr; gap: 1.25rem; }
+  .review-card { overflow: hidden; display: flex; flex-direction: column; border: 1px solid var(--line); border-radius: 0.35rem; background: var(--paper); }
+  .review-image-link { display: block; overflow: hidden; height: 230px; background: var(--mist); }
+  .review-image-link img { display: block; width: 100%; height: 100%; object-fit: cover; transition: transform 180ms ease; }
+  .review-card:hover .review-image-link img { transform: scale(1.025); }
+  .review-content { display: flex; flex: 1; flex-direction: column; align-items: flex-start; padding: 1.3rem; }
+  .review-meta { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 0.4rem 0.8rem; width: 100%; }
+  .review-meta time { color: var(--muted-ink); font-size: 0.82rem; }
+  .review-card h3 { margin: 0.8rem 0 0.5rem; font-size: 1.35rem; }
+  .review-card h3 a { color: var(--ink); text-decoration: none; text-decoration-color: var(--teal); text-underline-offset: 4px; }
+  .review-card h3 a:hover { color: var(--teal); text-decoration: underline; }
+  .review-description { margin: 0 0 1.25rem; color: var(--muted-ink); }
+  .categories-section { padding-block: clamp(3rem, 7vw, 5rem); background: var(--mist); }
+  .category-grid { display: grid; grid-template-columns: 1fr; gap: 0.8rem; margin-top: 1.6rem; }
+  .category-card { display: grid; grid-template-columns: 2.7rem 1fr auto; align-items: center; gap: 1rem; min-height: 100px; padding: 1.15rem; border: 1px solid var(--line); border-radius: 0.3rem; background: var(--paper); color: var(--ink); text-decoration: none; transition: border-color 140ms ease, transform 140ms ease; }
+  .category-card:hover { transform: translateY(-2px); border-color: var(--teal); }
+  .category-number { color: var(--teal); font-family: var(--heading-font); font-size: 1.45rem; font-weight: 800; }
+  .category-copy strong, .category-copy small { display: block; }
+  .category-copy strong { font-family: var(--heading-font); font-size: 1.1rem; }
+  .category-copy small { margin-top: 0.15rem; color: var(--muted-ink); }
+  .category-arrow { color: var(--teal); font-size: 1.2rem; }
+  .trust-section { padding-block: clamp(3rem, 7vw, 5rem); }
+  .trust-inner { display: grid; gap: 2rem; align-items: center; }
+  .trust-section h2 { font-size: clamp(1.8rem, 4vw, 2.7rem); line-height: 1.28; }
+  .trust-links { display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem; }
+  .trust-links p { margin: 0 0 0.35rem; color: var(--muted-ink); }
+  .trust-links a { font-weight: 750; text-underline-offset: 4px; }
+  @media (min-width: 700px) {
+    .hero { grid-template-columns: 1.05fr 0.95fr; }
+    .product-grid, .review-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .category-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    .category-card { grid-template-columns: 2rem 1fr auto; gap: 0.7rem; padding: 1rem; }
+    .trust-inner { grid-template-columns: 1.2fr 0.8fr; }
+  }
+  @media (min-width: 1000px) {
+    .product-grid, .review-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    .category-card { grid-template-columns: 2.7rem 1fr auto; gap: 1rem; padding: 1.2rem; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after { scroll-behavior: auto !important; transition-duration: 0.01ms !important; }
+  }
 </style>
