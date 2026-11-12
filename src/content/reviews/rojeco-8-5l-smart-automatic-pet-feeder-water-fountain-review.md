@@ -5,6 +5,7 @@ description: A listing-based review of the ROJECO automatic pet feeder,
   features, and details to verify.
 date: 2026-11-09
 category: automatic-cat-feeders
+image: /images/sce41ee6f52364a1b807c1ad4c63e7a14p.avif
 quickVerdict: The listing describes 5L of food capacity and a 3.5L gravity water
   dispenser, adding up to 8.5L in combined advertised capacity—not 8.5L of food.
   It also lists Wi-Fi app control, an LCD display, feeding time settings, and
