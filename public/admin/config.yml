@@ -16,8 +16,17 @@ collections:
   - name: reviews
     label: Reviews
     label_singular: Review
+    description: Manage product reviews and find drafts using the collection filters.
     folder: src/content/reviews
     create: true
+    summary: "{{title}} | {{category}}"
+    view_filters:
+      - label: Drafts
+        field: draft
+        pattern: true
+      - label: Draft off
+        field: draft
+        pattern: false
     slug: "{{slug}}"
     extension: md
     format: frontmatter
