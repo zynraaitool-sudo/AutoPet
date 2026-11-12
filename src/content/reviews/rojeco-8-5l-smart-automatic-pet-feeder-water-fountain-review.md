@@ -1,56 +1,58 @@
 ---
-title: "ROJECO 8.5L Smart Automatic Pet Feeder with 3.5L Water Fountain Review"
-description: "A listing-based overview of the ROJECO 8.5L smart automatic pet feeder and 3.5L water fountain, including its stated features, promotional price snapshot, and details to verify before buying."
+title: "ROJECO 8.5L Automatic Pet Feeder Review: 5L Food + 3.5L Water"
+description: "A listing-based review of the ROJECO automatic pet feeder, clarifying its 5L food capacity, 3.5L gravity water dispenser, advertised features, and details to verify."
 date: 2026-11-09
 category: automatic-cat-feeders
 draft: true
-quickVerdict: "The listing combines an 8.5L food storage capacity with a 3.5L water fountain and names Wi-Fi app remote control and an LCD display. This is a listing-based overview, not a hands-on test; important operating and maintenance details still need verification."
+quickVerdict: "The listing describes 5L of food capacity and a 3.5L gravity water dispenser, adding up to 8.5L in combined advertised capacity—not 8.5L of food. It also lists Wi-Fi app control, an LCD display, feeding time settings, and removable food bowls and water bottle. The seller describes the water refill as siphon-based. This is a summary of listing claims, not hands-on testing or independent verification."
 productLabel: "Product"
 products:
-  - name: "ROJECO 8.5L Smart Automatic Pet Feeder with 3.5L Water Fountain"
-    priceRange: "$37.07 new-shopper promotional price; may change"
+  - name: "ROJECO Automatic Pet Feeder, 5L Food + 3.5L Water"
+    priceRange: "$42.38 new-shopper promotional price (undated listing snapshot; may change)"
     features:
-      - "8.5L food storage capacity"
-      - "3.5L water fountain"
-      - "Wi-Fi app remote control"
-      - "Plastic material"
+      - "5L food capacity + 3.5L gravity water dispenser (8.5L combined advertised capacity)"
+      - "Wi-Fi app control and feeding time settings"
+      - "100g minimum and 200g maximum output, as listed"
+      - "Plastic construction; removable food bowls and water bottle"
+      - "Charging power source; no battery included"
+      - "Listed for cats and small-to-medium dogs"
       - "LCD display"
     rating: 4.9
-    ratingNote: "Displayed as 4.9/5 from 150 reviews; listing snapshot that may change"
+    ratingNote: "4.9/5 from 149 reviews; undated listing snapshot that may change"
     url: https://s.click.aliexpress.com/e/_c4KBwK7Z
 pros:
-  - "The listing states both the food storage capacity (8.5L) and water fountain capacity (3.5L)."
-  - "Wi-Fi app remote control and an LCD display are among the stated features."
+  - "The listing separates the 5L food capacity from the 3.5L gravity water dispenser capacity."
+  - "The listing describes Wi-Fi app control, feeding time settings, and removable food bowls and water bottle."
 cons:
-  - "The supplied details do not confirm portion sizes, meal scheduling, or which controls are available in the app."
-  - "Power and battery backup, app compatibility, dimensions, cleaning requirements, and fountain maintenance details still need verification."
+  - "The listing gives minimum and maximum output weights, but does not establish portion accuracy or all feeding controls."
+  - "App and Wi-Fi requirements, charging details, included accessories, cleaning instructions, and water-system maintenance still need confirmation."
 faqs:
   - question: "What capacities does the listing show?"
-    answer: "It lists 8.5L of food storage and a 3.5L water fountain. These are listing specifications, not independently verified measurements."
+    answer: "It describes 5L of food capacity and a 3.5L gravity water dispenser. The 8.5L figure is their combined advertised capacity, not the food-container capacity."
   - question: "What features are stated in the listing?"
-    answer: "The supplied details identify Wi-Fi app remote control, plastic material, and an LCD display. They do not specify the app's full capabilities or other operating details."
+    answer: "The listing shows Wi-Fi app control, an LCD display, feeding time settings, 100g minimum and 200g maximum output, plastic construction, removable food bowls and water bottle, a charging power source, and no battery included. The seller describes automatic water refill using a siphon system. These are listing claims, not independently verified performance."
+  - question: "Can wet food be used in this feeder?"
+    answer: "The available product information does not confirm whether this feeder supports wet food or provides refrigeration. Do not use it for wet food unless the manufacturer confirms compatibility and provides safe handling instructions. The listing's “Wet & Dry Separation” wording does not establish safe wet-food storage."
   - question: "Are the displayed price, rating, and sales figures fixed?"
-    answer: "No. The $37.07 price is described as a new-shopper promotional price, and the 4.9/5 rating from 150 reviews and more than 800 sold are listing snapshots. Price, rating, and sales figures may change."
+    answer: "No. The $42.38 new-shopper promotional price, 4.9/5 rating from 149 reviews, and 800+ sold are from an undated listing snapshot. They may change and are not permanent product facts."
 ---
 
-# ROJECO 8.5L Smart Automatic Pet Feeder with 3.5L Water Fountain
-
-This article summarizes the supplied product-listing details; it is not based on personal testing. The listing describes a ROJECO automatic pet feeder with 8.5L food storage, paired with a 3.5L water fountain. It also names Wi-Fi app remote control, plastic material, and an LCD display.
+This article summarizes claims shown in the product listing; it is not based on hands-on testing or independent verification. The listing describes 5L of food capacity plus a 3.5L gravity water dispenser. Its 8.5L figure is the combined advertised capacity, not the amount of food the container holds.
 
 ## Listing snapshot
 
-The seller is **ROJECO Pets Store**. The listing displays a **4.9/5 rating from 150 reviews** and **more than 800 sold**. These figures are snapshots of the listing and can change; they should not be treated as a guarantee of product performance or future customer experience.
+An undated product-page listing snapshot shows a **4.9/5 rating from 149 reviews**, **800+ sold**, and a **$42.38 new-shopper promotional price**. These figures can change; the promotional price may depend on eligibility and does not guarantee the current price, shipping cost, or total at checkout.
 
-The displayed **$37.07** is a **new-shopper promotional price**, not a guaranteed price. Promotions, eligibility, and the price may change. Check the listing for the current terms and total before ordering.
+## Capacities and listed features
 
-## What to verify before buying
+The listing gives the food container a **5L capacity** and describes a **3.5L gravity water dispenser**. The advertised **8.5L combined capacity** adds these two capacities together; it is not an 8.5L food container. The listing also shows Wi-Fi app control, an LCD display, and feeding time settings. It gives output as **100g minimum and 200g maximum**; these are listing specifications and do not establish portion accuracy.
 
-The supplied details do not establish how feeding portions or meal timing are configured, or exactly what can be controlled through the app. Confirm those points in the current listing or with the seller, along with app and Wi-Fi compatibility.
+The construction is listed as plastic. The listing shows removable food bowls and a removable water bottle, and identifies the power source as charging with no battery included. It lists the product as suitable for cats and small-to-medium dogs. The seller describes automatic water refill using a siphon system; this is a seller claim, not an independently verified result.
 
-Also check the product dimensions and what is included in the box. The provided details do not specify power requirements or battery backup, cleaning and disassembly instructions, compatible food types, or the fountain's filter and maintenance requirements. These can affect whether the combined feeder and fountain suits your home and routine.
+The listing's “Wet & Dry Separation” wording does not establish that wet food can be stored safely or that the feeder provides refrigeration. The available product information does not confirm whether this feeder supports wet food or provides refrigeration. Do not use it for wet food unless the manufacturer confirms compatibility and provides safe handling instructions.
 
-The listing identifies plastic as the material, but does not provide further information here about the material of individual parts. Verify the bowl and water-contact materials if that matters for your purchase.
+The listing details alone do not establish app and Wi-Fi compatibility, all available feeding controls, portion accuracy, what charging equipment is included, cleaning instructions, or how to maintain the siphon water system. Confirm these points and the included accessories with the seller before purchase.
 
 ## Bottom line
 
-This listing brings together stated food and water capacities, Wi-Fi app remote control, and an LCD display in one product. The available information is not enough to assess its feeding controls, power options, app compatibility, or maintenance needs. Review those details and the current promotional terms before deciding.
+The listing describes a 5L food container and a separate 3.5L gravity water dispenser; 8.5L is their combined advertised capacity. Before buying, confirm food compatibility, feeding controls and output, app and Wi-Fi requirements, charging and power options, cleaning instructions, included removable parts, and the water-dispenser mechanism. Treat the siphon refill description and all listing figures as seller-provided information, not guaranteed performance.

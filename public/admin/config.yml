@@ -147,11 +147,11 @@ collections:
           - label: Answer
             name: answer
             widget: text
-      - label: Draft
+      - label: Draft — keep unpublished
         name: draft
         widget: boolean
         default: true
-        hint: Uncheck Draft to publish this article.
+        hint: Checked = article remains unpublished. Unchecked = article is eligible for publication after saving.
       - label: Article body
         name: body
         widget: markdown
