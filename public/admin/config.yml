@@ -5,6 +5,10 @@ backend:
   base_url: https://autopet.store
   auth_endpoint: api/auth
 
+logo:
+  src: /admin/autopet-logo.svg
+  show_in_header: true
+
 media_folder: public/images
 public_folder: /images
 

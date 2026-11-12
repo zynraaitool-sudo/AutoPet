@@ -2,7 +2,7 @@
 interface Props {
   title: string;
   description: string;
-  canonical?: string;
+  canonical?: string | false;
   type?: "website" | "article";
   image?: string;
   noindex?: boolean;
@@ -27,13 +27,13 @@ const absoluteImage = new URL(image, Astro.site ?? Astro.url).href;
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
     <meta name="description" content={description} />
-    <link rel="canonical" href={canonical} />
+    {canonical && <link rel="canonical" href={canonical} />}
     {noindex && <meta name="robots" content="noindex, nofollow" />}
     <meta property="og:type" content={type} />
     <meta property="og:site_name" content="AutoPet" />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    <meta property="og:url" content={canonical} />
+    {canonical && <meta property="og:url" content={canonical} />}
     <meta property="og:image" content={absoluteImage} />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
@@ -54,7 +54,7 @@ const absoluteImage = new URL(image, Astro.site ?? Astro.url).href;
           <span class="menu-icon" aria-hidden="true"><span></span><span></span></span>
         </button>
         <nav class="primary-nav" id="primary-navigation" aria-label="Main navigation">
-          <a href="/reviews/best-automatic-cat-feeders-2026/">Reviews</a>
+          <a href="/category/automatic-cat-feeders/">Reviews</a>
           <a href="/category/automatic-cat-feeders/">Categories</a>
           <a href="/about/">About</a>
         </nav>

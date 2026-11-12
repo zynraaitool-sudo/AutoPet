@@ -8,7 +8,7 @@ const latestReviews = reviews.slice(0, 3);
 const featuredProducts = reviews.flatMap((review) =>
   review.data.products.flatMap((product) => {
     if (!product.url || /REPLACE-WITH-AFFILIATE-LINK/i.test(product.url)) return [];
-    return [{ ...product, url: product.url, review }];
+    return [{ product, review }];
   }),
 );
 const categories = [
@@ -30,7 +30,7 @@ const categoryTitle = (category: string) =>
       <p class="eyebrow">Practical gear. Happier routines.</p>
       <h1>Better Pet Care Starts With <span>Smarter Choices.</span></h1>
       <p class="intro">Honest reviews and practical guides to help you choose better technology for your pets.</p>
-      <a class="button-link" href="#featured-products">Explore Our Top Picks <span aria-hidden="true">→</span></a>
+      <a class="button-link" href="#categories">Browse Pet Products <span aria-hidden="true">→</span></a>
     </div>
     <div class="hero-art">
       <span class="art-note">Made for real-life routines</span>
@@ -44,7 +44,7 @@ const categoryTitle = (category: string) =>
         <p class="eyebrow">Considered recommendations</p>
         <h2 id="featured-heading">Featured products</h2>
       </div>
-      <p class="section-note">Selected from our published reviews</p>
+      <p class="section-note">Carefully researched product recommendations</p>
     </div>
     {featuredProducts.length > 0 ? (
       <div class="product-grid">
@@ -75,10 +75,10 @@ const categoryTitle = (category: string) =>
       <div class="empty-state featured-empty">
         <div>
           <p class="empty-kicker">Thoughtful picks, never guesswork</p>
-          <p class="empty-title">Good recommendations take research.</p>
-          <p>Our shortlist will appear as reviews are verified and published.</p>
+          <p class="empty-title">Our product picks are coming soon.</p>
+          <p>We're carefully reviewing pet products before recommending them. Explore the categories we're researching.</p>
         </div>
-        <a class="empty-action" href="#latest-heading">Browse reviews <span aria-hidden="true">→</span></a>
+        <a class="empty-action" href="#categories">Explore Pet Categories <span aria-hidden="true">→</span></a>
       </div>
     )}
   </section>
@@ -125,12 +125,12 @@ const categoryTitle = (category: string) =>
         <p class="empty-kicker">Research before recommendations</p>
         <p class="empty-title">No published reviews just yet.</p>
         <p>We’re verifying every guide before it goes live.</p>
-        <a class="empty-action" href="#browse-categories">Browse categories <span aria-hidden="true">→</span></a>
+        <a class="empty-action" href="#categories">Explore Pet Categories <span aria-hidden="true">→</span></a>
       </div>
     )}
   </section>
 
-  <section class="categories-section" id="browse-categories" aria-labelledby="categories-heading">
+  <section class="categories-section" id="categories" aria-labelledby="categories-heading">
     <div class="section-shell">
       <p class="eyebrow">Browse by need</p>
       <h2 id="categories-heading">Thoughtful tech for everyday pet care</h2>
@@ -178,7 +178,7 @@ const categoryTitle = (category: string) =>
   .art-note { position: absolute; right: 0; bottom: 1rem; padding: 0.55rem 0.8rem; background: var(--sun); color: var(--ink); font-size: 0.85rem; font-weight: 700; }
   .section-shell { width: 100%; max-width: var(--site-content-width); padding-inline: var(--site-content-gutter); margin-inline: auto; }
   .featured-section, .reviews-section { padding-block: clamp(3.75rem, 7vw, 5.75rem); }
-  .featured-section { border-top: 1px solid var(--line); }
+  .featured-section { padding-block: clamp(3rem, 5vw, 4.5rem); border-top: 1px solid var(--line); }
   .section-heading { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: end; gap: 1rem; margin-bottom: clamp(1.5rem, 3vw, 2rem); }
   .section-heading h2, .categories-section h2, .trust-section h2 { margin: 0; }
   .section-note { margin: 0 0 0.25rem; color: var(--muted-ink); font-size: 0.94rem; }

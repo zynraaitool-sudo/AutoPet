@@ -53,7 +53,7 @@ const reviews = (await getCollection("reviews", ({ data }) => !data.draft && dat
         ))}
       </div>
     ) : (
-      <div class="empty-state"><p>We're researching this category now. Check back soon for considered recommendations and hands-on buying advice.</p><a href="/">Browse the latest review</a></div>
+      <div class="empty-state"><p>We're researching this category now. Check back soon for considered recommendations and hands-on buying advice.</p></div>
     )}
   </section>
 </SiteLayout>

@@ -1,0 +1,113 @@
+:root {
+  color-scheme: light;
+  --autopet-forest: #173b2f;
+  --autopet-forest-deep: #102d24;
+  --autopet-cream: #fbf8ef;
+  --autopet-cream-dark: #f2eddf;
+  --autopet-gold: #e9b638;
+  --autopet-ink: #26352e;
+  --autopet-muted: #68756c;
+  --autopet-border: #e6e2d7;
+}
+
+html,
+body,
+#nc-root {
+  min-height: 100%;
+}
+
+body {
+  background: var(--autopet-cream) !important;
+  color: var(--autopet-ink);
+  font-family: Inter, "Segoe UI", -apple-system, BlinkMacSystemFont, sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+}
+
+#nc-root {
+  color: var(--autopet-ink);
+}
+
+#nc-root .nc-appHeader {
+  background: var(--autopet-forest) !important;
+  border-bottom: 3px solid var(--autopet-gold);
+  box-shadow: 0 3px 14px rgb(23 59 47 / 12%);
+  color: var(--autopet-cream) !important;
+}
+
+#nc-root .nc-appHeader a,
+#nc-root .nc-appHeader button {
+  color: inherit;
+}
+
+#nc-root .nc-sidebar {
+  background: var(--autopet-cream) !important;
+  border-right: 1px solid var(--autopet-border);
+}
+
+#nc-root .nc-sidebar a,
+#nc-root .nc-appHeader a {
+  transition: background-color 140ms ease, color 140ms ease;
+}
+
+#nc-root .nc-sidebar a[aria-current="page"],
+#nc-root .nc-sidebar a[aria-selected="true"] {
+  background: #e9efdf !important;
+  border-radius: 8px;
+  color: var(--autopet-forest) !important;
+  font-weight: 650;
+}
+
+#nc-root a {
+  color: var(--autopet-forest);
+}
+
+#nc-root button {
+  border-radius: 7px;
+  transition: background-color 140ms ease, border-color 140ms ease, box-shadow 140ms ease;
+}
+
+#nc-root button:focus-visible,
+#nc-root a:focus-visible,
+#nc-root input:focus-visible,
+#nc-root textarea:focus-visible,
+#nc-root select:focus-visible {
+  outline: 3px solid rgb(233 182 56 / 65%);
+  outline-offset: 2px;
+}
+
+#nc-root input,
+#nc-root textarea,
+#nc-root select {
+  border-color: #d8d5ca;
+  border-radius: 6px;
+}
+
+#nc-root input:focus,
+#nc-root textarea:focus,
+#nc-root select:focus {
+  border-color: var(--autopet-forest);
+  box-shadow: 0 0 0 2px rgb(23 59 47 / 10%);
+}
+
+#nc-root [role="dialog"],
+#nc-root [role="menu"] {
+  border: 1px solid var(--autopet-border);
+  border-radius: 10px;
+  box-shadow: 0 12px 32px rgb(31 42 35 / 12%);
+}
+
+@media (max-width: 720px) {
+  #nc-root .nc-sidebar {
+    border-right: 0;
+    border-bottom: 1px solid var(--autopet-border);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #nc-root *,
+  #nc-root *::before,
+  #nc-root *::after {
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+}
