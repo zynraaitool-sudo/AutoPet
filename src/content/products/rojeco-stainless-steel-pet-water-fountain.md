@@ -1,9 +1,16 @@
 ---
 name: ROJECO Stainless Steel Pet Water Fountain
 category: pet-water-fountains
-description: An AliExpress listing for a ROJECO automatic pet fountain with a stainless-steel drinking surface. Capacity, filtration, and power options need confirmation.
-productUrl: https://www.aliexpress.com/item/1005008248097437.html
-relatedArticle: rojeco-stainless-water-fountain-listing-guide
+catalogVisible: true
+description: An AliExpress listing for a ROJECO automatic pet fountain with a
+  stainless-steel drinking surface. Capacity, filtration, and power options need
+  confirmation.
+image: /images/products/rojeco-stainless-steel-pet-water-fountain/1.webp
+gallery:
+  - /images/products/rojeco-stainless-steel-pet-water-fountain/2.webp
+  - /images/products/rojeco-stainless-steel-pet-water-fountain/3.webp
+  - /images/products/rojeco-stainless-steel-pet-water-fountain/4.webp
+  - /images/products/rojeco-stainless-steel-pet-water-fountain/5.webp
 specifications:
   - name: Listed material
     value: Stainless steel drinking surface, according to the listing title
@@ -15,9 +22,12 @@ features:
 pros:
   - The product listing identifies the stated material and intended use.
 cons:
-  - Capacity, filter type, pump requirements, noise, and replacement-part availability are not verified here.
-  - A listed material does not establish that every water-contact component is stainless steel.
-catalogVisible: true
+  - Capacity, filter type, pump requirements, noise, and replacement-part
+    availability are not verified here.
+  - A listed material does not establish that every water-contact component is
+    stainless steel.
+productUrl: https://s.click.aliexpress.com/e/_c3Y0yT3l
+relatedArticle: rojeco-stainless-water-fountain-listing-guide
 displayOrder: 60
 draft: false
 ---
