@@ -1,9 +1,17 @@
 ---
 name: LEMEENQ Rechargeable Interactive Cat Ball
 category: interactive-cat-toys
-description: The AliExpress listing describes a rechargeable rolling ball for cats. Check dimensions, loose parts, charging details, and supervision guidance.
-productUrl: https://www.aliexpress.com/item/1005008326471338.html
-relatedArticle: rechargeable-cat-ball-toy-buying-guide
+catalogVisible: true
+description: The AliExpress listing describes a rechargeable rolling ball for
+  cats. Check dimensions, loose parts, charging details, and supervision
+  guidance.
+image: /images/products/lemeenq-rechargeable-interactive-cat-ball/1.webp
+gallery:
+  - /images/products/lemeenq-rechargeable-interactive-cat-ball/2.webp
+  - /images/products/lemeenq-rechargeable-interactive-cat-ball/3.webp
+  - /images/products/lemeenq-rechargeable-interactive-cat-ball/4.webp
+  - /images/products/lemeenq-rechargeable-interactive-cat-ball/5.webp
+  - /images/products/lemeenq-rechargeable-interactive-cat-ball/6.webp
 specifications:
   - name: Listed design
     value: Automatically rolling ball with a tail
@@ -13,11 +21,14 @@ features:
   - The seller title describes an interactive rolling ball for cats.
   - The listing title mentions a rechargeable design and a tail attachment.
 pros:
-  - The listing describes a play format that can be evaluated against your cat's size and play habits.
+  - The listing describes a play format that can be evaluated against your cat's
+    size and play habits.
 cons:
-  - Battery, charging, noise, durability, and small-part details have not been verified.
+  - Battery, charging, noise, durability, and small-part details have not been
+    verified.
   - Supervise play and remove the toy if parts loosen or become damaged.
-catalogVisible: true
+productUrl: https://s.click.aliexpress.com/e/_c4sEAUh5
+relatedArticle: rechargeable-cat-ball-toy-buying-guide
 displayOrder: 100
 draft: false
 ---
