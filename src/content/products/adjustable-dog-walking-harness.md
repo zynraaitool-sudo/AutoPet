@@ -1,9 +1,17 @@
 ---
 name: Dog Walking Harness for Medium and Large Dogs
 category: dog-walking-travel
-description: An AliExpress listing for a walking harness aimed at medium and large dogs. Measure carefully and do not treat it as a vehicle restraint.
-productUrl: https://www.aliexpress.com/item/1005006447746985.html
-relatedArticle: dog-harness-fit-check-guide
+catalogVisible: true
+description: An AliExpress listing for a walking harness aimed at medium and
+  large dogs. Measure carefully and do not treat it as a vehicle restraint.
+image: /images/products/dog-walking-harness-for-medium-and-large-dogs/1.webp
+gallery:
+  - /images/products/dog-walking-harness-for-medium-and-large-dogs/2.webp
+  - /images/products/dog-walking-harness-for-medium-and-large-dogs/4.webp
+  - /images/products/dog-walking-harness-for-medium-and-large-dogs/3.webp
+  - /images/products/dog-walking-harness-for-medium-and-large-dogs/5.webp
+  - /images/products/dog-walking-harness-for-medium-and-large-dogs/3.webp
+  - /images/products/dog-walking-harness-for-medium-and-large-dogs/6.webp
 specifications:
   - name: Listed intended size
     value: Medium and large dogs
@@ -15,9 +23,11 @@ features:
 pros:
   - The listing identifies a general intended size range and walking use.
 cons:
-  - The exact size chart, adjustment range, materials, and hardware strength must be checked for the selected option.
+  - The exact size chart, adjustment range, materials, and hardware strength
+    must be checked for the selected option.
   - The listing does not establish crash protection or vehicle restraint safety.
-catalogVisible: true
+productUrl: https://s.click.aliexpress.com/e/_c41o6E95
+relatedArticle: dog-harness-fit-check-guide
 displayOrder: 80
 draft: false
 ---
