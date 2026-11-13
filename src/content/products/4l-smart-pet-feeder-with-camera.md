@@ -1,9 +1,16 @@
 ---
 name: 4L Smart Pet Feeder with Camera
 category: automatic-cat-feeders
-description: An AliExpress listing for a 4L timed dry-food feeder that mentions a camera and app control. Check the exact model and functions before buying.
-affiliateUrl: https://s.click.aliexpress.com/e/_c4sIyewB
-relatedArticle: automatic-feeders-camera-listing-comparison
+catalogVisible: true
+description: An AliExpress listing for a 4L timed dry-food feeder that mentions
+  a camera and app control. Check the exact model and functions before buying.
+image: /images/1.webp
+gallery:
+  - /images/2.webp
+  - /images/3.webp
+  - /images/4.webp
+  - /images/5.webp
+  - /images/6.webp
 specifications:
   - name: Advertised capacity
     value: 4L, as stated in the listing title
@@ -16,9 +23,12 @@ features:
 pros:
   - The listed capacity and camera are easy to identify from the title.
 cons:
-  - The title does not establish camera quality, portion accuracy, app compatibility, or backup power.
-  - Confirm the exact model, food compatibility, and included accessories with the seller.
-catalogVisible: true
+  - The title does not establish camera quality, portion accuracy, app
+    compatibility, or backup power.
+  - Confirm the exact model, food compatibility, and included accessories with
+    the seller.
+affiliateUrl: https://s.click.aliexpress.com/e/_c3wgKLMB
+relatedArticle: automatic-feeders-camera-listing-comparison
 displayOrder: 10
 draft: false
 ---
