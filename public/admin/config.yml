@@ -13,10 +13,145 @@ media_folder: public/images
 public_folder: /images
 
 collections:
+  - name: products
+    label: Featured Products
+    label_singular: Featured Product
+    description: Manage catalog products separately from reviews and guides. New products stay drafts until Draft is unchecked.
+    folder: src/content/products
+    create: true
+    identifier_field: name
+    summary: "{{name}} | {{category}}"
+    view_filters:
+      - label: Drafts
+        field: draft
+        pattern: true
+      - label: Published
+        field: draft
+        pattern: false
+    slug: "{{slug}}"
+    extension: md
+    format: frontmatter
+    fields:
+      - label: Product name
+        name: name
+        widget: string
+      - label: Category
+        name: category
+        widget: select
+        options:
+          - automatic-cat-feeders
+          - pet-water-fountains
+          - smart-litter-boxes
+      - label: Short description
+        name: description
+        widget: text
+      - label: Main image
+        name: image
+        widget: image
+        required: true
+      - label: Image alt text
+        name: imageAlt
+        widget: string
+        required: false
+      - label: Gallery images
+        name: gallery
+        widget: list
+        required: false
+        hint: Reorder images by dragging them in the list.
+        field:
+          label: Image
+          name: image
+          widget: image
+      - label: YouTube video URL
+        name: youtubeUrl
+        widget: string
+        required: false
+      - label: Direct MP4 video URL
+        name: videoUrl
+        widget: string
+        required: false
+        hint: Use a hosted HTTPS .mp4 URL. Do not commit large video files to this repository.
+      - label: Video poster image
+        name: videoPoster
+        widget: image
+        required: false
+      - label: Video title
+        name: videoTitle
+        widget: string
+        required: false
+      - label: Detailed description
+        name: body
+        widget: markdown
+        required: true
+      - label: Specifications
+        name: specifications
+        widget: list
+        required: false
+        fields:
+          - label: Specification
+            name: name
+            widget: string
+          - label: Value
+            name: value
+            widget: string
+      - label: Features
+        name: features
+        widget: list
+        required: false
+        field:
+          label: Feature
+          name: feature
+          widget: string
+      - label: Pros
+        name: pros
+        widget: list
+        required: false
+        field:
+          label: Pro
+          name: pro
+          widget: string
+      - label: Cons
+        name: cons
+        widget: list
+        required: false
+        field:
+          label: Con
+          name: con
+          widget: string
+      - label: Price
+        name: price
+        widget: string
+        required: false
+      - label: AliExpress affiliate URL
+        name: affiliateUrl
+        widget: string
+        required: true
+        hint: Enter the complete affiliate URL, including https://.
+      - label: Linked review slug
+        name: relatedArticle
+        widget: relation
+        collection: reviews
+        search_fields:
+          - title
+        value_field: "{{slug}}"
+        display_fields:
+          - "{{title}}"
+        required: false
+      - label: Display order
+        name: displayOrder
+        widget: number
+        value_type: int
+        default: 100
+        hint: Lower numbers appear first.
+      - label: Draft — keep unpublished
+        name: draft
+        widget: boolean
+        default: true
+        hint: Checked = unpublished. Uncheck only when the product page is ready to publish.
   - name: reviews
-    label: Reviews
-    label_singular: Review
-    description: Manage product reviews and find drafts using the collection filters.
+    label: Reviews & Guides
+    label_singular: Review or Guide
+    description: Manage editorial reviews and guides independently from featured products.
     folder: src/content/reviews
     create: true
     summary: "{{title}} | {{category}}"
@@ -58,6 +193,19 @@ collections:
           - automatic-cat-feeders
           - pet-water-fountains
           - smart-litter-boxes
+      - label: Article type
+        name: articleType
+        widget: select
+        required: false
+        options:
+          - label: Product review
+            value: product-review
+          - label: Buying guide
+            value: buying-guide
+          - label: Product comparison
+            value: comparison
+          - label: Pet care guide
+            value: pet-care-guide
       - label: Featured image
         name: image
         widget: image

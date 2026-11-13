@@ -1,0 +1,125 @@
+---
+import { getCollection } from "astro:content";
+import ArticleCard from "../../components/ArticleCard.astro";
+import SiteLayout from "../../layouts/SiteLayout.astro";
+
+const articles = (await getCollection("reviews", ({ data }) => !data.draft))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+const categories = [...new Set(articles.map((article) => article.data.category))]
+  .sort((a, b) => a.localeCompare(b));
+const articleTypes = [...new Set(articles.flatMap((article) => article.data.articleType ? [article.data.articleType] : []))]
+  .sort((a, b) => a.localeCompare(b));
+const categoryTitle = (category: string) =>
+  category.replaceAll("-", " ").replace(/\b\w/g, (letter) => letter.toUpperCase());
+const typeTitle = (type: string) =>
+  type.replaceAll("-", " ").replace(/\b\w/g, (letter) => letter.toUpperCase());
+const canonical = new URL("/reviews/", Astro.site).href;
+---
+
+<SiteLayout
+  title="Reviews & Guides | AutoPet"
+  description="Read AutoPet's published product reviews, buying guides, comparisons, and practical pet care articles."
+  canonical={canonical}
+>
+  <section class="page-shell editorial">
+    <header class="page-heading">
+      <p class="eyebrow">Research without the noise</p>
+      <h1>Reviews &amp; Guides</h1>
+      <p class="intro">Independent reviews and practical guides to help you choose better technology and care for your pets.</p>
+    </header>
+
+    {articles.length > 0 && (
+      <div class="editorial-tools">
+        <label>
+          <span>Search articles</span>
+          <input id="article-search" type="search" placeholder="Search titles and descriptions" autocomplete="off" />
+        </label>
+        <label>
+          <span>Pet category</span>
+          <select id="article-category">
+            <option value="">All categories</option>
+            {categories.map((category) => <option value={category}>{categoryTitle(category)}</option>)}
+          </select>
+        </label>
+        {articleTypes.length > 0 && (
+          <label>
+            <span>Article type</span>
+            <select id="article-type">
+              <option value="">All article types</option>
+              {articleTypes.map((type) => <option value={type}>{typeTitle(type)}</option>)}
+            </select>
+          </label>
+        )}
+      </div>
+    )}
+
+    {articles.length > 0 ? (
+      <>
+        <p id="article-results" class="results-count" role="status">{articles.length} {articles.length === 1 ? "article" : "articles"}</p>
+        <div class="article-grid" id="article-grid">
+          {articles.map((article) => (
+            <div
+              class="article-grid-item"
+              data-search={`${article.data.title} ${article.data.description}`.toLocaleLowerCase()}
+              data-category={article.data.category}
+              data-type={article.data.articleType ?? ""}
+            >
+              <ArticleCard article={article} />
+            </div>
+          ))}
+        </div>
+        <div class="empty-state" id="article-empty" hidden>
+          <h2>No articles match those filters.</h2>
+          <p>Try a different search or category.</p>
+        </div>
+      </>
+    ) : (
+      <div class="empty-state">
+        <h2>No published reviews or guides just yet.</h2>
+        <p>We're verifying every article before it goes live. Check back soon.</p>
+      </div>
+    )}
+  </section>
+</SiteLayout>
+
+<script>
+  const search = document.querySelector<HTMLInputElement>("#article-search");
+  const category = document.querySelector<HTMLSelectElement>("#article-category");
+  const type = document.querySelector<HTMLSelectElement>("#article-type");
+  const grid = document.querySelector<HTMLElement>("#article-grid");
+  const count = document.querySelector<HTMLElement>("#article-results");
+  const empty = document.querySelector<HTMLElement>("#article-empty");
+
+  if (search && category && grid && count && empty) {
+    const items = Array.from(grid.querySelectorAll<HTMLElement>(".article-grid-item"));
+    const filterArticles = () => {
+      const query = search.value.trim().toLocaleLowerCase();
+      const selectedCategory = category.value;
+      const selectedType = type?.value ?? "";
+      const visibleCount = items.filter((item) => {
+        const matches = item.dataset.search?.includes(query) &&
+          (!selectedCategory || item.dataset.category === selectedCategory) &&
+          (!selectedType || item.dataset.type === selectedType);
+        item.hidden = !matches;
+        return matches;
+      }).length;
+      empty.hidden = visibleCount > 0;
+      count.textContent = `${visibleCount} ${visibleCount === 1 ? "article" : "articles"}`;
+    };
+
+    search.addEventListener("input", filterArticles);
+    category.addEventListener("change", filterArticles);
+    type?.addEventListener("change", filterArticles);
+  }
+</script>
+
+<style>
+  .editorial-tools { display: grid; grid-template-columns: 1fr; gap: 0.8rem; margin-block: 1.5rem 0.8rem; }
+  label { display: grid; gap: 0.35rem; color: var(--ink); font-size: 0.9rem; font-weight: 700; }
+  input, select { width: 100%; }
+  .results-count { margin: 0 0 1rem; color: var(--muted-ink); font-size: 0.9rem; }
+  .article-grid { display: grid; grid-template-columns: 1fr; gap: 1rem; max-width: 1000px; }
+  .article-grid-item { min-width: 0; }
+  .article-grid-item[hidden] { display: none; }
+  @media (min-width: 640px) { .editorial-tools { grid-template-columns: 2fr 1.2fr 1.2fr; } }
+</style>

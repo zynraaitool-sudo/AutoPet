@@ -1,10 +1,13 @@
 import { defineCollection, z } from "astro:content";
 import { glob } from "astro/loaders";
+import { isHttpUrl, isSafeMp4Url, youtubeVideoId } from "./lib/media";
 
 const emptyToUndefined = (value: unknown) =>
   value == null || (typeof value === "string" && value.trim() === "") ? undefined : value;
 const emptyToArray = (value: unknown) =>
   value == null || (typeof value === "string" && value.trim() === "") ? [] : value;
+
+const safeHttpUrl = z.string().url().refine(isHttpUrl, "Must be an HTTP or HTTPS URL");
 
 const reviews = defineCollection({
   loader: glob({ pattern: "**/*.md", base: "./src/content/reviews" }),
@@ -14,6 +17,7 @@ const reviews = defineCollection({
     date: z.coerce.date(),
     updated: z.preprocess(emptyToUndefined, z.coerce.date().optional()),
     category: z.string(),
+    articleType: z.enum(["product-review", "buying-guide", "comparison", "pet-care-guide"]).optional(),
     image: z.preprocess(emptyToUndefined, z.string().optional()),
     imageAlt: z.preprocess(emptyToUndefined, z.string().optional()),
     draft: z.boolean().default(true),
@@ -51,4 +55,38 @@ const reviews = defineCollection({
   }),
 });
 
-export const collections = { reviews };
+const products = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: "./src/content/products" }),
+  schema: z.object({
+    name: z.string().min(1),
+    category: z.enum(["automatic-cat-feeders", "pet-water-fountains", "smart-litter-boxes"]),
+    description: z.string().min(1),
+    image: z.string().min(1),
+    imageAlt: z.preprocess(emptyToUndefined, z.string().optional()),
+    gallery: z.preprocess(emptyToArray, z.array(z.string()).default([])),
+    youtubeUrl: z.preprocess(
+      emptyToUndefined,
+      safeHttpUrl.refine((value) => youtubeVideoId(value) !== undefined, "Must be a valid YouTube video URL").optional(),
+    ),
+    videoUrl: z.preprocess(
+      emptyToUndefined,
+      safeHttpUrl.refine(isSafeMp4Url, "Must be an HTTP or HTTPS URL ending in .mp4").optional(),
+    ),
+    videoPoster: z.preprocess(emptyToUndefined, z.string().optional()),
+    videoTitle: z.preprocess(emptyToUndefined, z.string().optional()),
+    specifications: z.preprocess(
+      emptyToArray,
+      z.array(z.object({ name: z.string(), value: z.string() })).default([]),
+    ),
+    features: z.preprocess(emptyToArray, z.array(z.string()).default([])),
+    pros: z.preprocess(emptyToArray, z.array(z.string()).default([])),
+    cons: z.preprocess(emptyToArray, z.array(z.string()).default([])),
+    price: z.preprocess(emptyToUndefined, z.string().optional()),
+    affiliateUrl: safeHttpUrl,
+    relatedArticle: z.preprocess(emptyToUndefined, z.string().optional()),
+    displayOrder: z.coerce.number().int().default(100),
+    draft: z.boolean().default(true),
+  }),
+});
+
+export const collections = { reviews, products };

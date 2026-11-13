@@ -1,0 +1,225 @@
+---
+import { getCollection, render } from "astro:content";
+import ProductCard from "../../components/ProductCard.astro";
+import SiteLayout from "../../layouts/SiteLayout.astro";
+import { isSafeMp4Url, youtubeVideoId } from "../../lib/media";
+
+export async function getStaticPaths() {
+  const products = await getCollection("products", ({ data }) => !data.draft);
+  return products.map((product) => ({ params: { slug: product.id }, props: { product } }));
+}
+
+const { product } = Astro.props;
+const { Content } = await render(product);
+const {
+  name, category, description, image, imageAlt, gallery, youtubeUrl, videoUrl,
+  videoPoster, videoTitle, specifications, features, pros, cons, price, affiliateUrl,
+  relatedArticle,
+} = product.data;
+const categoryTitle = category.replaceAll("-", " ").replace(/\b\w/g, (letter) => letter.toUpperCase());
+const categoryHref = `/category/${category}/`;
+const canonical = new URL(`/products/${product.id}/`, Astro.site).href;
+const galleryImages = [...new Set([...(image ? [image] : []), ...gallery])];
+const videoId = youtubeUrl ? youtubeVideoId(youtubeUrl) : undefined;
+const mp4Url = videoUrl && isSafeMp4Url(videoUrl) ? videoUrl : undefined;
+const relatedReview = relatedArticle
+  ? (await getCollection("reviews", ({ data }) => !data.draft)).find(
+    (article) => article.id === relatedArticle || article.data.title === relatedArticle,
+  )
+  : undefined;
+const relatedProducts = (await getCollection("products", ({ data }) => !data.draft))
+  .filter((entry) => entry.id !== product.id && entry.data.category === category)
+  .sort((a, b) => a.data.displayOrder - b.data.displayOrder || a.data.name.localeCompare(b.data.name))
+  .slice(0, 3);
+---
+
+<SiteLayout
+  title={`${name} | AutoPet`}
+  description={description}
+  canonical={canonical}
+  image={image ?? "/images/feeder-illustration.svg"}
+>
+  <article class="page-shell product-page">
+    <a class="back-link" href="/products/">← Browse products</a>
+    <header class="product-header">
+      <p class="eyebrow"><a href={categoryHref}>{categoryTitle}</a></p>
+      <h1>{name}</h1>
+      <p class="intro">{description}</p>
+      {price && <p class="price">{price}</p>}
+      {affiliateUrl && (
+        <a class="buy-button" href={affiliateUrl} rel="sponsored nofollow noopener" target="_blank">
+          Check Price on AliExpress <span aria-hidden="true">↗</span>
+        </a>
+      )}
+    </header>
+
+    {galleryImages.length > 0 && (
+      <section class="gallery-section" aria-label="Product images">
+        <div class="gallery-main">
+          <img id="gallery-main-image" src={galleryImages[0]} alt={imageAlt ?? name} />
+        </div>
+        {galleryImages.length > 1 && (
+          <div class="gallery-thumbnails" aria-label="Choose a product image">
+            {galleryImages.map((src, index) => (
+              <button
+                type="button"
+                class:list={["thumbnail", { selected: index === 0 }]}
+                data-src={src}
+                data-alt={`${name} image ${index + 1}`}
+                aria-label={`Show product image ${index + 1}`}
+                aria-pressed={index === 0 ? "true" : "false"}
+              >
+                <img src={src} alt="" loading="lazy" />
+              </button>
+            ))}
+          </div>
+        )}
+      </section>
+    )}
+
+    {(videoId || mp4Url) && (
+      <section class="video-section">
+        <h2>{videoTitle ?? "Product video"}</h2>
+        {videoId ? (
+          <div class="video-frame">
+            <iframe
+              src={`https://www.youtube-nocookie.com/embed/${videoId}`}
+              title={videoTitle ?? `${name} video`}
+              loading="lazy"
+              referrerpolicy="strict-origin-when-cross-origin"
+              allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
+          </div>
+        ) : mp4Url ? (
+          <video controls preload="metadata" poster={videoPoster} aria-label={videoTitle ?? `${name} video`}>
+            <source src={mp4Url} type="video/mp4" />
+            Your browser does not support HTML video.
+          </video>
+        ) : null}
+      </section>
+    )}
+
+    <div class="product-details">
+      {product.body && <section class="prose"><Content /></section>}
+
+      {specifications.length > 0 && (
+        <section>
+          <h2>Specifications</h2>
+          <dl class="spec-list">
+            {specifications.map((spec) => <div><dt>{spec.name}</dt><dd>{spec.value}</dd></div>)}
+          </dl>
+        </section>
+      )}
+
+      {features.length > 0 && (
+        <section>
+          <h2>Features</h2>
+          <ul>{features.map((feature) => <li>{feature}</li>)}</ul>
+        </section>
+      )}
+
+      {(pros.length > 0 || cons.length > 0) && (
+        <section>
+          <h2>Pros and cons</h2>
+          <div class="pros-cons">
+            {pros.length > 0 && <div><h3>Pros</h3><ul>{pros.map((pro) => <li>{pro}</li>)}</ul></div>}
+            {cons.length > 0 && <div><h3>Cons</h3><ul>{cons.map((con) => <li>{con}</li>)}</ul></div>}
+          </div>
+        </section>
+      )}
+
+      {relatedReview && (
+        <section class="related-article">
+          <h2>Related review or guide</h2>
+          <a href={`/reviews/${relatedReview.id}/`}>{relatedReview.data.title} <span aria-hidden="true">→</span></a>
+          <p>{relatedReview.data.description}</p>
+        </section>
+      )}
+    </div>
+
+    {relatedProducts.length > 0 && (
+      <section class="related-products" aria-labelledby="related-products-heading">
+        <h2 id="related-products-heading">Related products</h2>
+        <div class="product-grid">
+          {relatedProducts.map((related) => <ProductCard product={related} />)}
+        </div>
+      </section>
+    )}
+  </article>
+</SiteLayout>
+
+{galleryImages.length > 1 && (
+  <script>
+    const mainImage = document.querySelector<HTMLImageElement>("#gallery-main-image");
+    const thumbnails = document.querySelectorAll<HTMLButtonElement>(".thumbnail");
+
+    if (mainImage) {
+      thumbnails.forEach((thumbnail) => {
+        thumbnail.addEventListener("click", () => {
+          const src = thumbnail.dataset.src;
+          if (!src) return;
+          mainImage.src = src;
+          mainImage.alt = thumbnail.dataset.alt ?? "";
+          thumbnails.forEach((button) => {
+            const selected = button === thumbnail;
+            button.classList.toggle("selected", selected);
+            button.setAttribute("aria-pressed", String(selected));
+          });
+        });
+      });
+    }
+  </script>
+)}
+
+<style>
+  .back-link { font-size: 0.9rem; font-weight: 700; }
+  .product-header { max-width: 780px; margin: 1.5rem auto; }
+  .eyebrow a { color: inherit; }
+  h1 { margin: 0; font-size: clamp(2.15rem, 4.7vw, 3.55rem); overflow-wrap: anywhere; }
+  .intro { font-size: clamp(1rem, 1.5vw, 1.12rem); }
+  .price { color: var(--ink); font-size: 1.1rem; font-weight: 750; }
+  .buy-button { display: inline-flex; align-items: center; gap: 0.55rem; min-height: var(--button-height); padding: 0.55rem 0.9rem; border-radius: var(--control-radius); background: var(--sun); color: var(--teal-deep); font-size: var(--button-font-size); font-weight: 750; text-decoration: none; }
+  .buy-button:hover { background: var(--teal-deep); color: var(--paper); }
+  .gallery-section { max-width: 900px; margin: 1.5rem auto 2.25rem; }
+  .gallery-main { overflow: hidden; width: 100%; aspect-ratio: 16 / 10; border-radius: var(--card-radius); background: var(--mist); }
+  .gallery-main img { display: block; width: 100%; height: 100%; object-fit: contain; }
+  .gallery-thumbnails { display: flex; gap: 0.75rem; overflow-x: auto; padding: 0.75rem 0.1rem; }
+  .thumbnail { flex: 0 0 5rem; overflow: hidden; width: 5rem; aspect-ratio: 1; padding: 0; border: 2px solid transparent; border-radius: 0.25rem; background: var(--mist); cursor: pointer; }
+  .thumbnail.selected { border-color: var(--teal); }
+  .thumbnail img { width: 100%; height: 100%; object-fit: cover; }
+  .video-section { max-width: 850px; margin: 2rem auto; }
+  .video-frame { position: relative; overflow: hidden; width: 100%; aspect-ratio: 16 / 9; background: var(--ink); }
+  .video-frame iframe, video { display: block; width: 100%; aspect-ratio: 16 / 9; border: 0; }
+  .video-frame iframe { position: absolute; inset: 0; height: 100%; }
+  video { max-height: 70vh; background: var(--ink); }
+  .product-details { max-width: 850px; margin: 2.25rem auto; }
+  .product-details section { margin-top: 2rem; }
+  .product-details h2, .related-products h2 { margin-bottom: 0.85rem; }
+  .product-details h3 { margin-bottom: 0.5rem; }
+  .product-details li { margin-block: 0.35rem; color: var(--muted-ink); }
+  .spec-list { margin: 0; border-top: 1px solid var(--line); }
+  .spec-list div { display: grid; grid-template-columns: minmax(8rem, 1fr) 2fr; gap: 1rem; padding: 0.75rem 0; border-bottom: 1px solid var(--line); }
+  .spec-list dt { font-weight: 750; }
+  .spec-list dd { margin: 0; color: var(--muted-ink); }
+  .pros-cons { display: grid; grid-template-columns: 1fr; gap: 1.5rem; }
+  .related-article { padding: 1.25rem; border-left: 4px solid var(--sun-deep); background: var(--mist); }
+  .related-article a { font-weight: 750; }
+  .related-article p { margin-bottom: 0; color: var(--muted-ink); }
+  .prose :global(p), .prose :global(li) { color: var(--muted-ink); }
+  .prose :global(h2) { margin-top: 2.4rem; }
+  .related-products { margin-top: 3rem; }
+  .product-grid { display: grid; grid-template-columns: 1fr; gap: 1rem; }
+  @media (min-width: 700px) {
+    .pros-cons { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .product-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  }
+  @media (min-width: 1000px) {
+    .product-page { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); align-items: start; column-gap: clamp(1.5rem, 4vw, 3rem); }
+    .back-link, .video-section, .product-details, .related-products { grid-column: 1 / -1; }
+    .back-link { grid-row: 1; }
+    .product-header { grid-column: 2; grid-row: 2; align-self: center; margin: 0; }
+    .gallery-section { grid-column: 1; grid-row: 2; width: 100%; max-width: none; margin: 0; }
+    .product-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  }
+</style>

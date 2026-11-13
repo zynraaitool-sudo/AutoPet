@@ -64,7 +64,9 @@ const showUrl = products.some((product) => product.url !== undefined);
 
 <style>
   .table-wrap {
+    position: relative;
     overflow-x: auto;
+    max-width: 100%;
     border: 1px solid var(--line);
     background: var(--paper);
   }
@@ -90,6 +92,8 @@ const showUrl = products.some((product) => product.url !== undefined);
   .rating-note { display: block; margin-top: 0.25rem; }
   .sr-only {
     position: absolute;
+    top: 0;
+    left: 0;
     width: 1px;
     height: 1px;
     padding: 0;

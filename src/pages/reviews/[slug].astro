@@ -47,7 +47,7 @@ const reviewSchema = {
 ---
 
 <SiteLayout title={`${title} | AutoPet`} description={description} canonical={canonical} type="article">
-  <article class="article-shell">
+  <article class="page-shell article-shell">
     {image && <img class="featured-image" src={image} width="1200" height="675" loading="lazy" alt={imageAlt ?? title} />}
     <header class="article-header">
       <a class="back-link" href={`/category/${category.toLowerCase().replaceAll(" ", "-")}/`}>← {categoryLabel}</a>
@@ -99,34 +99,34 @@ const reviewSchema = {
 </SiteLayout>
 
 <style>
-  .article-shell { width: min(1120px, calc(100% - 2rem)); margin: auto; padding-block: 2.5rem 1rem; }
-  .featured-image { display: block; width: min(100%, 1000px); height: auto; aspect-ratio: 16 / 9; margin: 0 auto 2rem; object-fit: cover; }
+  .article-shell { max-width: 1120px; }
+  .featured-image { display: block; width: min(100%, 960px); height: auto; aspect-ratio: 16 / 9; margin: 0 auto 1.5rem; border-radius: var(--card-radius); object-fit: cover; }
   .article-header { max-width: 780px; margin: auto; }
   .back-link { font-size: 0.9rem; font-weight: 700; }
-  h1 { max-width: 16ch; margin: 1rem 0; font-size: clamp(2.5rem, 7vw, 4.5rem); }
-  .dek { color: var(--muted-ink); font-size: 1.2rem; }
+  h1 { max-width: 22ch; margin: 0.75rem 0; font-size: clamp(2.15rem, 4.7vw, 3.55rem); overflow-wrap: anywhere; }
+  .dek { color: var(--muted-ink); font-size: clamp(1rem, 1.5vw, 1.12rem); }
   .meta { display: flex; flex-wrap: wrap; gap: 0.4rem 1rem; color: var(--muted-ink); font-size: 0.9rem; }
-  .disclosure { margin-top: 1.1rem; padding: 0.8rem 1rem; background: var(--mist); font-size: 0.91rem; }
-  .article-content { max-width: 850px; margin: 2rem auto; }
-  .article-content section { margin-top: 3rem; }
+  .disclosure { margin-top: 0.9rem; padding: 0.7rem 0.9rem; border-radius: var(--control-radius); background: var(--mist); font-size: 0.88rem; }
+  .article-content { max-width: 850px; margin: 1.75rem auto; }
+  .article-content section { margin-top: 2.25rem; }
   .article-content section > h2 { margin-bottom: 1rem; }
-  .verdict { display: grid; grid-template-columns: auto 1fr; gap: 1rem; padding: 1.3rem; border-left: 5px solid var(--sun-deep); background: #f8f3df; }
+  .verdict { display: grid; grid-template-columns: auto 1fr; gap: 0.85rem; padding: 1rem; border-left: 4px solid var(--sun-deep); border-radius: 0 var(--control-radius) var(--control-radius) 0; background: #f8f3df; }
   .verdict-mark { display: grid; place-items: center; width: 2rem; height: 2rem; border-radius: 50%; background: var(--teal); color: white; font-weight: 800; }
   .verdict h2 { margin: 0; font-size: 1.4rem; }
   .verdict p { margin: 0.35rem 0 0; }
-  .prose { margin-top: 3rem; }
-  .prose :global(h2) { margin-top: 2.4rem; }
-  .prose :global(h3) { margin-top: 1.8rem; }
-  .prose :global(p), .prose :global(li) { max-width: 70ch; color: #314b4c; }
+  .prose { margin-top: 2.25rem; }
+  .prose :global(h2) { margin-top: 2rem; }
+  .prose :global(h3) { margin-top: 1.5rem; }
+  .prose :global(p), .prose :global(li) { max-width: 70ch; color: var(--muted-ink); }
   .prose :global(strong) { color: var(--ink); }
   .prose :global(.raw-html) { max-width: 100%; overflow-x: auto; }
   .prose :global(.raw-html img) { max-width: 100%; height: auto; }
   .prose :global(.raw-html table) { width: 100%; border-collapse: collapse; text-align: left; }
   .prose :global(.raw-html th), .prose :global(.raw-html td) { padding: 0.75rem; border: 1px solid var(--line); vertical-align: top; }
   .prose :global(.raw-html th) { background: var(--teal); color: var(--paper); }
-  .prose :global(.affiliate-button) { display: inline-flex; align-items: center; justify-content: center; min-height: 2.75rem; padding: 0.65rem 1rem; border: 2px solid var(--ink); background: var(--sun); color: var(--ink); font-weight: 750; text-decoration: none; }
+  .prose :global(.affiliate-button) { display: inline-flex; align-items: center; justify-content: center; min-height: var(--button-height); padding: 0.55rem 0.9rem; border: 2px solid var(--ink); border-radius: var(--control-radius); background: var(--sun); color: var(--ink); font-size: var(--button-font-size); font-weight: 750; text-decoration: none; white-space: nowrap; }
   .prose :global(.callout) { margin-block: 1.5rem; padding: 1rem 1.2rem; border-left: 4px solid var(--teal); background: var(--mist); }
   .prose :global(.callout p) { margin: 0; }
   .prose :global(.callout-warning) { border-left-color: var(--sun-deep); background: #f8f3df; }
-  .last-reviewed { margin-top: 3rem; color: var(--muted-ink); font-size: 0.9rem; }
+  .last-reviewed { margin-top: 2rem; color: var(--muted-ink); font-size: 0.9rem; }
 </style>

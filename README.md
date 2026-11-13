@@ -9,12 +9,25 @@ AutoPet is a static Astro site for practical smart-pet product reviews. It build
 3. Run `npm run dev` and open the local address Astro prints.
 4. Run `npm run build` to create the production site in `dist/`.
 
+## Manage products and articles
+
+Products and editorial articles are separate content collections with separate draft flags and publishing lifecycles:
+
+- **Featured Products** are Markdown files in `src/content/products/`. Each product has a public detail page at `/products/<slug>/` and appears in `/products/` and the homepage only when `draft: false`.
+- **Reviews & Guides** remain Markdown files in `src/content/reviews/`. Their existing `/reviews/<slug>/` URLs are unchanged; published articles appear in `/reviews/` and on the homepage only when `draft: false`.
+
+New CMS entries default to drafts. Save a draft to keep it private; when it is ready, uncheck its own **Draft — keep unpublished** field to publish it. Product and article drafts do not publish one another. The sitemap is generated from public routes, so drafts are excluded.
+
+Products support an ordered image gallery, HTTP(S) YouTube/MP4 video links, specifications, features, pros and cons, optional price and affiliate link, and an optional link to a published article. Host large video files externally; do not commit them to Git.
+
+The Decap CMS has separate **Featured Products** and **Reviews & Guides** sections. Sign in at `/admin/` as described in [Publish with Decap CMS](#publish-with-decap-cms).
+
 ## Add an article
 
 1. Create a Markdown file in `src/content/reviews/`, for example `quiet-pet-fountain.md`.
 2. Add the required frontmatter: `title`, `description`, `date`, `category`, and `draft`. `updated`, featured image fields, quick verdict, products, pros, cons, and FAQs are optional. See `best-automatic-cat-feeders-2026.md` for the expected shape.
 3. Write the article body in Markdown. Product entries need `name`, `priceRange`, `features`, `rating` (0–5), and a valid `url`.
-4. Set `draft: true` while working. Draft reviews are excluded from category pages, home, and article routes; change it to `false` when ready to publish.
+4. Set `draft: true` while working. Draft reviews are excluded from category pages, home, the editorial listing, and article routes; change it to `false` when ready to publish.
 5. Before publishing, replace affiliate placeholders listed in `TODO.md`, then run `npm run build`.
 
 The Decap editor also provides raw HTML, affiliate button, callout, and quick comparison table blocks from the Markdown editor's **+** menu. Raw HTML blocks are rendered as HTML; use them only for trusted content.
@@ -33,11 +46,12 @@ Edit the CSS custom properties at the top of the global styles in `src/layouts/S
 
 The public domain is set to `https://autopet.store` in `astro.config.mjs`; update it there if the production domain changes.
 
-## Publish reviews with Decap CMS
+## Publish with Decap CMS
 
 1. Create a GitHub OAuth App with homepage URL `https://autopet.store` and authorization callback URL `https://autopet.store/api/callback`.
 2. In the Cloudflare Pages project, add `GITHUB_CLIENT_ID` and `GITHUB_CLIENT_SECRET` as environment variables for production. Use the OAuth App's Client ID and Client secret, then redeploy.
 3. Visit `https://autopet.store/admin/` and sign in with a GitHub account that can push to `zynraaitool-sudo/AutoPet`.
-4. Create or edit a review, and publish by leaving **Draft** unchecked. Decap saves the Markdown file in `src/content/reviews`; publishing triggers a Pages build.
+4. Create or edit a product under **Featured Products** or an article under **Reviews & Guides**. New entries start as drafts. Decap saves product files in `src/content/products` and articles in `src/content/reviews`.
+5. To publish an entry, uncheck its **Draft — keep unpublished** field and save. This changes only that entry's publishing status and triggers a Pages build.
 
-The editor fields follow `src/content.config.ts`. New entries start as drafts; uncheck **Draft** to publish. The Markdown body includes image, raw HTML, affiliate button, callout, and quick comparison table blocks.
+The editor fields follow `src/content.config.ts`. Existing article files and their draft status are preserved. Product gallery order follows the order of its CMS image list. Use externally hosted HTTPS MP4 files instead of adding large videos to the repository.
