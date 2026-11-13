@@ -1,9 +1,16 @@
 ---
 name: Smart Timed Pet Feeder with App and Portion Control
 category: automatic-cat-feeders
-description: An AliExpress feeder listing that mentions scheduling, portion control, and mobile remote access. The listing title alone does not verify how these work.
-affiliateUrl: https://s.click.aliexpress.com/e/_c4Om2Sj1
-relatedArticle: smart-feeder-listings-comparison
+catalogVisible: true
+description: An AliExpress feeder listing that mentions scheduling, portion
+  control, and mobile remote access. The listing title alone does not verify how
+  these work.
+image: /images/products/smart-timed-pet-feeder-with-app-and-portion-control/1.webp
+gallery:
+  - /images/products/smart-timed-pet-feeder-with-app-and-portion-control/2.webp
+  - /images/products/smart-timed-pet-feeder-with-app-and-portion-control/3.webp
+  - /images/products/smart-timed-pet-feeder-with-app-and-portion-control/4.webp
+  - /images/products/smart-timed-pet-feeder-with-app-and-portion-control/5.webp
 specifications:
   - name: Listed functions
     value: Timed feeding, portion control, mobile app, remote control
@@ -11,11 +18,15 @@ features:
   - The listing title mentions scheduled and portion-controlled feeding.
   - The seller's title mentions mobile app and remote control.
 pros:
-  - The listing names functions that can be checked in the product manual before purchase.
+  - The listing names functions that can be checked in the product manual before
+    purchase.
 cons:
-  - The listing title does not provide verified portion measurements, app requirements, capacity, or power details.
-  - Confirm the included parts, food compatibility, and exact product option with the seller.
-catalogVisible: true
+  - The listing title does not provide verified portion measurements, app
+    requirements, capacity, or power details.
+  - Confirm the included parts, food compatibility, and exact product option
+    with the seller.
+affiliateUrl: https://s.click.aliexpress.com/e/_c41WTxIF
+relatedArticle: smart-feeder-listings-comparison
 displayOrder: 30
 draft: false
 ---
