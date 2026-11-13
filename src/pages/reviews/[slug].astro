@@ -94,8 +94,8 @@ const articleSchema = {
 
 <style>
   .article-shell { max-width: 1120px; }
-  .featured-image { display: block; width: min(100%, 960px); height: auto; aspect-ratio: 16 / 9; margin: 0 auto 1.5rem; border-radius: var(--card-radius); object-fit: cover; }
-  .article-header { max-width: 780px; margin: auto; }
+  .featured-image { display: block; width: min(100%, 960px); height: auto; aspect-ratio: 16 / 9; margin: 0 auto 1.5rem; border: 1px solid var(--line); border-radius: calc(var(--card-radius) + 0.15rem); object-fit: cover; }
+  .article-header { max-width: 780px; padding: clamp(1.25rem, 3vw, 2rem); margin: auto; border: 1px solid var(--line); border-radius: var(--card-radius); background: linear-gradient(135deg, var(--paper), #f2f4eb); }
   .back-link { font-size: 0.9rem; font-weight: 700; }
   h1 { max-width: 22ch; margin: 0.75rem 0; font-size: clamp(2.15rem, 4.7vw, 3.55rem); overflow-wrap: anywhere; }
   .dek { color: var(--muted-ink); font-size: clamp(1rem, 1.5vw, 1.12rem); }

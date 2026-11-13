@@ -69,6 +69,14 @@ const categories = [
       <div class="category-grid">
         {categories.map((category, index) => (
           <a class="category-card" href={`/category/${category.slug}/`}>
+            <span class="category-icon" aria-hidden="true">
+              <svg viewBox="0 0 32 32" focusable="false">
+                <ellipse cx="9" cy="10" rx="3.1" ry="4.3" transform="rotate(-28 9 10)" />
+                <ellipse cx="16" cy="7.5" rx="3.1" ry="4.3" />
+                <ellipse cx="23" cy="10" rx="3.1" ry="4.3" transform="rotate(28 23 10)" />
+                <path d="M16 14c-4.8 0-9.2 4.1-9.2 8.1 0 2.8 2.4 4.2 5 3.2 2.8-1 5.6-1 8.4 0 2.6 1 5-.4 5-3.2C25.2 18.1 20.8 14 16 14Z" />
+              </svg>
+            </span>
             <span class="category-number">0{index + 1}</span>
             <span class="category-copy">
               <strong>{category.name}</strong>
@@ -119,16 +127,16 @@ const categories = [
 </SiteLayout>
 
 <style>
-  .hero { display: grid; align-items: center; gap: clamp(1.75rem, 4vw, 3.5rem); width: 100%; max-width: var(--site-content-width); padding: clamp(2.5rem, 5vw, 4.25rem) var(--site-content-gutter); margin-inline: auto; }
+  .hero { display: grid; align-items: center; gap: clamp(1.75rem, 4vw, 3.5rem); width: calc(100% - 2 * var(--site-content-gutter)); max-width: calc(var(--site-content-width) - 2 * var(--site-content-gutter)); padding: clamp(1.5rem, 4vw, 3.25rem); margin: clamp(1rem, 2.5vw, 2rem) auto; border: 1px solid #e4e9dc; border-radius: calc(var(--card-radius) + 0.35rem); background: linear-gradient(125deg, #f1f4eb 0%, #fbf8ee 100%); }
   .hero-copy { max-width: 630px; }
   h1 { max-width: 13ch; margin: 0; font-size: clamp(2.2rem, 4vw, 3.5rem); }
   h1 span { color: var(--teal); }
   .intro { max-width: 52ch; margin-block: 1rem 1.4rem; font-size: clamp(1rem, 1.6vw, 1.15rem); line-height: 1.65; }
-  .button-link { display: inline-flex; align-items: center; gap: 0.6rem; min-height: var(--button-height); padding: 0.55rem 1rem; border: 2px solid var(--teal-deep); border-radius: var(--control-radius); background: var(--teal-deep); color: var(--paper); font-size: var(--button-font-size); font-weight: 750; text-decoration: none; transition: background-color 140ms ease, color 140ms ease; }
+  .button-link { display: inline-flex; align-items: center; gap: 0.6rem; min-height: var(--button-height); padding: 0.65rem 1.1rem; border: 2px solid var(--teal-deep); border-radius: var(--control-radius); background: var(--teal-deep); color: var(--paper); font-size: var(--button-font-size); font-weight: 750; text-decoration: none; transition: background-color 140ms ease, color 140ms ease; }
   .button-link:hover { background: transparent; color: var(--teal-deep); }
-  .hero-art { position: relative; width: min(100%, 500px); margin-inline: auto; }
+  .hero-art { position: relative; width: min(100%, 500px); padding: 0.75rem; margin-inline: auto; border-radius: 48% 48% var(--card-radius) var(--card-radius); background: rgb(255 253 247 / 72%); }
   .hero-art img { display: block; width: 100%; height: auto; }
-  .art-note { position: absolute; right: 0.25rem; bottom: 0.75rem; padding: 0.45rem 0.7rem; border-radius: 0.25rem; background: var(--sun); color: var(--ink); font-size: 0.8rem; font-weight: 700; }
+  .art-note { position: absolute; right: 0.25rem; bottom: 0.75rem; padding: 0.45rem 0.7rem; border: 1px solid rgb(215 168 51 / 30%); border-radius: 999px; background: var(--sun); color: var(--ink); font-size: 0.8rem; font-weight: 700; box-shadow: 0 4px 12px rgb(38 59 50 / 8%); }
   .section-shell { width: 100%; max-width: var(--site-content-width); padding-inline: var(--site-content-gutter); margin-inline: auto; }
   .featured-section, .reviews-section { padding-block: var(--section-block-space); }
   .reviews-section { padding-bottom: clamp(1.25rem, 2.4vw, 2rem); }
@@ -142,10 +150,12 @@ const categories = [
   .featured-empty { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 0.75rem 1.5rem; }
   .featured-empty > div { flex: 1 1 25rem; }
   .categories-section { padding-block: var(--section-block-space); background: var(--mist); }
-  .category-grid { display: grid; grid-template-columns: 1fr; gap: 0.75rem; margin-top: 1.25rem; }
-  .category-card { display: grid; grid-template-columns: 2.25rem 1fr auto; align-items: center; gap: 0.8rem; min-height: 88px; padding: 1rem; border: 1px solid var(--line); border-radius: var(--card-radius); background: var(--paper); color: var(--ink); text-decoration: none; transition: border-color 140ms ease, transform 140ms ease; }
-  .category-card:hover { transform: translateY(-2px); border-color: var(--teal); }
-  .category-number { color: var(--teal); font-family: var(--heading-font); font-size: 1.45rem; font-weight: 800; }
+  .category-grid { display: grid; grid-template-columns: 1fr; gap: 0.85rem; margin-top: 1.4rem; }
+  .category-card { position: relative; display: grid; grid-template-columns: 2.5rem 1fr auto; align-items: center; gap: 0.8rem; min-height: 104px; padding: 1rem; border: 1px solid var(--line); border-radius: var(--card-radius); background: var(--paper); color: var(--ink); text-decoration: none; box-shadow: 0 4px 14px rgb(38 59 50 / 4%); transition: border-color 140ms ease, transform 140ms ease, box-shadow 140ms ease; }
+  .category-card:hover { transform: translateY(-2px); border-color: var(--teal); box-shadow: var(--card-shadow); }
+  .category-icon { display: grid; place-items: center; width: 2.5rem; height: 2.5rem; border-radius: 0.8rem; background: var(--mist); color: var(--teal-deep); }
+  .category-icon svg { width: 1.45rem; fill: currentColor; }
+  .category-number { position: absolute; top: 0.65rem; right: 0.75rem; color: #829589; font-size: 0.68rem; font-weight: 800; letter-spacing: 0.06em; }
   .category-copy strong, .category-copy small { display: block; }
   .category-copy strong { font-family: var(--heading-font); font-size: 1.1rem; }
   .category-copy small { margin-top: 0.15rem; color: var(--muted-ink); }
@@ -160,13 +170,14 @@ const categories = [
     .hero { grid-template-columns: 1.05fr 0.95fr; }
     .product-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
     .review-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-    .category-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
-    .category-card { grid-template-columns: 2rem 1fr auto; gap: 0.7rem; padding: 1rem; }
+    .category-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .category-card { grid-template-columns: 2.5rem 1fr auto; gap: 0.75rem; padding: 1rem; }
     .trust-inner { grid-template-columns: 1.2fr 0.8fr; }
   }
   @media (min-width: 1000px) {
     .product-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-    .category-card { grid-template-columns: 2.7rem 1fr auto; gap: 1rem; padding: 1.2rem; }
+    .category-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    .category-card { grid-template-columns: 2.5rem 1fr auto; gap: 0.85rem; padding: 1.15rem; }
   }
   @media (min-width: 1100px) {
     .review-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }

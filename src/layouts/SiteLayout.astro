@@ -47,7 +47,14 @@ const absoluteImage = image ? new URL(image, Astro.site ?? Astro.url).href : und
     <header class="site-header">
       <div class="header-inner">
         <a class="brand" href="/" aria-label="AutoPet home">
-          <span class="brand-mark" aria-hidden="true">a</span><span>AutoPet</span>
+          <span class="brand-mark" aria-hidden="true">
+            <svg viewBox="0 0 32 32" focusable="false">
+              <ellipse cx="9" cy="10" rx="3.1" ry="4.3" transform="rotate(-28 9 10)" />
+              <ellipse cx="16" cy="7.5" rx="3.1" ry="4.3" />
+              <ellipse cx="23" cy="10" rx="3.1" ry="4.3" transform="rotate(28 23 10)" />
+              <path d="M16 14c-4.8 0-9.2 4.1-9.2 8.1 0 2.8 2.4 4.2 5 3.2 2.8-1 5.6-1 8.4 0 2.6 1 5-.4 5-3.2C25.2 18.1 20.8 14 16 14Z" />
+            </svg>
+          </span><span>AutoPet</span>
         </a>
         <button class="menu-toggle" type="button" aria-controls="primary-navigation" aria-expanded="false">
           <span class="menu-toggle-label">Menu</span>
@@ -118,36 +125,36 @@ const absoluteImage = image ? new URL(image, Astro.site ?? Astro.url).href : und
 <style is:global>
   :root {
     color-scheme: light;
-    --ink: #173537;
-    --muted-ink: #435c5d;
-    --teal: #185b5d;
-    --teal-deep: #123f43;
-    --sun: #f2c14e;
-    --sun-deep: #e2aa26;
-    --paper: #fffefa;
-    --mist: #e8f1ed;
-    --line: #c9d8d2;
+    --ink: #263b32;
+    --muted-ink: #52665c;
+    --teal: #3c725b;
+    --teal-deep: #244b3a;
+    --sun: #f3c95b;
+    --sun-deep: #d7a833;
+    --paper: #fffdf7;
+    --mist: #e8efe7;
+    --line: #d4dfd4;
     --site-content-width: 1200px;
     --site-content-gutter: clamp(1rem, 3vw, 1.5rem);
     --page-block-space: clamp(2rem, 4vw, 3.25rem);
     --section-block-space: clamp(2rem, 3.75vw, 3.25rem);
-    --card-radius: 0.5rem;
-    --card-shadow: 0 8px 24px rgb(23 53 55 / 7%);
-    --card-shadow-hover: 0 14px 30px rgb(23 53 55 / 11%);
+    --card-radius: 0.85rem;
+    --card-shadow: 0 8px 24px rgb(38 59 50 / 6%);
+    --card-shadow-hover: 0 14px 30px rgb(38 59 50 / 11%);
     --card-padding: clamp(1rem, 1.6vw, 1.25rem);
-    --control-radius: 0.35rem;
+    --control-radius: 0.5rem;
     --button-height: 2.75rem;
     --button-font-size: 0.9rem;
     --heading-font: "Trebuchet MS", "Avenir Next", sans-serif;
     --body-font: "Segoe UI", "Helvetica Neue", sans-serif;
     font-family: var(--body-font);
     color: var(--ink);
-    background: var(--paper);
+    background: #fbfaf4;
     font-synthesis: none;
     text-rendering: optimizeLegibility;
   }
   *, *::before, *::after { box-sizing: border-box; }
-  body { margin: 0; line-height: 1.6; }
+  body { margin: 0; line-height: 1.65; }
   a { color: var(--teal); }
   a:hover { color: var(--teal-deep); }
   a:focus-visible, button:focus-visible { outline: 3px solid var(--sun-deep); outline-offset: 4px; }
@@ -169,7 +176,7 @@ const absoluteImage = image ? new URL(image, Astro.site ?? Astro.url).href : und
   .content-card h3 a { color: var(--ink); text-decoration: none; text-underline-offset: 4px; }
   .content-card h3 a:hover { color: var(--teal); text-decoration: underline; }
   .content-card .card-description { display: -webkit-box; overflow: hidden; margin: 0 0 0.75rem; color: var(--muted-ink); font-size: 0.92rem; line-height: 1.55; -webkit-box-orient: vertical; -webkit-line-clamp: 3; }
-  .content-card .card-link { display: inline-flex; min-height: var(--button-height); align-items: center; gap: 0.45rem; margin-top: 0.15rem; padding: 0.55rem 0.8rem; border-radius: var(--control-radius); background: var(--sun); color: var(--teal-deep); font-size: var(--button-font-size); font-weight: 750; text-decoration: none; }
+  .content-card .card-link { display: inline-flex; min-height: var(--button-height); align-items: center; gap: 0.45rem; margin-top: 0.15rem; padding: 0.55rem 0.9rem; border-radius: var(--control-radius); background: var(--sun); color: var(--teal-deep); font-size: var(--button-font-size); font-weight: 750; text-decoration: none; transition: background-color 140ms ease, color 140ms ease; }
   .content-card .card-link:hover { background: var(--teal-deep); color: var(--paper); }
   .empty-state { padding: clamp(1.15rem, 2.5vw, 1.75rem); border: 1px solid var(--line); border-left: 4px solid var(--sun-deep); border-radius: var(--card-radius); background: linear-gradient(110deg, var(--mist), var(--paper)); color: var(--muted-ink); }
   .empty-state h2 { margin: 0 0 0.4rem; color: var(--ink); font-size: clamp(1.25rem, 2vw, 1.6rem); }
@@ -183,10 +190,10 @@ const absoluteImage = image ? new URL(image, Astro.site ?? Astro.url).href : und
   .skip-link:focus { transform: translateY(0); }
   .site-header { position: relative; z-index: 5; border-bottom: 1px solid var(--line); background: var(--paper); }
   .header-inner, .footer-inner { width: 100%; max-width: var(--site-content-width); padding-inline: var(--site-content-gutter); margin-inline: auto; }
-  .header-inner { min-height: 4.5rem; display: flex; justify-content: space-between; align-items: center; gap: 1.5rem; }
-  .brand { display: inline-flex; align-items: center; gap: 0.6rem; color: var(--ink); font-family: var(--heading-font); font-size: 1.4rem; font-weight: 800; text-decoration: none; }
-  .brand-mark { display: grid; place-items: center; width: 2rem; height: 2rem; border-radius: 50% 50% 50% 0; transform: rotate(-45deg); background: var(--sun); color: var(--ink); }
-  .brand-mark::first-letter { transform: rotate(45deg); }
+  .header-inner { min-height: 4.75rem; display: flex; justify-content: space-between; align-items: center; gap: 1.5rem; }
+  .brand { display: inline-flex; align-items: center; gap: 0.65rem; color: var(--ink); font-family: var(--heading-font); font-size: 1.45rem; font-weight: 800; text-decoration: none; }
+  .brand-mark { display: grid; place-items: center; width: 2.2rem; height: 2.2rem; border-radius: 0.75rem; background: var(--sun); color: var(--teal-deep); }
+  .brand-mark svg { width: 1.3rem; fill: currentColor; }
   .primary-nav { display: flex; align-items: center; gap: 0.35rem; }
   .primary-nav a { padding: 0.55rem 0.8rem; border-radius: var(--control-radius); color: var(--ink); font-size: var(--button-font-size); font-weight: 650; text-decoration: none; transition: background-color 140ms ease, color 140ms ease; }
   .primary-nav a:hover { background: var(--mist); color: var(--teal-deep); }

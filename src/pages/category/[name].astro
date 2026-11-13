@@ -90,19 +90,20 @@ const products = (await getCollection("products", ({ data }) => !data.draft && d
 </SiteLayout>
 
 <style>
-  .category-page { width: min(920px, calc(100% - 2rem)); margin: auto; padding-block: 3rem; }
+  .category-page { width: min(var(--site-content-width), calc(100% - 2 * var(--site-content-gutter))); margin: auto; padding-block: var(--page-block-space); }
   .back-link { font-size: 0.9rem; font-weight: 700; }
   .eyebrow { margin: 2rem 0 0.4rem; color: var(--teal); font-weight: 750; }
   h1 { margin: 0; }
   .intro { color: var(--muted-ink); font-size: 1.15rem; }
   .review-list { margin-top: 2rem; border-top: 1px solid var(--line); }
-  article { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 1rem; padding: 1.4rem 0; border-bottom: 1px solid var(--line); }
+  .review-list article { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 1rem; padding: 1.4rem; border: 1px solid var(--line); border-radius: var(--card-radius); background: var(--paper); box-shadow: var(--card-shadow); }
+  .review-list { display: grid; gap: 0.8rem; margin-top: 2rem; }
   article h2 { margin: 0.2rem 0; font-size: 1.5rem; }
   article h2 a { color: var(--ink); text-decoration: none; }
   article p { margin: 0.3rem 0; color: var(--muted-ink); }
   .date { font-size: 0.88rem; }
   .read-link { font-weight: 750; white-space: nowrap; }
-  .empty-state { margin-top: 2rem; padding: 1.5rem; border-left: 4px solid var(--sun-deep); background: var(--mist); }
+  .empty-state { margin-top: 2rem; padding: 1.5rem; border-left: 4px solid var(--sun-deep); border-radius: var(--card-radius); background: var(--mist); }
   .category-products { margin-top: 2rem; }
   .product-grid { display: grid; grid-template-columns: minmax(0, 1fr); gap: 1rem; }
   @media (min-width: 700px) { .product-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }

@@ -132,5 +132,6 @@ const canonical = new URL("/products/", Astro.site).href;
   .product-grid-item[hidden] { display: none; }
   @media (min-width: 640px) { .catalog-tools { grid-template-columns: 2fr 1.2fr 1.2fr; } }
   @media (min-width: 700px) { .product-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+  @media (min-width: 960px) { .product-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
   @media (min-width: 1280px) { .product-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
 </style>

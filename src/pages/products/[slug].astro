@@ -185,7 +185,7 @@ const relatedProducts = (await getCollection("products", ({ data }) => !data.dra
 
 <style>
   .back-link { font-size: 0.9rem; font-weight: 700; }
-  .product-header { max-width: 780px; margin: 1.5rem auto; }
+  .product-header { max-width: 780px; padding: clamp(1.25rem, 3vw, 2rem); margin: 1.5rem auto; border: 1px solid var(--line); border-radius: var(--card-radius); background: linear-gradient(135deg, var(--paper), #f2f4eb); }
   .eyebrow a { color: inherit; }
   h1 { margin: 0; font-size: clamp(2.15rem, 4.7vw, 3.55rem); overflow-wrap: anywhere; }
   .intro { font-size: clamp(1rem, 1.5vw, 1.12rem); }
@@ -195,10 +195,10 @@ const relatedProducts = (await getCollection("products", ({ data }) => !data.dra
   .buy-button:hover { background: var(--teal-deep); color: var(--paper); }
   .affiliate-note { margin: 0.6rem 0 0; color: var(--muted-ink); font-size: 0.84rem; }
   .gallery-section { max-width: 900px; margin: 1.5rem auto 2.25rem; }
-  .gallery-main { overflow: hidden; width: 100%; aspect-ratio: 16 / 10; border-radius: var(--card-radius); background: var(--mist); }
+  .gallery-main { overflow: hidden; width: 100%; aspect-ratio: 16 / 10; border: 1px solid var(--line); border-radius: var(--card-radius); background: linear-gradient(145deg, var(--mist), #f7f4e8); }
   .gallery-main img { display: block; width: 100%; height: 100%; object-fit: contain; }
   .gallery-thumbnails { display: flex; gap: 0.75rem; overflow-x: auto; padding: 0.75rem 0.1rem; }
-  .thumbnail { flex: 0 0 5rem; overflow: hidden; width: 5rem; aspect-ratio: 1; padding: 0; border: 2px solid transparent; border-radius: 0.25rem; background: var(--mist); cursor: pointer; }
+  .thumbnail { flex: 0 0 5rem; overflow: hidden; width: 5rem; aspect-ratio: 1; padding: 0; border: 2px solid transparent; border-radius: var(--control-radius); background: var(--mist); cursor: pointer; }
   .thumbnail.selected { border-color: var(--teal); }
   .thumbnail img { width: 100%; height: 100%; object-fit: cover; }
   .video-section { max-width: 850px; margin: 2rem auto; }
@@ -216,7 +216,7 @@ const relatedProducts = (await getCollection("products", ({ data }) => !data.dra
   .spec-list dt { font-weight: 750; }
   .spec-list dd { margin: 0; color: var(--muted-ink); }
   .pros-cons { display: grid; grid-template-columns: 1fr; gap: 1.5rem; }
-  .related-article { padding: 1.25rem; border-left: 4px solid var(--sun-deep); background: var(--mist); }
+  .related-article { padding: 1.25rem; border: 1px solid var(--line); border-left: 4px solid var(--sun-deep); border-radius: 0 var(--card-radius) var(--card-radius) 0; background: var(--mist); }
   .related-article a { font-weight: 750; }
   .related-article p { margin-bottom: 0; color: var(--muted-ink); }
   .prose :global(p), .prose :global(li) { color: var(--muted-ink); }
