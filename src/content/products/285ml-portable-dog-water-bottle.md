@@ -4,10 +4,10 @@ category: dog-walking-travel
 catalogVisible: true
 description: An AliExpress listing for a 285ml portable dog bottle that mentions
   stainless steel and silicone. Confirm capacity, sealing, and cleaning details.
-image: /images/s8316c2b784bd4624948e4369117514adr.png_220x220.png_.avif
+image: /images/1.webp
 gallery:
-  - /images/s382352482bd34cc7baddccbfcc187191m.jpg_220x220q75.jpg_.avif
-  - /images/sb576e3489ae64140af3a4f04e7d9979az.jpg_220x220q75.jpg_.avif
+  - /images/3.webp
+  - /images/2.webp
 specifications:
   - name: Advertised capacity
     value: 285ml, as stated in the listing title
