@@ -1,9 +1,16 @@
 ---
 name: 7L Smart Pet Feeder with Camera and Two Bowls
 category: automatic-cat-feeders
-description: A seller-listed 7L feeder that mentions a camera, two bowls, Wi-Fi app control, and timed feeding. Verify the selected model's exact functions.
-affiliateUrl: https://s.click.aliexpress.com/e/_c3anRYAR
-relatedArticle: automatic-feeders-camera-listing-comparison
+catalogVisible: true
+description: A seller-listed 7L feeder that mentions a camera, two bowls, Wi-Fi
+  app control, and timed feeding. Verify the selected model's exact functions.
+image: /images/products/7l-smart-pet-feeder-with-camera-and-two-bowls/1.webp
+gallery:
+  - /images/products/7l-smart-pet-feeder-with-camera-and-two-bowls/7.webp
+  - /images/products/7l-smart-pet-feeder-with-camera-and-two-bowls/3.webp
+  - /images/products/7l-smart-pet-feeder-with-camera-and-two-bowls/4.webp
+  - /images/products/7l-smart-pet-feeder-with-camera-and-two-bowls/5.webp
+  - /images/products/7l-smart-pet-feeder-with-camera-and-two-bowls/8.webp
 specifications:
   - name: Advertised capacity
     value: 7L, as stated in the listing title
@@ -11,14 +18,19 @@ specifications:
     value: HD camera, two bowls, Wi-Fi app control, two-way audio, timed feeding
 features:
   - The listing title states a 7L capacity and mentions two bowls.
-  - The seller's title lists a camera, Tuya app control, remote monitoring, and two-way audio.
+  - The seller's title lists a camera, Tuya app control, remote monitoring, and
+    two-way audio.
   - The listing title mentions timed feeding.
 pros:
-  - The listing identifies several features shoppers can verify against the exact product option.
+  - The listing identifies several features shoppers can verify against the
+    exact product option.
 cons:
-  - The title does not establish how portions are divided between bowls or which functions work in every variant.
-  - Verify network requirements, app availability, cleaning instructions, and backup power with the seller.
-catalogVisible: true
+  - The title does not establish how portions are divided between bowls or which
+    functions work in every variant.
+  - Verify network requirements, app availability, cleaning instructions, and
+    backup power with the seller.
+affiliateUrl: https://s.click.aliexpress.com/e/_c3IPcqjv
+relatedArticle: automatic-feeders-camera-listing-comparison
 displayOrder: 20
 draft: false
 ---
