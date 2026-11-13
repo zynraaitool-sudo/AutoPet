@@ -20,7 +20,7 @@ New CMS entries default to drafts. Save a draft to keep it private; when it is r
 
 Products support direct `productUrl` links and optional tracked `affiliateUrl` links; when both are present, the affiliate URL is used. Affiliate disclosures appear only for tracked links. Images are optional; add only materials you have permission to publish. Product copy identifies seller claims and does not imply hands-on testing unless testing was actually performed. Product pages may include an ordered image gallery, HTTP(S) YouTube/MP4 video links, specifications, features, pros and cons, optional price, and an optional link to a published article. Host large video files externally; do not commit them to Git.
 
-The Decap CMS has separate **Products** and **Reviews & Guides** sections. Sign in at `/admin/` as described in [Publish with Decap CMS](#publish-with-decap-cms).
+The Decap CMS has separate **Products** and **Reviews & Guides** sections. Product images are stored in a folder named for each product, so uploading an image with the same filename for another product will not replace it. Sign in at `/admin/` as described in [Publish with Decap CMS](#publish-with-decap-cms).
 
 ## Add an article
 
