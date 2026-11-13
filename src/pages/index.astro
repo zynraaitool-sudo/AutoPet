@@ -133,7 +133,7 @@ const categories = [
   .section-heading { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: end; gap: 0.8rem 1rem; margin-bottom: clamp(1rem, 2vw, 1.5rem); }
   .section-heading h2, .categories-section h2, .trust-section h2 { margin: 0; }
   .product-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr)); gap: 1rem; }
-  .review-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 30rem), 1fr)); gap: 1rem; max-width: 1060px; }
+  .review-grid { display: grid; grid-template-columns: 1fr; gap: 1rem; }
   .text-link { display: inline-flex; align-items: center; gap: 0.45rem; min-height: var(--button-height); padding: 0.55rem 0.8rem; border-radius: var(--control-radius); background: var(--sun); color: var(--teal-deep); font-size: var(--button-font-size); font-weight: 750; text-decoration: none; transition: background-color 140ms ease, color 140ms ease; }
   .text-link:hover { background: var(--teal-deep); color: var(--paper); }
   .featured-empty { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 0.75rem 1.5rem; }
@@ -156,13 +156,17 @@ const categories = [
   @media (min-width: 700px) {
     .hero { grid-template-columns: 1.05fr 0.95fr; }
     .product-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .review-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
     .category-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
     .category-card { grid-template-columns: 2rem 1fr auto; gap: 0.7rem; padding: 1rem; }
     .trust-inner { grid-template-columns: 1.2fr 0.8fr; }
   }
   @media (min-width: 1000px) {
-    .product-grid { grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr)); }
+    .product-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
     .category-card { grid-template-columns: 2.7rem 1fr auto; gap: 1rem; padding: 1.2rem; }
+  }
+  @media (min-width: 1100px) {
+    .review-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
   }
   @media (prefers-reduced-motion: reduce) {
     *, *::before, *::after { scroll-behavior: auto !important; transition-duration: 0.01ms !important; }

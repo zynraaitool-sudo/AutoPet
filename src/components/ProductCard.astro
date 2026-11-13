@@ -25,7 +25,14 @@ const categoryTitle = category.replaceAll("-", " ").replace(/\b\w/g, (letter) =>
 
 <style>
   .product-card { display: flex; flex-direction: column; }
-  .product-image-link { display: block; overflow: hidden; width: 100%; aspect-ratio: 16 / 10; background: var(--mist); }
+  .product-image-link { display: block; overflow: hidden; width: 100%; aspect-ratio: 2 / 1; background: var(--mist); }
   .product-image-link img { display: block; width: 100%; height: 100%; object-fit: contain; }
-  .price { margin: 0 0 0.8rem; color: var(--ink); font-weight: 750; }
+  .product-card .card-content { flex: 1; }
+  .product-card .card-link { margin-top: auto; }
+  .price { margin: 0 0 0.65rem; color: var(--ink); font-weight: 750; }
+  @media (min-width: 1000px) {
+    .product-card { display: grid; grid-template-columns: minmax(0, 0.34fr) minmax(0, 0.66fr); align-items: stretch; }
+    .product-image-link { align-self: stretch; height: 100%; aspect-ratio: auto; }
+    .product-image-link img { height: 100%; }
+  }
 </style>
