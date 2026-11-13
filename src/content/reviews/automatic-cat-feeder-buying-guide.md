@@ -1,10 +1,12 @@
 ---
 title: "Automatic Cat Feeder Buying Guide: Questions to Check"
-description: A practical checklist for comparing feeder capacity, schedules, food compatibility, power, cleaning, and seller claims before buying.
+description: A practical checklist for comparing feeder capacity, schedules,
+  food compatibility, power, cleaning, and seller claims before buying.
 date: 2026-11-13
 updated: 2026-11-13
 category: automatic-cat-feeders
 articleType: buying-guide
+image: /images/autopet-cat-feeder-guide-optimized.webp
 draft: false
 ---
 
