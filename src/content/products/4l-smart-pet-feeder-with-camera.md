@@ -8,9 +8,6 @@ image: /images/1.webp
 gallery:
   - /images/2.webp
   - /images/3.webp
-  - /images/4.webp
-  - /images/5.webp
-  - /images/6.webp
 specifications:
   - name: Advertised capacity
     value: 4L, as stated in the listing title
