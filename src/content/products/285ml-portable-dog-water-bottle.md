@@ -1,9 +1,13 @@
 ---
 name: 285ml Portable Dog Water Bottle
 category: dog-walking-travel
-description: An AliExpress listing for a 285ml portable dog bottle that mentions stainless steel and silicone. Confirm capacity, sealing, and cleaning details.
-productUrl: https://www.aliexpress.com/item/1005012195196824.html
-relatedArticle: portable-dog-water-bottle-listing-guide
+catalogVisible: true
+description: An AliExpress listing for a 285ml portable dog bottle that mentions
+  stainless steel and silicone. Confirm capacity, sealing, and cleaning details.
+image: /images/s8316c2b784bd4624948e4369117514adr.png_220x220.png_.avif
+gallery:
+  - /images/s382352482bd34cc7baddccbfcc187191m.jpg_220x220q75.jpg_.avif
+  - /images/sb576e3489ae64140af3a4f04e7d9979az.jpg_220x220q75.jpg_.avif
 specifications:
   - name: Advertised capacity
     value: 285ml, as stated in the listing title
@@ -11,13 +15,17 @@ specifications:
     value: Stainless steel and silicone, as stated by the seller
 features:
   - The listing title describes a portable dog water bottle.
-  - The seller title states a 285ml capacity and mentions stainless steel and silicone.
+  - The seller title states a 285ml capacity and mentions stainless steel and
+    silicone.
 pros:
-  - The stated capacity is useful for comparing the listing with your outing needs.
+  - The stated capacity is useful for comparing the listing with your outing
+    needs.
 cons:
-  - The exact material placement, leak resistance, cleaning instructions, and replacement-part availability are unverified.
+  - The exact material placement, leak resistance, cleaning instructions, and
+    replacement-part availability are unverified.
   - Confirm the selected variant and dimensions with the seller.
-catalogVisible: true
+productUrl: https://s.click.aliexpress.com/e/_c3Bom8u7
+relatedArticle: portable-dog-water-bottle-listing-guide
 displayOrder: 90
 draft: false
 ---
