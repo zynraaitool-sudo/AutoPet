@@ -13,12 +13,12 @@ AutoPet is a static Astro site for practical smart-pet product reviews. It build
 
 Products and editorial articles are separate content collections with separate draft flags and publishing lifecycles:
 
-- **Products** are Markdown files in `src/content/products/`. A published product has a public detail page at `/products/<slug>/` when `draft: false`. Set `catalogVisible: false` to keep that page and its URL while excluding the item from the curated catalog and homepage.
+- **Products** are Markdown files in `src/content/products/`. A published product has a public detail page at `/products/<slug>/` when `draft: false`. Set `catalogVisible: false` to keep that page and its URL while excluding the item from the curated catalog and homepage. Product categories include feeders, fountains, grooming, dog walking/travel, and interactive cat toys.
 - **Reviews & Guides** remain Markdown files in `src/content/reviews/`. Their existing `/reviews/<slug>/` URLs are unchanged; published articles appear in `/reviews/` and on the homepage only when `draft: false`.
 
 New CMS entries default to drafts. Save a draft to keep it private; when it is ready, uncheck its own **Draft — keep unpublished** field to publish it. Product and article drafts do not publish one another. The sitemap is generated from public routes, so drafts are excluded.
 
-Products support automatic-feeder, water-fountain, smart-litter-box, and pet-inspired-toy categories; an ordered image gallery; HTTP(S) YouTube/MP4 video links; specifications, features, pros and cons; optional price and affiliate link; and an optional link to a published article. Host large video files externally; do not commit them to Git.
+Products support direct `productUrl` links and optional tracked `affiliateUrl` links; when both are present, the affiliate URL is used. Affiliate disclosures appear only for tracked links. Images are optional; add only materials you have permission to publish. Product copy identifies seller claims and does not imply hands-on testing unless testing was actually performed. Product pages may include an ordered image gallery, HTTP(S) YouTube/MP4 video links, specifications, features, pros and cons, optional price, and an optional link to a published article. Host large video files externally; do not commit them to Git.
 
 The Decap CMS has separate **Products** and **Reviews & Guides** sections. Sign in at `/admin/` as described in [Publish with Decap CMS](#publish-with-decap-cms).
 
@@ -26,7 +26,7 @@ The Decap CMS has separate **Products** and **Reviews & Guides** sections. Sign 
 
 1. Create a Markdown file in `src/content/reviews/`, for example `quiet-pet-fountain.md`.
 2. Add the required frontmatter: `title`, `description`, `date`, `category`, and `draft`. `updated`, featured image fields, quick verdict, products, pros, cons, and FAQs are optional. See `automatic-cat-feeder-listings-and-buying-guide.md` for an example.
-3. Write the article body in Markdown. Comparison entries need `name` and `priceRange`; `features`, `rating` (0–5), `ratingNote`, `image`, and a valid retailer `url` are optional.
+3. Write the article body in Markdown. Comparison entries need `name` and `priceRange`; `features`, `rating` (0–5), `ratingNote`, `image`, and a valid retailer `url` are optional. Set `affiliate: false` on a direct retailer URL; tracked links default to affiliate.
 4. Set `draft: true` while working. Draft reviews are excluded from category pages, home, the editorial listing, and article routes; change it to `false` when ready to publish.
 5. Before publishing, replace affiliate placeholders listed in `TODO.md`, then run `npm run build`.
 

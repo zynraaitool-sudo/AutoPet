@@ -12,9 +12,16 @@ const categoryTitle = category.replaceAll("-", " ").replace(/\b\w/g, (letter) =>
 ---
 
 <article class:list={["content-card", "product-card", `product-card-${variant}`]}>
-  <a class="product-image-link" href={`/products/${product.id}/`} aria-label={`View ${name}`}>
-    <img src={image ?? "/images/feeder-illustration.svg"} alt={imageAlt ?? name} loading="lazy" />
-  </a>
+  {image ? (
+    <a class="product-image-link" href={`/products/${product.id}/`} aria-label={`View ${name}`}>
+      <img src={image} alt={imageAlt ?? name} loading="lazy" />
+    </a>
+  ) : (
+    <div class="product-image-placeholder" aria-hidden="true">
+      <span>{categoryTitle}</span>
+      <small>Product image not provided</small>
+    </div>
+  )}
   <div class="card-content">
     <p class="card-category">{categoryTitle}</p>
     <h3><a href={`/products/${product.id}/`}>{name}</a></h3>
@@ -26,6 +33,9 @@ const categoryTitle = category.replaceAll("-", " ").replace(/\b\w/g, (letter) =>
 
 <style>
   .product-card { display: flex; flex-direction: column; }
+  .product-image-placeholder { display: flex; min-height: 9rem; flex-direction: column; align-items: center; justify-content: center; gap: 0.4rem; padding: 1.25rem; background: linear-gradient(135deg, var(--mist), #f7f4e8); color: var(--teal-deep); text-align: center; text-transform: capitalize; }
+  .product-image-placeholder span { font-family: var(--heading-font); font-size: 1.2rem; font-weight: 800; }
+  .product-image-placeholder small { color: var(--muted-ink); font-size: 0.8rem; }
   .product-image-link { display: grid; place-items: center; overflow: hidden; width: 100%; aspect-ratio: 4 / 3; background: var(--mist); }
   .product-image-link img { display: block; width: 100%; height: 100%; padding: 0.75rem; object-fit: contain; }
   .product-card .card-content { flex: 1; }

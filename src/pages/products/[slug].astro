@@ -14,8 +14,9 @@ const { Content } = await render(product);
 const {
   name, category, description, image, imageAlt, gallery, youtubeUrl, videoUrl,
   videoPoster, videoTitle, specifications, features, pros, cons, price, affiliateUrl,
-  relatedArticle, catalogVisible,
+  productUrl, relatedArticle, catalogVisible,
 } = product.data;
+const purchaseUrl = affiliateUrl ?? productUrl;
 const categoryTitle = category.replaceAll("-", " ").replace(/\b\w/g, (letter) => letter.toUpperCase());
 const categoryHref = `/category/${category}/`;
 const canonical = new URL(`/products/${product.id}/`, Astro.site).href;
@@ -37,7 +38,7 @@ const relatedProducts = (await getCollection("products", ({ data }) => !data.dra
   title={`${name} | AutoPet`}
   description={description}
   canonical={canonical}
-  image={image ?? "/images/feeder-illustration.svg"}
+  image={image}
 >
   <article class="page-shell product-page">
     <a class="back-link" href="/products/">← Browse products</a>
@@ -49,12 +50,16 @@ const relatedProducts = (await getCollection("products", ({ data }) => !data.dra
         <p class="catalog-note">This page is kept for reference and is not included in AutoPet's curated pet-care recommendations.</p>
       )}
       {price && <p class="price">{price}</p>}
-      {affiliateUrl && (
+      {purchaseUrl && (
         <>
-          <a class="buy-button" href={affiliateUrl} rel="sponsored nofollow noopener" target="_blank">
-            Check Price on AliExpress <span aria-hidden="true">↗</span>
+          <a class="buy-button" href={purchaseUrl} rel={affiliateUrl ? "sponsored nofollow noopener" : "nofollow noopener"} target="_blank">
+            View on AliExpress <span aria-hidden="true">↗</span>
           </a>
-          <p class="affiliate-note">Affiliate link: AutoPet may earn a commission at no extra cost to you. <a href="/affiliate-disclosure/">Disclosure details</a>.</p>
+          {affiliateUrl ? (
+            <p class="affiliate-note">Affiliate link: AutoPet may earn a commission at no extra cost to you. <a href="/affiliate-disclosure/">Disclosure details</a>.</p>
+          ) : (
+            <p class="affiliate-note">This is a direct product link, not an affiliate link. Listing details and availability may change.</p>
+          )}
         </>
       )}
     </header>

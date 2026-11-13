@@ -2,12 +2,13 @@
 interface Props {
   url: string;
   label?: string;
+  affiliate?: boolean;
 }
 
-const { url, label = "Check price" } = Astro.props;
+const { url, label = "Check price", affiliate = true } = Astro.props;
 ---
 
-<a class="affiliate-button" href={url} target="_blank" rel="sponsored nofollow noopener">{label}</a>
+<a class="affiliate-button" href={url} target="_blank" rel={affiliate ? "sponsored nofollow noopener" : "nofollow noopener"}>{label}</a>
 
 <style>
   .affiliate-button {

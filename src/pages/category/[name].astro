@@ -20,6 +20,18 @@ const labels: Record<string, { title: string; description: string }> = {
     title: "Pet-inspired toys for children",
     description: "Children's toys inspired by pets. These products are not pet-care equipment or toys intended for animals.",
   },
+  "pet-grooming": {
+    title: "Pet grooming",
+    description: "Compare seller-listed grooming tools and check their intended use, size, and care instructions.",
+  },
+  "dog-walking-travel": {
+    title: "Dog walking and travel",
+    description: "Review seller-listed walking and travel accessories, with attention to sizing, fit, and product limitations.",
+  },
+  "interactive-cat-toys": {
+    title: "Interactive cat toys",
+    description: "Compare interactive play products and check age, parts, charging, and supervision guidance.",
+  },
 };
 
 export function getStaticPaths() {
@@ -28,6 +40,9 @@ export function getStaticPaths() {
     { params: { name: "pet-water-fountains" } },
     { params: { name: "smart-litter-boxes" } },
     { params: { name: "pet-inspired-toys" } },
+    { params: { name: "pet-grooming" } },
+    { params: { name: "dog-walking-travel" } },
+    { params: { name: "interactive-cat-toys" } },
   ];
 }
 
@@ -69,7 +84,7 @@ const products = (await getCollection("products", ({ data }) => !data.draft && d
         ))}
       </div>
     ) : reviews.length === 0 && products.length === 0 ? (
-      <div class="empty-state"><p>We're researching this category now. Check back soon for considered recommendations and hands-on buying advice.</p></div>
+      <div class="empty-state"><p>No products or guides are published in this category yet. Browse <a href="/products/">available product listings</a> or return when new research is available.</p></div>
     ) : null}
   </section>
 </SiteLayout>

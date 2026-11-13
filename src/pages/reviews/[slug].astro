@@ -17,6 +17,9 @@ const categoryLabels: Record<string, string> = {
   "automatic-cat-feeders": "Automatic cat feeders",
   "pet-water-fountains": "Pet water fountains",
   "smart-litter-boxes": "Smart litter boxes",
+  "pet-grooming": "Pet grooming",
+  "dog-walking-travel": "Dog walking & travel",
+  "interactive-cat-toys": "Interactive cat toys",
 };
 const categoryLabel = categoryLabels[category] ?? category;
 const isoDate = date.toISOString();
@@ -36,7 +39,7 @@ const articleSchema = {
 };
 ---
 
-<SiteLayout title={`${title} | AutoPet`} description={description} canonical={canonical} type="article">
+<SiteLayout title={`${title} | AutoPet`} description={description} canonical={canonical} type="article" image={image}>
   <article class="page-shell article-shell">
     {image && <img class="featured-image" src={image} width="1200" height="675" loading="eager" fetchpriority="high" decoding="async" alt={imageAlt ?? title} />}
     <header class="article-header">
@@ -48,7 +51,7 @@ const articleSchema = {
         {updated && <span>Updated <time datetime={isoUpdated}>{updated.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}</time></span>}
         <span>{readingMinutes} min read</span>
       </div>
-      {products.some((product) => product.url) && (
+      {products.some((product) => product.url && product.affiliate) && (
         <p class="disclosure">This article contains affiliate links. If you buy through them, AutoPet may earn a commission at no extra cost to you. <a href="/affiliate-disclosure/">How our links work</a>.</p>
       )}
     </header>
@@ -63,7 +66,7 @@ const articleSchema = {
 
       {products.length > 0 && (
         <section aria-labelledby="comparison-heading">
-          <h2 id="comparison-heading">{productLabel === "Retailer listing" ? "Retailer listing details" : "Compare our top picks"}</h2>
+          <h2 id="comparison-heading">{products.length === 1 ? "Product listing details" : productLabel === "Retailer listing" ? "Retailer listing details" : "Product listings at a glance"}</h2>
           <ProductTable products={products} comparisonTitle={comparisonTitle} productLabel={productLabel} />
         </section>
       )}

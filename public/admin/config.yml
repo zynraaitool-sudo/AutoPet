@@ -43,6 +43,9 @@ collections:
           - pet-water-fountains
           - smart-litter-boxes
           - pet-inspired-toys
+          - pet-grooming
+          - dog-walking-travel
+          - interactive-cat-toys
       - label: Show in curated catalog
         name: catalogVisible
         widget: boolean
@@ -54,7 +57,7 @@ collections:
       - label: Main image
         name: image
         widget: image
-        required: true
+        required: false
       - label: Image alt text
         name: imageAlt
         widget: string
@@ -128,11 +131,16 @@ collections:
         name: price
         widget: string
         required: false
-      - label: AliExpress affiliate URL
+      - label: AliExpress product URL
+        name: productUrl
+        widget: string
+        required: false
+        hint: Enter a complete product URL when no affiliate link is available.
+      - label: Affiliate URL
         name: affiliateUrl
         widget: string
-        required: true
-        hint: Enter the complete affiliate URL, including https://.
+        required: false
+        hint: If supplied, this tracked URL is used instead of the regular product URL.
       - label: Linked review slug
         name: relatedArticle
         widget: relation
@@ -199,6 +207,9 @@ collections:
           - automatic-cat-feeders
           - pet-water-fountains
           - smart-litter-boxes
+          - pet-grooming
+          - dog-walking-travel
+          - interactive-cat-toys
       - label: Article type
         name: articleType
         widget: select
@@ -273,7 +284,13 @@ collections:
           - label: URL
             name: url
             widget: string
-            hint: Enter a complete URL, including https://
+            required: false
+            hint: Enter a complete product URL, including https://
+          - label: Affiliate link
+            name: affiliate
+            widget: boolean
+            default: true
+            hint: Turn off for a regular product link without referral tracking.
       - label: Pros
         name: pros
         widget: list

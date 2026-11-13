@@ -18,14 +18,14 @@ const canonical = new URL("/reviews/", Astro.site).href;
 
 <SiteLayout
   title="Reviews & Guides | AutoPet"
-  description="Read AutoPet's published product reviews, buying guides, comparisons, and practical pet care articles."
+  description="Read transparent product-listing summaries, comparisons, and practical buying guides for pet care."
   canonical={canonical}
 >
   <section class="page-shell editorial">
     <header class="page-heading">
       <p class="eyebrow">Research without the noise</p>
       <h1>Reviews &amp; Guides</h1>
-      <p class="intro">Independent reviews and practical guides to help you choose better technology and care for your pets.</p>
+      <p class="intro">Listing-based research and practical guides help you compare products and verify seller claims before buying.</p>
     </header>
 
     {articles.length > 0 && (
@@ -123,5 +123,5 @@ const canonical = new URL("/reviews/", Astro.site).href;
   .article-grid-item[hidden] { display: none; }
   @media (min-width: 640px) { .editorial-tools { grid-template-columns: 2fr 1.2fr 1.2fr; } }
   @media (min-width: 700px) { .article-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
-  @media (min-width: 1100px) { .article-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+  @media (min-width: 1280px) { .article-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
 </style>

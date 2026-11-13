@@ -90,7 +90,6 @@ faqs:
       details and retailer ratings can change and are not independent tests.
 draft: false
 ---
-# Automatic Cat Feeders in 2026: Product Listings and Buying Guide
 
 An automatic feeder may fit some household routines, but product names and seller claims do not establish reliability, portion accuracy, or compatibility with your cat's food.
 

@@ -38,6 +38,7 @@ const reviews = defineCollection({
           ratingNote: z.preprocess(emptyToUndefined, z.string().optional()),
           url: z.preprocess(emptyToUndefined, z.string().url().optional()),
           image: z.preprocess(emptyToUndefined, z.string().optional()),
+          affiliate: z.boolean().default(true),
         }),
       ),
     ),
@@ -64,9 +65,12 @@ const products = defineCollection({
       "pet-water-fountains",
       "smart-litter-boxes",
       "pet-inspired-toys",
+      "pet-grooming",
+      "dog-walking-travel",
+      "interactive-cat-toys",
     ]),
     description: z.string().min(1),
-    image: z.string().min(1),
+    image: z.preprocess(emptyToUndefined, z.string().optional()),
     imageAlt: z.preprocess(emptyToUndefined, z.string().optional()),
     gallery: z.preprocess(emptyToArray, z.array(z.string()).default([])),
     youtubeUrl: z.preprocess(
@@ -87,11 +91,15 @@ const products = defineCollection({
     pros: z.preprocess(emptyToArray, z.array(z.string()).default([])),
     cons: z.preprocess(emptyToArray, z.array(z.string()).default([])),
     price: z.preprocess(emptyToUndefined, z.string().optional()),
-    affiliateUrl: safeHttpUrl,
+    productUrl: z.preprocess(emptyToUndefined, safeHttpUrl.optional()),
+    affiliateUrl: z.preprocess(emptyToUndefined, safeHttpUrl.optional()),
     relatedArticle: z.preprocess(emptyToUndefined, z.string().optional()),
     catalogVisible: z.boolean().default(true),
     displayOrder: z.coerce.number().int().default(100),
     draft: z.boolean().default(true),
+  }).refine((product) => Boolean(product.productUrl || product.affiliateUrl), {
+    message: "Add a product URL or an affiliate URL",
+    path: ["productUrl"],
   }),
 });
 

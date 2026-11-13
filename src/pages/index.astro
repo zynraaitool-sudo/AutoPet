@@ -6,27 +6,30 @@ import SiteLayout from "../layouts/SiteLayout.astro";
 
 const reviews = (await getCollection("reviews", ({ data }) => !data.draft))
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
-const latestReviews = reviews.slice(0, 4);
+const latestReviews = reviews.slice(0, 6);
 const featuredProducts = (await getCollection("products", ({ data }) => !data.draft && data.catalogVisible))
   .sort((a, b) => a.data.displayOrder - b.data.displayOrder || a.data.name.localeCompare(b.data.name))
   .slice(0, 4);
 const categories = [
-  { name: "Automatic Cat Feeders", slug: "automatic-cat-feeders", note: "Thoughtful feeding routines, made simpler" },
-  { name: "Pet Water Fountains", slug: "pet-water-fountains", note: "A clearer look at everyday hydration" },
-  { name: "Smart Litter Boxes", slug: "smart-litter-boxes", note: "A practical guide to more convenient cleanup" },
+  { name: "Automatic Cat Feeders", slug: "automatic-cat-feeders", note: "Compare seller-listed feeding features" },
+  { name: "Pet Water Fountains", slug: "pet-water-fountains", note: "Explore current listing details" },
+  { name: "Pet Grooming", slug: "pet-grooming", note: "Tools for everyday coat care" },
+  { name: "Dog Walking & Travel", slug: "dog-walking-travel", note: "Check fit, sizing, and travel details" },
+  { name: "Interactive Cat Toys", slug: "interactive-cat-toys", note: "Compare enrichment and play products" },
 ];
 
 ---
 
 <SiteLayout
   title="AutoPet | Thoughtful reviews for smarter pet care"
-  description="Independent, practical reviews of smart pet gadgets. Find the right automatic feeder and make a more confident choice for your cat."
+  description="Transparent research and practical guides for comparing pet-care products and their seller-listed features."
+  image="/images/feeder-illustration.svg"
 >
   <section class="hero">
     <div class="hero-copy">
       <p class="eyebrow">Practical gear. Happier routines.</p>
       <h1>Better Pet Care Starts With <span>Smarter Choices.</span></h1>
-      <p class="intro">Honest reviews and practical guides to help you choose better technology for your pets.</p>
+      <p class="intro">Clear product research and practical guides to help you compare pet-care products and verify seller claims.</p>
       <a class="button-link" href="/products/">Browse Pet Products <span aria-hidden="true">→</span></a>
     </div>
     <div class="hero-art">
@@ -38,7 +41,7 @@ const categories = [
   <section class="section-shell featured-section" id="featured-products" aria-labelledby="featured-heading">
     <div class="section-heading">
       <div>
-        <p class="eyebrow">Considered recommendations</p>
+        <p class="eyebrow">AliExpress product listings</p>
         <h2 id="featured-heading">Featured products</h2>
       </div>
       <a class="text-link section-browse-link" href="/products/">Browse All Products <span aria-hidden="true">→</span></a>

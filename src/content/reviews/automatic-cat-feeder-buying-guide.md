@@ -5,8 +5,6 @@ date: 2026-11-13
 updated: 2026-11-13
 category: automatic-cat-feeders
 articleType: buying-guide
-image: /images/s07073ce7b99c43a0b9cd1f0e553f1256x.jpg_220x220q75.jpg_.avif
-imageAlt: Automatic pet feeder shown in a product listing
 draft: false
 ---
 
