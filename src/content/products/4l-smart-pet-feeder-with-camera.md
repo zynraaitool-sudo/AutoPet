@@ -4,13 +4,13 @@ category: automatic-cat-feeders
 catalogVisible: true
 description: An AliExpress listing for a 4L timed dry-food feeder that mentions
   a camera and app control. Check the exact model and functions before buying.
-image: /images/1.webp
+image: /images/products/4l-smart-pet-feeder-with-camera/1.webp
 gallery:
-  - /images/2.webp
-  - /images/3.webp
-  - /images/4.webp
-  - /images/5.webp
-  - /images/6.webp
+  - /images/products/4l-smart-pet-feeder-with-camera/2.webp
+  - /images/products/4l-smart-pet-feeder-with-camera/3.webp
+  - /images/products/4l-smart-pet-feeder-with-camera/4.webp
+  - /images/products/4l-smart-pet-feeder-with-camera/5.webp
+  - /images/products/4l-smart-pet-feeder-with-camera/6.webp
 specifications:
   - name: Advertised capacity
     value: 4L, as stated in the listing title
