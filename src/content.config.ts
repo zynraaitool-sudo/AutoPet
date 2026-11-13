@@ -59,7 +59,12 @@ const products = defineCollection({
   loader: glob({ pattern: "**/*.md", base: "./src/content/products" }),
   schema: z.object({
     name: z.string().min(1),
-    category: z.enum(["automatic-cat-feeders", "pet-water-fountains", "smart-litter-boxes"]),
+    category: z.enum([
+      "automatic-cat-feeders",
+      "pet-water-fountains",
+      "smart-litter-boxes",
+      "pet-inspired-toys",
+    ]),
     description: z.string().min(1),
     image: z.string().min(1),
     imageAlt: z.preprocess(emptyToUndefined, z.string().optional()),
@@ -84,6 +89,7 @@ const products = defineCollection({
     price: z.preprocess(emptyToUndefined, z.string().optional()),
     affiliateUrl: safeHttpUrl,
     relatedArticle: z.preprocess(emptyToUndefined, z.string().optional()),
+    catalogVisible: z.boolean().default(true),
     displayOrder: z.coerce.number().int().default(100),
     draft: z.boolean().default(true),
   }),

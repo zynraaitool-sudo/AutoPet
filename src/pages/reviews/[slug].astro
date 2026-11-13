@@ -34,21 +34,11 @@ const articleSchema = {
   publisher: { "@type": "Organization", name: "AutoPet", url: Astro.site?.href },
   mainEntityOfPage: canonical,
 };
-const reviewSchema = {
-  "@context": "https://schema.org",
-  "@type": "Review",
-  name: title,
-  reviewBody: quickVerdict || undefined,
-  datePublished: isoDate,
-  dateModified: isoUpdated,
-  author: { "@type": "Organization", name: "AutoPet" },
-  itemReviewed: products.map((product) => ({ "@type": "Product", name: product.name })),
-};
 ---
 
 <SiteLayout title={`${title} | AutoPet`} description={description} canonical={canonical} type="article">
   <article class="page-shell article-shell">
-    {image && <img class="featured-image" src={image} width="1200" height="675" loading="lazy" alt={imageAlt ?? title} />}
+    {image && <img class="featured-image" src={image} width="1200" height="675" loading="eager" fetchpriority="high" decoding="async" alt={imageAlt ?? title} />}
     <header class="article-header">
       <a class="back-link" href={`/category/${category.toLowerCase().replaceAll(" ", "-")}/`}>← {categoryLabel}</a>
       <h1>{title}</h1>
@@ -58,7 +48,9 @@ const reviewSchema = {
         {updated && <span>Updated <time datetime={isoUpdated}>{updated.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}</time></span>}
         <span>{readingMinutes} min read</span>
       </div>
-      <p class="disclosure">This article contains affiliate links. If you buy through them, AutoPet may earn a commission at no extra cost to you. <a href="/affiliate-disclosure/">How our links work</a>.</p>
+      {products.some((product) => product.url) && (
+        <p class="disclosure">This article contains affiliate links. If you buy through them, AutoPet may earn a commission at no extra cost to you. <a href="/affiliate-disclosure/">How our links work</a>.</p>
+      )}
     </header>
 
     <div class="article-content">
@@ -71,7 +63,7 @@ const reviewSchema = {
 
       {products.length > 0 && (
         <section aria-labelledby="comparison-heading">
-          <h2 id="comparison-heading">Compare our top picks</h2>
+          <h2 id="comparison-heading">{productLabel === "Retailer listing" ? "Retailer listing details" : "Compare our top picks"}</h2>
           <ProductTable products={products} comparisonTitle={comparisonTitle} productLabel={productLabel} />
         </section>
       )}
@@ -95,7 +87,6 @@ const reviewSchema = {
     </div>
   </article>
   <script type="application/ld+json" set:html={JSON.stringify(articleSchema)}></script>
-  <script type="application/ld+json" set:html={JSON.stringify(reviewSchema)}></script>
 </SiteLayout>
 
 <style>

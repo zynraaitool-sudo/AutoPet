@@ -7,7 +7,7 @@ import SiteLayout from "../layouts/SiteLayout.astro";
 const reviews = (await getCollection("reviews", ({ data }) => !data.draft))
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 const latestReviews = reviews.slice(0, 4);
-const featuredProducts = (await getCollection("products", ({ data }) => !data.draft))
+const featuredProducts = (await getCollection("products", ({ data }) => !data.draft && data.catalogVisible))
   .sort((a, b) => a.data.displayOrder - b.data.displayOrder || a.data.name.localeCompare(b.data.name))
   .slice(0, 4);
 const categories = [
@@ -45,7 +45,7 @@ const categories = [
     </div>
     {featuredProducts.length > 0 ? (
       <div class="product-grid">
-        {featuredProducts.map((product) => <ProductCard product={product} />)}
+        {featuredProducts.map((product) => <ProductCard product={product} variant="featured" />)}
       </div>
     ) : (
       <div class="empty-state featured-empty">

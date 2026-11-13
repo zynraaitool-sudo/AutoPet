@@ -13,20 +13,20 @@ AutoPet is a static Astro site for practical smart-pet product reviews. It build
 
 Products and editorial articles are separate content collections with separate draft flags and publishing lifecycles:
 
-- **Featured Products** are Markdown files in `src/content/products/`. Each product has a public detail page at `/products/<slug>/` and appears in `/products/` and the homepage only when `draft: false`.
+- **Products** are Markdown files in `src/content/products/`. A published product has a public detail page at `/products/<slug>/` when `draft: false`. Set `catalogVisible: false` to keep that page and its URL while excluding the item from the curated catalog and homepage.
 - **Reviews & Guides** remain Markdown files in `src/content/reviews/`. Their existing `/reviews/<slug>/` URLs are unchanged; published articles appear in `/reviews/` and on the homepage only when `draft: false`.
 
 New CMS entries default to drafts. Save a draft to keep it private; when it is ready, uncheck its own **Draft — keep unpublished** field to publish it. Product and article drafts do not publish one another. The sitemap is generated from public routes, so drafts are excluded.
 
-Products support an ordered image gallery, HTTP(S) YouTube/MP4 video links, specifications, features, pros and cons, optional price and affiliate link, and an optional link to a published article. Host large video files externally; do not commit them to Git.
+Products support automatic-feeder, water-fountain, smart-litter-box, and pet-inspired-toy categories; an ordered image gallery; HTTP(S) YouTube/MP4 video links; specifications, features, pros and cons; optional price and affiliate link; and an optional link to a published article. Host large video files externally; do not commit them to Git.
 
-The Decap CMS has separate **Featured Products** and **Reviews & Guides** sections. Sign in at `/admin/` as described in [Publish with Decap CMS](#publish-with-decap-cms).
+The Decap CMS has separate **Products** and **Reviews & Guides** sections. Sign in at `/admin/` as described in [Publish with Decap CMS](#publish-with-decap-cms).
 
 ## Add an article
 
 1. Create a Markdown file in `src/content/reviews/`, for example `quiet-pet-fountain.md`.
-2. Add the required frontmatter: `title`, `description`, `date`, `category`, and `draft`. `updated`, featured image fields, quick verdict, products, pros, cons, and FAQs are optional. See `best-automatic-cat-feeders-2026.md` for the expected shape.
-3. Write the article body in Markdown. Product entries need `name`, `priceRange`, `features`, `rating` (0–5), and a valid `url`.
+2. Add the required frontmatter: `title`, `description`, `date`, `category`, and `draft`. `updated`, featured image fields, quick verdict, products, pros, cons, and FAQs are optional. See `automatic-cat-feeder-listings-and-buying-guide.md` for an example.
+3. Write the article body in Markdown. Comparison entries need `name` and `priceRange`; `features`, `rating` (0–5), `ratingNote`, `image`, and a valid retailer `url` are optional.
 4. Set `draft: true` while working. Draft reviews are excluded from category pages, home, the editorial listing, and article routes; change it to `false` when ready to publish.
 5. Before publishing, replace affiliate placeholders listed in `TODO.md`, then run `npm run build`.
 
@@ -51,7 +51,7 @@ The public domain is set to `https://autopet.store` in `astro.config.mjs`; updat
 1. Create a GitHub OAuth App with homepage URL `https://autopet.store` and authorization callback URL `https://autopet.store/api/callback`.
 2. In the Cloudflare Pages project, add `GITHUB_CLIENT_ID` and `GITHUB_CLIENT_SECRET` as environment variables for production. Use the OAuth App's Client ID and Client secret, then redeploy.
 3. Visit `https://autopet.store/admin/` and sign in with a GitHub account that can push to `zynraaitool-sudo/AutoPet`.
-4. Create or edit a product under **Featured Products** or an article under **Reviews & Guides**. New entries start as drafts. Decap saves product files in `src/content/products` and articles in `src/content/reviews`.
+4. Create or edit a product under **Products** or an article under **Reviews & Guides**. New entries start as drafts. Decap saves product files in `src/content/products` and articles in `src/content/reviews`.
 5. To publish an entry, uncheck its **Draft — keep unpublished** field and save. This changes only that entry's publishing status and triggers a Pages build.
 
-The editor fields follow `src/content.config.ts`. Existing article files and their draft status are preserved. Product gallery order follows the order of its CMS image list. Use externally hosted HTTPS MP4 files instead of adding large videos to the repository.
+The editor fields follow `src/content.config.ts`. `catalogVisible` controls whether a published product appears in recommendations; it does not change the product page or draft state. Existing article publication statuses are preserved, and renamed article URLs have redirects. Product gallery order follows the order of its CMS image list. Use externally hosted HTTPS MP4 files instead of adding large videos to the repository.

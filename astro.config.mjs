@@ -39,6 +39,12 @@ const rehypeAffiliateLinks = () => (tree) => {
 
 export default defineConfig({
   site: "https://autopet.store",
+  redirects: {
+    "/reviews/best-automatic-cat-feeders-in-2026-top-smart-wifi-budget-picks/":
+      "/reviews/automatic-cat-feeder-listings-and-buying-guide/",
+    "/reviews/independent-research-honest-comparisons-practical-recommendations/":
+      "/reviews/automatic-cat-feeder-buying-guide/",
+  },
   markdown: {
     processor: unified({
       remarkPlugins: [remarkHtmlBlocks],

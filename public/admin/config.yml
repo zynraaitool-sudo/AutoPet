@@ -14,8 +14,8 @@ public_folder: /images
 
 collections:
   - name: products
-    label: Featured Products
-    label_singular: Featured Product
+    label: Products
+    label_singular: Product
     description: Manage catalog products separately from reviews and guides. New products stay drafts until Draft is unchecked.
     folder: src/content/products
     create: true
@@ -42,6 +42,12 @@ collections:
           - automatic-cat-feeders
           - pet-water-fountains
           - smart-litter-boxes
+          - pet-inspired-toys
+      - label: Show in curated catalog
+        name: catalogVisible
+        widget: boolean
+        default: true
+        hint: Turn off to keep a published product page without featuring it in product recommendations.
       - label: Short description
         name: description
         widget: text
