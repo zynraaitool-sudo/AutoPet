@@ -1,9 +1,16 @@
 ---
 name: FirmHome Dual-Outlet Automatic Pet Feeder
 category: automatic-cat-feeders
-description: The listing title describes a FirmHome feeder with two outlets, a slow-feeding option, and an information display. Confirm how its dispensing works.
-affiliateUrl: https://s.click.aliexpress.com/e/_c4BLRhvD
-relatedArticle: smart-feeder-listings-comparison
+catalogVisible: true
+description: The listing title describes a FirmHome feeder with two outlets, a
+  slow-feeding option, and an information display. Confirm how its dispensing
+  works.
+image: /images/products/firmhome-dual-outlet-automatic-pet-feeder/1.webp
+gallery:
+  - /images/products/firmhome-dual-outlet-automatic-pet-feeder/2.webp
+  - /images/products/firmhome-dual-outlet-automatic-pet-feeder/3.webp
+  - /images/products/firmhome-dual-outlet-automatic-pet-feeder/4.webp
+  - /images/products/firmhome-dual-outlet-automatic-pet-feeder/5.webp
 specifications:
   - name: Listed design
     value: Two dispensing outlets
@@ -16,9 +23,12 @@ features:
 pros:
   - The two-outlet design is clearly stated in the listing title.
 cons:
-  - The title does not show how food is divided, whether meals are independently portioned, or what "slow feeding" means for this model.
-  - Confirm capacity, schedule settings, cleaning, and power requirements with the seller.
-catalogVisible: true
+  - The title does not show how food is divided, whether meals are independently
+    portioned, or what "slow feeding" means for this model.
+  - Confirm capacity, schedule settings, cleaning, and power requirements with
+    the seller.
+affiliateUrl: https://s.click.aliexpress.com/e/_c3LRBBDh
+relatedArticle: smart-feeder-listings-comparison
 displayOrder: 40
 draft: false
 ---
