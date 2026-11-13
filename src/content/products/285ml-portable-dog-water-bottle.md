@@ -7,7 +7,6 @@ description: An AliExpress listing for a 285ml portable dog bottle that mentions
 image: /images/s8316c2b784bd4624948e4369117514adr.png_220x220.png_.avif
 gallery:
   - /images/sb576e3489ae64140af3a4f04e7d9979az.jpg_220x220q75.jpg_.avif
-  - /images/s382352482bd34cc7baddccbfcc187191m.jpg_220x220q75.jpg_.avif
 specifications:
   - name: Advertised capacity
     value: 285ml, as stated in the listing title
