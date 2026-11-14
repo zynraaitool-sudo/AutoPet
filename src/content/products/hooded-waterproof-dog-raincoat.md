@@ -1,7 +1,17 @@
 ---
 name: Hooded Waterproof Dog Raincoat
 category: dog-walking-travel
-description: An AliExpress listing for a hooded raincoat marketed as waterproof and wind-resistant for small and medium dogs. Check measurements, closures, and visibility before ordering.
+catalogVisible: true
+description: An AliExpress listing for a hooded raincoat marketed as waterproof
+  and wind-resistant for small and medium dogs. Check measurements, closures,
+  and visibility before ordering.
+image: /images/products/hooded-waterproof-dog-raincoat/1.webp
+gallery:
+  - /images/products/hooded-waterproof-dog-raincoat/2.webp
+  - /images/products/hooded-waterproof-dog-raincoat/3.webp
+  - /images/products/hooded-waterproof-dog-raincoat/4.webp
+  - /images/products/hooded-waterproof-dog-raincoat/5.webp
+  - /images/products/hooded-waterproof-dog-raincoat/6.webp
 specifications:
   - name: Seller-listed features
     value: Waterproof and wind-resistant claims
@@ -15,12 +25,12 @@ features:
 pros:
   - The listing gives a clothing option to compare for wet-weather walks.
 cons:
-  - Waterproof performance, size chart accuracy, and fabric details are not verified here.
+  - Waterproof performance, size chart accuracy, and fabric details are not
+    verified here.
   - The hood and closures must not restrict vision, movement, or breathing.
-productUrl: https://www.aliexpress.com/item/1005012225118607.html
+productUrl: https://s.click.aliexpress.com/e/_c4KDsj4f
 relatedArticle: fitting-a-hooded-dog-raincoat
 displayOrder: 210
-catalogVisible: true
 draft: false
 ---
 
