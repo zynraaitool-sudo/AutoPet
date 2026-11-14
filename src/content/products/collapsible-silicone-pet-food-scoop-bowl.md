@@ -1,7 +1,16 @@
 ---
 name: Collapsible Silicone Pet Food Scoop and Bowl
 category: pet-feeding-accessories
-description: An AliExpress listing describes a foldable silicone pet bowl or food-storage accessory for travel. Confirm the exact shape, capacity, and included parts in the selected option.
+catalogVisible: true
+description: An AliExpress listing describes a foldable silicone pet bowl or
+  food-storage accessory for travel. Confirm the exact shape, capacity, and
+  included parts in the selected option.
+image: /images/products/collapsible-silicone-pet-food-scoop-and-bowl/1.webp
+gallery:
+  - /images/products/collapsible-silicone-pet-food-scoop-and-bowl/2.webp
+  - /images/products/collapsible-silicone-pet-food-scoop-and-bowl/3.webp
+  - /images/products/collapsible-silicone-pet-food-scoop-and-bowl/4.webp
+  - /images/products/collapsible-silicone-pet-food-scoop-and-bowl/5.webp
 specifications:
   - name: Seller-listed material
     value: Silicone
@@ -11,16 +20,18 @@ specifications:
     value: Foldable / collapsible
 features:
   - The listing title describes a portable, foldable pet-food accessory.
-  - The exact item may be presented as a scoop, storage bowl, or feeding bowl; verify the selected option.
+  - The exact item may be presented as a scoop, storage bowl, or feeding bowl;
+    verify the selected option.
 pros:
   - A collapsible format may take less space in a travel kit.
 cons:
-  - Capacity, seal quality, food-contact suitability, and the exact product configuration are not verified.
-  - The title is ambiguous about whether the item is a scoop, storage container, or bowl.
-productUrl: https://www.aliexpress.com/item/1005012741880368.html
+  - Capacity, seal quality, food-contact suitability, and the exact product
+    configuration are not verified.
+  - The title is ambiguous about whether the item is a scoop, storage container,
+    or bowl.
+productUrl: https://s.click.aliexpress.com/e/_c4mtBPVv
 relatedArticle: checking-a-collapsible-pet-food-accessory
 displayOrder: 240
-catalogVisible: true
 draft: false
 ---
 
