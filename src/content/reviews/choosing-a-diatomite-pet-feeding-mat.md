@@ -1,11 +1,15 @@
 ---
 title: "Diatomite Pet Feeding Mats: Verify Materials and Cleaning Instructions"
-description: What to confirm when a pet-mat listing mentions diatomite and non-slip use, including composition, floor compatibility, and care.
+description: What to confirm when a pet-mat listing mentions diatomite and
+  non-slip use, including composition, floor compatibility, and care.
 date: 2026-11-14
 updated: 2026-11-14
 category: pet-feeding-accessories
 articleType: buying-guide
-quickVerdict: The seller mentions diatomite and a non-slip design, but verify composition, surface finish, dimensions, and cleaning instructions before placing bowls on the mat.
+image: /images/diatomite-pet-feeding-mat-guide.webp
+quickVerdict: The seller mentions diatomite and a non-slip design, but verify
+  composition, surface finish, dimensions, and cleaning instructions before
+  placing bowls on the mat.
 products:
   - name: Diatomite Pet Feeding Mat
     priceRange: Check the current AliExpress listing
@@ -16,9 +20,11 @@ products:
     affiliate: false
 faqs:
   - question: Is every mat described as diatomite made from the same material?
-    answer: No. Confirm the actual composition and product construction from the listing and seller.
+    answer: No. Confirm the actual composition and product construction from the
+      listing and seller.
   - question: Can I wash the mat like a fabric placemat?
-    answer: Do not assume so. Follow the specific cleaning instructions for the selected item.
+    answer: Do not assume so. Follow the specific cleaning instructions for the
+      selected item.
 draft: false
 ---
 

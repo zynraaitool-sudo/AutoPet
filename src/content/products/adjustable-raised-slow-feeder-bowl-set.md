@@ -1,7 +1,16 @@
 ---
 name: Adjustable Raised Slow-Feeder Bowl Set
 category: pet-feeding-accessories
-description: An AliExpress listing for a 3-in-1 pet bowl set that mentions two bowls, five height positions, and slow feeding. Verify bowl size, materials, and stability.
+catalogVisible: true
+description: An AliExpress listing for a 3-in-1 pet bowl set that mentions two
+  bowls, five height positions, and slow feeding. Verify bowl size, materials,
+  and stability.
+image: /images/products/adjustable-raised-slow-feeder-bowl-set/2.webp
+gallery:
+  - /images/products/adjustable-raised-slow-feeder-bowl-set/1.webp
+  - /images/products/adjustable-raised-slow-feeder-bowl-set/5.webp
+  - /images/products/adjustable-raised-slow-feeder-bowl-set/6.webp
+  - /images/products/adjustable-raised-slow-feeder-bowl-set/4.webp
 specifications:
   - name: Seller-listed configuration
     value: 3-in-1 bowl set with two bowls
@@ -15,12 +24,12 @@ features:
 pros:
   - Adjustable height may help buyers compare bowl placement options.
 cons:
-  - Bowl volume, height measurements, food-contact material, and assembly are not verified here.
+  - Bowl volume, height measurements, food-contact material, and assembly are
+    not verified here.
   - The listing does not establish that its slow-feeding layout suits every pet.
-productUrl: https://www.aliexpress.com/item/1005008754169467.html
+productUrl: https://s.click.aliexpress.com/e/_c2xUrl5t
 relatedArticle: checking-an-adjustable-slow-feeder
 displayOrder: 190
-catalogVisible: true
 draft: false
 ---
 

@@ -1,11 +1,16 @@
 ---
 title: "AirTag Cat Collars: What the Accessory Can—and Cannot—Track"
-description: Understand the limits of an AirTag collar holder, verify fit and breakaway features, and avoid treating a tracker accessory as a safety guarantee.
+description: Understand the limits of an AirTag collar holder, verify fit and
+  breakaway features, and avoid treating a tracker accessory as a safety
+  guarantee.
 date: 2026-11-14
 updated: 2026-11-14
 category: pet-safety-accessories
 articleType: buying-guide
-quickVerdict: The listing describes a reflective collar with an AirTag holder, but an AirTag is not standalone GPS. Confirm the tracker is included, check the fit, and look for a suitable quick-release collar.
+image: /images/airtag-cat-collars-buying-guide.webp
+quickVerdict: The listing describes a reflective collar with an AirTag holder,
+  but an AirTag is not standalone GPS. Confirm the tracker is included, check
+  the fit, and look for a suitable quick-release collar.
 products:
   - name: Reflective Cat Collar with AirTag Holder
     priceRange: Check the current AliExpress listing
@@ -16,9 +21,11 @@ products:
     affiliate: false
 faqs:
   - question: Does this collar include an AirTag?
-    answer: The listing title describes a holder, not necessarily a tracker. Confirm the selected option and package contents.
+    answer: The listing title describes a holder, not necessarily a tracker. Confirm
+      the selected option and package contents.
   - question: Is an AirTag a GPS tracker?
-    answer: No. It relies on Apple's Find My network and nearby compatible devices; it does not provide guaranteed continuous tracking.
+    answer: No. It relies on Apple's Find My network and nearby compatible devices;
+      it does not provide guaranteed continuous tracking.
 draft: false
 ---
 

@@ -1,11 +1,15 @@
 ---
 title: "Hooded Dog Raincoats: Measure Fit and Keep Vision Unobstructed"
-description: How to check a hooded raincoat's size chart, closures, visibility, and comfort before using it on a wet-weather walk.
+description: How to check a hooded raincoat's size chart, closures, visibility,
+  and comfort before using it on a wet-weather walk.
 date: 2026-11-14
 updated: 2026-11-14
 category: dog-walking-travel
 articleType: buying-guide
-quickVerdict: This listing claims a waterproof, wind-resistant coat with a detachable hood. Measure your dog and ensure the hood and closures do not restrict movement, breathing, or sight.
+image: /images/hooded-dog-raincoat-fit-guide.webp
+quickVerdict: This listing claims a waterproof, wind-resistant coat with a
+  detachable hood. Measure your dog and ensure the hood and closures do not
+  restrict movement, breathing, or sight.
 products:
   - name: Hooded Waterproof Dog Raincoat
     priceRange: Check the current AliExpress listing
@@ -16,9 +20,11 @@ products:
     affiliate: false
 faqs:
   - question: Should my dog wear the hood?
-    answer: Only if it fits without covering the eyes, restricting movement, or causing distress. Remove it if your dog is uncomfortable.
+    answer: Only if it fits without covering the eyes, restricting movement, or
+      causing distress. Remove it if your dog is uncomfortable.
   - question: Does a waterproof label guarantee the dog stays dry?
-    answer: No. Check construction and coverage, and treat waterproof performance as a seller claim unless independently tested.
+    answer: No. Check construction and coverage, and treat waterproof performance as
+      a seller claim unless independently tested.
 draft: false
 ---
 

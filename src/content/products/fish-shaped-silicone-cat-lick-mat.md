@@ -1,7 +1,16 @@
 ---
 name: Fish-Shaped Silicone Cat Lick Mat with Suction Cups
 category: pet-feeding-accessories
-description: An AliExpress listing for a fish-shaped silicone lick mat with suction cups. Check the material details, surface compatibility, cleaning instructions, and supervision needs.
+catalogVisible: true
+description: An AliExpress listing for a fish-shaped silicone lick mat with
+  suction cups. Check the material details, surface compatibility, cleaning
+  instructions, and supervision needs.
+image: /images/products/fish-shaped-silicone-cat-lick-mat-with-suction-cups/1.webp
+gallery:
+  - /images/products/fish-shaped-silicone-cat-lick-mat-with-suction-cups/2.webp
+  - /images/products/fish-shaped-silicone-cat-lick-mat-with-suction-cups/3.webp
+  - /images/products/fish-shaped-silicone-cat-lick-mat-with-suction-cups/4.webp
+  - /images/products/fish-shaped-silicone-cat-lick-mat-with-suction-cups/5.webp
 specifications:
   - name: Seller-listed material
     value: Silicone
@@ -13,14 +22,15 @@ features:
   - The seller describes the mat as a slow-feeding accessory.
   - The listing mentions suction cups intended to hold the mat in place.
 pros:
-  - The textured surface provides a different way to present an appropriate food portion.
+  - The textured surface provides a different way to present an appropriate food
+    portion.
 cons:
-  - Food-contact certification, exact size, and suction performance are not verified here.
+  - Food-contact certification, exact size, and suction performance are not
+    verified here.
   - A mat is not a substitute for portion control or supervision.
-productUrl: https://www.aliexpress.com/item/1005006117631070.html
+productUrl: https://s.click.aliexpress.com/e/_c3p5k2in
 relatedArticle: safe-use-of-silicone-lick-mats
 displayOrder: 200
-catalogVisible: true
 draft: false
 ---
 

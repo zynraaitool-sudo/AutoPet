@@ -1,7 +1,16 @@
 ---
 name: M-Shaped Corrugated Cardboard Cat Scratcher
 category: pet-enrichment
-description: An AliExpress listing for an M-shaped corrugated-cardboard cat scratcher. Confirm its dimensions, stability, and whether catnip is included in the selected option.
+catalogVisible: true
+description: An AliExpress listing for an M-shaped corrugated-cardboard cat
+  scratcher. Confirm its dimensions, stability, and whether catnip is included
+  in the selected option.
+image: /images/products/m-shaped-corrugated-cardboard-cat-scratcher/1.webp
+gallery:
+  - /images/products/m-shaped-corrugated-cardboard-cat-scratcher/2.webp
+  - /images/products/m-shaped-corrugated-cardboard-cat-scratcher/3.webp
+  - /images/products/m-shaped-corrugated-cardboard-cat-scratcher/4.webp
+  - /images/products/m-shaped-corrugated-cardboard-cat-scratcher/6.webp
 specifications:
   - name: Seller-listed material
     value: Corrugated cardboard
@@ -13,14 +22,14 @@ features:
   - The listing describes a corrugated scratch surface for cats.
   - The seller mentions a shaped scratcher and catnip.
 pros:
-  - A shaped horizontal scratcher offers an alternative surface to place near a cat's usual scratching area.
+  - A shaped horizontal scratcher offers an alternative surface to place near a
+    cat's usual scratching area.
 cons:
   - Exact dimensions, cardboard density, and stability are not verified.
   - Catnip inclusion and quantity may vary by listing option.
-productUrl: https://www.aliexpress.com/item/1005003573008296.html
+productUrl: https://s.click.aliexpress.com/e/_c3qWX3YR
 relatedArticle: setting-up-a-cardboard-cat-scratcher
 displayOrder: 180
-catalogVisible: true
 draft: false
 ---
 

@@ -1,11 +1,16 @@
 ---
 title: "Motion-Sensor Pet Fountains: Verify Detection, Filters, and Power"
-description: Check the real-world details behind a motion-activated fountain listing, including sensor behavior, USB power, filters, capacity, and cleaning.
+description: Check the real-world details behind a motion-activated fountain
+  listing, including sensor behavior, USB power, filters, capacity, and
+  cleaning.
 date: 2026-11-14
 updated: 2026-11-14
 category: pet-water-fountains
 articleType: buying-guide
-quickVerdict: This listing mentions infrared motion sensing, filtration, and USB power; confirm reservoir size, replacement filters, sensor controls, and pump care before purchase.
+image: /images/motion_sensor_pet_fountain_guide_1200x675.webp
+quickVerdict: This listing mentions infrared motion sensing, filtration, and USB
+  power; confirm reservoir size, replacement filters, sensor controls, and pump
+  care before purchase.
 products:
   - name: Motion-Sensor Pet Water Fountain with Filter
     priceRange: Check the current AliExpress listing
@@ -16,9 +21,11 @@ products:
     affiliate: false
 faqs:
   - question: Does a motion sensor mean the fountain runs only when a pet approaches?
-    answer: The listing title does not confirm the exact sensor mode. Check whether the sensor can be disabled and whether continuous flow is available.
+    answer: The listing title does not confirm the exact sensor mode. Check whether
+      the sensor can be disabled and whether continuous flow is available.
   - question: Are replacement filters included?
-    answer: Do not assume so. Confirm the contents of the selected variant and identify the correct replacement filter before ordering.
+    answer: Do not assume so. Confirm the contents of the selected variant and
+      identify the correct replacement filter before ordering.
 draft: false
 ---
 

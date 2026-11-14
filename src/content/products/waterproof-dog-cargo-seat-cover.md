@@ -1,7 +1,14 @@
 ---
 name: Waterproof Dog Cargo Seat Cover, 137 × 147 cm
 category: dog-walking-travel
-description: An AliExpress listing for a 137 × 147 cm waterproof dog-car cover described for the rear seat or cargo area. Measure your vehicle and verify the attachment points.
+catalogVisible: true
+description: An AliExpress listing for a 137 × 147 cm waterproof dog-car cover
+  described for the rear seat or cargo area. Measure your vehicle and verify the
+  attachment points.
+image: /images/products/waterproof-dog-cargo-seat-cover-137-×-147-cm/1.webp
+gallery:
+  - /images/products/waterproof-dog-cargo-seat-cover-137-×-147-cm/2.webp
+  - /images/products/waterproof-dog-cargo-seat-cover-137-×-147-cm/3.webp
 specifications:
   - name: Listed dimensions
     value: 137 × 147 cm
@@ -15,12 +22,12 @@ features:
 pros:
   - The stated dimensions provide a starting point for checking vehicle fit.
 cons:
-  - Dimensions, seam construction, anchors, and compatibility with seat belts are not independently verified.
+  - Dimensions, seam construction, anchors, and compatibility with seat belts
+    are not independently verified.
   - A seat cover is not a crash-tested pet restraint.
-productUrl: https://www.aliexpress.com/item/1005012935768441.html
+productUrl: https://s.click.aliexpress.com/e/_c3TIgibh
 relatedArticle: measuring-a-dog-car-cargo-cover
 displayOrder: 160
-catalogVisible: true
 draft: false
 ---
 

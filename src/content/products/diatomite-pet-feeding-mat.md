@@ -1,7 +1,16 @@
 ---
 name: Diatomite Pet Feeding Mat
 category: pet-feeding-accessories
-description: An AliExpress listing for a shaped pet feeding mat that mentions diatomite and a non-slip design. Verify the composition, surface finish, and cleaning instructions before use.
+catalogVisible: true
+description: An AliExpress listing for a shaped pet feeding mat that mentions
+  diatomite and a non-slip design. Verify the composition, surface finish, and
+  cleaning instructions before use.
+image: /images/products/diatomite-pet-feeding-mat/1.webp
+gallery:
+  - /images/products/diatomite-pet-feeding-mat/2.webp
+  - /images/products/diatomite-pet-feeding-mat/6.webp
+  - /images/products/diatomite-pet-feeding-mat/4.webp
+  - /images/products/diatomite-pet-feeding-mat/3.webp
 specifications:
   - name: Seller-listed material
     value: Diatomite is mentioned in the listing title
@@ -15,12 +24,12 @@ features:
 pros:
   - A mat can help define the area around bowls.
 cons:
-  - Material composition, water resistance, edge finish, and cleaning method are not independently verified.
+  - Material composition, water resistance, edge finish, and cleaning method are
+    not independently verified.
   - Check whether the surface is suitable for the intended floor and pet.
-productUrl: https://www.aliexpress.com/item/1005009855002076.html
+productUrl: https://s.click.aliexpress.com/e/_c41iE6On
 relatedArticle: choosing-a-diatomite-pet-feeding-mat
 displayOrder: 230
-catalogVisible: true
 draft: false
 ---
 

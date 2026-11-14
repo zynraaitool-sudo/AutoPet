@@ -1,11 +1,16 @@
 ---
 title: "Collapsible Pet Food Accessories: Confirm What the Listing Actually Includes"
-description: An AliExpress title can describe a scoop, storage bowl, or travel bowl. Check the exact item, volume, material, and cleaning guidance before ordering.
+description: An AliExpress title can describe a scoop, storage bowl, or travel
+  bowl. Check the exact item, volume, material, and cleaning guidance before
+  ordering.
 date: 2026-11-14
 updated: 2026-11-14
 category: pet-feeding-accessories
 articleType: buying-guide
-quickVerdict: This listing's wording is ambiguous between a scoop and a collapsible bowl. Verify the selected variant, capacity, food-contact details, and package contents before purchase.
+image: /images/collapsible-pet-food-accessories-guide.webp
+quickVerdict: This listing's wording is ambiguous between a scoop and a
+  collapsible bowl. Verify the selected variant, capacity, food-contact details,
+  and package contents before purchase.
 products:
   - name: Collapsible Silicone Pet Food Scoop and Bowl
     priceRange: Check the current AliExpress listing
@@ -16,9 +21,11 @@ products:
     affiliate: false
 faqs:
   - question: Is this item a scoop or a bowl?
-    answer: The listing wording can refer to more than one configuration. Check the selected option's photos and item description before checkout.
+    answer: The listing wording can refer to more than one configuration. Check the
+      selected option's photos and item description before checkout.
   - question: Can it store food without leaking?
-    answer: No seal or leak-proof rating is verified here. Do not rely on it for sealed or long-term food storage unless the seller documents that use.
+    answer: No seal or leak-proof rating is verified here. Do not rely on it for
+      sealed or long-term food storage unless the seller documents that use.
 draft: false
 ---
 

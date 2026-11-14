@@ -1,7 +1,17 @@
 ---
 name: Electric Nail Grinder for Dogs and Cats
 category: pet-grooming
-description: An AliExpress listing for an electric nail-grinding tool marketed for dogs and cats. Check the guard, speed settings, noise, and instructions before use.
+catalogVisible: true
+description: An AliExpress listing for an electric nail-grinding tool marketed
+  for dogs and cats. Check the guard, speed settings, noise, and instructions
+  before use.
+image: /images/products/electric-nail-grinder-for-dogs-and-cats/1.webp
+gallery:
+  - /images/products/electric-nail-grinder-for-dogs-and-cats/2.webp
+  - /images/products/electric-nail-grinder-for-dogs-and-cats/3.webp
+  - /images/products/electric-nail-grinder-for-dogs-and-cats/4.webp
+  - /images/products/electric-nail-grinder-for-dogs-and-cats/4.webp
+  - /images/products/electric-nail-grinder-for-dogs-and-cats/5.webp
 specifications:
   - name: Tool type
     value: Electric nail grinder, according to the listing title
@@ -13,12 +23,12 @@ features:
 pros:
   - One listing covers a powered alternative to manual nail clippers.
 cons:
-  - Speed, bit type, guard opening, noise, charging, and included accessories need confirmation.
+  - Speed, bit type, guard opening, noise, charging, and included accessories
+    need confirmation.
   - The listing does not establish that every animal will tolerate the tool.
-productUrl: https://www.aliexpress.com/item/1005013331954706.html
+productUrl: https://s.click.aliexpress.com/e/_c3bf8dsn
 relatedArticle: choosing-and-introducing-a-pet-nail-grinder
 displayOrder: 140
-catalogVisible: true
 draft: false
 ---
 

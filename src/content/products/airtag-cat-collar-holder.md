@@ -1,7 +1,17 @@
 ---
 name: Reflective Cat Collar with AirTag Holder
 category: pet-safety-accessories
-description: An AliExpress listing for a reflective cat collar with a protective holder designed for an Apple AirTag. The tracker is not included unless the listing explicitly says so.
+catalogVisible: true
+description: An AliExpress listing for a reflective cat collar with a protective
+  holder designed for an Apple AirTag. The tracker is not included unless the
+  listing explicitly says so.
+image: /images/products/reflective-cat-collar-with-airtag-holder/1.webp
+gallery:
+  - /images/products/reflective-cat-collar-with-airtag-holder/2.webp
+  - /images/products/reflective-cat-collar-with-airtag-holder/3.webp
+  - /images/products/reflective-cat-collar-with-airtag-holder/4.webp
+  - /images/products/reflective-cat-collar-with-airtag-holder/5.webp
+  - /images/products/reflective-cat-collar-with-airtag-holder/6.webp
 specifications:
   - name: Seller-listed accessory
     value: Collar holder designed for an Apple AirTag
@@ -13,12 +23,13 @@ features:
 pros:
   - The holder may keep a separately purchased tracker attached to a collar.
 cons:
-  - Collar fit, breakaway behavior, tracker compatibility, and included parts need confirmation.
-  - An AirTag is not a dedicated GPS tracker and should not be relied on as a safety guarantee.
-productUrl: https://www.aliexpress.com/item/1005004994844785.html
+  - Collar fit, breakaway behavior, tracker compatibility, and included parts
+    need confirmation.
+  - An AirTag is not a dedicated GPS tracker and should not be relied on as a
+    safety guarantee.
+productUrl: https://s.click.aliexpress.com/e/_c3HlVVDv
 relatedArticle: what-an-airtag-cat-collar-can-and-cannot-do
 displayOrder: 220
-catalogVisible: true
 draft: false
 ---
 

@@ -1,11 +1,15 @@
 ---
 title: "Large App-Controlled Litter Boxes: Questions the Listing Must Answer"
-description: Learn how to evaluate an advertised large-capacity automatic litter box, from usable space and waste storage to app features and daily cleaning.
+description: Learn how to evaluate an advertised large-capacity automatic litter
+  box, from usable space and waste storage to app features and daily cleaning.
 date: 2026-11-14
 updated: 2026-11-14
 category: smart-litter-boxes
 articleType: buying-guide
-quickVerdict: A “large capacity” claim is not a measurement. Get the footprint, usable entry space, waste-bin volume, litter requirements, and safety instructions before choosing this listing.
+image: /images/large-app-controlled-litter-box-buying-guide.webp
+quickVerdict: A “large capacity” claim is not a measurement. Get the footprint,
+  usable entry space, waste-bin volume, litter requirements, and safety
+  instructions before choosing this listing.
 products:
   - name: Large-Capacity App-Controlled Self-Cleaning Litter Box
     priceRange: Check the current AliExpress listing
@@ -16,9 +20,11 @@ products:
     affiliate: false
 faqs:
   - question: Does large capacity mean less maintenance?
-    answer: Not necessarily. Ask for the measured waste-bin volume and cleaning schedule, then follow the manufacturer's maintenance instructions.
+    answer: Not necessarily. Ask for the measured waste-bin volume and cleaning
+      schedule, then follow the manufacturer's maintenance instructions.
   - question: Is app control essential?
-    answer: It depends on the functions you need. Check whether important controls work without a phone or internet connection.
+    answer: It depends on the functions you need. Check whether important controls
+      work without a phone or internet connection.
 draft: false
 ---
 
