@@ -1,11 +1,16 @@
 ---
 title: "Dog Car Cargo Covers: Measure the Vehicle Before Ordering"
-description: A measurement-first guide to a 137 × 147 cm car cover listing, including fit, fastening, cleaning, and the difference between a cover and a restraint.
+description: A measurement-first guide to a 137 × 147 cm car cover listing,
+  including fit, fastening, cleaning, and the difference between a cover and a
+  restraint.
 date: 2026-11-14
 updated: 2026-11-14
 category: dog-walking-travel
 articleType: buying-guide
-quickVerdict: The seller lists a 137 × 147 cm cover and calls it waterproof. Measure your car's seat or cargo area and remember that a cover does not restrain a dog.
+image: /images/dog-car-cargo-covers-measurement-guide.webp
+quickVerdict: The seller lists a 137 × 147 cm cover and calls it waterproof.
+  Measure your car's seat or cargo area and remember that a cover does not
+  restrain a dog.
 products:
   - name: Waterproof Dog Cargo Seat Cover, 137 × 147 cm
     priceRange: Check the current AliExpress listing
@@ -16,9 +21,11 @@ products:
     affiliate: false
 faqs:
   - question: Does a seat cover keep a dog safe in a crash?
-    answer: No. A cover protects surfaces; it is not a crash-tested restraint. Use an appropriate, separately secured pet restraint.
+    answer: No. A cover protects surfaces; it is not a crash-tested restraint. Use
+      an appropriate, separately secured pet restraint.
   - question: Is 137 × 147 cm enough for my vehicle?
-    answer: Measure the area and compare the shape, headrest positions, and anchor points with the product dimensions.
+    answer: Measure the area and compare the shape, headrest positions, and anchor
+      points with the product dimensions.
 draft: false
 ---
 
