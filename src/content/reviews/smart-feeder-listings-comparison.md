@@ -1,11 +1,13 @@
 ---
 title: "Smart Pet Feeder Listings: App Control or Two Feeding Outlets?"
-description: Compare seller-listed app and timed-feeding features with a two-outlet design, and check what the selected feeder actually supports.
+description: Compare seller-listed app and timed-feeding features with a
+  two-outlet design, and check what the selected feeder actually supports.
 date: 2026-11-13
 updated: 2026-11-13
 category: automatic-cat-feeders
 articleType: comparison
-comparisonTitle: "Features stated by the sellers"
+image: /images/smart-pet-feeder-app-vs-dual-outlet.webp
+comparisonTitle: Features stated by the sellers
 productLabel: AliExpress listing
 products:
   - name: Smart Timed Pet Feeder with App and Portion Control
@@ -24,9 +26,12 @@ products:
     affiliate: true
 faqs:
   - question: Does app control mean the feeder works without Wi-Fi?
-    answer: The listing title does not establish offline behavior. Check the manual for setup, network requirements, and which functions remain available without internet.
+    answer: The listing title does not establish offline behavior. Check the manual
+      for setup, network requirements, and which functions remain available
+      without internet.
   - question: Do two outlets give each pet a separate portion?
-    answer: Not necessarily. Confirm whether the outlets share one compartment or support independent portions for the exact model.
+    answer: Not necessarily. Confirm whether the outlets share one compartment or
+      support independent portions for the exact model.
 draft: false
 ---
 

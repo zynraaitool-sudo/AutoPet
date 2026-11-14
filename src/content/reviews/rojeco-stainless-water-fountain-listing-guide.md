@@ -1,11 +1,14 @@
 ---
 title: "ROJECO Stainless Steel Pet Fountain: Listing Details to Check"
-description: Review what the ROJECO fountain listing states about its stainless-steel drinking surface and what to verify about capacity, filters, power, and cleaning.
+description: Review what the ROJECO fountain listing states about its
+  stainless-steel drinking surface and what to verify about capacity, filters,
+  power, and cleaning.
 date: 2026-11-13
 updated: 2026-11-13
 category: pet-water-fountains
 articleType: buying-guide
-comparisonTitle: "Current product listing"
+image: /images/rojeco-stainless-steel-pet-fountain.webp
+comparisonTitle: Current product listing
 productLabel: AliExpress listing
 products:
   - name: ROJECO Stainless Steel Pet Water Fountain
@@ -18,9 +21,13 @@ products:
     affiliate: false
 faqs:
   - question: Is every water-contact part stainless steel?
-    answer: The listing title mentions a stainless-steel drinking surface. Check the selected model and material description; this does not establish the material of every component.
+    answer: The listing title mentions a stainless-steel drinking surface. Check the
+      selected model and material description; this does not establish the
+      material of every component.
   - question: How often should the filter be replaced?
-    answer: The product title does not specify a filter type or replacement interval. Follow the manual for the exact model and confirm replacement-filter availability before buying.
+    answer: The product title does not specify a filter type or replacement
+      interval. Follow the manual for the exact model and confirm
+      replacement-filter availability before buying.
 draft: false
 ---
 

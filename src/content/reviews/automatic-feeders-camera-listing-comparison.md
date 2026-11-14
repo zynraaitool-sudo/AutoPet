@@ -1,11 +1,13 @@
 ---
 title: "4L vs 7L Camera Pet Feeders: What the Listings Actually Say"
-description: Compare two AliExpress feeder listings by their stated capacity, camera, app, and bowl features, then verify the exact model before buying.
+description: Compare two AliExpress feeder listings by their stated capacity,
+  camera, app, and bowl features, then verify the exact model before buying.
 date: 2026-11-13
 updated: 2026-11-13
 category: automatic-cat-feeders
 articleType: comparison
-comparisonTitle: "Seller-listed details; verify the selected option"
+image: /images/4l-vs-7l-camera-pet-feeders-comparison.webp
+comparisonTitle: Seller-listed details; verify the selected option
 productLabel: AliExpress listing
 products:
   - name: 4L Smart Pet Feeder with Camera
@@ -26,9 +28,11 @@ products:
     affiliate: true
 faqs:
   - question: Does a 7L title mean the feeder holds seven liters of food in every option?
-    answer: Not necessarily. Check the exact selected variant and its manual; product pages can group multiple models or options.
+    answer: Not necessarily. Check the exact selected variant and its manual;
+      product pages can group multiple models or options.
   - question: Does a camera confirm that my pet has eaten?
-    answer: No. A camera may show an area, but it does not establish that food was dispensed or eaten. Check on your pet and test the feeder while home.
+    answer: No. A camera may show an area, but it does not establish that food was
+      dispensed or eaten. Check on your pet and test the feeder while home.
 draft: false
 ---
 

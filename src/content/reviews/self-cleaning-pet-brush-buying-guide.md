@@ -1,11 +1,14 @@
 ---
 title: "Self-Cleaning Pet Brushes: What to Check Before Buying"
-description: A practical guide to checking brush size, pin design, coat compatibility, and cleaning instructions for an AliExpress self-cleaning brush listing.
+description: A practical guide to checking brush size, pin design, coat
+  compatibility, and cleaning instructions for an AliExpress self-cleaning brush
+  listing.
 date: 2026-11-13
 updated: 2026-11-13
 category: pet-grooming
 articleType: buying-guide
-comparisonTitle: "Current product listing"
+image: /images/self-cleaning-pet-brushes-guide.webp
+comparisonTitle: Current product listing
 productLabel: AliExpress listing
 products:
   - name: Self-Cleaning Pet Grooming Brush
@@ -18,9 +21,12 @@ products:
     affiliate: false
 faqs:
   - question: Does "self-cleaning" mean the brush needs no maintenance?
-    answer: No. Check how the mechanism releases collected hair and how the brush should be cleaned and dried.
+    answer: No. Check how the mechanism releases collected hair and how the brush
+      should be cleaned and dried.
   - question: Can one brush be used for every coat type?
-    answer: The listing title does not establish universal suitability. Check the seller's size and coat guidance, and use gentle grooming that your pet tolerates.
+    answer: The listing title does not establish universal suitability. Check the
+      seller's size and coat guidance, and use gentle grooming that your pet
+      tolerates.
 draft: false
 ---
 

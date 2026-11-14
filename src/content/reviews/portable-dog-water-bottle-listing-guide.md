@@ -1,11 +1,13 @@
 ---
 title: "Portable Dog Water Bottle: Is 285ml Enough for Your Outing?"
-description: Check the seller-stated capacity, materials, seal, cleaning, and intended use of a 285ml portable dog water bottle before buying.
+description: Check the seller-stated capacity, materials, seal, cleaning, and
+  intended use of a 285ml portable dog water bottle before buying.
 date: 2026-11-13
 updated: 2026-11-13
 category: dog-walking-travel
 articleType: buying-guide
-comparisonTitle: "Current product listing"
+image: /images/portable-dog-water-bottle-285ml-autopet.webp
+comparisonTitle: Current product listing
 productLabel: AliExpress listing
 products:
   - name: 285ml Portable Dog Water Bottle
@@ -18,9 +20,12 @@ products:
     affiliate: false
 faqs:
   - question: Does the listing's leak-resistant wording guarantee no leaks?
-    answer: No. It is a seller claim, not an independent leak test. Inspect the seal and test the bottle at home before taking it on an outing.
+    answer: No. It is a seller claim, not an independent leak test. Inspect the seal
+      and test the bottle at home before taking it on an outing.
   - question: Is 285ml enough for every trip?
-    answer: That depends on your dog's size, the activity, weather, and access to refill water. Do not rely on a small travel bottle as the only source for a long outing.
+    answer: That depends on your dog's size, the activity, weather, and access to
+      refill water. Do not rely on a small travel bottle as the only source for
+      a long outing.
 draft: false
 ---
 

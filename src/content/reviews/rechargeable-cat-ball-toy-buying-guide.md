@@ -1,11 +1,13 @@
 ---
 title: "Rechargeable Cat Balls: Check Parts, Charging, and Supervision"
-description: What to check in a seller-listed rechargeable rolling ball for cats, including size, detachable parts, charging, and supervised play.
+description: What to check in a seller-listed rechargeable rolling ball for
+  cats, including size, detachable parts, charging, and supervised play.
 date: 2026-11-13
 updated: 2026-11-13
 category: interactive-cat-toys
 articleType: buying-guide
-comparisonTitle: "Current product listing"
+image: /images/rechargeable-cat-balls-guide.webp
+comparisonTitle: Current product listing
 productLabel: AliExpress listing
 products:
   - name: LEMEENQ Rechargeable Interactive Cat Ball
@@ -17,9 +19,12 @@ products:
     affiliate: false
 faqs:
   - question: Can an electronic toy be left with a cat unsupervised?
-    answer: Do not assume so. Follow the manufacturer's instructions, supervise initial play, and remove the toy if it becomes damaged or parts loosen.
+    answer: Do not assume so. Follow the manufacturer's instructions, supervise
+      initial play, and remove the toy if it becomes damaged or parts loosen.
   - question: What should I check about charging?
-    answer: Confirm battery and charging details in the exact model's instructions. Do not charge the toy where a pet can reach it or leave it charging unattended.
+    answer: Confirm battery and charging details in the exact model's instructions.
+      Do not charge the toy where a pet can reach it or leave it charging
+      unattended.
 draft: false
 ---
 
