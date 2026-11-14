@@ -1,11 +1,15 @@
 ---
 title: "Silicone Lick Mats: Food, Cleaning, and Supervision Matter"
-description: A practical guide to checking a suction-cup lick mat's material, size, cleaning needs, and safe supervised use.
+description: A practical guide to checking a suction-cup lick mat's material,
+  size, cleaning needs, and safe supervised use.
 date: 2026-11-14
 updated: 2026-11-14
 category: pet-feeding-accessories
 articleType: buying-guide
-quickVerdict: The listing describes a fish-shaped silicone mat with suction cups. Verify the material and cleaning directions, use an appropriate portion, and supervise your pet.
+image: /images/silicone-lick-mats-buying-guide.webp
+quickVerdict: The listing describes a fish-shaped silicone mat with suction
+  cups. Verify the material and cleaning directions, use an appropriate portion,
+  and supervise your pet.
 products:
   - name: Fish-Shaped Silicone Cat Lick Mat with Suction Cups
     priceRange: Check the current AliExpress listing
@@ -16,9 +20,11 @@ products:
     affiliate: false
 faqs:
   - question: Can I use any spreadable food on a lick mat?
-    answer: No. Use only a food that is appropriate for your pet and within its usual portion plan.
+    answer: No. Use only a food that is appropriate for your pet and within its
+      usual portion plan.
   - question: Can a pet use a lick mat unattended?
-    answer: Supervise use and remove the mat if it loosens, is chewed, or becomes damaged.
+    answer: Supervise use and remove the mat if it loosens, is chewed, or becomes
+      damaged.
 draft: false
 ---
 
