@@ -1,11 +1,15 @@
 ---
 title: "Winter Dog Shoes for Small Breeds: Check Fit, Grip, and Paw Comfort"
-description: A fit-first guide to cotton-lined dog shoes, including measuring each paw, checking closures, and assessing comfort during a short trial.
+description: A fit-first guide to cotton-lined dog shoes, including measuring
+  each paw, checking closures, and assessing comfort during a short trial.
 date: 2026-11-14
 updated: 2026-11-14
 category: dog-walking-travel
 articleType: buying-guide
-quickVerdict: The listing markets these shoes to small dogs and claims a soft, non-slip sole. Measure each paw, test the fit indoors, and stop if the shoes rub or affect your dog's gait.
+image: /images/winter-dog-shoes-small-breeds-guide.webp
+quickVerdict: The listing markets these shoes to small dogs and claims a soft,
+  non-slip sole. Measure each paw, test the fit indoors, and stop if the shoes
+  rub or affect your dog's gait.
 products:
   - name: Cotton-Lined Winter Shoes for Small Dogs
     priceRange: Check the current AliExpress listing
@@ -16,9 +20,11 @@ products:
     affiliate: false
 faqs:
   - question: Should all four paws use the same shoe size?
-    answer: Measure each paw and follow the listing's sizing method; paw dimensions can differ.
+    answer: Measure each paw and follow the listing's sizing method; paw dimensions
+      can differ.
   - question: How do I know if the shoes fit?
-    answer: Try them briefly indoors and watch for slipping, rubbing, or a changed gait. Remove them if your dog is uncomfortable.
+    answer: Try them briefly indoors and watch for slipping, rubbing, or a changed
+      gait. Remove them if your dog is uncomfortable.
 draft: false
 ---
 
