@@ -1,11 +1,16 @@
 ---
 title: "M-Shaped Cardboard Cat Scratchers: Placement and Stability Checks"
-description: Learn how to assess an M-shaped corrugated-cardboard scratcher, position it usefully, and check its wear without assuming every cat prefers it.
+description: Learn how to assess an M-shaped corrugated-cardboard scratcher,
+  position it usefully, and check its wear without assuming every cat prefers
+  it.
 date: 2026-11-14
 updated: 2026-11-14
 category: pet-enrichment
 articleType: buying-guide
-quickVerdict: The listing describes an M-shaped corrugated scratcher and advertises catnip. Verify its size and stability, and check whether catnip is included in your selected option.
+image: /images/m-shaped-cardboard-cat-scratchers-guide.webp
+quickVerdict: The listing describes an M-shaped corrugated scratcher and
+  advertises catnip. Verify its size and stability, and check whether catnip is
+  included in your selected option.
 products:
   - name: M-Shaped Corrugated Cardboard Cat Scratcher
     priceRange: Check the current AliExpress listing
@@ -16,9 +21,11 @@ products:
     affiliate: false
 faqs:
   - question: Where should a new scratcher go?
-    answer: Try a stable spot near a place your cat already scratches, while leaving pathways clear.
+    answer: Try a stable spot near a place your cat already scratches, while leaving
+      pathways clear.
   - question: Is catnip included?
-    answer: The listing advertises catnip, but confirm the selected option and package contents.
+    answer: The listing advertises catnip, but confirm the selected option and
+      package contents.
 draft: false
 ---
 
