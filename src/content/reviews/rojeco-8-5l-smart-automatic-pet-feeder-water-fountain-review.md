@@ -5,7 +5,7 @@ description: A listing-based review of the ROJECO automatic pet feeder,
   features, and details to verify.
 date: 2026-11-09
 category: automatic-cat-feeders
-image: /images/sce41ee6f52364a1b807c1ad4c63e7a14p.avif
+image: /images/rojeco-85l-automatic-pet-feeder.webp
 quickVerdict: The listing describes 5L of food capacity and a 3.5L gravity water
   dispenser, adding up to 8.5L in combined advertised capacity—not 8.5L of food.
   It also lists Wi-Fi app control, an LCD display, feeding time settings, and
@@ -14,20 +14,11 @@ quickVerdict: The listing describes 5L of food capacity and a 3.5L gravity water
   independent verification.
 productLabel: Product
 products:
-  - name: ROJECO Automatic Pet Feeder, 5L Food + 3.5L Water
-    priceRange: $42.38 new-shopper promotional price (undated listing snapshot; may change)
-    features:
-      - 5L food capacity + 3.5L gravity water dispenser (8.5L combined
-        advertised capacity)
-      - Wi-Fi app control and feeding time settings
-      - 100g minimum and 200g maximum output, as listed
-      - Plastic construction; removable food bowls and water bottle
-      - Charging power source; no battery included
-      - Listed for cats and small-to-medium dogs
-      - LCD display
+  - affiliate: true
+    name: ROJECO 5L Feeder with 3.5L Gravity Water Dispenser
+    image: /images/1.webp
+    priceRange: $41.68
     rating: 4.9
-    ratingNote: 4.9/5 from 149 reviews; undated listing snapshot that may change
-    url: https://s.click.aliexpress.com/e/_c4KBwK7Z
 pros:
   - The listing separates the 5L food capacity from the 3.5L gravity water
     dispenser capacity.
