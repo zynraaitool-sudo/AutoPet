@@ -1,0 +1,26 @@
+---
+name: Pet Emergency First-Aid Travel Kit
+category: pet-safety-accessories
+description: An AliExpress listing for a portable pet first-aid kit. Review the
+  exact contents and expiry dates; a kit is not a substitute for veterinary care.
+specifications:
+  - name: Product type
+    value: Portable first-aid pouch or kit, according to the listing
+  - name: Contents
+    value: Confirm each included item in the current listing
+features:
+  - The seller describes a travel-oriented pet emergency kit.
+  - Check packaging, storage needs, and expiry dates for consumables.
+pros:
+  - A compact kit can help organize supplies recommended for travel.
+cons:
+  - The advertised contents and medical suitability are not independently verified.
+  - It does not diagnose or treat an emergency without veterinary advice.
+productUrl: https://www.aliexpress.com/item/1005006910400516.html
+relatedArticle: pet-first-aid-kit-checklist
+displayOrder: 319
+catalogVisible: true
+draft: true
+---
+
+This listing is not a medical endorsement. Confirm every item in the kit, check that supplies are sealed and in date, and ask your veterinarian which items are appropriate for your pet. Contact a veterinary professional promptly in an emergency rather than relying on a kit.

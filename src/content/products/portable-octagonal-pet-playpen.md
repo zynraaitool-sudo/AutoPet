@@ -1,0 +1,26 @@
+---
+name: Portable Octagonal Pet Playpen
+category: pet-safety-accessories
+description: An AliExpress listing for a foldable mesh playpen for pets. Check
+  its dimensions, entry zippers, floor panel, and intended animal size.
+specifications:
+  - name: Product type
+    value: Foldable mesh playpen, according to the listing
+  - name: Shape
+    value: Octagonal design is described by the seller
+features:
+  - The listing describes a portable enclosure for indoor or outdoor use.
+  - Verify whether the selected version includes a floor or roof panel.
+pros:
+  - A foldable enclosure may create a temporary supervised activity area.
+cons:
+  - Mesh strength, zipper durability, and escape resistance are not tested.
+  - Not a substitute for direct supervision or secure long-term housing.
+productUrl: https://www.aliexpress.com/item/1005012515520230.html
+relatedArticle: portable-pet-playpen-setup-guide
+displayOrder: 321
+catalogVisible: true
+draft: true
+---
+
+The seller describes a portable mesh playpen. Confirm the assembled dimensions, doors, and included panels, then inspect seams and zippers before use. Set it on a level surface, supervise the pet, and stop using it if the enclosure is damaged or can be tipped over.

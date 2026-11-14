@@ -1,0 +1,37 @@
+---
+title: "Foldable Dog Pools: Check Dimensions, Drainage, and the Setup Surface"
+description: How to assess a collapsible pet pool's size and materials and supervise safe, shallow water play.
+date: 2026-11-14
+updated: 2026-11-14
+category: pet-enrichment
+articleType: buying-guide
+draft: true
+quickVerdict: Confirm the pool's interior dimensions and drain, place it on a clear level surface, and supervise continuously around water.
+products:
+  - name: Foldable Dog Splash Pool
+    priceRange: Check the current AliExpress listing
+    features:
+      - Foldable pet pool described by the seller
+      - Verify the selected diameter, wall material, and drain design
+    url: https://www.aliexpress.com/item/1005013469129054.html
+    affiliate: false
+faqs:
+  - question: Is a foldable pet pool a flotation or safety device?
+    answer: No. It is a container for water and play, and a pet must be supervised around it.
+  - question: Can I place it on a lawn?
+    answer: Follow the seller's instructions and clear the chosen surface of sharp stones or objects first.
+---
+
+A collapsible pool can provide a contained space for water play or bathing, but its listing does not prove that it is puncture-proof or slip-resistant. AutoPet has not tested this model.
+
+## Match the pool to the space
+
+Compare the inner diameter and wall height with the dog's size and the area available for setup. Check how it folds, how it drains, and whether a bottom mat is included. Inspect material descriptions and avoid assuming that all variants use the same construction. Place the pool on level ground, away from sharp objects and electrical equipment.
+
+## Supervise every session
+
+Begin with shallow water and allow the dog to approach at its own pace. Stay within reach and never leave a pet alone in or beside the pool, even briefly. Empty it after use, clean it as directed, and let it dry completely before storage. Do not use a damaged or unstable pool.
+
+## Bottom line
+
+Verify dimensions, drainage, and surface requirements before purchase. The pool is not a substitute for direct water supervision.
