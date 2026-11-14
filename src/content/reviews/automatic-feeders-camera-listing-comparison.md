@@ -6,7 +6,7 @@ date: 2026-11-13
 updated: 2026-11-13
 category: automatic-cat-feeders
 articleType: comparison
-image: /images/4l-vs-7l-camera-pet-feeders.webp
+image: /images/4l-vs-7l-camera-pet-feeders-comparison.webp
 comparisonTitle: Seller-listed details; verify the selected option
 productLabel: AliExpress listing
 products:
