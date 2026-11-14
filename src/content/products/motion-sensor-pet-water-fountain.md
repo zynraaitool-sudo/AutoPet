@@ -1,7 +1,17 @@
 ---
 name: Motion-Sensor Pet Water Fountain with Filter
 category: pet-water-fountains
-description: An AliExpress listing for a USB-powered pet fountain that mentions motion sensing and filtration. Confirm the reservoir, filter, pump, and power requirements.
+catalogVisible: true
+description: An AliExpress listing for a USB-powered pet fountain that mentions
+  motion sensing and filtration. Confirm the reservoir, filter, pump, and power
+  requirements.
+image: /images/products/motion-sensor-pet-water-fountain-with-filter/1.webp
+gallery:
+  - /images/products/motion-sensor-pet-water-fountain-with-filter/2.webp
+  - /images/products/motion-sensor-pet-water-fountain-with-filter/3.webp
+  - /images/products/motion-sensor-pet-water-fountain-with-filter/4.webp
+  - /images/products/motion-sensor-pet-water-fountain-with-filter/5.webp
+  - /images/products/motion-sensor-pet-water-fountain-with-filter/6.webp
 specifications:
   - name: Seller-listed activation
     value: Motion sensor / infrared detection
@@ -13,14 +23,16 @@ features:
   - The title describes an automatic water dispenser for pets.
   - Motion detection, filtration, and USB power are seller-listed claims.
 pros:
-  - The advertised sensor mode may suit buyers comparing intermittent and continuous-flow designs.
+  - The advertised sensor mode may suit buyers comparing intermittent and
+    continuous-flow designs.
 cons:
-  - Reservoir capacity, filter model, pump noise, and the sensor's detection range are not stated here.
-  - The exact USB adapter requirements and replacement-filter availability need confirmation.
-productUrl: https://www.aliexpress.com/item/1005008243242832.html
+  - Reservoir capacity, filter model, pump noise, and the sensor's detection
+    range are not stated here.
+  - The exact USB adapter requirements and replacement-filter availability need
+    confirmation.
+productUrl: https://s.click.aliexpress.com/e/_c3goCh2T
 relatedArticle: motion-sensor-pet-fountain-buying-checks
 displayOrder: 130
-catalogVisible: true
 draft: false
 ---
 
