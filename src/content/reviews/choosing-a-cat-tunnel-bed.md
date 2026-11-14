@@ -1,11 +1,15 @@
 ---
 title: "Cat Tunnel Beds: Check the Entrance, Fabric, and Wash Instructions"
-description: How to assess a tunnel-style winter cat bed listing for dimensions, access, materials, stability, and practical cleaning.
+description: How to assess a tunnel-style winter cat bed listing for dimensions,
+  access, materials, stability, and practical cleaning.
 date: 2026-11-14
 updated: 2026-11-14
 category: pet-enrichment
 articleType: buying-guide
-quickVerdict: The listing describes a thick winter bed with a tunnel-style design. Verify the entrance size, full dimensions, fabric, and washing method before deciding where it will fit.
+image: /images/دليل-اختيار-سرير-نفق-القطط-الشتوي.png
+quickVerdict: The listing describes a thick winter bed with a tunnel-style
+  design. Verify the entrance size, full dimensions, fabric, and washing method
+  before deciding where it will fit.
 products:
   - name: Thick Winter Cat Tunnel Cave Bed
     priceRange: Check the current AliExpress listing
@@ -16,9 +20,11 @@ products:
     affiliate: false
 faqs:
   - question: Will every cat use an enclosed tunnel bed?
-    answer: No. Cats have different preferences. Let your cat approach the bed freely and keep another familiar resting place available.
+    answer: No. Cats have different preferences. Let your cat approach the bed
+      freely and keep another familiar resting place available.
   - question: Can this bed be machine-washed?
-    answer: The title does not establish that. Check the seller's care instructions before cleaning.
+    answer: The title does not establish that. Check the seller's care instructions
+      before cleaning.
 draft: false
 ---
 
