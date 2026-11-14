@@ -1,11 +1,13 @@
 ---
 title: "Dog Walking Harness Fit: Measure First, Then Check the Listing"
-description: How to assess a seller-listed walking harness by measurements, adjustment range, hardware, and use limitations before ordering.
+description: How to assess a seller-listed walking harness by measurements,
+  adjustment range, hardware, and use limitations before ordering.
 date: 2026-11-13
 updated: 2026-11-13
 category: dog-walking-travel
 articleType: buying-guide
-comparisonTitle: "Current product listing"
+image: /images/dog-walking-harness-fit-guide.webp
+comparisonTitle: Current product listing
 productLabel: AliExpress listing
 products:
   - name: Dog Walking Harness for Medium and Large Dogs
@@ -17,9 +19,12 @@ products:
     affiliate: false
 faqs:
   - question: Can I choose a size by breed alone?
-    answer: No. Measure your dog and compare each measurement with the seller's current size chart; sizing can vary by design.
+    answer: No. Measure your dog and compare each measurement with the seller's
+      current size chart; sizing can vary by design.
   - question: Is this a car safety harness?
-    answer: The listing is for a walking harness and does not establish crash testing or vehicle restraint performance. Do not use it as a car restraint without explicit manufacturer documentation.
+    answer: The listing is for a walking harness and does not establish crash
+      testing or vehicle restraint performance. Do not use it as a car restraint
+      without explicit manufacturer documentation.
 draft: false
 ---
 
