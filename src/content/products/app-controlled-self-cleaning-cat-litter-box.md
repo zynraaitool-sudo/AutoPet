@@ -1,7 +1,19 @@
 ---
 name: App-Controlled Self-Cleaning Cat Litter Box
 category: smart-litter-boxes
-description: An AliExpress listing for a large automatic cat litter box with app control and 2.4 GHz Wi-Fi. Confirm the exact model and safety details before buying.
+catalogVisible: true
+description: An AliExpress listing for a large automatic cat litter box with app
+  control and 2.4 GHz Wi-Fi. Confirm the exact model and safety details before
+  buying.
+image: /images/products/app-controlled-self-cleaning-cat-litter-box/1.webp
+gallery:
+  - /images/products/app-controlled-self-cleaning-cat-litter-box/2.webp
+  - /images/products/app-controlled-self-cleaning-cat-litter-box/3.webp
+  - /images/products/app-controlled-self-cleaning-cat-litter-box/4.webp
+  - /images/products/app-controlled-self-cleaning-cat-litter-box/5.webp
+  - /images/products/app-controlled-self-cleaning-cat-litter-box/6.webp
+  - /images/products/app-controlled-self-cleaning-cat-litter-box/7.webp
+  - /images/products/app-controlled-self-cleaning-cat-litter-box/8.webp
 specifications:
   - name: Seller-listed operation
     value: Automatic self-cleaning
@@ -15,12 +27,13 @@ features:
 pros:
   - The title identifies the advertised cleaning and connectivity features.
 cons:
-  - Dimensions, compatible litter, safety sensors, waste capacity, and app support need confirmation for the selected option.
-  - A seller description does not establish that the device is safe to operate unattended.
-productUrl: https://www.aliexpress.com/item/1005013171564030.html
+  - Dimensions, compatible litter, safety sensors, waste capacity, and app
+    support need confirmation for the selected option.
+  - A seller description does not establish that the device is safe to operate
+    unattended.
+productUrl: https://s.click.aliexpress.com/e/_c4K2XzmT
 relatedArticle: wifi-self-cleaning-cat-litter-box-checklist
 displayOrder: 110
-catalogVisible: true
 draft: false
 ---
 
