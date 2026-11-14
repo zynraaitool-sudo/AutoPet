@@ -1,8 +1,16 @@
 ---
 name: Dog Car Booster Seat
 category: dog-walking-travel
+catalogVisible: true
 description: An AliExpress listing for a raised car seat for small pets. Check
   seat dimensions, anchoring straps, tether details, and vehicle compatibility.
+image: /images/products/dog-car-booster-seat/1.webp
+gallery:
+  - /images/products/dog-car-booster-seat/2.webp
+  - /images/products/dog-car-booster-seat/3.webp
+  - /images/products/dog-car-booster-seat/4.webp
+  - /images/products/dog-car-booster-seat/5.webp
+  - /images/products/dog-car-booster-seat/6.webp
 specifications:
   - name: Product type
     value: Raised pet car seat, according to the listing
@@ -16,10 +24,9 @@ pros:
 cons:
   - Crash performance and restraint strength are not independently tested.
   - A booster seat is not a substitute for a verified travel restraint system.
-productUrl: https://www.aliexpress.com/item/1005009375991084.html
+productUrl: https://s.click.aliexpress.com/e/_c3lj5Ub1
 relatedArticle: dog-car-booster-seat-setup-and-restraint
 displayOrder: 317
-catalogVisible: true
 draft: true
 ---
 
