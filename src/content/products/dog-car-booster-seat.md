@@ -27,7 +27,7 @@ cons:
 productUrl: https://s.click.aliexpress.com/e/_c3lj5Ub1
 relatedArticle: dog-car-booster-seat-setup-and-restraint
 displayOrder: 317
-draft: true
+draft: false
 ---
 
 The seller describes a booster-style pet seat, but no crash-safety performance is established. Review how it anchors to the vehicle and whether the restraint is intended for use with a properly fitted harness. Never allow a pet to ride loose or attach a tether to a collar.
