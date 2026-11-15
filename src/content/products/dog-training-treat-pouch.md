@@ -28,7 +28,7 @@ cons:
 productUrl: https://s.click.aliexpress.com/e/_c44ghQ7t
 relatedArticle: dog-training-treat-pouch-checklist
 displayOrder: 300
-draft: true
+draft: false
 ---
 
 This is a listing-based summary, not a product test. Check the exact size, closure, belt or clip, and cleaning instructions for the variant you plan to order. Keep treats fresh and use the pouch only for its intended purpose.
