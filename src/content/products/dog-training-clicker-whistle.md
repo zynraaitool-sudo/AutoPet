@@ -5,7 +5,11 @@ catalogVisible: true
 description: An AliExpress listing for a combined dog-training clicker and
   whistle. Check the selected design, sound level, and included attachments.
 image: /images/products/dog-training-clicker-with-whistle/1.webp
-gallery: []
+gallery:
+  - /images/products/dog-training-clicker-with-whistle/2.webp
+  - /images/products/dog-training-clicker-with-whistle/3.webp
+  - /images/products/dog-training-clicker-with-whistle/4.webp
+  - /images/products/dog-training-clicker-with-whistle/5.webp
 specifications:
   - name: Product type
     value: Clicker and whistle training aid, as described in the listing
