@@ -46,19 +46,19 @@ const labels: Record<string, { title: string; description: string }> = {
   },
 };
 
-export function getStaticPaths() {
-  return [
-    { params: { name: "automatic-cat-feeders" } },
-    { params: { name: "pet-water-fountains" } },
-    { params: { name: "smart-litter-boxes" } },
-    { params: { name: "pet-enrichment" } },
-    { params: { name: "pet-feeding-accessories" } },
-    { params: { name: "pet-safety-accessories" } },
-    { params: { name: "pet-inspired-toys" } },
-    { params: { name: "pet-grooming" } },
-    { params: { name: "dog-walking-travel" } },
-    { params: { name: "interactive-cat-toys" } },
-  ];
+export async function getStaticPaths() {
+  const [products, reviews] = await Promise.all([
+    getCollection("products", ({ data }) => !data.draft),
+    getCollection("reviews", ({ data }) => !data.draft),
+  ]);
+  const publishedCategories = new Set([
+    ...products.map((product) => product.data.category),
+    ...reviews.map((review) => review.data.category.toLowerCase().replaceAll(" ", "-")),
+  ]);
+
+  return [...publishedCategories]
+    .filter((name) => name in labels)
+    .map((name) => ({ params: { name } }));
 }
 
 const { name } = Astro.params;

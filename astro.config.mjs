@@ -53,7 +53,12 @@ export default defineConfig({
   },
   integrations: [
     sitemap({
-      filter: (page) => !new URL(page).pathname.startsWith("/admin"),
+      filter: (page) => {
+        const pathname = new URL(page).pathname;
+        return pathname !== "/admin" &&
+          !pathname.startsWith("/admin/") &&
+          pathname !== "/404.html";
+      },
     }),
   ],
 });

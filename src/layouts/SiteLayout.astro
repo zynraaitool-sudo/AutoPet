@@ -5,18 +5,44 @@ interface Props {
   canonical?: string | false;
   type?: "website" | "article";
   image?: string;
+  imageAlt?: string;
   noindex?: boolean;
 }
 
 const {
   title,
   description,
-  canonical = Astro.url.href,
+  canonical,
   type = "website",
   image,
+  imageAlt,
   noindex = false,
 } = Astro.props;
-const absoluteImage = image ? new URL(image, Astro.site ?? Astro.url).href : undefined;
+const canonicalUrl = canonical === false
+  ? false
+  : canonical ?? new URL(Astro.url.pathname, Astro.site ?? Astro.url).href;
+const absoluteImage = new URL(image ?? "/images/autopet-cat-feeder-guide-optimized.webp", Astro.site ?? Astro.url).href;
+const absoluteImageAlt = imageAlt ?? title;
+const siteUrl = Astro.site?.href ?? new URL("/", Astro.url).href;
+const siteSchema = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": `${siteUrl}#organization`,
+      name: "AutoPet",
+      url: siteUrl,
+      logo: new URL("/favicon.svg", siteUrl).href,
+    },
+    {
+      "@type": "WebSite",
+      "@id": `${siteUrl}#website`,
+      name: "AutoPet",
+      url: siteUrl,
+      publisher: { "@id": `${siteUrl}#organization` },
+    },
+  ],
+};
 ---
 
 <!doctype html>
@@ -27,18 +53,21 @@ const absoluteImage = image ? new URL(image, Astro.site ?? Astro.url).href : und
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
     <meta name="description" content={description} />
-    {canonical && <link rel="canonical" href={canonical} />}
+    {canonicalUrl && <link rel="canonical" href={canonicalUrl} />}
     {noindex && <meta name="robots" content="noindex, nofollow" />}
     <meta property="og:type" content={type} />
     <meta property="og:site_name" content="AutoPet" />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    {canonical && <meta property="og:url" content={canonical} />}
-    {absoluteImage && <meta property="og:image" content={absoluteImage} />}
+    {canonicalUrl && <meta property="og:url" content={canonicalUrl} />}
+    <meta property="og:image" content={absoluteImage} />
+    <meta property="og:image:alt" content={absoluteImageAlt} />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
-    {absoluteImage && <meta name="twitter:image" content={absoluteImage} />}
+    <meta name="twitter:image" content={absoluteImage} />
+    <meta name="twitter:image:alt" content={absoluteImageAlt} />
+    <script type="application/ld+json" set:html={JSON.stringify(siteSchema)}></script>
     <meta name="theme-color" content="#123f43" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
   </head>

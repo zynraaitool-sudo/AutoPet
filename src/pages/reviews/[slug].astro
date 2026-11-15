@@ -38,11 +38,13 @@ const articleSchema = {
   dateModified: isoUpdated,
   author: { "@type": "Organization", name: "AutoPet" },
   publisher: { "@type": "Organization", name: "AutoPet", url: Astro.site?.href },
+  ...(image ? { image: [new URL(image, Astro.site).href] } : {}),
+  articleSection: categoryLabel,
   mainEntityOfPage: canonical,
 };
 ---
 
-<SiteLayout title={`${title} | AutoPet`} description={description} canonical={canonical} type="article" image={image}>
+<SiteLayout title={`${title} | AutoPet`} description={description} canonical={canonical} type="article" image={image} imageAlt={imageAlt ?? title}>
   <article class="page-shell article-shell">
     {image && <img class="featured-image" src={image} width="1200" height="675" loading="eager" fetchpriority="high" decoding="async" alt={imageAlt ?? title} />}
     <header class="article-header">

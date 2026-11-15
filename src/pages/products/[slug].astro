@@ -32,6 +32,17 @@ const relatedProducts = (await getCollection("products", ({ data }) => !data.dra
   .filter((entry) => entry.id !== product.id && entry.data.category === category)
   .sort((a, b) => a.data.displayOrder - b.data.displayOrder || a.data.name.localeCompare(b.data.name))
   .slice(0, 3);
+const productSchema = {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  name,
+  description,
+  ...(galleryImages.length > 0
+    ? { image: galleryImages.map((src) => new URL(src, Astro.site).href) }
+    : {}),
+  url: canonical,
+  category: categoryTitle,
+};
 ---
 
 <SiteLayout
@@ -39,6 +50,7 @@ const relatedProducts = (await getCollection("products", ({ data }) => !data.dra
   description={description}
   canonical={canonical}
   image={image}
+  imageAlt={imageAlt ?? name}
 >
   <article class="page-shell product-page">
     <a class="back-link" href="/products/">← Browse products</a>
@@ -158,6 +170,7 @@ const relatedProducts = (await getCollection("products", ({ data }) => !data.dra
       </section>
     )}
   </article>
+  <script type="application/ld+json" set:html={JSON.stringify(productSchema)}></script>
 </SiteLayout>
 
 {galleryImages.length > 1 && (
