@@ -1,8 +1,17 @@
 ---
 name: Cat Grooming Hammock
 category: pet-grooming
-description: An AliExpress listing for a suspended grooming restraint used during
-  nail care. Check its size, attachment method, and included support hardware.
+catalogVisible: true
+description: An AliExpress listing for a suspended grooming restraint used
+  during nail care. Check its size, attachment method, and included support
+  hardware.
+image: /images/products/cat-grooming-hammock/1.webp
+gallery:
+  - /images/products/cat-grooming-hammock/2.webp
+  - /images/products/cat-grooming-hammock/3.webp
+  - /images/products/cat-grooming-hammock/4.webp
+  - /images/products/cat-grooming-hammock/5.webp
+  - /images/products/cat-grooming-hammock/6.webp
 specifications:
   - name: Product type
     value: Grooming hammock or restraint bag, according to the listing
@@ -16,11 +25,10 @@ pros:
 cons:
   - Fit, stitching strength, and comfort are not independently assessed.
   - Restraint may distress some cats and should never be forced.
-productUrl: https://www.aliexpress.com/item/1005009371028940.html
+productUrl: https://s.click.aliexpress.com/e/_c2yDEk7D
 relatedArticle: pet-grooming-hammock-fit-and-supervision
 displayOrder: 311
-catalogVisible: true
-draft: true
+draft: false
 ---
 
 AutoPet has not evaluated this restraint or its comfort. Read the size chart, inspect every seam and attachment, and stop if the cat struggles, pants, or appears distressed. Seek veterinary or professional-groomer guidance for difficult nail care.

@@ -1,8 +1,15 @@
 ---
 name: Manual Dog Paw-Washing Cup
 category: pet-grooming
+catalogVisible: true
 description: An AliExpress listing for a portable paw-washing cup with a soft
   silicone brush insert. Confirm inner diameter and cleaning instructions.
+image: /images/products/manual-dog-paw-washing-cup/1.webp
+gallery:
+  - /images/products/manual-dog-paw-washing-cup/2.webp
+  - /images/products/manual-dog-paw-washing-cup/3.webp
+  - /images/products/manual-dog-paw-washing-cup/4.webp
+  - /images/products/manual-dog-paw-washing-cup/6.webp
 specifications:
   - name: Product type
     value: Manual paw-washing cup, according to the listing
@@ -16,11 +23,10 @@ pros:
 cons:
   - Fit, bristle softness, and leak resistance are not independently tested.
   - Avoid forcing a paw into a cup that is too small or causes distress.
-productUrl: https://www.aliexpress.com/item/1005005899079806.html
+productUrl: https://s.click.aliexpress.com/e/_c42VW4pH
 relatedArticle: dog-paw-washing-cup-fit-and-cleaning
 displayOrder: 313
-catalogVisible: true
-draft: true
+draft: false
 ---
 
 The AliExpress listing describes a manual paw cleaner with a silicone insert. Compare the opening with your dog's paw size, inspect the insert for rough edges, and check how the parts are washed and dried. AutoPet has not tested its cleaning performance.

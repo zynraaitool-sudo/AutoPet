@@ -1,8 +1,17 @@
 ---
 name: 7-Piece Dog Agility Set with Tunnel
 category: pet-enrichment
+catalogVisible: true
 description: An AliExpress listing for a dog agility set with jumping obstacles
   and a tunnel. Confirm all parts, dimensions, and assembly requirements.
+image: /images/products/7-piece-dog-agility-set-with-tunnel/1.webp
+gallery:
+  - /images/products/7-piece-dog-agility-set-with-tunnel/2.webp
+  - /images/products/7-piece-dog-agility-set-with-tunnel/3.webp
+  - /images/products/7-piece-dog-agility-set-with-tunnel/4.webp
+  - /images/products/7-piece-dog-agility-set-with-tunnel/5.webp
+  - /images/products/7-piece-dog-agility-set-with-tunnel/6.webp
+videoPoster: ""
 specifications:
   - name: Listed set size
     value: Seven pieces, according to the seller title
@@ -16,11 +25,10 @@ pros:
 cons:
   - Stability, material durability, and outdoor anchoring are not verified.
   - Not every dog is suited to jumping or high-impact exercise.
-productUrl: https://www.aliexpress.com/item/1005013572885248.html
+productUrl: https://s.click.aliexpress.com/e/_c33EIH9Z
 relatedArticle: dog-agility-obstacle-set-safe-introduction
 displayOrder: 315
-catalogVisible: true
-draft: true
+draft: false
 ---
 
 AutoPet has not assembled or tested this set. Confirm what the seven-piece count includes and how the obstacles are secured. Start with low, simple activities on a clear surface, and ask a veterinarian before high-impact exercise for a puppy, senior dog, or dog with mobility concerns.

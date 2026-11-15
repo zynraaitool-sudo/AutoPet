@@ -1,8 +1,15 @@
 ---
 name: Foldable Dog Splash Pool
 category: pet-enrichment
+catalogVisible: true
 description: An AliExpress listing for a foldable pet pool. Verify the interior
   diameter, drain position, wall material, and recommended surface.
+image: /images/products/foldable-dog-splash-pool/1.webp
+gallery:
+  - /images/products/foldable-dog-splash-pool/2.webp
+  - /images/products/foldable-dog-splash-pool/3.webp
+  - /images/products/foldable-dog-splash-pool/4.webp
+  - /images/products/foldable-dog-splash-pool/5.webp
 specifications:
   - name: Product type
     value: Foldable pool for pets, as described by the seller
@@ -16,11 +23,10 @@ pros:
 cons:
   - Material thickness, leak resistance, and slip resistance are unverified.
   - The pool is not a safety device and requires continuous supervision.
-productUrl: https://www.aliexpress.com/item/1005013469129054.html
+productUrl: https://s.click.aliexpress.com/e/_c3mqdYoF
 relatedArticle: foldable-dog-pool-size-and-surface-guide
 displayOrder: 314
-catalogVisible: true
-draft: true
+draft: false
 ---
 
 This listing does not establish that the pool is puncture-proof or non-slip. Check dimensions, drainage, and setup instructions, and place it on a flat surface clear of sharp objects. Keep water shallow and supervise continuously; empty and dry the pool after use.

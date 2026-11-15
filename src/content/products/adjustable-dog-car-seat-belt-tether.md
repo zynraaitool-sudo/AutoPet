@@ -1,9 +1,16 @@
 ---
 name: Adjustable Dog Car Seat-Belt Tether
 category: pet-safety-accessories
+catalogVisible: true
 description: An AliExpress listing for an adjustable dog car restraint tether.
-  Check its attachment style and vehicle compatibility; no crash-safety result is
-  implied.
+  Check its attachment style and vehicle compatibility; no crash-safety result
+  is implied.
+image: /images/products/adjustable-dog-car-seat-belt-tether/1.webp
+gallery:
+  - /images/products/adjustable-dog-car-seat-belt-tether/2.webp
+  - /images/products/adjustable-dog-car-seat-belt-tether/3.webp
+  - /images/products/adjustable-dog-car-seat-belt-tether/4.webp
+  - /images/products/adjustable-dog-car-seat-belt-tether/6.webp
 specifications:
   - name: Product type
     value: Adjustable tether for use in a vehicle, as described by the seller
@@ -17,11 +24,10 @@ pros:
 cons:
   - Crash protection and connector strength have not been independently tested.
   - Compatibility with a vehicle and a properly fitted harness must be checked.
-productUrl: https://www.aliexpress.com/item/1005007731091609.html
+productUrl: https://s.click.aliexpress.com/e/_c3AFEXW1
 relatedArticle: dog-car-seat-belt-compatibility-guide
 displayOrder: 303
-catalogVisible: true
-draft: true
+draft: false
 ---
 
 This page does not certify the tether as crash-protective equipment. Confirm exactly how it attaches, use it only with compatible equipment as directed, and never attach a restraint tether to a collar. Check current local vehicle-safety requirements before travel.
