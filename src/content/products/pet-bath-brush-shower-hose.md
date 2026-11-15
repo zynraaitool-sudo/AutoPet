@@ -1,8 +1,15 @@
 ---
 name: 2-in-1 Pet Bath Brush with Shower Hose
 category: pet-grooming
+catalogVisible: true
 description: An AliExpress listing for a pet bath brush with a water hose
   connection. Verify connector size, water control, and material details.
+image: /images/products/2-in-1-pet-bath-brush-with-shower-hose/2.webp
+gallery:
+  - /images/products/2-in-1-pet-bath-brush-with-shower-hose/3.webp
+  - /images/products/2-in-1-pet-bath-brush-with-shower-hose/4.webp
+  - /images/products/2-in-1-pet-bath-brush-with-shower-hose/5.webp
+  - /images/products/2-in-1-pet-bath-brush-with-shower-hose/6.webp
 specifications:
   - name: Product type
     value: Bath brush with shower hose, as described by the seller
@@ -16,11 +23,10 @@ pros:
 cons:
   - Connector compatibility, water pressure, and bristle softness are not tested.
   - Confirm cleaning and drying instructions before storage.
-productUrl: https://www.aliexpress.com/item/1005012002924372.html
+productUrl: https://s.click.aliexpress.com/e/_c3xWKX2L
 relatedArticle: dog-bath-shower-brush-compatibility
 displayOrder: 312
-catalogVisible: true
-draft: true
+draft: false
 ---
 
 This page reflects seller-listed features only. Check the hose connection against your faucet or outdoor tap before buying, and begin with gentle water flow. Use only grooming products suitable for the animal and stop if the brush causes discomfort.
