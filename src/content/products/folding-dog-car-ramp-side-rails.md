@@ -27,7 +27,7 @@ cons:
 productUrl: https://s.click.aliexpress.com/e/_c3PSVmcL
 relatedArticle: folding-dog-car-ramp-fit-and-grip-guide
 displayOrder: 302
-draft: true
+draft: false
 ---
 
 This summary reflects the AliExpress listing, not a load or slip test. Compare the ramp's length and width with your vehicle, check the selected variant's stated limit, and inspect its locking points and contact surfaces before each use. Introduce the ramp gradually under close supervision.
