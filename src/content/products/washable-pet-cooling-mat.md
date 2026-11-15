@@ -1,8 +1,17 @@
 ---
 name: Washable Pet Cooling Mat
 category: pet-enrichment
+catalogVisible: true
 description: An AliExpress listing for a breathable summer mat for cats and
-  dogs. Check dimensions, washing method, and whether it uses gel or a simple fabric.
+  dogs. Check dimensions, washing method, and whether it uses gel or a simple
+  fabric.
+image: /images/products/washable-pet-cooling-mat/1.webp
+gallery:
+  - /images/products/washable-pet-cooling-mat/2.webp
+  - /images/products/washable-pet-cooling-mat/3.webp
+  - /images/products/washable-pet-cooling-mat/4.webp
+  - /images/products/washable-pet-cooling-mat/5.webp
+  - /images/products/washable-pet-cooling-mat/6.webp
 specifications:
   - name: Product type
     value: Summer pet mat, as described in the listing
@@ -16,11 +25,10 @@ pros:
 cons:
   - The degree of cooling and material safety are not independently tested.
   - Do not use a damaged mat or leave a chewing pet unsupervised with it.
-productUrl: https://www.aliexpress.com/item/1005012569861633.html
+productUrl: https://s.click.aliexpress.com/e/_c4MrxJTb
 relatedArticle: pet-cooling-mat-care-and-temperature-guide
 displayOrder: 322
-catalogVisible: true
-draft: true
+draft: false
 ---
 
 The listing describes a breathable pet mat, but its cooling effect has not been measured. Check the materials, care label, and filling, and inspect it for damage. A mat does not replace shade, fresh water, ventilation, or veterinary care for heat-related symptoms.
