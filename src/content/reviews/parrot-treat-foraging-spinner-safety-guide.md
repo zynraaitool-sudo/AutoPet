@@ -1,12 +1,14 @@
 ---
 title: "Parrot Foraging Spinners: Match the Toy to the Bird and Inspect It Often"
-description: A checklist for sizing a rotating treat toy, choosing suitable rewards, and removing worn or unsafe parts.
+description: A checklist for sizing a rotating treat toy, choosing suitable
+  rewards, and removing worn or unsafe parts.
 date: 2026-11-14
 updated: 2026-11-14
 category: pet-enrichment
 articleType: buying-guide
-draft: true
-quickVerdict: Check dimensions, bird-safe materials, and cage attachment; supervise initial use and remove the toy if pieces loosen or fray.
+image: /images/parrot-foraging-spinner-guide.webp
+quickVerdict: Check dimensions, bird-safe materials, and cage attachment;
+  supervise initial use and remove the toy if pieces loosen or fray.
 products:
   - name: Parrot Treat-Foraging Spinner Toy
     priceRange: Check the current AliExpress listing
@@ -17,9 +19,12 @@ products:
     affiliate: false
 faqs:
   - question: Does a five-compartment listing fit every parrot?
-    answer: No. Confirm the dimensions and consider the species, beak strength, and cage arrangement.
+    answer: No. Confirm the dimensions and consider the species, beak strength, and
+      cage arrangement.
   - question: What should I do if the bird chews a piece loose?
-    answer: Remove the toy and replace it only with an item inspected for the bird's size and behavior.
+    answer: Remove the toy and replace it only with an item inspected for the bird's
+      size and behavior.
+draft: false
 ---
 
 A foraging spinner may encourage a bird to work for small portions of food, but product suitability depends on species, size, and chewing behavior. The AliExpress title mentions multiple compartments; AutoPet has not inspected its materials or attachments.
