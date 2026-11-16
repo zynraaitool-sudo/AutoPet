@@ -1,12 +1,14 @@
 ---
 title: "Cat Window Safety Mesh: Measure the Frame and Secure Every Edge"
-description: What to measure and inspect when considering a mesh barrier for a cat-accessible window or balcony opening.
+description: What to measure and inspect when considering a mesh barrier for a
+  cat-accessible window or balcony opening.
 date: 2026-11-14
 updated: 2026-11-14
 category: pet-safety-accessories
 articleType: buying-guide
-draft: true
-quickVerdict: Measure the opening and confirm a secure frame attachment; a roll of mesh alone is not proof of a cat-proof barrier.
+image: /images/cat-window-safety-mesh-guide.webp
+quickVerdict: Measure the opening and confirm a secure frame attachment; a roll
+  of mesh alone is not proof of a cat-proof barrier.
 products:
   - name: Cat Window Safety Mesh
     priceRange: Check the current AliExpress listing
@@ -17,9 +19,11 @@ products:
     affiliate: false
 faqs:
   - question: Can I rely on mesh tape or adhesive alone?
-    answer: Do not assume it is secure. Follow suitable installation guidance and ensure the full frame is firmly attached.
+    answer: Do not assume it is secure. Follow suitable installation guidance and
+      ensure the full frame is firmly attached.
   - question: Does "cat-resistant" mean the net cannot tear?
     answer: No. The seller's wording is not an independent strength test.
+draft: false
 ---
 
 Window mesh can be part of a broader home-safety setup, but an unsecured screen can create a false sense of security. The AliExpress listing describes protective mesh; AutoPet has not tested tear resistance or load capacity.
