@@ -22,7 +22,7 @@ faqs:
     answer: No. Fit, adjustment, design, and the cat's movement all affect security.
   - question: Should I pull a cat along on a leash?
     answer: No. Let the cat set the pace and stop if it shows fear or tries to escape.
-draft: false
+draft: true
 ---
 
 The AliExpress listing describes a harness as escape-resistant, but that wording is not a guarantee. AutoPet has not tested the fit or fasteners. Cats differ in body shape and comfort with restraint, so suitability cannot be judged by a product photo.
