@@ -1,12 +1,14 @@
 ---
 title: "Dog Life Jackets: Measure for Fit and Keep Water Activities Supervised"
-description: How to check a flotation vest's measurements, adjustment points, and construction without treating seller claims as proof of buoyancy.
+description: How to check a flotation vest's measurements, adjustment points,
+  and construction without treating seller claims as proof of buoyancy.
 date: 2026-11-14
 updated: 2026-11-14
 category: pet-safety-accessories
 articleType: buying-guide
-draft: true
-quickVerdict: Measure the dog and inspect every closure; test fit cautiously in shallow water and stay within reach because a vest cannot replace supervision.
+image: /images/dog-life-jackets-fit-and-safety-guide.webp
+quickVerdict: Measure the dog and inspect every closure; test fit cautiously in
+  shallow water and stay within reach because a vest cannot replace supervision.
 products:
   - name: Dog Life Jacket Float Vest
     priceRange: Check the current AliExpress listing
@@ -19,7 +21,9 @@ faqs:
   - question: Does a life jacket make any dog safe in water?
     answer: No. Fit, condition, the dog's comfort, and supervision all matter.
   - question: Should I choose only by the dog's weight?
-    answer: No. Use the seller's measurement chart, including chest and neck measurements, and check the return terms.
+    answer: No. Use the seller's measurement chart, including chest and neck
+      measurements, and check the return terms.
+draft: false
 ---
 
 This guide is based on an AliExpress flotation-vest listing. AutoPet has not tested buoyancy, stitching, or sizing, and a seller's "life jacket" label is not an independent safety certification.
