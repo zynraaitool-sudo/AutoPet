@@ -1,12 +1,15 @@
 ---
 title: "Cat Wall Shelves: Plan the Route and Check Every Anchor"
-description: A planning guide to wall type, fasteners, shelf spacing, and safe use of cat climbing furniture.
+description: A planning guide to wall type, fasteners, shelf spacing, and safe
+  use of cat climbing furniture.
 date: 2026-11-14
 updated: 2026-11-14
 category: pet-enrichment
 articleType: buying-guide
-draft: true
-quickVerdict: Confirm the included pieces and wall requirements, use anchors suitable for the wall, and test the installed route before inviting a cat to climb.
+image: /images/cat-wall-shelves-guide.webp
+quickVerdict: Confirm the included pieces and wall requirements, use anchors
+  suitable for the wall, and test the installed route before inviting a cat to
+  climb.
 products:
   - name: Cat Wall Climbing Shelves Set
     priceRange: Check the current AliExpress listing
@@ -17,9 +20,12 @@ products:
     affiliate: false
 faqs:
   - question: Can I use any screws included in the package?
-    answer: Only if they are appropriate for your wall material and installation; otherwise consult a qualified installer.
+    answer: Only if they are appropriate for your wall material and installation;
+      otherwise consult a qualified installer.
   - question: How far apart should shelves be?
-    answer: Plan gradual, reachable steps based on the cat's size and mobility rather than a seller's generic diagram.
+    answer: Plan gradual, reachable steps based on the cat's size and mobility
+      rather than a seller's generic diagram.
+draft: false
 ---
 
 Wall-mounted shelves can create vertical routes for indoor cats, but installation quality matters more than a catalog photo. The AliExpress listing is not an engineering specification; AutoPet has not tested its hardware or load capacity.
