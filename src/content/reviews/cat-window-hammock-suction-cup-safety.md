@@ -1,12 +1,15 @@
 ---
 title: "Cat Window Hammocks: Suction-Cup Checks Before You Install One"
-description: How to assess a suction-mounted cat window perch, prepare the surface, and reduce fall risks without relying on unverified load claims.
+description: How to assess a suction-mounted cat window perch, prepare the
+  surface, and reduce fall risks without relying on unverified load claims.
 date: 2026-11-14
 updated: 2026-11-14
 category: pet-enrichment
 articleType: buying-guide
-draft: true
-quickVerdict: "Treat the perch as untested furniture: confirm the mounting surface and instructions, inspect attachments often, and never place it above a dangerous fall."
+image: /images/cat-window-hammocks-suction-cup-guide.webp
+quickVerdict: "Treat the perch as untested furniture: confirm the mounting
+  surface and instructions, inspect attachments often, and never place it above
+  a dangerous fall."
 products:
   - name: Cat Window Hammock with Suction Cups
     priceRange: Check the current AliExpress listing
@@ -17,9 +20,12 @@ products:
     affiliate: false
 faqs:
   - question: Do suction cups guarantee a safe perch?
-    answer: No. Adhesion depends on the window surface, installation, temperature, and upkeep.
+    answer: No. Adhesion depends on the window surface, installation, temperature,
+      and upkeep.
   - question: Can I install the hammock above a hard floor?
-    answer: Avoid placing it where a failure could cause injury; follow the product instructions and use a safer location.
+    answer: Avoid placing it where a failure could cause injury; follow the product
+      instructions and use a safer location.
+draft: true
 ---
 
 An elevated window seat may offer a cat a place to rest, but a suction-mounted accessory needs careful assessment. The AliExpress listing describes a window hammock; AutoPet has not tested its cups, frame, or load capacity.
