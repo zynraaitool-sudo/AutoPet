@@ -1,12 +1,14 @@
 ---
 title: "Pet Strollers: Measure the Cabin and Test the Brakes Before a Walk"
-description: A buyer's checklist for stroller fit, wheel locks, ventilation, folding dimensions, and supervised use.
+description: A buyer's checklist for stroller fit, wheel locks, ventilation,
+  folding dimensions, and supervised use.
 date: 2026-11-14
 updated: 2026-11-14
 category: dog-walking-travel
 articleType: buying-guide
-draft: true
-quickVerdict: Compare interior and folded dimensions, inspect the wheel locks and closures, and keep the pet supervised inside the stroller.
+image: /images/pet-stroller-fit-and-safety-guide.webp
+quickVerdict: Compare interior and folded dimensions, inspect the wheel locks
+  and closures, and keep the pet supervised inside the stroller.
 products:
   - name: Folding Pet Stroller
     priceRange: Check the current AliExpress listing
@@ -17,9 +19,12 @@ products:
     affiliate: false
 faqs:
   - question: Is a stroller appropriate for every pet?
-    answer: No. Check whether your pet tolerates enclosed transport and consult a veterinarian if mobility or health issues are involved.
+    answer: No. Check whether your pet tolerates enclosed transport and consult a
+      veterinarian if mobility or health issues are involved.
   - question: What should I test before the first outing?
-    answer: Check the brakes, latches, wheels, ventilation, and any internal tether on a level surface.
+    answer: Check the brakes, latches, wheels, ventilation, and any internal tether
+      on a level surface.
+draft: true
 ---
 
 A pet stroller can provide a way to travel when walking is limited, but its size and mechanics should fit both the pet and the route. AutoPet has not tested the AliExpress stroller or verified its listed load limit.
