@@ -1,12 +1,14 @@
 ---
 title: "Cat Exercise Wheels: Measure the Footprint and Introduce Them Gradually"
-description: How to review an indoor running wheel's dimensions, base, surface, and safe introduction for a cat that chooses to use it.
+description: How to review an indoor running wheel's dimensions, base, surface,
+  and safe introduction for a cat that chooses to use it.
 date: 2026-11-14
 updated: 2026-11-14
 category: pet-enrichment
 articleType: buying-guide
-draft: true
-quickVerdict: Verify the wheel's diameter and stability, clear enough floor space, and let the cat approach at its own pace instead of forcing exercise.
+image: /images/cat-exercise-wheel-guide.webp
+quickVerdict: Verify the wheel's diameter and stability, clear enough floor
+  space, and let the cat approach at its own pace instead of forcing exercise.
 products:
   - name: Silent Cat Exercise Wheel
     priceRange: Check the current AliExpress listing
@@ -17,9 +19,11 @@ products:
     affiliate: false
 faqs:
   - question: Is a cat exercise wheel silent?
-    answer: The listing claims quiet operation, but AutoPet has not measured noise or vibration.
+    answer: The listing claims quiet operation, but AutoPet has not measured noise
+      or vibration.
   - question: What if my cat will not use the wheel?
     answer: Do not force it. Some cats prefer other play and enrichment activities.
+draft: false
 ---
 
 An exercise wheel can offer an optional indoor activity for a cat, but it is a large piece of equipment that needs room and stable assembly. The AliExpress listing describes the wheel as quiet; AutoPet has not tested its noise or balance.
