@@ -2,8 +2,8 @@
 title: "Cat Harness Fit: Measure Carefully and Practice Indoors First"
 description: How to assess a cat harness's measurement chart, adjust it without
   restricting movement, and introduce leash walks gradually.
-date: 2026-11-14
-updated: 2026-11-14
+date: 2026-11-16
+updated: 2026-11-16
 category: dog-walking-travel
 articleType: buying-guide
 image: /images/cat-harness-fit-guide.webp
@@ -22,7 +22,7 @@ faqs:
     answer: No. Fit, adjustment, design, and the cat's movement all affect security.
   - question: Should I pull a cat along on a leash?
     answer: No. Let the cat set the pace and stop if it shows fear or tries to escape.
-draft: true
+draft: false
 ---
 
 The AliExpress listing describes a harness as escape-resistant, but that wording is not a guarantee. AutoPet has not tested the fit or fasteners. Cats differ in body shape and comfort with restraint, so suitability cannot be judged by a product photo.
