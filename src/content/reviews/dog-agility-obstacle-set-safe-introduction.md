@@ -1,12 +1,14 @@
 ---
 title: "Dog Agility Sets: Check the Pieces and Start With Low Obstacles"
-description: A cautious guide to verifying a seller-listed agility kit and introducing tunnels and jumps at a level appropriate for the dog.
+description: A cautious guide to verifying a seller-listed agility kit and
+  introducing tunnels and jumps at a level appropriate for the dog.
 date: 2026-11-14
 updated: 2026-11-14
 category: pet-enrichment
 articleType: buying-guide
-draft: true
-quickVerdict: Confirm the full parts list and stability, then introduce one low obstacle at a time; jumping is not appropriate for every dog.
+image: /images/dog-agility-sets-guide.webp
+quickVerdict: Confirm the full parts list and stability, then introduce one low
+  obstacle at a time; jumping is not appropriate for every dog.
 products:
   - name: 7-Piece Dog Agility Set with Tunnel
     priceRange: Check the current AliExpress listing
@@ -17,9 +19,12 @@ products:
     affiliate: false
 faqs:
   - question: Does the listing's seven-piece count include the tunnel?
-    answer: Confirm the current parts list and selected option with the seller before buying.
+    answer: Confirm the current parts list and selected option with the seller
+      before buying.
   - question: Can puppies use jumps?
-    answer: Ask a veterinarian about age-appropriate activity; avoid repetitive or high-impact jumping for growing dogs.
+    answer: Ask a veterinarian about age-appropriate activity; avoid repetitive or
+      high-impact jumping for growing dogs.
+draft: false
 ---
 
 An agility kit may offer a structured activity, but the product title alone does not say how stable it is or what each piece includes. AutoPet has not assembled or tested this AliExpress set.
