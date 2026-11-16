@@ -1,12 +1,14 @@
 ---
 title: "Dog Car Booster Seats: Check Anchoring and Use a Separate Restraint"
-description: A buying guide to booster-seat dimensions, mounting straps, and safe travel practices without mistaking a raised cushion for crash protection.
+description: A buying guide to booster-seat dimensions, mounting straps, and
+  safe travel practices without mistaking a raised cushion for crash protection.
 date: 2026-11-14
 updated: 2026-11-14
 category: dog-walking-travel
 articleType: buying-guide
-draft: true
-quickVerdict: Confirm the seat fits your vehicle and inspect its anchors, but do not assume the booster itself is crash-tested or sufficient restraint.
+image: /images/dog-car-booster-seats-safety-guide.webp
+quickVerdict: Confirm the seat fits your vehicle and inspect its anchors, but do
+  not assume the booster itself is crash-tested or sufficient restraint.
 products:
   - name: Dog Car Booster Seat
     priceRange: Check the current AliExpress listing
@@ -19,7 +21,9 @@ faqs:
   - question: Does a booster seat protect a dog in a crash?
     answer: Do not assume so. The listing does not establish crash-test performance.
   - question: Can I connect the seat's tether to a collar?
-    answer: No. Any travel restraint should be used with compatible equipment as directed, never attached to a collar.
+    answer: No. Any travel restraint should be used with compatible equipment as
+      directed, never attached to a collar.
+draft: false
 ---
 
 A booster seat may create a defined space for a small pet, but raised seating and crash protection are different claims. AutoPet has not tested the AliExpress product's anchors, stitching, or restraint performance.

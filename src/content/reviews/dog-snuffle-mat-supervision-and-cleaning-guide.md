@@ -1,12 +1,14 @@
 ---
 title: "Dog Snuffle Mats: Choose a Washable Design and Supervise Use"
-description: What to look for in a nosework mat, how to start with simple searches, and when to remove it for cleaning or safety.
+description: What to look for in a nosework mat, how to start with simple
+  searches, and when to remove it for cleaning or safety.
 date: 2026-11-14
 updated: 2026-11-14
 category: pet-enrichment
 articleType: buying-guide
-draft: true
-quickVerdict: Check the mat's dimensions, attachment points, and wash instructions; supervise closely if your dog chews fabric or pulls at seams.
+image: /images/dog-snuffle-mats-washable-design-guide.webp
+quickVerdict: Check the mat's dimensions, attachment points, and wash
+  instructions; supervise closely if your dog chews fabric or pulls at seams.
 products:
   - name: Dog Snuffle Mat for Nosework
     priceRange: Check the current AliExpress listing
@@ -17,9 +19,12 @@ products:
     affiliate: false
 faqs:
   - question: Can a snuffle mat be left out all day?
-    answer: It is better used for supervised activities, especially if a dog chews or tears fabric.
+    answer: It is better used for supervised activities, especially if a dog chews
+      or tears fabric.
   - question: How do I clean a mat?
-    answer: Follow the seller's care instructions; do not assume it is machine washable.
+    answer: Follow the seller's care instructions; do not assume it is machine
+      washable.
+draft: false
 ---
 
 A snuffle mat can turn a portion of a dog's meal or a few treats into a scent-search activity. Marketplace listings may use broad claims such as slow feeding or anxiety relief; those outcomes are not established by this product page.

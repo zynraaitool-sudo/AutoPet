@@ -1,12 +1,14 @@
 ---
 title: "Dog Training Clickers: Pair the Sound With a Reward"
-description: A beginner-friendly guide to checking a combined clicker and whistle and using a marker sound consistently during reward-based practice.
+description: A beginner-friendly guide to checking a combined clicker and
+  whistle and using a marker sound consistently during reward-based practice.
 date: 2026-11-14
 updated: 2026-11-14
 category: pet-enrichment
 articleType: buying-guide
-draft: true
-quickVerdict: Check that the selected tool's click and whistle work as expected, then pair one marker sound with a reward in short, calm sessions.
+image: /images/dog-training-clickers-pair-sound-reward.webp
+quickVerdict: Check that the selected tool's click and whistle work as expected,
+  then pair one marker sound with a reward in short, calm sessions.
 products:
   - name: Dog Training Clicker with Whistle
     priceRange: Check the current AliExpress listing
@@ -17,9 +19,11 @@ products:
     affiliate: false
 faqs:
   - question: Should I click repeatedly to get a dog's attention?
-    answer: Use one consistent marker for the behavior you want, then reward it promptly; avoid startling or overwhelming the dog.
+    answer: Use one consistent marker for the behavior you want, then reward it
+      promptly; avoid startling or overwhelming the dog.
   - question: Is a clicker required for training?
     answer: No. A calm verbal marker can also be used consistently.
+draft: false
 ---
 
 A clicker can provide a distinct marker sound during reward-based training. The AliExpress listing describes a combined clicker and whistle, but AutoPet has not tested its sound level or reliability.
