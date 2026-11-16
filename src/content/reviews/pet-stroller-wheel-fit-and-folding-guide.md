@@ -24,7 +24,7 @@ faqs:
   - question: What should I test before the first outing?
     answer: Check the brakes, latches, wheels, ventilation, and any internal tether
       on a level surface.
-draft: true
+draft: false
 ---
 
 A pet stroller can provide a way to travel when walking is limited, but its size and mechanics should fit both the pet and the route. AutoPet has not tested the AliExpress stroller or verified its listed load limit.
