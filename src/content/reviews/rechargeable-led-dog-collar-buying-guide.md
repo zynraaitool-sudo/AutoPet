@@ -1,12 +1,15 @@
 ---
 title: "Rechargeable LED Dog Collars: Check Visibility, Fit, and Charging"
-description: A practical checklist for choosing an illuminated dog collar while understanding its limits as a low-light visibility aid.
+description: A practical checklist for choosing an illuminated dog collar while
+  understanding its limits as a low-light visibility aid.
 date: 2026-11-14
 updated: 2026-11-14
 category: pet-safety-accessories
 articleType: buying-guide
-draft: true
-quickVerdict: Verify sizing, charging, operating modes, and water-care instructions; an LED collar is a visibility aid, not a substitute for a secure leash and collar.
+image: /images/rechargeable-led-dog-collar-guide.webp
+quickVerdict: Verify sizing, charging, operating modes, and water-care
+  instructions; an LED collar is a visibility aid, not a substitute for a secure
+  leash and collar.
 products:
   - name: USB-Rechargeable LED Dog Safety Collar
     priceRange: Check the current AliExpress listing
@@ -17,9 +20,11 @@ products:
     affiliate: false
 faqs:
   - question: Is the collar waterproof?
-    answer: Do not assume that. Check the product's exact water-resistance rating and care directions.
+    answer: Do not assume that. Check the product's exact water-resistance rating
+      and care directions.
   - question: Can the light replace a leash?
     answer: No. It may improve visibility but does not prevent a dog from running off.
+draft: false
 ---
 
 An illuminated collar can make a dog easier to notice during a low-light walk, but marketplace descriptions do not establish brightness or runtime. AutoPet has not measured this product's performance.
