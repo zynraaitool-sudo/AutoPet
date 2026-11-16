@@ -1,12 +1,15 @@
 ---
 title: "Folding Dog Car Ramps: Measure the Slope, Width, and Storage Space"
-description: A buyer's guide to ramp length, vehicle height, surface traction, side rails, and a gradual introduction for dogs.
+description: A buyer's guide to ramp length, vehicle height, surface traction,
+  side rails, and a gradual introduction for dogs.
 date: 2026-11-14
 updated: 2026-11-14
 category: dog-walking-travel
 articleType: buying-guide
-draft: true
-quickVerdict: Measure your vehicle and dog first, then verify the ramp dimensions and stated load limit; side rails and folding claims are not a substitute for a stability check.
+image: /images/folding-dog-car-ramps-buying-guide.webp
+quickVerdict: Measure your vehicle and dog first, then verify the ramp
+  dimensions and stated load limit; side rails and folding claims are not a
+  substitute for a stability check.
 products:
   - name: Folding Dog Car Ramp with Side Rails
     priceRange: Check the current AliExpress listing
@@ -17,9 +20,11 @@ products:
     affiliate: false
 faqs:
   - question: Is a longer ramp always better?
-    answer: A longer ramp can reduce steepness for a given vehicle height, but needs more setup and storage room.
+    answer: A longer ramp can reduce steepness for a given vehicle height, but needs
+      more setup and storage room.
   - question: Can my dog use a ramp immediately?
     answer: Introduce it gradually on a stable, low setting and supervise each attempt.
+draft: false
 ---
 
 A ramp may reduce the need to lift a dog into a vehicle, but fit and surface conditions matter. This article summarizes a seller listing, not a load, traction, or durability test.
