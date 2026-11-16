@@ -1,12 +1,14 @@
 ---
 title: "Foldable Dog Pools: Check Dimensions, Drainage, and the Setup Surface"
-description: How to assess a collapsible pet pool's size and materials and supervise safe, shallow water play.
+description: How to assess a collapsible pet pool's size and materials and
+  supervise safe, shallow water play.
 date: 2026-11-14
 updated: 2026-11-14
 category: pet-enrichment
 articleType: buying-guide
-draft: true
-quickVerdict: Confirm the pool's interior dimensions and drain, place it on a clear level surface, and supervise continuously around water.
+image: /images/foldable-dog-pools-setup-safety-guide.webp
+quickVerdict: Confirm the pool's interior dimensions and drain, place it on a
+  clear level surface, and supervise continuously around water.
 products:
   - name: Foldable Dog Splash Pool
     priceRange: Check the current AliExpress listing
@@ -17,9 +19,12 @@ products:
     affiliate: false
 faqs:
   - question: Is a foldable pet pool a flotation or safety device?
-    answer: No. It is a container for water and play, and a pet must be supervised around it.
+    answer: No. It is a container for water and play, and a pet must be supervised
+      around it.
   - question: Can I place it on a lawn?
-    answer: Follow the seller's instructions and clear the chosen surface of sharp stones or objects first.
+    answer: Follow the seller's instructions and clear the chosen surface of sharp
+      stones or objects first.
+draft: false
 ---
 
 A collapsible pool can provide a contained space for water play or bathing, but its listing does not prove that it is puncture-proof or slip-resistant. AutoPet has not tested this model.
