@@ -5,7 +5,7 @@ date: 2026-11-14
 updated: 2026-11-14
 category: pet-enrichment
 articleType: buying-guide
-draft: true
+draft: false
 quickVerdict: Confirm the pool's interior dimensions and drain, place it on a clear level surface, and supervise continuously around water.
 products:
   - name: Foldable Dog Splash Pool
