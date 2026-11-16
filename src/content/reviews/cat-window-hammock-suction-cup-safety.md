@@ -25,7 +25,7 @@ faqs:
   - question: Can I install the hammock above a hard floor?
     answer: Avoid placing it where a failure could cause injury; follow the product
       instructions and use a safer location.
-draft: true
+draft: false
 ---
 
 An elevated window seat may offer a cat a place to rest, but a suction-mounted accessory needs careful assessment. The AliExpress listing describes a window hammock; AutoPet has not tested its cups, frame, or load capacity.
