@@ -1,12 +1,14 @@
 ---
 title: "Pet Shower Brushes: Check Hose Connections and Start With Gentle Flow"
-description: How to check a shower brush's connectors, water control, bristles, and cleaning needs before using it during a dog bath.
+description: How to check a shower brush's connectors, water control, bristles,
+  and cleaning needs before using it during a dog bath.
 date: 2026-11-14
 updated: 2026-11-14
 category: pet-grooming
 articleType: buying-guide
-draft: true
-quickVerdict: Verify the faucet or hose fit and included adapters, then test with low water flow before bringing the brush near a dog.
+image: /images/pet-shower-brushes-gentle-flow-guide.webp
+quickVerdict: Verify the faucet or hose fit and included adapters, then test
+  with low water flow before bringing the brush near a dog.
 products:
   - name: 2-in-1 Pet Bath Brush with Shower Hose
     priceRange: Check the current AliExpress listing
@@ -17,9 +19,12 @@ products:
     affiliate: false
 faqs:
   - question: Will the brush fit my shower or garden hose?
-    answer: Not necessarily. Compare the connector dimensions and included adapters with your tap before ordering.
+    answer: Not necessarily. Compare the connector dimensions and included adapters
+      with your tap before ordering.
   - question: Can I use any shampoo with it?
-    answer: Use only products suitable for the animal and follow veterinary guidance for skin conditions.
+    answer: Use only products suitable for the animal and follow veterinary guidance
+      for skin conditions.
+draft: false
 ---
 
 Combining a brush and rinse may simplify bath setup, but connector compatibility is product-specific. The AliExpress listing mentions a brush and hose; AutoPet has not tested its connection, pressure, or bristle softness.
