@@ -6,14 +6,10 @@ date: 2026-11-14
 updated: 2026-11-14
 category: pet-enrichment
 articleType: buying-guide
-<<<<<<< HEAD
 draft: false
-quickVerdict: Confirm the pool's interior dimensions and drain, place it on a clear level surface, and supervise continuously around water.
-=======
 image: /images/foldable-dog-pools-setup-safety-guide.webp
 quickVerdict: Confirm the pool's interior dimensions and drain, place it on a
   clear level surface, and supervise continuously around water.
->>>>>>> af773c9d2caadd7fca9f37c4d75ea33860f8ff78
 products:
   - name: Foldable Dog Splash Pool
     priceRange: Check the current AliExpress listing
@@ -29,7 +25,6 @@ faqs:
   - question: Can I place it on a lawn?
     answer: Follow the seller's instructions and clear the chosen surface of sharp
       stones or objects first.
-draft: false
 ---
 
 A collapsible pool can provide a contained space for water play or bathing, but its listing does not prove that it is puncture-proof or slip-resistant. AutoPet has not tested this model.
