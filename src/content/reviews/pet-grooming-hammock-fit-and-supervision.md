@@ -15,7 +15,7 @@ products:
     features:
       - Paw-access grooming hammock described by the seller
       - Confirm sizing and all included hooks or straps
-    url: https://www.aliexpress.com/item/1005009371028940.html
+    url: https://s.click.aliexpress.com/e/_c2yDEk7D
     affiliate: false
 faqs:
   - question: Does a grooming hammock make nail trimming safe?
