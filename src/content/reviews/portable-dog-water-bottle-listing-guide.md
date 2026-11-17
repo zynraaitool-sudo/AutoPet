@@ -17,7 +17,7 @@ products:
       - Stainless steel and silicone mentioned by the seller
       - Portable design for outings
     url: https://s.click.aliexpress.com/e/_c3Bom8u7
-    affiliate: true
+    affiliate: false
 faqs:
   - question: Does the listing's leak-resistant wording guarantee no leaks?
     answer: No. It is a seller claim, not an independent leak test. Inspect the seal
