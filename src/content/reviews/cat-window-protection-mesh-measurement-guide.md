@@ -15,7 +15,7 @@ products:
     features:
       - Cut-to-size mesh for windows or balconies described by the seller
       - Verify roll size, fasteners, and installation method
-    url: https://www.aliexpress.com/item/1005013066715601.html
+    url: https://s.click.aliexpress.com/e/_c3Sj44D5
     affiliate: false
 faqs:
   - question: Can I rely on mesh tape or adhesive alone?
