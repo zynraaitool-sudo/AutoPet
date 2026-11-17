@@ -16,8 +16,8 @@ products:
       - Listing title states 285ml capacity
       - Stainless steel and silicone mentioned by the seller
       - Portable design for outings
-    url: https://www.aliexpress.com/item/1005012195196824.html
-    affiliate: false
+    url: https://s.click.aliexpress.com/e/_c3Bom8u7
+    affiliate: true
 faqs:
   - question: Does the listing's leak-resistant wording guarantee no leaks?
     answer: No. It is a seller claim, not an independent leak test. Inspect the seal
