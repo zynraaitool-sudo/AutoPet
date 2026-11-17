@@ -16,7 +16,7 @@ products:
     features:
       - Wall-mounted climbing shelves described by the seller
       - Check hardware, piece count, and dimensions for the selected option
-    url: https://www.aliexpress.com/item/1005013544950326.html
+    url: https://s.click.aliexpress.com/e/_c2z2E11h
     affiliate: false
 faqs:
   - question: Can I use any screws included in the package?
