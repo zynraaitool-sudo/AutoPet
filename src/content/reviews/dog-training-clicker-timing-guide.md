@@ -15,7 +15,7 @@ products:
     features:
       - Combined clicker and whistle described by the seller
       - Verify sound controls and attachments for the chosen option
-    url: https://www.aliexpress.com/item/1005002124465557.html
+    url: https://s.click.aliexpress.com/e/_c2znMhL5
     affiliate: false
 faqs:
   - question: Should I click repeatedly to get a dog's attention?
