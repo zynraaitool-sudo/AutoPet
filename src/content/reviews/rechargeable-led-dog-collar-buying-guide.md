@@ -16,7 +16,7 @@ products:
     features:
       - Rechargeable LED collar described by the seller
       - Confirm cable, size range, and modes for the chosen variant
-    url: https://www.aliexpress.com/item/1005005118453608.html
+    url: https://s.click.aliexpress.com/e/_c3eoVkfB
     affiliate: false
 faqs:
   - question: Is the collar waterproof?
