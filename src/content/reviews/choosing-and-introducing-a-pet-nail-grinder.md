@@ -16,7 +16,7 @@ products:
     features:
       - Electric nail-trimming and polishing tool, according to the seller
       - Marketed for cats and dogs
-    url: https://www.aliexpress.com/item/1005013331954706.html
+    url: https://s.click.aliexpress.com/e/_c3bf8dsn
     affiliate: false
 faqs:
   - question: Is a nail grinder always easier than clippers?
