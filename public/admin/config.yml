@@ -45,6 +45,9 @@ collections:
           - pet-water-fountains
           - smart-litter-boxes
           - pet-inspired-toys
+          - pet-enrichment
+          - pet-feeding-accessories
+          - pet-safety-accessories
           - pet-grooming
           - dog-walking-travel
           - interactive-cat-toys
@@ -209,6 +212,8 @@ collections:
           - automatic-cat-feeders
           - pet-water-fountains
           - smart-litter-boxes
+          - pet-enrichment
+          - pet-safety-accessories
           - pet-grooming
           - dog-walking-travel
           - interactive-cat-toys
