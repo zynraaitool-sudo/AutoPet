@@ -16,7 +16,7 @@ products:
     features:
       - Capsule-style transparent panel is seller-listed
       - The listing markets the bag as breathable
-    url: https://www.aliexpress.com/item/1005008074401769.html
+    url: https://s.click.aliexpress.com/e/_c3RSdDI3
     affiliate: false
 faqs:
   - question: Is a capsule backpack suitable for airline travel?
