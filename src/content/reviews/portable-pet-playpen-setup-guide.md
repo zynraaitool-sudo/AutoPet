@@ -16,7 +16,7 @@ products:
     features:
       - Foldable octagonal mesh pen described by the seller
       - Confirm floor and roof panels in the chosen option
-    url: https://www.aliexpress.com/item/1005012515520230.html
+    url: https://s.click.aliexpress.com/e/_c3xuuxeb
     affiliate: false
 faqs:
   - question: Can a mesh pen be left unattended outdoors?
