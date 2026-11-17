@@ -15,7 +15,7 @@ products:
     features:
       - Seller title describes a seven-piece set with tunnel and jumps
       - Verify measurements and assembly details in the listing
-    url: https://www.aliexpress.com/item/1005013572885248.html
+    url: https://s.click.aliexpress.com/e/_c33EIH9Z
     affiliate: false
 faqs:
   - question: Does the listing's seven-piece count include the tunnel?
