@@ -18,7 +18,7 @@ products:
       - Corrugated cardboard and M-shaped design are seller-listed
       - Catnip is advertised; confirm inclusion
     url: https://s.click.aliexpress.com/e/_c3qWX3YR
-    affiliate: true
+    affiliate: false
 faqs:
   - question: Where should a new scratcher go?
     answer: Try a stable spot near a place your cat already scratches, while leaving
