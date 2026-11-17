@@ -15,7 +15,7 @@ products:
     features:
       - Brush-and-rinse design described by the seller
       - Verify connector size and included adapters
-    url: https://www.aliexpress.com/item/1005012002924372.html
+    url: https://s.click.aliexpress.com/e/_c3xWKX2L
     affiliate: false
 faqs:
   - question: Will the brush fit my shower or garden hose?
