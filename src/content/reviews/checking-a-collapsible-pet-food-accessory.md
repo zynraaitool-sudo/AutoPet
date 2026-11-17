@@ -17,7 +17,7 @@ products:
     features:
       - Foldable silicone pet-food accessory is seller-listed
       - Portable storage or feeding use is described
-    url: https://www.aliexpress.com/item/1005012741880368.html
+    url: https://s.click.aliexpress.com/e/_c4mtBPVv
     affiliate: false
 faqs:
   - question: Is this item a scoop or a bowl?
