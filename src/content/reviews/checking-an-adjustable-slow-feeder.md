@@ -16,7 +16,7 @@ products:
     features:
       - Two bowls and five height positions are seller-listed
       - Slow-feeding design is mentioned
-    url: https://www.aliexpress.com/item/1005008754169467.html
+    url: https://s.click.aliexpress.com/e/_c2xUrl5t
     affiliate: false
 faqs:
   - question: Does an adjustable stand fit every pet?
