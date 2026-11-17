@@ -15,7 +15,7 @@ products:
     features:
       - Raised pet car seat described by the seller
       - Verify dimensions and included straps in the selected variant
-    url: https://www.aliexpress.com/item/1005009375991084.html
+    url: https://s.click.aliexpress.com/e/_c3lj5Ub1
     affiliate: false
 faqs:
   - question: Does a booster seat protect a dog in a crash?
