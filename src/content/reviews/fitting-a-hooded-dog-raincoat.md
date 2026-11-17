@@ -16,7 +16,7 @@ products:
     features:
       - Waterproof and wind-resistant are seller claims
       - Detachable hood is mentioned in the listing title
-    url: https://www.aliexpress.com/item/1005012225118607.html
+    url: https://s.click.aliexpress.com/e/_c4KDsj4f
     affiliate: false
 faqs:
   - question: Should my dog wear the hood?
