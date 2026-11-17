@@ -17,7 +17,7 @@ products:
       - Camera and app control mentioned
       - Timed dry-food portions mentioned
     url: https://s.click.aliexpress.com/e/_c3wgKLMB
-    affiliate: true
+    affiliate: false
   - name: 7L Smart Pet Feeder with Camera and Two Bowls
     priceRange: Check the current listing
     features:
@@ -25,7 +25,7 @@ products:
       - Camera, Tuya app, and two-way audio mentioned
       - Timed feeding mentioned
     url: https://s.click.aliexpress.com/e/_c3IPcqjv
-    affiliate: true
+    affiliate: false
 faqs:
   - question: Does a 7L title mean the feeder holds seven liters of food in every option?
     answer: Not necessarily. Check the exact selected variant and its manual;
