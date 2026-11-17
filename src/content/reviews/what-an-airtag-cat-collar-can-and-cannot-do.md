@@ -17,7 +17,7 @@ products:
     features:
       - Holder for an Apple AirTag is described by the seller
       - Reflective details and a bell are mentioned
-    url: https://www.aliexpress.com/item/1005004994844785.html
+    url: https://s.click.aliexpress.com/e/_c3HlVVDv
     affiliate: false
 faqs:
   - question: Does this collar include an AirTag?
