@@ -15,7 +15,7 @@ products:
     features:
       - Rotating foraging toy with compartments described by the seller
       - Verify size and mounting hardware for the selected variant
-    url: https://www.aliexpress.com/item/1005012078542204.html
+    url: https://s.click.aliexpress.com/e/_c4dtpw87
     affiliate: false
 faqs:
   - question: Does a five-compartment listing fit every parrot?
