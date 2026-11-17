@@ -15,7 +15,7 @@ products:
     features:
       - Indoor running wheel described by the seller
       - Verify diameter, surface, assembly, and base footprint
-    url: https://www.aliexpress.com/item/1005013511285793.html
+    url: https://s.click.aliexpress.com/e/_c3KTE3yn
     affiliate: false
 faqs:
   - question: Is a cat exercise wheel silent?
