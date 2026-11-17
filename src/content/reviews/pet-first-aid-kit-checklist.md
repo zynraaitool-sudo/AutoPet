@@ -1,12 +1,15 @@
 ---
 title: "Pet First-Aid Kits: Inventory the Contents Before You Travel"
-description: How to review a seller-listed pet emergency kit, check packaging and expiry dates, and plan for veterinary care.
+description: How to review a seller-listed pet emergency kit, check packaging
+  and expiry dates, and plan for veterinary care.
 date: 2026-11-14
 updated: 2026-11-14
 category: pet-safety-accessories
 articleType: buying-guide
-draft: true
-quickVerdict: Verify every listed item and its expiry date; a travel pouch is not proof of medical suitability and cannot replace professional veterinary care.
+image: /images/pet-first-aid-kit-travel-guide.webp
+quickVerdict: Verify every listed item and its expiry date; a travel pouch is
+  not proof of medical suitability and cannot replace professional veterinary
+  care.
 products:
   - name: Pet Emergency First-Aid Travel Kit
     priceRange: Check the current AliExpress listing
@@ -17,9 +20,12 @@ products:
     affiliate: false
 faqs:
   - question: Can a first-aid kit treat an emergency?
-    answer: No. It may organize supplies, but urgent symptoms require prompt veterinary advice or emergency care.
+    answer: No. It may organize supplies, but urgent symptoms require prompt
+      veterinary advice or emergency care.
   - question: Are all kit contents safe for every pet?
-    answer: No. Ask your veterinarian which items are appropriate and how they should be used.
+    answer: No. Ask your veterinarian which items are appropriate and how they
+      should be used.
+draft: false
 ---
 
 The AliExpress listing describes a portable pet first-aid kit, but listing photos do not confirm exactly what is in the package or whether the contents suit a particular animal. AutoPet has not evaluated this kit medically.

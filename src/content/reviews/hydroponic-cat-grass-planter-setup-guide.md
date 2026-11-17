@@ -1,12 +1,15 @@
 ---
 title: "Hydroponic Cat Grass Trays: Check What's Included and Keep Growth Clean"
-description: How to set up a soil-free cat grass tray, verify seed inclusion, and manage water and spoiled growth.
+description: How to set up a soil-free cat grass tray, verify seed inclusion,
+  and manage water and spoiled growth.
 date: 2026-11-14
 updated: 2026-11-14
 category: pet-enrichment
 articleType: buying-guide
-draft: true
-quickVerdict: Check whether seeds are included, follow the growing directions, and discard any moldy or unpleasant-smelling growth instead of offering it to a cat.
+image: /images/hydroponic-cat-grass-trays-guide.webp
+quickVerdict: Check whether seeds are included, follow the growing directions,
+  and discard any moldy or unpleasant-smelling growth instead of offering it to
+  a cat.
 products:
   - name: Hydroponic Cat Grass Growing Tray
     priceRange: Check the current AliExpress listing
@@ -17,9 +20,12 @@ products:
     affiliate: false
 faqs:
   - question: Does the planter listing include seeds?
-    answer: Check the exact selected option; some listings show seeds in photos but sell the tray alone.
+    answer: Check the exact selected option; some listings show seeds in photos but
+      sell the tray alone.
   - question: What should I do if the grass develops mold?
-    answer: Discard it, clean and dry the tray, and review the seller's water and airflow directions.
+    answer: Discard it, clean and dry the tray, and review the seller's water and
+      airflow directions.
+draft: false
 ---
 
 A small sprouting tray can make it easier to grow cat grass indoors, but it does not guarantee a healthy crop. The AliExpress listing describes a hydroponic-style tray; verify the exact package contents before ordering.

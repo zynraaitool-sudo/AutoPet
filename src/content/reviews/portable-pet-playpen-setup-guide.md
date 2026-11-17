@@ -1,12 +1,15 @@
 ---
 title: "Portable Pet Playpens: Check Dimensions, Zippers, and Stability"
-description: A setup guide for a foldable mesh pen, including surface checks, supervision, and when to stop using it.
+description: A setup guide for a foldable mesh pen, including surface checks,
+  supervision, and when to stop using it.
 date: 2026-11-14
 updated: 2026-11-14
 category: pet-safety-accessories
 articleType: buying-guide
-draft: true
-quickVerdict: Match the enclosure to the animal and space, inspect every seam and zipper, and supervise use rather than treating a portable pen as escape-proof.
+image: /images/دليل-اختيار-حظيرة-لعب-آمنة-للقطط.png
+quickVerdict: Match the enclosure to the animal and space, inspect every seam
+  and zipper, and supervise use rather than treating a portable pen as
+  escape-proof.
 products:
   - name: Portable Octagonal Pet Playpen
     priceRange: Check the current AliExpress listing
@@ -17,9 +20,12 @@ products:
     affiliate: false
 faqs:
   - question: Can a mesh pen be left unattended outdoors?
-    answer: No. It is a temporary enclosure and needs direct supervision and a safe location.
+    answer: No. It is a temporary enclosure and needs direct supervision and a safe
+      location.
   - question: How do I prevent tipping?
-    answer: Follow assembly instructions and use only on a level surface; do not use if the pen shifts or collapses.
+    answer: Follow assembly instructions and use only on a level surface; do not use
+      if the pen shifts or collapses.
+draft: false
 ---
 
 A portable playpen may create a temporary boundary for a pet, but its materials and stability vary. The AliExpress listing describes a foldable mesh enclosure; AutoPet has not tested whether it resists climbing, chewing, or tipping.
