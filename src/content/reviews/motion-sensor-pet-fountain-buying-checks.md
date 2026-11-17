@@ -17,7 +17,7 @@ products:
     features:
       - Motion sensing and filtration are mentioned in the seller title
       - USB power is mentioned in the seller title
-    url: https://www.aliexpress.com/item/1005008243242832.html
+    url: https://s.click.aliexpress.com/e/_c3goCh2T
     affiliate: false
 faqs:
   - question: Does a motion sensor mean the fountain runs only when a pet approaches?
