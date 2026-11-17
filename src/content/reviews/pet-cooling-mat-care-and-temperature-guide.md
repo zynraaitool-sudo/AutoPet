@@ -16,7 +16,7 @@ products:
     features:
       - Summer pet mat described as breathable by the seller
       - Confirm material, filling, and wash method for the selected variant
-    url: https://www.aliexpress.com/item/1005012569861633.html
+    url: https://s.click.aliexpress.com/e/_c4MrxJTb
     affiliate: false
 faqs:
   - question: Does a cooling mat prevent heatstroke?
