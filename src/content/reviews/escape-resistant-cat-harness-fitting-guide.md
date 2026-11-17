@@ -15,7 +15,7 @@ products:
     features:
       - Adjustable cat harness and leash described by the seller
       - Confirm exact pieces and size range for the selected option
-    url: https://www.aliexpress.com/item/1005012085986910.html
+    url: https://s.click.aliexpress.com/e/_c3cNAABt
     affiliate: false
 faqs:
   - question: Does "escape-resistant" mean a cat cannot get out?
