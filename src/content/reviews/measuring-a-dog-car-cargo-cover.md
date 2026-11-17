@@ -17,7 +17,7 @@ products:
     features:
       - 137 × 147 cm dimensions are stated in the listing
       - Waterproof is a seller-listed material claim
-    url: https://www.aliexpress.com/item/1005012935768441.html
+    url: https://s.click.aliexpress.com/e/_c3TIgibh
     affiliate: false
 faqs:
   - question: Does a seat cover keep a dog safe in a crash?
