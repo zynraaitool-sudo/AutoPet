@@ -20,16 +20,15 @@ features:
 pros:
   - The stated dimensions provide a starting point for checking vehicle fit.
 cons:
-  - Dimensions, seam construction, anchors, and compatibility with seat belts
-    are not independently verified.
-  - A seat cover is not a crash-tested pet restraint.
+  - Compare the cover with your vehicle layout and seat-belt access; restrain the pet separately.
+  - Use a separate, crash-tested restraint; the seat cover is for upholstery protection.
 productUrl: https://s.click.aliexpress.com/e/_c3TIgibh
 relatedArticle: measuring-a-dog-car-cargo-cover
 displayOrder: 160
 draft: false
 ---
 
-This page summarizes an AliExpress listing; AutoPet has not tested the cover in a vehicle. The seller states a size of 137 × 147 cm and describes the material as waterproof. Confirm the actual measurements, edge coverage, and included straps in the selected option.
+A cargo cover can help protect vehicle upholstery during trips with a dog. The seller lists a size of 137 × 147 cm and describes the material as waterproof; confirm the measurements, edge coverage, and included straps in the selected option.
 
 Measure the area where the cover will sit, including the shape of the seat or cargo floor and the location of headrests. Check how it attaches and whether the design allows access to existing seat-belt buckles. A protective cover does not restrain a pet in a sudden stop; use a separately appropriate restraint and follow vehicle and restraint instructions.
 

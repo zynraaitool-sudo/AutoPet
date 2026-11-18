@@ -8,15 +8,14 @@ specifications:
     value: "1005012671545240"
 features:
   - "foam steps that can be rotated for different layouts."
-  - "Listing-based summary only; product features have not been independently tested."
 pros:
-  - "The listing identifies a specific product configuration to investigate."
+  - "Steps offer an alternative to repeated jumps onto furniture or into a vehicle."
 cons:
-  - "Seller claims, current specifications, shipping, and variant availability need confirmation."
+  - Check the selected option's specifications, shipping, and return terms before ordering.
 productUrl: https://www.aliexpress.com/item/1005012671545240.html
 relatedArticle: rotating-foam-pet-stairs-buying-guide
 displayOrder: 847
 draft: true
 ---
 
-The listing describes foam steps that can be rotated for different layouts. This page is a summary of the seller listing, not a hands-on test. Before purchase, confirm each step’s dimensions, foam firmness, cover washing instructions, and whether the configuration locks in place. Check for shifting or compression under the pet and stop using the stairs if they become unstable.
+The listing describes foam steps that can be rotated for different layouts. Before purchase, confirm each step’s dimensions, foam firmness, cover washing instructions, and whether the configuration locks in place. Check for shifting or compression under the pet and stop using the stairs if they become unstable.

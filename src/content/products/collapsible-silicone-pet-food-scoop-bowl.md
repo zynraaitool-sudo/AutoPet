@@ -23,8 +23,7 @@ features:
 pros:
   - A collapsible format may take less space in a travel kit.
 cons:
-  - Capacity, seal quality, food-contact suitability, and the exact product
-    configuration are not verified.
+  - Confirm whether the selected option is a scoop, bowl, or combined set, and check its seal and usable capacity.
   - The title is ambiguous about whether the item is a scoop, storage container,
     or bowl.
 productUrl: https://s.click.aliexpress.com/e/_c4mtBPVv
@@ -33,7 +32,7 @@ displayOrder: 240
 draft: false
 ---
 
-AutoPet has not inspected this item. The AliExpress title describes a foldable silicone accessory for storing or serving pet food, but its wording is ambiguous about the exact configuration. Check the selected option's photos, dimensions, capacity, and included pieces before ordering.
+The AliExpress title describes a foldable silicone accessory for storing or serving pet food, but its wording is ambiguous about the exact configuration. Check the selected option's photos, dimensions, capacity, and included pieces before ordering.
 
 If the item is intended to hold food, confirm that the seller identifies the surface as suitable for food contact and explains how to clean and dry it. Do not assume that a collapsible bowl is airtight or intended for long-term storage. If it is a scoop, confirm that the size matches your portion routine.
 

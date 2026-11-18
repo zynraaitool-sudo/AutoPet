@@ -8,15 +8,14 @@ specifications:
     value: "1005012562769727"
 features:
   - "a large solid-wood climbing structure intended for multiple cats."
-  - "Listing-based summary only; product features have not been independently tested."
 pros:
-  - "The listing identifies a specific product configuration to investigate."
+  - "A multi-level setup can combine climbing, perching, and scratching in one area."
 cons:
-  - "Seller claims, current specifications, shipping, and variant availability need confirmation."
+  - Check the selected option's specifications, shipping, and return terms before ordering.
 productUrl: https://www.aliexpress.com/item/1005012562769727.html
 relatedArticle: solid-wood-multi-cat-climbing-frame-buying-guide
 displayOrder: 804
 draft: true
 ---
 
-The listing describes a large solid-wood climbing structure intended for multiple cats. This page is a summary of the seller listing, not a hands-on test. Before purchase, request the complete footprint, platform dimensions, wall or floor anchoring method, wood finish, and package measurements. Do not assume a seller’s load claims are verified; anchor the assembled structure and inspect it regularly.
+The listing describes a large solid-wood climbing structure intended for multiple cats. Before purchase, request the complete footprint, platform dimensions, wall or floor anchoring method, wood finish, and package measurements. Check the stated load limit with the manufacturer, anchor the assembled structure, and inspect it regularly.

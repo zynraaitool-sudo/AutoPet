@@ -8,15 +8,14 @@ specifications:
     value: "1005011747328590"
 features:
   - "a rechargeable launcher supplied with six balls."
-  - "Listing-based summary only; product features have not been independently tested."
 pros:
-  - "The listing identifies a specific product configuration to investigate."
+  - "Automatic fetch can add a repeatable game for dogs that enjoy chasing balls."
 cons:
-  - "Seller claims, current specifications, shipping, and variant availability need confirmation."
+  - Check the selected option's specifications, shipping, and return terms before ordering.
 productUrl: https://www.aliexpress.com/item/1005011747328590.html
 relatedArticle: usb-rechargeable-six-ball-launcher-buying-guide
 displayOrder: 843
 draft: true
 ---
 
-The listing describes a rechargeable launcher supplied with six balls. This page is a summary of the seller listing, not a hands-on test. Before purchase, check charging time, battery capacity, ball size, spare-ball compatibility, and the distance settings for the selected model. Supervise play and store the launcher unplugged when not in use.
+The listing describes a rechargeable launcher supplied with six balls. Before purchase, check charging time, battery capacity, ball size, spare-ball compatibility, and the distance settings for the selected model. Supervise play and store the launcher unplugged when not in use.

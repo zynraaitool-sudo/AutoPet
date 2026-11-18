@@ -8,15 +8,14 @@ specifications:
     value: "1005012819029842"
 features:
   - "live location, geofencing, history, and Type-C charging."
-  - "Listing-based summary only; product features have not been independently tested."
 pros:
-  - "The listing identifies a specific product configuration to investigate."
+  - "Location features can help owners check a pet's whereabouts during outdoor time."
 cons:
-  - "Seller claims, current specifications, shipping, and variant availability need confirmation."
+  - Check the selected option's specifications, shipping, and return terms before ordering.
 productUrl: https://www.aliexpress.com/item/1005012819029842.html
 relatedArticle: ip67-real-time-pet-gps-tracker-buying-guide
 displayOrder: 830
 draft: true
 ---
 
-The listing describes live location, geofencing, history, and Type-C charging. This page is a summary of the seller listing, not a hands-on test. Before purchase, confirm cellular bands, required sim or subscription, location update interval, battery life, and the meaning of the ip67 claim. Do not rely on a tracker as a substitute for secure identification, a leash, or a fenced area.
+The listing describes live location, geofencing, history, and Type-C charging. Before purchase, confirm cellular bands, required sim or subscription, location update interval, battery life, and the meaning of the ip67 claim. Do not rely on a tracker as a substitute for secure identification, a leash, or a fenced area.

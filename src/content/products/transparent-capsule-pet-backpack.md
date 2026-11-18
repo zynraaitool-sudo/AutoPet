@@ -16,11 +16,10 @@ features:
   - The title describes a portable pet backpack.
   - Breathability and a transparent viewing panel are seller-listed claims.
 pros:
-  - The listing provides a compact, hands-free carrier style to compare with
+  - A hands-free carrier can make short trips easier to manage when the interior fits your pet.
     other carriers.
 cons:
-  - Interior dimensions, ventilation area, supported pet weight, and hardware
-    strength are not verified here.
+  - Compare interior room and ventilation with your pet's posture, not just the shell dimensions.
   - A transparent panel does not by itself establish comfortable airflow or
     travel approval.
 productUrl: https://s.click.aliexpress.com/e/_c3RSdDI3
@@ -29,7 +28,7 @@ displayOrder: 170
 draft: false
 ---
 
-AutoPet has not tested this carrier. The AliExpress listing describes a transparent capsule-style backpack and markets it as breathable. Confirm interior measurements, ventilation openings, the seller's weight limit, and the exact straps and closures included with the selected option.
+The AliExpress listing describes a transparent capsule-style backpack and markets it as breathable. Confirm interior measurements, ventilation openings, the seller's weight limit, and the exact straps and closures included with the selected option.
 
 Measure your pet while standing and sitting, then compare those measurements with the usable interior space—not just the outside dimensions. Check that the carrier stays upright, does not collapse around the animal, and has secure attachment points. Do not assume it is suitable for airline travel or long periods of confinement unless the relevant carrier and transport requirements are documented.
 

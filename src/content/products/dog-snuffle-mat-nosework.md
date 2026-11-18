@@ -21,7 +21,7 @@ features:
 pros:
   - Sniffing games can provide a simple supervised activity.
 cons:
-  - Fabric durability, non-slip backing, and washability are not verified.
+  - Check wash instructions and inspect the fabric for loose pieces, especially if your dog chews.
   - Remove the mat if the dog chews or swallows pieces.
 productUrl: https://s.click.aliexpress.com/e/_c3zTQzbT
 relatedArticle: dog-snuffle-mat-supervision-and-cleaning-guide
@@ -29,4 +29,4 @@ displayOrder: 304
 draft: false
 ---
 
-The AliExpress listing describes a snuffle mat for hiding food. AutoPet has not tested its materials or construction. Confirm how the mat is cleaned, check for loose parts, and supervise use, particularly if your dog tends to chew fabric.
+The AliExpress listing describes a snuffle mat for hiding food. Confirm how the mat is cleaned, check for loose parts, and supervise use, particularly if your dog tends to chew fabric.

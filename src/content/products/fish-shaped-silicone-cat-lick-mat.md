@@ -23,8 +23,7 @@ pros:
   - The textured surface provides a different way to present an appropriate food
     portion.
 cons:
-  - Food-contact certification, exact size, and suction performance are not
-    verified here.
+  - Check food-contact suitability and surface compatibility; suction depends on the mounting surface.
   - A mat is not a substitute for portion control or supervision.
 productUrl: https://s.click.aliexpress.com/e/_c3p5k2in
 relatedArticle: safe-use-of-silicone-lick-mats
@@ -32,7 +31,7 @@ displayOrder: 200
 draft: false
 ---
 
-AutoPet has not tested this lick mat. The AliExpress listing describes a fish-shaped silicone mat with suction cups and markets it as a slow-feeding accessory. Confirm the size, material information, and cleaning directions for the exact option.
+The AliExpress listing describes a fish-shaped silicone mat with suction cups and markets it as a slow-feeding accessory. Confirm the size, material information, and cleaning directions for the exact option.
 
 Use only a food that is appropriate for your pet and keep the portion within its normal daily plan. Test the suction cups on a clean, compatible surface and watch your pet during use. Remove the mat if it loosens, is chewed, or shows damage. Do not leave a pet unattended with a product that could be torn apart.
 

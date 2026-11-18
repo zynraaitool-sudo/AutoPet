@@ -23,7 +23,7 @@ features:
 pros:
   - A fitted screen can be part of a broader window-safety setup.
 cons:
-  - Tear resistance and load capacity are not independently tested.
+  - Match the fasteners to the window frame and secure every edge of the opening.
   - Mesh alone may not secure a window or withstand a determined animal.
 productUrl: https://s.click.aliexpress.com/e/_c3Sj44D5
 relatedArticle: cat-window-protection-mesh-measurement-guide
@@ -31,4 +31,6 @@ displayOrder: 320
 draft: false
 ---
 
-AutoPet has not tested this mesh as a fall-prevention barrier. Measure the opening, inspect the frame and fasteners, and ensure the finished installation cannot be pushed out or bypassed. Do not leave a cat near an unsecured open window.
+Cat Window Safety Mesh may suit owners improving access control or their home safety setup. Compare its size, selected features, and setup requirements with your pet and home before choosing.
+
+Measure the opening, inspect the frame and fasteners, and ensure the finished installation cannot be pushed out or bypassed. Do not leave a cat near an unsecured open window.

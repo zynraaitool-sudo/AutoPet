@@ -8,15 +8,14 @@ specifications:
     value: "1005013578932063"
 features:
   - "a warm, enclosed pet house with washable materials."
-  - "Listing-based summary only; product features have not been independently tested."
 pros:
-  - "The listing identifies a specific product configuration to investigate."
+  - "The listed features can help organize a practical routine when the selected size and setup fit your needs."
 cons:
-  - "Seller claims, current specifications, shipping, and variant availability need confirmation."
+  - Check the selected option's specifications, shipping, and return terms before ordering.
 productUrl: https://www.aliexpress.com/item/1005013578932063.html
 relatedArticle: winter-washable-pet-house-bed-buying-guide
 displayOrder: 835
 draft: true
 ---
 
-The listing describes a warm, enclosed pet house with washable materials. This page is a summary of the seller listing, not a hands-on test. Before purchase, verify inside measurements, removable components, wash instructions, and whether the selected size includes the outer frame. Keep bedding dry and check that the pet can enter, turn around, and leave without obstruction.
+The listing describes a warm, enclosed pet house with washable materials. Before purchase, verify inside measurements, removable components, wash instructions, and whether the selected size includes the outer frame. Keep bedding dry and check that the pet can enter, turn around, and leave without obstruction.

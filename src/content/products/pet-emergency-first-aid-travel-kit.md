@@ -22,8 +22,7 @@ features:
 pros:
   - A compact kit can help organize supplies recommended for travel.
 cons:
-  - The advertised contents and medical suitability are not independently
-    verified.
+  - Compare the included supplies and expiry dates with your travel needs and veterinary advice.
   - It does not diagnose or treat an emergency without veterinary advice.
 productUrl: https://s.click.aliexpress.com/e/_c39Xu5zt
 relatedArticle: pet-first-aid-kit-checklist

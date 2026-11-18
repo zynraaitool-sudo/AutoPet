@@ -69,7 +69,10 @@ const productSchema = {
       {purchaseUrl && (
         <>
           <a class="buy-button" href={purchaseUrl} rel={affiliateUrl ? "sponsored nofollow noopener" : "nofollow noopener"} target="_blank">
-            View on AliExpress <span aria-hidden="true">↗</span>
+            <span class="buy-button-copy">
+              <span>View on AliExpress <span aria-hidden="true">↗</span></span>
+              <small>Check current price &amp; options on AliExpress</small>
+            </span>
           </a>
           {affiliateUrl ? (
             <p class="affiliate-note">Affiliate link: AutoPet may earn a commission at no extra cost to you. <a href="/affiliate-disclosure/">Disclosure details</a>.</p>
@@ -177,6 +180,7 @@ const productSchema = {
         </div>
       </section>
     )}
+    <p class="product-disclosure">Product details are based on seller listings and have not been independently tested by AutoPet.</p>
   </article>
   <script type="application/ld+json" set:html={JSON.stringify(productSchema)}></script>
 </SiteLayout>
@@ -212,9 +216,12 @@ const productSchema = {
   .intro { font-size: clamp(1rem, 1.5vw, 1.12rem); }
   .price { color: var(--ink); font-size: 1.1rem; font-weight: 750; }
   .catalog-note { padding: 0.75rem 1rem; border-left: 4px solid var(--sun-deep); background: var(--mist); color: var(--muted-ink); }
-  .buy-button { display: inline-flex; align-items: center; gap: 0.55rem; min-height: var(--button-height); padding: 0.55rem 0.9rem; border-radius: var(--control-radius); background: var(--sun); color: var(--teal-deep); font-size: var(--button-font-size); font-weight: 750; text-decoration: none; }
-  .buy-button:hover { background: var(--teal-deep); color: var(--paper); }
+  .buy-button { display: inline-flex; align-items: center; min-height: var(--button-height); padding: 0.8rem 1.15rem; border: 2px solid var(--teal-deep); border-radius: var(--control-radius); background: var(--teal-deep); color: var(--paper); font-size: var(--button-font-size); font-weight: 750; text-decoration: none; }
+  .buy-button:hover { background: var(--ink); border-color: var(--ink); color: var(--paper); }
+  .buy-button-copy { display: grid; gap: 0.15rem; }
+  .buy-button-copy small { font-size: 0.78rem; font-weight: 500; }
   .affiliate-note { margin: 0.6rem 0 0; color: var(--muted-ink); font-size: 0.84rem; }
+  .product-disclosure { margin-top: 2rem; color: var(--muted-ink); font-size: 0.78rem; }
   .gallery-section { max-width: 900px; margin: 1.5rem auto 2.25rem; }
   .gallery-main { overflow: hidden; width: 100%; aspect-ratio: 16 / 10; border: 1px solid var(--line); border-radius: var(--card-radius); background: linear-gradient(145deg, var(--mist), #f7f4e8); }
   .gallery-main img { display: block; width: 100%; height: 100%; object-fit: contain; }

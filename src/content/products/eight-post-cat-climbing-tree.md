@@ -8,15 +8,14 @@ specifications:
     value: "1005013610935775"
 features:
   - "eight scratching posts, two beds, a large platform, and a washable mat."
-  - "Listing-based summary only; product features have not been independently tested."
 pros:
-  - "The listing identifies a specific product configuration to investigate."
+  - "A multi-level setup can combine climbing, perching, and scratching in one area."
 cons:
-  - "Seller claims, current specifications, shipping, and variant availability need confirmation."
+  - Check the selected option's specifications, shipping, and return terms before ordering.
 productUrl: https://www.aliexpress.com/item/1005013610935775.html
 relatedArticle: eight-post-cat-climbing-tree-buying-guide
 displayOrder: 806
 draft: true
 ---
 
-The listing describes eight scratching posts, two beds, a large platform, and a washable mat. This page is a summary of the seller listing, not a hands-on test. Before purchase, check post spacing, platform sizes, textile cleaning instructions, replacement parts, and the assembled height. Inspect fasteners and fabric loops often; remove damaged pieces that could snag claws.
+The listing describes eight scratching posts, two beds, a large platform, and a washable mat. Before purchase, check post spacing, platform sizes, textile cleaning instructions, replacement parts, and the assembled height. Inspect fasteners and fabric loops often; remove damaged pieces that could snag claws.

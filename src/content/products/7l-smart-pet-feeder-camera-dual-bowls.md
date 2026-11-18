@@ -35,7 +35,7 @@ draft: false
 
 This 7L feeder listing brings together a two-bowl setup, timed feeding, and seller-listed camera and app features. It may suit households comparing larger-capacity options or looking to monitor a feeding area remotely.
 
-AutoPet has not purchased or tested this feeder; the capacity and connected features are seller-listed details. Listings may group multiple options, so compare the selected variant with the current specifications.
+Listings may group multiple options, so compare the selected variant with the current specifications.
 
 Before choosing, check how the bowls are supplied, available meal and portion settings, Wi-Fi and phone compatibility, and what happens during an internet or power outage. Review cleaning instructions and included accessories, then test the setup at home.
 

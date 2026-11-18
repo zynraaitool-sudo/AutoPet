@@ -35,7 +35,7 @@ draft: false
 
 Designed for households looking to organize dry-food meals, this 4L feeder listing pairs timed dispensing with seller-listed camera and app features. Remote access can help you check the feeding area and manage routines from your phone.
 
-This page summarizes seller-listed information; AutoPet has not purchased or tested this feeder. Use the advertised capacity and features as a starting point when comparing models, then check whether they apply to the exact option selected.
+Check the selected option's capacity, camera, and app features against the live listing and your feeding routine.
 
 Before ordering, compare the app requirements, portion settings, food compatibility, cleaning steps, and power options with your routine. Check whether backup power is supported and which accessories are included. A camera can help you view the feeding area, while regular check-ins remain important to confirm your pet's meals.
 

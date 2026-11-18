@@ -31,7 +31,7 @@ displayOrder: 220
 draft: false
 ---
 
-AutoPet has not tested this collar. The AliExpress listing describes a collar accessory with an AirTag holder, reflective details, and a bell. Check the selected size, buckle type, included items, and whether the holder fits the current tracker model.
+The AliExpress listing describes a collar accessory with an AirTag holder, reflective details, and a bell. Check the selected size, buckle type, included items, and whether the holder fits the current tracker model.
 
 An AirTag is not a standalone GPS tracker. Its ability to report a location depends on Apple's Find My network and nearby compatible devices; it does not guarantee continuous location updates or prevent a cat from getting lost. Do not substitute it for identification and appropriate supervision.
 

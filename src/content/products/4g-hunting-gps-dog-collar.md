@@ -8,15 +8,14 @@ specifications:
     value: "1005012186831266"
 features:
   - "a 4G collar with real-time location features for outdoor use."
-  - "Listing-based summary only; product features have not been independently tested."
 pros:
-  - "The listing identifies a specific product configuration to investigate."
+  - "Location features can help owners check a pet's whereabouts during outdoor time."
 cons:
-  - "Seller claims, current specifications, shipping, and variant availability need confirmation."
+  - Check the selected option's specifications, shipping, and return terms before ordering.
 productUrl: https://www.aliexpress.com/item/1005012186831266.html
 relatedArticle: 4g-hunting-gps-dog-collar-buying-guide
 displayOrder: 832
 draft: true
 ---
 
-The listing describes a 4G collar with real-time location features for outdoor use. This page is a summary of the seller listing, not a hands-on test. Before purchase, verify regional lte bands, sim requirements, app support, collar weight, battery life, and whether any shock features are present. Choose location-only operation when possible; avoid aversive or shock functions and use a secure fit.
+The listing describes a 4G collar with real-time location features for outdoor use. Before purchase, verify regional lte bands, sim requirements, app support, collar weight, battery life, and whether any shock features are present. Choose location-only operation when possible; avoid aversive or shock functions and use a secure fit.

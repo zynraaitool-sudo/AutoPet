@@ -15,7 +15,10 @@ const { products } = Astro.props;
       <article class="gear-card">
         <h3><a href={`/products/${product.id}/`}>{product.data.name}</a></h3>
         <p>{product.data.description}</p>
-        <a class="gear-cta" href={`/products/${product.id}/`}>View product details <span aria-hidden="true">→</span></a>
+        <a class="gear-cta" href={`/products/${product.id}/`}>
+          <span>View product details <span aria-hidden="true">→</span></span>
+          <small>Compare details before you buy</small>
+        </a>
       </article>
     ))}
   </div>
@@ -30,8 +33,9 @@ const { products } = Astro.props;
   .gear-card h3 a { color: var(--ink); text-decoration: none; }
   .gear-card h3 a:hover { color: var(--teal); text-decoration: underline; }
   .gear-card p { margin: 0 0 0.75rem; color: var(--muted-ink); }
-  .gear-cta { display: inline-flex; align-items: center; gap: 0.45rem; align-self: flex-start; min-height: var(--button-height); margin-top: auto; padding: 0.55rem 0.9rem; border-radius: var(--control-radius); background: var(--sun); color: var(--teal-deep); font-size: var(--button-font-size); font-weight: 750; text-decoration: none; }
-  .gear-cta:hover { background: var(--teal-deep); color: var(--paper); }
+  .gear-cta { display: inline-grid; gap: 0.15rem; align-self: flex-start; min-height: var(--button-height); margin-top: auto; padding: 0.7rem 1rem; border: 2px solid var(--teal-deep); border-radius: var(--control-radius); background: var(--teal-deep); color: var(--paper); font-size: var(--button-font-size); font-weight: 750; text-decoration: none; }
+  .gear-cta small { font-size: 0.76rem; font-weight: 500; }
+  .gear-cta:hover { background: var(--ink); border-color: var(--ink); color: var(--paper); }
   @media (min-width: 700px) { .gear-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
   @media (min-width: 1000px) { .gear-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
 </style>

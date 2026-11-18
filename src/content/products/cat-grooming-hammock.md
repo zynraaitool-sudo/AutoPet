@@ -23,7 +23,7 @@ features:
 pros:
   - The design may help keep grooming tools and paws accessible to a handler.
 cons:
-  - Fit, stitching strength, and comfort are not independently assessed.
+  - Check the fit, stitching, and support instructions before use.
   - Restraint may distress some cats and should never be forced.
 productUrl: https://s.click.aliexpress.com/e/_c2yDEk7D
 relatedArticle: pet-grooming-hammock-fit-and-supervision
@@ -31,4 +31,4 @@ displayOrder: 311
 draft: false
 ---
 
-AutoPet has not evaluated this restraint or its comfort. Read the size chart, inspect every seam and attachment, and stop if the cat struggles, pants, or appears distressed. Seek veterinary or professional-groomer guidance for difficult nail care.
+Read the size chart, inspect every seam and attachment, and stop if the cat struggles, pants, or appears distressed. Seek veterinary or professional-groomer guidance for difficult nail care.

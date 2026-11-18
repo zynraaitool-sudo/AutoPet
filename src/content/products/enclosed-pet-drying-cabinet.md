@@ -8,15 +8,14 @@ specifications:
     value: "1005005878341994"
 features:
   - "an enclosed drying cabinet with warm air and low-noise claims."
-  - "Listing-based summary only; product features have not been independently tested."
 pros:
-  - "The listing identifies a specific product configuration to investigate."
+  - "The listed features can help organize a practical routine when the selected size and setup fit your needs."
 cons:
-  - "Seller claims, current specifications, shipping, and variant availability need confirmation."
+  - Check the selected option's specifications, shipping, and return terms before ordering.
 productUrl: https://www.aliexpress.com/item/1005005878341994.html
 relatedArticle: enclosed-pet-drying-cabinet-buying-guide
 displayOrder: 801
 draft: true
 ---
 
-The listing describes an enclosed drying cabinet with warm air and low-noise claims. This page is a summary of the seller listing, not a hands-on test. Before purchase, ask for the usable interior dimensions, temperature range, ventilation design, and the exact model included in the listing. Never leave a pet unattended in an enclosed dryer; consult a veterinarian before using heated drying equipment.
+The listing describes an enclosed drying cabinet with warm air and low-noise claims. Before purchase, ask for the usable interior dimensions, temperature range, ventilation design, and the exact model included in the listing. Never leave a pet unattended in an enclosed dryer; consult a veterinarian before using heated drying equipment.

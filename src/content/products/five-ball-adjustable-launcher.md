@@ -8,15 +8,14 @@ specifications:
     value: "1005007219034495"
 features:
   - "a launcher with five balls and adjustable distance settings."
-  - "Listing-based summary only; product features have not been independently tested."
 pros:
-  - "The listing identifies a specific product configuration to investigate."
+  - "Automatic fetch can add a repeatable game for dogs that enjoy chasing balls."
 cons:
-  - "Seller claims, current specifications, shipping, and variant availability need confirmation."
+  - Check the selected option's specifications, shipping, and return terms before ordering.
 productUrl: https://www.aliexpress.com/item/1005007219034495.html
 relatedArticle: five-ball-adjustable-launcher-buying-guide
 displayOrder: 844
 draft: true
 ---
 
-The listing describes a launcher with five balls and adjustable distance settings. This page is a summary of the seller listing, not a hands-on test. Before purchase, confirm the number and size of balls, launch interval, power source, and required clearance. Start at the shortest setting in a supervised space and stop if the dog becomes overexcited.
+The listing describes a launcher with five balls and adjustable distance settings. Before purchase, confirm the number and size of balls, launch interval, power source, and required clearance. Start at the shortest setting in a supervised space and stop if the dog becomes overexcited.

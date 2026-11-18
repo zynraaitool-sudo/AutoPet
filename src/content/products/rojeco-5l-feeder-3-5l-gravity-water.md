@@ -2,8 +2,8 @@
 name: ROJECO 5L Feeder with 3.5L Gravity Water Dispenser
 category: automatic-cat-feeders
 catalogVisible: true
-description: A listing-based summary of ROJECO's advertised 5L food container
-  and separate 3.5L gravity water dispenser. This is not a hands-on review.
+description: ROJECO feeder with an advertised 5L food container and separate
+  3.5L gravity water dispenser. Compare the selected features and setup with your needs.
 image: /images/products/rojeco-5l-feeder-with-3-5l-gravity-water-dispenser/1.webp
 gallery:
   - /images/products/rojeco-5l-feeder-with-3-5l-gravity-water-dispenser/2.webp
@@ -25,7 +25,7 @@ pros:
   - The listing distinguishes the food container from the separate water
     dispenser.
 cons:
-  - Seller-listed capacities and functions have not been independently verified.
+  - Check the selected option's listed capacities and functions before ordering.
   - Confirm the selected variant, app and power requirements, portion controls,
     and cleaning instructions.
 affiliateUrl: https://s.click.aliexpress.com/e/_c4VpRBMJ
@@ -34,7 +34,7 @@ displayOrder: 50
 draft: false
 ---
 
-This product page summarizes seller-provided information and is not based on hands-on testing. The listing describes 5L of food capacity plus a separate 3.5L gravity water dispenser. Its 8.5L figure combines those two capacities; it is not an 8.5L food container.
+The listing describes 5L of food capacity plus a separate 3.5L gravity water dispenser. Its 8.5L figure combines those two capacities; it is not an 8.5L food container.
 
 The seller also lists app control and feeding settings. Confirm which features are included in the exact option, how the feeder is powered, what portions can be scheduled, and how the water dispenser and food-contact parts should be cleaned.
 

@@ -8,15 +8,14 @@ specifications:
     value: "1005011603572583"
 features:
   - "a large metal enclosure for outdoor yards and camping."
-  - "Listing-based summary only; product features have not been independently tested."
 pros:
-  - "The listing identifies a specific product configuration to investigate."
+  - "Selective or timed access can help manage a pet's movement between spaces."
 cons:
-  - "Seller claims, current specifications, shipping, and variant availability need confirmation."
+  - Check the selected option's specifications, shipping, and return terms before ordering.
 productUrl: https://www.aliexpress.com/item/1005011603572583.html
 relatedArticle: large-metal-outdoor-dog-run-buying-guide
 displayOrder: 838
 draft: true
 ---
 
-The listing describes a large metal enclosure for outdoor yards and camping. This page is a summary of the seller listing, not a hands-on test. Before purchase, request assembled dimensions, bar spacing, coating details, ground anchors, door latch, and the delivered panel count. Inspect for sharp edges, escape gaps, and loose fittings before allowing a dog inside.
+The listing describes a large metal enclosure for outdoor yards and camping. Before purchase, request assembled dimensions, bar spacing, coating details, ground anchors, door latch, and the delivered panel count. Inspect for sharp edges, escape gaps, and loose fittings before allowing a dog inside.

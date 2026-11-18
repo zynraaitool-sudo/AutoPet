@@ -33,8 +33,6 @@ displayOrder: 100
 draft: false
 ---
 
-This product page summarizes the AliExpress listing title only. AutoPet has not tested the toy, battery, or durability.
-
 The seller describes a rechargeable rolling ball for cats and mentions a tail attachment. Check the product dimensions, materials, charging instructions, battery information, and whether any small parts can detach. Confirm that the selected option matches the photos and description.
 
 Supervise initial play and inspect the toy regularly. Remove it if it cracks, sheds parts, or becomes damaged. Do not leave a charging toy with a pet unattended; follow the manufacturer's charging and use instructions.

@@ -36,7 +36,7 @@ displayOrder: 130
 draft: false
 ---
 
-AutoPet has not purchased or tested this fountain. The listing title mentions motion detection, infrared sensing, filtration, and USB power; these details should be checked against the selected variant and seller instructions.
+The listing title mentions motion detection, infrared sensing, filtration, and USB power; these details should be checked against the selected variant and seller instructions.
 
 Confirm the reservoir capacity, filter type and replacement schedule, pump disassembly instructions, and required USB power supply. Ask whether the sensor can be disabled and whether the fountain can run continuously. Listing terms such as “universal” do not establish compatibility with every adapter or electrical supply.
 

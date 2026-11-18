@@ -23,7 +23,7 @@ features:
 pros:
   - A modular set can support short, supervised movement games.
 cons:
-  - Stability, material durability, and outdoor anchoring are not verified.
+  - Allow clear space around the course and secure each obstacle before inviting a dog to play.
   - Not every dog is suited to jumping or high-impact exercise.
 productUrl: https://s.click.aliexpress.com/e/_c33EIH9Z
 relatedArticle: dog-agility-obstacle-set-safe-introduction
@@ -31,4 +31,6 @@ displayOrder: 315
 draft: false
 ---
 
-AutoPet has not assembled or tested this set. Confirm what the seven-piece count includes and how the obstacles are secured. Start with low, simple activities on a clear surface, and ask a veterinarian before high-impact exercise for a puppy, senior dog, or dog with mobility concerns.
+7-Piece Dog Agility Set with Tunnel may suit owners adding supervised activity or a comfortable resting spot. Compare its size, selected features, and setup requirements with your pet and home before choosing.
+
+Confirm what the seven-piece count includes and how the obstacles are secured. Start with low, simple activities on a clear surface, and ask a veterinarian before high-impact exercise for a puppy, senior dog, or dog with mobility concerns.

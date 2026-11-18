@@ -22,8 +22,7 @@ features:
 pros:
   - Foraging activities can add variety to a bird's environment.
 cons:
-  - Materials, perch security, and chew resistance are not independently
-    verified.
+  - Match the perch and attachment to your bird, supervise use, and check for loose parts.
   - Inspect for loose parts and supervise initial use.
 productUrl: https://s.click.aliexpress.com/e/_c4dtpw87
 relatedArticle: parrot-treat-foraging-spinner-safety-guide
@@ -31,4 +30,4 @@ displayOrder: 318
 draft: false
 ---
 
-The seller describes a rotating five-compartment foraging toy. AutoPet has not evaluated its materials or fit. Confirm that the bird can interact with it safely, secure it as directed, and remove it if parts loosen, fray, or become damaged.
+The seller describes a rotating five-compartment foraging toy. Confirm that the bird can interact with it safely, secure it as directed, and remove it if parts loosen, fray, or become damaged.

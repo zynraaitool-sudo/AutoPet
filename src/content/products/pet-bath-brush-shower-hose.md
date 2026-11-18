@@ -21,7 +21,7 @@ features:
 pros:
   - Combining rinsing and brushing may simplify a bathing setup.
 cons:
-  - Connector compatibility, water pressure, and bristle softness are not tested.
+  - Check the fitting against your tap or hose and start with gentle water flow.
   - Confirm cleaning and drying instructions before storage.
 productUrl: https://s.click.aliexpress.com/e/_c3xWKX2L
 relatedArticle: dog-bath-shower-brush-compatibility

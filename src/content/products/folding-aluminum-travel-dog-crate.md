@@ -8,15 +8,14 @@ specifications:
     value: "1005007228727314"
 features:
   - "a folding aluminum crate for vehicle travel and camping."
-  - "Listing-based summary only; product features have not been independently tested."
 pros:
-  - "The listing identifies a specific product configuration to investigate."
+  - "A folding design can make an enclosed travel space easier to store between trips."
 cons:
-  - "Seller claims, current specifications, shipping, and variant availability need confirmation."
+  - Check the selected option's specifications, shipping, and return terms before ordering.
 productUrl: https://www.aliexpress.com/item/1005007228727314.html
 relatedArticle: folding-aluminum-travel-dog-crate-buying-guide
 displayOrder: 837
 draft: true
 ---
 
-The listing describes a folding aluminum crate for vehicle travel and camping. This page is a summary of the seller listing, not a hands-on test. Before purchase, check internal measurements, door layout, frame-lock design, vehicle anchoring points, and airline approval separately. Do not assume an online crate listing meets airline or crash-safety requirements.
+The listing describes a folding aluminum crate for vehicle travel and camping. Before purchase, check internal measurements, door layout, frame-lock design, vehicle anchoring points, and airline approval separately. Do not assume an online crate listing meets airline or crash-safety requirements.

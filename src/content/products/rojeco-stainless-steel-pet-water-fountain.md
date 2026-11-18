@@ -20,10 +20,9 @@ features:
   - The seller lists this as an automatic water fountain for cats and dogs.
   - The listing title mentions a stainless-steel drinking surface.
 pros:
-  - The product listing identifies the stated material and intended use.
+  - A stainless-steel drinking surface may appeal to households looking for an easy-to-clean bowl.
 cons:
-  - Capacity, filter type, pump requirements, noise, and replacement-part
-    availability are not verified here.
+  - Filter sizes, pump requirements, and replacement availability can affect ongoing upkeep and cost.
   - A listed material does not establish that every water-contact component is
     stainless steel.
 productUrl: https://s.click.aliexpress.com/e/_c3Y0yT3l
@@ -31,8 +30,6 @@ relatedArticle: rojeco-stainless-water-fountain-listing-guide
 displayOrder: 60
 draft: false
 ---
-
-This page is a text-only summary of the AliExpress product listing. AutoPet has not purchased, assembled, or tested the fountain.
 
 The listing title identifies a ROJECO automatic pet fountain and mentions a stainless-steel drinking surface. It does not establish the material of every water-contact part, the reservoir capacity, the filtration stages, or how often filters need replacement.
 

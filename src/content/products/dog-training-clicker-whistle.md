@@ -21,7 +21,7 @@ features:
 pros:
   - A consistent marker sound can support reward-based training practice.
 cons:
-  - Sound level, durability, and whistle tone are not independently tested.
+  - The whistle may be too sharp for sensitive dogs; introduce it quietly and pair the marker with a reward.
   - The tool does not replace a clear training plan or positive reinforcement.
 productUrl: https://s.click.aliexpress.com/e/_c2znMhL5
 relatedArticle: dog-training-clicker-timing-guide
@@ -29,4 +29,4 @@ displayOrder: 309
 draft: false
 ---
 
-The listing describes a combined clicker and whistle. AutoPet has not tested its sound or construction. Choose a comfortable volume for the dog, pair the marker with a reward, and avoid using loud or startling sounds to punish or frighten an animal.
+The listing describes a combined clicker and whistle. Choose a comfortable volume for the dog, pair the marker with a reward, and avoid using loud or startling sounds to punish or frighten an animal.

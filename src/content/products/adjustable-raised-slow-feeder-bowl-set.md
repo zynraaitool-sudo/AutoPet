@@ -24,8 +24,7 @@ features:
 pros:
   - Adjustable height may help buyers compare bowl placement options.
 cons:
-  - Bowl volume, height measurements, food-contact material, and assembly are
-    not verified here.
+  - Check bowl capacity and height against your pet's size and feeding setup.
   - The listing does not establish that its slow-feeding layout suits every pet.
 productUrl: https://s.click.aliexpress.com/e/_c2xUrl5t
 relatedArticle: checking-an-adjustable-slow-feeder
@@ -33,7 +32,7 @@ displayOrder: 190
 draft: false
 ---
 
-This is a listing-based summary, not a feeding trial. AutoPet has not inspected the bowl set. The AliExpress title describes two bowls, five height positions, and a slow-feeding feature; check the selected variant and dimensions before buying.
+The AliExpress title describes two bowls, five height positions, and a slow-feeding feature; check the selected variant and dimensions before buying.
 
 Measure the height your pet can comfortably reach and check whether the bowls can be removed for cleaning. Ask the seller what the food-contact surfaces are made from and whether the base stays stable when a pet eats. A “slow feeder” label does not guarantee a particular feeding rate or portion size.
 

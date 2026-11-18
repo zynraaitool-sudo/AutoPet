@@ -13,7 +13,7 @@ specifications:
   - name: Seller-listed controls
     value: App control
   - name: Capacity
-    value: Described as large; no verified volume provided
+    value: Described as large; the listing does not state a measured volume
 features:
   - The listing title describes an automatic litter box with app control.
   - The seller calls the unit multifunctional and large-capacity.
@@ -21,16 +21,18 @@ pros:
   - The listing presents the product as an automated alternative to a manual
     litter tray.
 cons:
-  - The title does not provide verified dimensions, waste-bin volume, sensor
+  - The listing does not state dimensions, waste-bin volume, sensor
     details, or litter compatibility.
-  - App features and safety behavior are not independently verified.
+  - Confirm litter compatibility, sensor behavior, and app access before replacing a familiar tray.
 productUrl: https://s.click.aliexpress.com/e/_c3htwlGJ
 relatedArticle: large-capacity-auto-litter-box-questions
 displayOrder: 120
 draft: false
 ---
 
-This is a summary of the AliExpress product title, not a hands-on review. AutoPet has not inspected or tested the product. Confirm that the listing still refers to the same model and check the selected variant before ordering.
+Large-Capacity App-Controlled Self-Cleaning Litter Box may suit cat owners comparing ways to streamline litter care. Compare its size, selected features, and setup requirements with your pet and home before choosing.
+
+Confirm that the listing still refers to the same model and check the selected variant before ordering.
 
 The seller describes this as a fully automatic, app-controlled litter box and advertises a large capacity. The title does not provide a measured waste-bin volume, the unit's footprint, the supported litter types, or how the product responds to a pet entering during a cycle.
 

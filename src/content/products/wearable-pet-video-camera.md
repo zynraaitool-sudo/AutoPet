@@ -8,15 +8,14 @@ specifications:
     value: "1005012518539628"
 features:
   - "a small wearable camera for pets with 4G connectivity and GPS-related features."
-  - "Listing-based summary only; product features have not been independently tested."
 pros:
-  - "The listing identifies a specific product configuration to investigate."
+  - "Remote viewing can help owners check a pet area when they are away."
 cons:
-  - "Seller claims, current specifications, shipping, and variant availability need confirmation."
+  - Check the selected option's specifications, shipping, and return terms before ordering.
 productUrl: https://www.aliexpress.com/item/1005012518539628.html
 relatedArticle: wearable-pet-video-camera-buying-guide
 displayOrder: 817
 draft: true
 ---
 
-The listing describes a small wearable camera for pets with 4G connectivity and GPS-related features. This page is a summary of the seller listing, not a hands-on test. Before purchase, check device weight, supported cellular bands, recurring service requirements, battery life, attachment fit, and whether gps is live or periodic. Use only a secure, comfortable attachment and never treat video or location features as a substitute for supervision.
+The listing describes a small wearable camera for pets with 4G connectivity and GPS-related features. Before purchase, check device weight, supported cellular bands, recurring service requirements, battery life, attachment fit, and whether gps is live or periodic. Use only a secure, comfortable attachment and never treat video or location features as a substitute for supervision.

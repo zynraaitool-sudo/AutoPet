@@ -29,7 +29,7 @@ displayOrder: 30
 draft: false
 ---
 
-This feeder listing combines timed scheduling, portion controls, and mobile access for a more organized daily feeding routine. AutoPet has not purchased or tested the product; use the seller-listed features as a guide when comparing options.
+This feeder listing combines timed scheduling, portion controls, and mobile access for a more organized daily feeding routine.
 
 Before ordering, compare the selected model and variant with its manual. Check schedule limits, how portions are measured, app and network compatibility, power requirements, cleaning instructions, and included accessories. Portion weights can vary by kibble type, so use the manual to match settings to your pet's food.
 

@@ -33,7 +33,7 @@ displayOrder: 70
 draft: false
 ---
 
-This summary reflects the AliExpress listing title only; AutoPet has not tested the brush or verified the seller's performance claims.
+This summary reflects the AliExpress listing title only.
 
 The title describes a self-cleaning grooming brush for cats and dogs and mentions detangling and massage. Check the photos and selected option for the actual head size, pin design, handle dimensions, and cleaning mechanism. Confirm which coat lengths and animal sizes the seller intends it for.
 

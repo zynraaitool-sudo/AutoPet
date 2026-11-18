@@ -28,7 +28,7 @@ displayOrder: 90
 draft: false
 ---
 
-This 285ml portable bottle is listed for dog outings and highlights stainless-steel and silicone components. AutoPet has not inspected or leak-tested it; the seller's capacity and material details are useful starting points when comparing travel options.
+This 285ml portable bottle is listed for dog outings and highlights stainless-steel and silicone components.
 
 Check which parts use each listed material, how water is dispensed and returned, and whether the selected option includes the pictured accessories.
 

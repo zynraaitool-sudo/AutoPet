@@ -32,7 +32,7 @@ displayOrder: 40
 draft: false
 ---
 
-The FirmHome listing describes a dual-outlet automatic feeder with a slow-feed option and information display. Its two-bowl format may help organize feeding in shared spaces; AutoPet has not purchased or tested the product.
+The FirmHome listing describes a dual-outlet automatic feeder with a slow-feed option and information display. Its two-bowl format may help organize feeding in shared spaces.
 
 Before choosing, check how food is routed, whether both bowls receive the same meal, which settings can be scheduled, and how the slow-feed option operates. Compare capacity, kibble compatibility, cleaning, and power requirements, and confirm the bowls included with the selected model.
 

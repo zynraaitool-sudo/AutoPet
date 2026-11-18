@@ -21,7 +21,7 @@ features:
 pros:
   - A portable cup may help contain rinse water during paw cleaning.
 cons:
-  - Fit, bristle softness, and leak resistance are not independently tested.
+  - Match the opening to your dog's paws and check that the insert is easy to remove and dry.
   - Avoid forcing a paw into a cup that is too small or causes distress.
 productUrl: https://s.click.aliexpress.com/e/_c42VW4pH
 relatedArticle: dog-paw-washing-cup-fit-and-cleaning
@@ -29,4 +29,4 @@ displayOrder: 313
 draft: false
 ---
 
-The AliExpress listing describes a manual paw cleaner with a silicone insert. Compare the opening with your dog's paw size, inspect the insert for rough edges, and check how the parts are washed and dried. AutoPet has not tested its cleaning performance.
+The AliExpress listing describes a manual paw cleaner with a silicone insert. Compare the opening with your dog's paw size, inspect the insert for rough edges, and check how the parts are washed and dried.

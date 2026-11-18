@@ -36,7 +36,7 @@ displayOrder: 110
 draft: false
 ---
 
-This listing combines automatic cleaning with app control and 2.4 GHz Wi-Fi for a more streamlined litter-care routine. AutoPet has not purchased or tested the litter box; the seller-listed features are a starting point for comparing models.
+This listing combines automatic cleaning with app control and 2.4 GHz Wi-Fi for a more streamlined litter-care routine.
 
 Compare the selected variant's dimensions, compatible litter, waste capacity, app support, and cleaning cycle. Review the instructions for its sensors and for behavior during power or network interruptions.
 

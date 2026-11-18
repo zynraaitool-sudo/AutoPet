@@ -22,7 +22,7 @@ features:
 pros:
   - A tether can help limit a dog's movement in a vehicle when used as directed.
 cons:
-  - Crash protection and connector strength have not been independently tested.
+  - Confirm crash-test information and connector compatibility before relying on this tether.
   - Compatibility with a vehicle and a properly fitted harness must be checked.
 productUrl: https://s.click.aliexpress.com/e/_c3AFEXW1
 relatedArticle: dog-car-seat-belt-compatibility-guide

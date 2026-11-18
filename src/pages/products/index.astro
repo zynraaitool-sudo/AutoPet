@@ -2,13 +2,14 @@
 import { getCollection } from "astro:content";
 import ProductCard from "../../components/ProductCard.astro";
 import SiteLayout from "../../layouts/SiteLayout.astro";
+import { categoryLabels } from "../../lib/category-labels";
 
 const products = (await getCollection("products", ({ data }) => !data.draft && data.catalogVisible))
   .sort((a, b) => a.data.displayOrder - b.data.displayOrder || a.data.name.localeCompare(b.data.name));
 const categories = [...new Set(products.map((product) => product.data.category))]
   .sort((a, b) => a.localeCompare(b));
 const categoryTitle = (category: string) =>
-  category.replaceAll("-", " ").replace(/\b\w/g, (letter) => letter.toUpperCase());
+  categoryLabels[category]?.title ?? category.replaceAll("-", " ").replace(/\b\w/g, (letter) => letter.toUpperCase());
 const canonical = new URL("/products/", Astro.site).href;
 ---
 

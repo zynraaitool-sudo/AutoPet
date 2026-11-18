@@ -21,7 +21,7 @@ features:
 pros:
   - A wheel can offer an optional activity for cats that choose to use it.
 cons:
-  - Noise level, stability, and durability are not independently tested.
+  - Check the footprint and base stability, then introduce the wheel gradually in a quiet space.
   - Cats may need gradual introduction and may not enjoy the wheel.
 productUrl: https://s.click.aliexpress.com/e/_c3KTE3yn
 relatedArticle: cat-exercise-wheel-fit-and-introduction
@@ -29,4 +29,4 @@ displayOrder: 324
 draft: false
 ---
 
-The product listing describes a quiet exercise wheel, but AutoPet has not measured noise or stability. Check the full dimensions, base footprint, assembly hardware, and edge finish. Introduce it gradually and stop if the cat appears frightened or uses it unsafely.
+The product listing describes a quiet exercise wheel, but. Check the full dimensions, base footprint, assembly hardware, and edge finish. Introduce it gradually and stop if the cat appears frightened or uses it unsafely.

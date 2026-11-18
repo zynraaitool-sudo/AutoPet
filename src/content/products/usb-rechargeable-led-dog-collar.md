@@ -22,8 +22,7 @@ features:
 pros:
   - An illuminated accessory may make a dog easier to notice in low light.
 cons:
-  - Battery life, visibility distance, and water resistance are not
-    independently tested.
+  - Check expected runtime and weather resistance, and keep a separate secure leash attachment.
   - A light-up collar is not a substitute for a secure, correctly fitted collar
     or leash.
 productUrl: https://s.click.aliexpress.com/e/_c3eoVkfB
@@ -32,4 +31,4 @@ displayOrder: 305
 draft: false
 ---
 
-The seller describes this collar as rechargeable and illuminated; AutoPet has not measured its brightness or battery life. Confirm the size range, charging port, operating modes, and care instructions. Test the light before relying on it outdoors and keep a separate secure leash attachment.
+The seller describes this collar as rechargeable and illuminated. Confirm the size range, charging port, operating modes, and care instructions. Test the light before relying on it outdoors and keep a separate secure leash attachment.

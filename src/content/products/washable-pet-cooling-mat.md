@@ -23,7 +23,7 @@ features:
 pros:
   - A separate resting surface can be easy to move between rooms.
 cons:
-  - The degree of cooling and material safety are not independently tested.
+  - A mat is only one part of warm-weather care; provide shade, ventilation, and fresh water too.
   - Do not use a damaged mat or leave a chewing pet unsupervised with it.
 productUrl: https://s.click.aliexpress.com/e/_c4MrxJTb
 relatedArticle: pet-cooling-mat-care-and-temperature-guide

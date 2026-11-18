@@ -16,12 +16,11 @@ specifications:
     value: Small dogs; Pomeranians are mentioned in the title
 features:
   - The listing describes adjustable winter shoes for small dogs.
-  - A soft, non-slip sole is a seller claim.
+  - The advertised soft sole is intended to provide grip, though traction can vary by surface.
 pros:
-  - The listing provides a seasonal footwear option for buyers to compare.
+  - Foot coverage may help some small dogs stay comfortable on cold-weather walks when the fit is right.
 cons:
-  - Paw-size chart accuracy, sole grip, warmth, and water resistance are not
-    verified.
+  - Measure each paw and try one shoe indoors; remove it if it rubs or changes your dog's gait.
   - Shoes can change a dog's gait and may not suit every animal.
 productUrl: https://s.click.aliexpress.com/e/_c3f9BD5t
 relatedArticle: fitting-winter-shoes-for-small-dogs
@@ -29,7 +28,7 @@ displayOrder: 250
 draft: false
 ---
 
-This page is based on the AliExpress listing title, not a fit test. The seller describes adjustable, cotton-lined winter shoes for small dogs and advertises a soft, non-slip sole. No waterproof rating or tested traction is provided here.
+The seller describes adjustable, cotton-lined winter shoes for small dogs and advertises a soft, non-slip sole. The listing does not specify a waterproof rating or measured traction.
 
 Measure each paw using the seller's chart and check the closure style. Try one shoe at a time indoors, then observe whether your dog walks comfortably. Remove the shoes if they twist, rub, slip off, or change the dog's gait. Inspect paws after each short trial for redness or trapped debris.
 

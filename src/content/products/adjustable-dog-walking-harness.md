@@ -22,7 +22,7 @@ features:
   - The listing title describes a dog walking harness.
   - The seller title refers to medium and large dogs.
 pros:
-  - The listing identifies a general intended size range and walking use.
+  - Adjustable straps can help tailor the fit when the size range matches your dog's measurements.
 cons:
   - The exact size chart, adjustment range, materials, and hardware strength
     must be checked for the selected option.
@@ -33,7 +33,7 @@ displayOrder: 80
 draft: false
 ---
 
-This harness is listed for leash walks with medium and large dogs. AutoPet has not fitted or tested it; use the seller's size chart to compare your dog's measurements before choosing.
+This harness is listed for leash walks with medium and large dogs.
 
 The seller describes the item as a walking harness for medium and large dogs. Measure your dog using the seller's current size chart, compare all required measurements, and check the return policy before ordering. Do not choose a size based only on breed or weight.
 

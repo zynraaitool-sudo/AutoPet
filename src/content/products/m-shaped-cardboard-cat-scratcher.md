@@ -23,7 +23,7 @@ pros:
   - A shaped horizontal scratcher offers an alternative surface to place near a
     cat's usual scratching area.
 cons:
-  - Exact dimensions, cardboard density, and stability are not verified.
+  - Check that the footprint is stable and the scratching surface is long enough for your cat to stretch.
   - Catnip inclusion and quantity may vary by listing option.
 productUrl: https://s.click.aliexpress.com/e/_c3qWX3YR
 relatedArticle: setting-up-a-cardboard-cat-scratcher
@@ -31,7 +31,7 @@ displayOrder: 180
 draft: false
 ---
 
-AutoPet has not handled or tested this scratcher. The AliExpress title describes an M-shaped product made from corrugated paper and advertises catnip. Confirm the dimensions and whether the selected option actually includes the catnip.
+The AliExpress title describes an M-shaped product made from corrugated paper and advertises catnip. Confirm the dimensions and whether the selected option actually includes the catnip.
 
 Place a scratcher on a stable surface near an area the cat already uses, rather than blocking a walkway. Check that it does not rock or slide when pressed. Cardboard will wear with use; inspect it for loose pieces and replace it when it no longer stays together.
 

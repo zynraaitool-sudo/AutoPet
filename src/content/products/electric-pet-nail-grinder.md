@@ -32,7 +32,7 @@ displayOrder: 140
 draft: false
 ---
 
-An electric grinder offers a powered alternative for home nail care. The seller markets this model for dogs and cats; AutoPet has not tested it. Compare the selected model's grinding heads, guard design, charging method, and instructions.
+An electric grinder offers a powered alternative for home nail care. The seller markets this model for dogs and cats. Compare the selected model's grinding heads, guard design, charging method, and instructions.
 
 Nail shape, temperament, and comfort vary, so introduce the tool gradually and let your pet get used to its sound and touch in short sessions.
 

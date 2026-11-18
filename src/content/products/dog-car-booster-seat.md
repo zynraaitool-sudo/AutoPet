@@ -22,7 +22,7 @@ features:
 pros:
   - A raised seat can define a dedicated space for a small pet in a vehicle.
 cons:
-  - Crash performance and restraint strength are not independently tested.
+  - The anchor and tether setup must match the vehicle and a properly fitted pet harness.
   - A booster seat is not a substitute for a verified travel restraint system.
 productUrl: https://s.click.aliexpress.com/e/_c3lj5Ub1
 relatedArticle: dog-car-booster-seat-setup-and-restraint

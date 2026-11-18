@@ -21,7 +21,7 @@ features:
 pros:
   - A dedicated tray can keep a small growing setup contained.
 cons:
-  - Seed inclusion and material safety are not independently verified.
+  - Seeds may be sold separately; confirm package contents and plan to clean the tray regularly.
   - Standing water or spoiled growth should be avoided.
 productUrl: https://s.click.aliexpress.com/e/_c3qWtLeF
 relatedArticle: hydroponic-cat-grass-planter-setup-guide

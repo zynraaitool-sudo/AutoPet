@@ -21,7 +21,7 @@ features:
 pros:
   - A foldable enclosure may create a temporary supervised activity area.
 cons:
-  - Mesh strength, zipper durability, and escape resistance are not tested.
+  - Choose a size your pet cannot climb or squeeze out of, and inspect zippers and seams regularly.
   - Not a substitute for direct supervision or secure long-term housing.
 productUrl: https://s.click.aliexpress.com/e/_c3xuuxeb
 relatedArticle: portable-pet-playpen-setup-guide

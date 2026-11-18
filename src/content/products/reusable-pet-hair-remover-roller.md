@@ -23,7 +23,7 @@ features:
 pros:
   - A reusable tool may reduce the need for disposable adhesive sheets.
 cons:
-  - Performance on specific fabrics and long-term durability are not tested.
+  - Fabric performance varies; try it on an inconspicuous spot and avoid delicate materials.
   - Test gently on an inconspicuous area before broad use.
 productUrl: https://s.click.aliexpress.com/e/_c2I8i2yb
 relatedArticle: washable-pet-hair-remover-use-guide
@@ -31,4 +31,4 @@ displayOrder: 323
 draft: false
 ---
 
-This is a listing-based description, not a performance comparison. Follow the seller's cleaning instructions and test the roller gently on a hidden area first. Avoid using it on delicate fabrics unless the seller explicitly lists them as suitable.
+This roller may be useful for quick hair pickup on compatible fabrics. Follow the seller's cleaning instructions and try it gently on a hidden area first. Avoid using it on delicate fabrics unless the seller explicitly lists them as suitable.

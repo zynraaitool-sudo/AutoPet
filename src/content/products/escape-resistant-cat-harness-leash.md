@@ -29,6 +29,6 @@ displayOrder: 316
 draft: false
 ---
 
-An adjustable harness and leash can help introduce a cat to calm, supervised outdoor time. The seller describes this option as escape-resistant, though fit depends on careful measuring and adjustment. AutoPet has not tested the harness.
+An adjustable harness and leash can help introduce a cat to calm, supervised outdoor time. The seller describes this option as escape-resistant, though fit depends on careful measuring and adjustment.
 
 Compare chest and neck measurements with the current size chart, check the adjustment range and included pieces, and practice indoors before an outing. Stay with your cat while the harness is on, and never use the leash to lift or restrain the animal.

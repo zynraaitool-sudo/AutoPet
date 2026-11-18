@@ -8,15 +8,14 @@ specifications:
     value: "1005011564429638"
 features:
   - "a portable plastic enclosure for indoor and outdoor use."
-  - "Listing-based summary only; product features have not been independently tested."
 pros:
-  - "The listing identifies a specific product configuration to investigate."
+  - "Selective or timed access can help manage a pet's movement between spaces."
 cons:
-  - "Seller claims, current specifications, shipping, and variant availability need confirmation."
+  - Check the selected option's specifications, shipping, and return terms before ordering.
 productUrl: https://www.aliexpress.com/item/1005011564429638.html
 relatedArticle: portable-plastic-pet-enclosure-door-buying-guide
 displayOrder: 839
 draft: true
 ---
 
-The listing describes a portable plastic enclosure for indoor and outdoor use. This page is a summary of the seller listing, not a hands-on test. Before purchase, confirm the number and size of panels, connector design, door opening, surface compatibility, and intended pet size. Check that panels cannot tip or separate and use only where the pet can be supervised.
+The listing describes a portable plastic enclosure for indoor and outdoor use. Before purchase, confirm the number and size of panels, connector design, door opening, surface compatibility, and intended pet size. Check that panels cannot tip or separate and use only where the pet can be supervised.
