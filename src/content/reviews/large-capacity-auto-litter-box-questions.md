@@ -16,7 +16,7 @@ products:
     features:
       - Automatic cleaning and app control are seller-listed
       - Large capacity is a seller claim without a verified volume
-    url: https://www.aliexpress.com/item/1005006864986676.html
+    url: https://s.click.aliexpress.com/e/_c3htwlGJ
     affiliate: false
 faqs:
   - question: Does large capacity mean less maintenance?

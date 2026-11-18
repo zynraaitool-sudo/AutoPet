@@ -17,7 +17,7 @@ products:
       - Listing title describes an automatic pet fountain
       - Stainless-steel drinking surface mentioned
       - Listed for cats and dogs
-    url: https://www.aliexpress.com/item/1005008248097437.html
+    url: https://s.click.aliexpress.com/e/_c3Y0yT3l
     affiliate: false
 faqs:
   - question: Is every water-contact part stainless steel?

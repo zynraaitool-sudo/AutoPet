@@ -16,7 +16,7 @@ products:
     features:
       - Indoor window perch described by the seller
       - Verify the included supports and surface requirements
-    url: https://www.aliexpress.com/item/1005013088335305.html
+    url: https://s.click.aliexpress.com/e/_c4kgd79t
     affiliate: false
 faqs:
   - question: Do suction cups guarantee a safe perch?

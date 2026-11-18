@@ -16,7 +16,7 @@ products:
     features:
       - Soil-free sprouting tray described by the seller
       - Confirm whether seeds and growing materials are included
-    url: https://www.aliexpress.com/item/1005006966893777.html
+    url: https://s.click.aliexpress.com/e/_c3qWtLeF
     affiliate: false
 faqs:
   - question: Does the planter listing include seeds?

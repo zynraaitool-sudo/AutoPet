@@ -15,15 +15,15 @@ products:
     features:
       - Timed feeding and portion control mentioned
       - Mobile app and remote control mentioned
-    url: https://s.click.aliexpress.com/e/_c4Om2Sj1
-    affiliate: true
+    url: https://s.click.aliexpress.com/e/_c41WTxIF
+    affiliate: false
   - name: FirmHome Dual-Outlet Automatic Pet Feeder
     priceRange: Check the current listing
     features:
       - Two dispensing outlets
       - Slow-feeding option and display mentioned
-    url: https://s.click.aliexpress.com/e/_c4BLRhvD
-    affiliate: true
+    url: https://s.click.aliexpress.com/e/_c3LRBBDh
+    affiliate: false
 faqs:
   - question: Does app control mean the feeder works without Wi-Fi?
     answer: The listing title does not establish offline behavior. Check the manual

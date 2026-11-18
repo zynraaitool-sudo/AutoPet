@@ -17,7 +17,7 @@ products:
     features:
       - Corrugated cardboard and M-shaped design are seller-listed
       - Catnip is advertised; confirm inclusion
-    url: https://www.aliexpress.com/item/1005003573008296.html
+    url: https://s.click.aliexpress.com/e/_c3qWX3YR
     affiliate: false
 faqs:
   - question: Where should a new scratcher go?

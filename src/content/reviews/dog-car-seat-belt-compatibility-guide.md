@@ -16,7 +16,7 @@ products:
     features:
       - Adjustable travel tether described by the seller
       - Confirm buckle or headrest attachment for the chosen variant
-    url: https://www.aliexpress.com/item/1005007731091609.html
+    url: https://s.click.aliexpress.com/e/_c3AFEXW1
     affiliate: false
 faqs:
   - question: Is a generic seat-belt tether crash tested?

@@ -16,7 +16,7 @@ products:
     features:
       - Waist-worn treat pouch described by the seller
       - Confirm closure and carrying attachments for the selected option
-    url: https://www.aliexpress.com/item/1005001972722362.html
+    url: https://s.click.aliexpress.com/e/_c44ghQ7t
     affiliate: false
 faqs:
   - question: Does the listing guarantee the pouch is washable?

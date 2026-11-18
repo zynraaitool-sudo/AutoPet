@@ -16,7 +16,7 @@ products:
     features:
       - Thick winter bed is stated in the seller title
       - Tunnel or hide-and-seek design appears in listing text
-    url: https://www.aliexpress.com/item/1005008504354127.html
+    url: https://s.click.aliexpress.com/e/_c3NW908j
     affiliate: false
 faqs:
   - question: Will every cat use an enclosed tunnel bed?

@@ -15,7 +15,7 @@ products:
     features:
       - Fabric scent-search mat described by the seller
       - Confirm size and cleaning guidance for the selected option
-    url: https://www.aliexpress.com/item/1005001840359301.html
+    url: https://s.click.aliexpress.com/e/_c3zTQzbT
     affiliate: false
 faqs:
   - question: Can a snuffle mat be left out all day?

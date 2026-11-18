@@ -17,7 +17,7 @@ products:
       - Seller title describes use for cats and dogs
       - Self-cleaning head mentioned
       - Detangling and massage are seller-described uses
-    url: https://www.aliexpress.com/item/1005005923838302.html
+    url: https://s.click.aliexpress.com/e/_c3iR19A3
     affiliate: false
 faqs:
   - question: Does "self-cleaning" mean the brush needs no maintenance?

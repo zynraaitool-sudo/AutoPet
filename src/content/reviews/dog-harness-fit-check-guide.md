@@ -15,7 +15,7 @@ products:
     features:
       - Seller title describes a harness for medium and large dogs
       - Listed for walking use
-    url: https://www.aliexpress.com/item/1005006447746985.html
+    url: https://s.click.aliexpress.com/e/_c41o6E95
     affiliate: false
 faqs:
   - question: Can I choose a size by breed alone?

@@ -15,7 +15,7 @@ products:
     features:
       - Portable manual paw cleaner described by the seller
       - Soft silicone insert is mentioned in the listing
-    url: https://www.aliexpress.com/item/1005005899079806.html
+    url: https://s.click.aliexpress.com/e/_c42VW4pH
     affiliate: false
 faqs:
   - question: Can I use the cup on every dog?

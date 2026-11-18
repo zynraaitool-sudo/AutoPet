@@ -15,7 +15,7 @@ products:
     features:
       - Reusable or washable hair-removal tool described by the seller
       - Confirm surface compatibility and cleaning steps
-    url: https://www.aliexpress.com/item/1005012147097285.html
+    url: https://s.click.aliexpress.com/e/_c2I8i2yb
     affiliate: false
 faqs:
   - question: Is a reusable roller safe for every fabric?

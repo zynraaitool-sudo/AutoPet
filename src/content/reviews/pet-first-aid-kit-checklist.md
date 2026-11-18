@@ -16,7 +16,7 @@ products:
     features:
       - Portable pet first-aid kit described by the seller
       - Review the full itemized contents before ordering
-    url: https://www.aliexpress.com/item/1005006910400516.html
+    url: https://s.click.aliexpress.com/e/_c39Xu5zt
     affiliate: false
 faqs:
   - question: Can a first-aid kit treat an emergency?

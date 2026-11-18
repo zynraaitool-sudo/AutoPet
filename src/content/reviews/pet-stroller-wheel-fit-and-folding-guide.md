@@ -15,7 +15,7 @@ products:
     features:
       - Folding stroller described for pet outings
       - Verify the cabin, restraint point, and removable components
-    url: https://www.aliexpress.com/item/1005008263383948.html
+    url: https://s.click.aliexpress.com/e/_c2yF6GMF
     affiliate: false
 faqs:
   - question: Is a stroller appropriate for every pet?

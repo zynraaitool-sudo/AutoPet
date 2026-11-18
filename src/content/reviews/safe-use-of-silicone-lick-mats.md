@@ -16,7 +16,7 @@ products:
     features:
       - Fish-shaped silicone design is seller-listed
       - Suction cups and slow-feeding use are mentioned
-    url: https://www.aliexpress.com/item/1005006117631070.html
+    url: https://s.click.aliexpress.com/e/_c3p5k2in
     affiliate: false
 faqs:
   - question: Can I use any spreadable food on a lick mat?

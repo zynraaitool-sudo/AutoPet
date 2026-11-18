@@ -16,7 +16,7 @@ products:
     features:
       - Self-cleaning is stated in the seller title
       - App control and 2.4 GHz Wi-Fi are stated in the seller title
-    url: https://www.aliexpress.com/item/1005013171564030.html
+    url: https://s.click.aliexpress.com/e/_c4K2XzmT
     affiliate: false
 faqs:
   - question: Does 2.4 GHz Wi-Fi mean the litter box will work with every router?

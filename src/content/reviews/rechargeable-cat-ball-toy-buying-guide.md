@@ -15,7 +15,7 @@ products:
     features:
       - Seller title describes an automatically rolling ball
       - Rechargeable design and tail attachment mentioned
-    url: https://www.aliexpress.com/item/1005008326471338.html
+    url: https://s.click.aliexpress.com/e/_c4sEAUh5
     affiliate: false
 faqs:
   - question: Can an electronic toy be left with a cat unsupervised?

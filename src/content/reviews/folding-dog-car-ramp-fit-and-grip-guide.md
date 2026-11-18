@@ -16,7 +16,7 @@ products:
     features:
       - Folding vehicle ramp described with side rails
       - Seller load and length details need verification
-    url: https://www.aliexpress.com/item/1005008613625766.html
+    url: https://s.click.aliexpress.com/e/_c3PSVmcL
     affiliate: false
 faqs:
   - question: Is a longer ramp always better?

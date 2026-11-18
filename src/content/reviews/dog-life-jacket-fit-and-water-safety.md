@@ -15,7 +15,7 @@ products:
     features:
       - Dog flotation vest described by the seller
       - Verify size chart, handle, and reflective details in the chosen option
-    url: https://www.aliexpress.com/item/1005004541518599.html
+    url: https://s.click.aliexpress.com/e/_c4tcStX9
     affiliate: false
 faqs:
   - question: Does a life jacket make any dog safe in water?

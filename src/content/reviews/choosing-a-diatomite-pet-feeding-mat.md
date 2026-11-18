@@ -16,7 +16,7 @@ products:
     features:
       - Diatomite is mentioned in the seller title
       - The seller describes the mat as non-slip
-    url: https://www.aliexpress.com/item/1005009855002076.html
+    url: https://s.click.aliexpress.com/e/_c41iE6On
     affiliate: false
 faqs:
   - question: Is every mat described as diatomite made from the same material?

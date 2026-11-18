@@ -16,7 +16,7 @@ products:
     features:
       - Cotton lining and adjustable fit are seller-listed
       - Soft, non-slip sole is a seller claim
-    url: https://www.aliexpress.com/item/1005013549039341.html
+    url: https://s.click.aliexpress.com/e/_c3f9BD5t
     affiliate: false
 faqs:
   - question: Should all four paws use the same shoe size?
