@@ -3,6 +3,8 @@ import { getCollection, render } from "astro:content";
 import ProductCard from "../../components/ProductCard.astro";
 import SiteLayout from "../../layouts/SiteLayout.astro";
 import { isSafeMp4Url, youtubeVideoId } from "../../lib/media";
+import ArticleCard from "../../components/ArticleCard.astro";
+import { categoryLabels } from "../../lib/category-labels";
 
 export async function getStaticPaths() {
   const products = await getCollection("products", ({ data }) => !data.draft);
@@ -12,25 +14,27 @@ export async function getStaticPaths() {
 const { product } = Astro.props;
 const { Content } = await render(product);
 const {
-  name, category, description, image, imageAlt, gallery, youtubeUrl, videoUrl,
+  name, category, seoTitle, description, image, imageAlt, gallery, youtubeUrl, videoUrl,
   videoPoster, videoTitle, specifications, features, pros, cons, price, affiliateUrl,
   productUrl, relatedArticle, catalogVisible,
 } = product.data;
 const purchaseUrl = affiliateUrl ?? productUrl;
-const categoryTitle = category.replaceAll("-", " ").replace(/\b\w/g, (letter) => letter.toUpperCase());
+const categoryTitle = categoryLabels[category]?.title ?? category.replaceAll("-", " ").replace(/\b\w/g, (letter) => letter.toUpperCase());
 const categoryHref = `/category/${category}/`;
 const canonical = new URL(`/products/${product.id}/`, Astro.site).href;
 const galleryImages = [...new Set([...(image ? [image] : []), ...gallery])];
 const videoId = youtubeUrl ? youtubeVideoId(youtubeUrl) : undefined;
 const mp4Url = videoUrl && isSafeMp4Url(videoUrl) ? videoUrl : undefined;
-const relatedReview = relatedArticle
-  ? (await getCollection("reviews", ({ data }) => !data.draft)).find(
-    (article) => article.id === relatedArticle || article.data.title === relatedArticle,
-  )
-  : undefined;
 const relatedProducts = (await getCollection("products", ({ data }) => !data.draft))
   .filter((entry) => entry.id !== product.id && entry.data.category === category)
   .sort((a, b) => a.data.displayOrder - b.data.displayOrder || a.data.name.localeCompare(b.data.name))
+  .slice(0, 3);
+const relatedGuides = (await getCollection("reviews", ({ data }) => !data.draft && data.category === category))
+  .sort((a, b) => {
+    if (a.id === relatedArticle) return -1;
+    if (b.id === relatedArticle) return 1;
+    return b.data.date.valueOf() - a.data.date.valueOf();
+  })
   .slice(0, 3);
 const productSchema = {
   "@context": "https://schema.org",
@@ -46,7 +50,7 @@ const productSchema = {
 ---
 
 <SiteLayout
-  title={`${name} | AutoPet`}
+  title={seoTitle ?? `${name} | AutoPet`}
   description={description}
   canonical={canonical}
   image={image}
@@ -100,6 +104,17 @@ const productSchema = {
       </section>
     )}
 
+    <section class="related-guides" aria-labelledby="related-guides-heading">
+      <h2 id="related-guides-heading">Related Buying Guides</h2>
+      {relatedGuides.length > 0 ? (
+        <div class="guide-grid">
+          {relatedGuides.map((guide) => <ArticleCard article={guide} />)}
+        </div>
+      ) : (
+        <p class="no-guides">No buying guides are published in this category yet. <a href="/reviews/">Browse all reviews and guides</a>.</p>
+      )}
+    </section>
+
     {(videoId || mp4Url) && (
       <section class="video-section">
         <h2>{videoTitle ?? "Product video"}</h2>
@@ -152,13 +167,6 @@ const productSchema = {
         </section>
       )}
 
-      {relatedReview && (
-        <section class="related-article">
-          <h2>Related review or guide</h2>
-          <a href={`/reviews/${relatedReview.id}/`}>{relatedReview.data.title} <span aria-hidden="true">→</span></a>
-          <p>{relatedReview.data.description}</p>
-        </section>
-      )}
     </div>
 
     {relatedProducts.length > 0 && (
@@ -229,23 +237,26 @@ const productSchema = {
   .spec-list dt { font-weight: 750; }
   .spec-list dd { margin: 0; color: var(--muted-ink); }
   .pros-cons { display: grid; grid-template-columns: 1fr; gap: 1.5rem; }
-  .related-article { padding: 1.25rem; border: 1px solid var(--line); border-left: 4px solid var(--sun-deep); border-radius: 0 var(--card-radius) var(--card-radius) 0; background: var(--mist); }
-  .related-article a { font-weight: 750; }
-  .related-article p { margin-bottom: 0; color: var(--muted-ink); }
   .prose :global(p), .prose :global(li) { color: var(--muted-ink); }
   .prose :global(h2) { margin-top: 2.4rem; }
   .related-products { margin-top: 3rem; }
+  .related-guides { margin-top: 3rem; }
+  .related-guides h2 { margin-bottom: 0.85rem; }
+  .no-guides { color: var(--muted-ink); }
   .product-grid { display: grid; grid-template-columns: 1fr; gap: 1rem; }
+  .guide-grid { display: grid; grid-template-columns: 1fr; gap: 1rem; }
   @media (min-width: 700px) {
     .pros-cons { grid-template-columns: repeat(2, minmax(0, 1fr)); }
     .product-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .guide-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   }
   @media (min-width: 1000px) {
     .product-page { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); align-items: start; column-gap: clamp(1.5rem, 4vw, 3rem); }
-    .back-link, .video-section, .product-details, .related-products { grid-column: 1 / -1; }
+    .back-link, .video-section, .product-details, .related-products, .related-guides { grid-column: 1 / -1; }
     .back-link { grid-row: 1; }
     .product-header { grid-column: 2; grid-row: 2; align-self: center; margin: 0; }
     .gallery-section { grid-column: 1; grid-row: 2; width: 100%; max-width: none; margin: 0; }
     .product-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    .guide-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
   }
 </style>

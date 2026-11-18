@@ -2,7 +2,7 @@
 name: "IP67 Real-Time Pet GPS Tracker with Type-C Charging"
 category: pet-safety-accessories
 catalogVisible: true
-description: "IP67 Real-Time Pet GPS Tracker with Type-C Charging: Seller listing only; verify specifications and fit before buying."
+description: "IP67 Real-Time Pet GPS Tracker with Type-C Charging for everyday pet safety and containment. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005012819029842"

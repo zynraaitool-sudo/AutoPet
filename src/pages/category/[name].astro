@@ -14,23 +14,29 @@ export async function getStaticPaths() {
     ...reviews.map((review) => review.data.category.toLowerCase().replaceAll(" ", "-")),
   ]);
 
-  return [...publishedCategories]
+  const paths = [...publishedCategories]
     .filter((name) => name in categoryLabels)
     .map((name) => ({ params: { name } }));
+  if (publishedCategories.has("pet-walking-travel")) {
+    paths.push({ params: { name: "dog-walking-travel" } });
+  }
+  return paths;
 }
 
 const { name } = Astro.params;
-const category = categoryLabels[name ?? ""] ?? {
+const categoryId = name === "dog-walking-travel" ? "pet-walking-travel" : name ?? "";
+const category = categoryLabels[categoryId] ?? {
   title: "Pet gear",
   description: "Independent, practical reviews of smart pet gear.",
 };
-const reviews = (await getCollection("reviews", ({ data }) => !data.draft && data.category.toLowerCase().replaceAll(" ", "-") === name))
+const reviews = (await getCollection("reviews", ({ data }) => !data.draft && data.category === categoryId))
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
-const products = (await getCollection("products", ({ data }) => !data.draft && data.category === name))
+const products = (await getCollection("products", ({ data }) => !data.draft && data.category === categoryId))
   .sort((a, b) => a.data.displayOrder - b.data.displayOrder || a.data.name.localeCompare(b.data.name));
+const canonical = new URL(`/category/${categoryId}/`, Astro.site).href;
 ---
 
-<SiteLayout title={`${category.title} | AutoPet`} description={category.description}>
+<SiteLayout title={`${category.title} | AutoPet`} description={category.description} canonical={canonical}>
   <section class="category-page">
     <a href="/" class="back-link">← AutoPet home</a>
     <p class="eyebrow">Browse category</p>

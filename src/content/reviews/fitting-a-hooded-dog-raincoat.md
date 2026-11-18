@@ -4,7 +4,7 @@ description: How to check a hooded raincoat's size chart, closures, visibility,
   and comfort before using it on a wet-weather walk.
 date: 2026-11-14
 updated: 2026-11-14
-category: dog-walking-travel
+category: pet-walking-travel
 articleType: buying-guide
 image: /images/hooded-dog-raincoat-fit-guide.webp
 quickVerdict: This listing claims a waterproof, wind-resistant coat with a

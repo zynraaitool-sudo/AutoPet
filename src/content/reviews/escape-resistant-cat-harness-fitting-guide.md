@@ -4,7 +4,7 @@ description: How to assess a cat harness's measurement chart, adjust it without
   restricting movement, and introduce leash walks gradually.
 date: 2026-11-16
 updated: 2026-11-16
-category: dog-walking-travel
+category: pet-walking-travel
 articleType: buying-guide
 image: /images/cat-harness-fit-guide.webp
 quickVerdict: Treat "escape-resistant" as a seller claim; verify measurements,

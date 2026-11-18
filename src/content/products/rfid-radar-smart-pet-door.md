@@ -2,7 +2,7 @@
 name: "RFID Smart Pet Door with Radar Sensor"
 category: pet-safety-accessories
 catalogVisible: true
-description: "RFID Smart Pet Door with Radar Sensor: Seller listing only; verify specifications and fit before buying."
+description: "RFID Smart Pet Door with Radar Sensor for everyday pet safety and containment. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005012065806525"

@@ -2,7 +2,7 @@
 name: "Space-Saving Cat Climbing Condo with Sisal Post"
 category: pet-enrichment
 catalogVisible: true
-description: "Space-Saving Cat Climbing Condo with Sisal Post: Seller listing only; verify specifications and fit before buying."
+description: "Space-Saving Cat Climbing Condo with Sisal Post for climbing, resting, and play. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005012763062646"

@@ -31,9 +31,9 @@ export const categoryLabels: Record<string, { title: string; description: string
     title: "Pet grooming",
     description: "Compare seller-listed grooming tools and check their intended use, size, and care instructions.",
   },
-  "dog-walking-travel": {
-    title: "Dog walking and travel",
-    description: "Review seller-listed walking and travel accessories, with attention to sizing, fit, and product limitations.",
+  "pet-walking-travel": {
+    title: "Pet Walking & Travel",
+    description: "Explore walking and travel gear for cats and dogs, with practical guidance on fit, sizing, and trip-ready features.",
   },
   "interactive-cat-toys": {
     title: "Interactive cat toys",

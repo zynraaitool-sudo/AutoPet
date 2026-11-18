@@ -4,7 +4,7 @@ description: A buyer's guide to ramp length, vehicle height, surface traction,
   side rails, and a gradual introduction for dogs.
 date: 2026-11-14
 updated: 2026-11-14
-category: dog-walking-travel
+category: pet-walking-travel
 articleType: buying-guide
 image: /images/folding-dog-car-ramps-buying-guide.webp
 quickVerdict: Measure your vehicle and dog first, then verify the ramp

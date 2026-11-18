@@ -2,7 +2,7 @@
 name: "Automatic Locking Pet Door with Removable Flap"
 category: pet-safety-accessories
 catalogVisible: true
-description: "Automatic Locking Pet Door with Removable Flap: Seller listing only; verify specifications and fit before buying."
+description: "Automatic Locking Pet Door with Removable Flap for everyday pet safety and containment. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005011773963350"

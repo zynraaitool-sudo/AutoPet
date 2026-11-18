@@ -2,7 +2,7 @@
 name: "Enclosed Pet Drying Cabinet with Warm-Air Blower"
 category: pet-grooming
 catalogVisible: true
-description: "Enclosed Pet Drying Cabinet with Warm-Air Blower: Seller listing only; verify specifications and fit before buying."
+description: "Enclosed Pet Drying Cabinet with Warm-Air Blower for at-home grooming routines. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005005878341994"

@@ -1,8 +1,8 @@
 ---
 name: "Anti-Slip Folding Steps for Large Dogs"
-category: dog-walking-travel
+category: pet-walking-travel
 catalogVisible: true
-description: "Anti-Slip Folding Steps for Large Dogs: Seller listing only; verify specifications and fit before buying."
+description: "Anti-Slip Folding Steps for Large Dogs for walks and pet-friendly trips. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005012923994815"

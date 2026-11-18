@@ -1,9 +1,8 @@
 ---
 name: 285ml Portable Dog Water Bottle
-category: dog-walking-travel
+category: pet-walking-travel
 catalogVisible: true
-description: An AliExpress listing for a 285ml portable dog bottle that mentions
-  stainless steel and silicone. Confirm capacity, sealing, and cleaning details.
+description: "285ml Portable Dog Water Bottle for walks and pet-friendly trips. Compare listed features and setup with your needs."
 image: /images/s8316c2b784bd4624948e4369117514adr.png_220x220.png_.avif
 gallery:
   - /images/sb576e3489ae64140af3a4f04e7d9979az.jpg_220x220q75.jpg_.avif
@@ -29,10 +28,10 @@ displayOrder: 90
 draft: false
 ---
 
-This page summarizes the AliExpress listing title, not a physical inspection or leak test.
+This 285ml portable bottle is listed for dog outings and highlights stainless-steel and silicone components. AutoPet has not inspected or leak-tested it; the seller's capacity and material details are useful starting points when comparing travel options.
 
-The seller describes a portable dog water bottle with a stated capacity of 285ml and mentions stainless steel and silicone. Verify which components use each material, how water is released and returned (if applicable), and whether the selected option includes every pictured part.
+Check which parts use each listed material, how water is dispensed and returned, and whether the selected option includes the pictured accessories.
 
-Before travel, follow the seller's cleaning instructions and test the bottle at home. Check the seal and closure yourself; the title's leak-resistant wording is not an independent performance result. Carry enough water for your pet and conditions, and do not rely on a small travel bottle as the only water source for a long outing.
+Before travel, follow the seller's cleaning instructions and test the closure at home. Carry enough water for your pet and conditions, and keep a suitable water source available on longer outings.
 
 This is a direct AliExpress product link, not an affiliate link. Product variants, price, shipping, and availability may change.

@@ -2,7 +2,7 @@
 name: "Rotating Foam Pet Stairs for Beds and Sofas"
 category: pet-enrichment
 catalogVisible: true
-description: "Rotating Foam Pet Stairs for Beds and Sofas: Seller listing only; verify specifications and fit before buying."
+description: "Rotating Foam Pet Stairs for Beds and Sofas for climbing, resting, and play. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005012671545240"

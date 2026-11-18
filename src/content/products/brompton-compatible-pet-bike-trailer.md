@@ -1,8 +1,8 @@
 ---
 name: "Brompton-Compatible Pet Bicycle Trailer"
-category: dog-walking-travel
+category: pet-walking-travel
 catalogVisible: true
-description: "Brompton-Compatible Pet Bicycle Trailer: Seller listing only; verify specifications and fit before buying."
+description: "Brompton-Compatible Pet Bicycle Trailer for walks and pet-friendly trips. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005012134544399"

@@ -1,9 +1,10 @@
 ---
 name: Dog Walking Harness for Medium and Large Dogs
-category: dog-walking-travel
+seoTitle: "Dog Walking Harness for Medium & Large Dogs | AutoPet"
+category: pet-walking-travel
 catalogVisible: true
-description: An AliExpress listing for a walking harness aimed at medium and
-  large dogs. Measure carefully and do not treat it as a vehicle restraint.
+description: Adjustable walking harness for medium and large dogs. Compare
+  measurements for leash fit; use a vehicle-rated restraint for car travel.
 image: /images/products/dog-walking-harness-for-medium-and-large-dogs/1.webp
 gallery:
   - /images/products/dog-walking-harness-for-medium-and-large-dogs/2.webp
@@ -32,12 +33,12 @@ displayOrder: 80
 draft: false
 ---
 
-This text-only page summarizes the AliExpress listing title. AutoPet has not fitted or tested this harness.
+This harness is listed for leash walks with medium and large dogs. AutoPet has not fitted or tested it; use the seller's size chart to compare your dog's measurements before choosing.
 
 The seller describes the item as a walking harness for medium and large dogs. Measure your dog using the seller's current size chart, compare all required measurements, and check the return policy before ordering. Do not choose a size based only on breed or weight.
 
 Inspect the stitching, adjustment points, attachment hardware, and instructions before each walk. Introduce the harness gradually and check that it does not restrict movement or rub. Stop using it if it becomes damaged or causes discomfort.
 
-The listing title does not establish crash testing or vehicle restraint performance. Do not use a walking harness as a car safety device unless the manufacturer explicitly documents that exact use.
+For car journeys, choose a restraint specifically documented for vehicle use and crash performance.
 
 This is a direct AliExpress product link, not an affiliate link.

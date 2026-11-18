@@ -1,6 +1,6 @@
 ---
 name: Folding Pet Stroller
-category: dog-walking-travel
+category: pet-walking-travel
 catalogVisible: true
 description: An AliExpress listing for a folding pet stroller. Verify interior
   dimensions, wheel design, brake operation, and the seller's stated weight

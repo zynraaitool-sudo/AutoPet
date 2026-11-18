@@ -1,10 +1,9 @@
 ---
 name: FirmHome Dual-Outlet Automatic Pet Feeder
+seoTitle: "Dual-Outlet Automatic Cat Feeder with Slow-Feed Option | AutoPet"
 category: automatic-cat-feeders
 catalogVisible: true
-description: The listing title describes a FirmHome feeder with two outlets, a
-  slow-feeding option, and an information display. Confirm how its dispensing
-  works.
+description: "FirmHome Dual-Outlet Automatic Pet Feeder for scheduled cat meals. Compare listed features and setup with your needs."
 image: /images/products/firmhome-dual-outlet-automatic-pet-feeder/1.webp
 gallery:
   - /images/products/firmhome-dual-outlet-automatic-pet-feeder/2.webp
@@ -33,10 +32,8 @@ displayOrder: 40
 draft: false
 ---
 
-This summary is based on the AliExpress listing title, not a product test. The title describes a FirmHome automatic feeder with two outlets, a slow-feeding option, and an information display.
+The FirmHome listing describes a dual-outlet automatic feeder with a slow-feed option and information display. Its two-bowl format may help organize feeding in shared spaces; AutoPet has not purchased or tested the product.
 
-Two outlets do not necessarily mean separate food compartments or independent portions. Before buying, check how the feeder routes food, whether both bowls receive the same meal, which settings can be scheduled, and how the slow-feeding option operates. Confirm the exact model and included bowls.
+Before choosing, check how food is routed, whether both bowls receive the same meal, which settings can be scheduled, and how the slow-feed option operates. Compare capacity, kibble compatibility, cleaning, and power requirements, and confirm the bowls included with the selected model.
 
-Also check capacity, kibble compatibility, cleaning instructions, outlet and battery requirements, and what the display reports. If you have more than one pet, consider whether they can access each other's food and whether this setup fits their feeding needs.
-
-The listing does not establish portion accuracy or feeding reliability. Prices, options, and seller descriptions can change; confirm details on the live page.
+If you have more than one pet, consider their feeding routines and whether they can reach each other's bowl. Current options, price, and seller details can change, so review the live listing before ordering.

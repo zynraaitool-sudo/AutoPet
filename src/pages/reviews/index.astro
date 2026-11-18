@@ -2,6 +2,7 @@
 import { getCollection } from "astro:content";
 import ArticleCard from "../../components/ArticleCard.astro";
 import SiteLayout from "../../layouts/SiteLayout.astro";
+import { categoryLabels } from "../../lib/category-labels";
 
 const articles = (await getCollection("reviews", ({ data }) => !data.draft))
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
@@ -10,7 +11,7 @@ const categories = [...new Set(articles.map((article) => article.data.category))
 const articleTypes = [...new Set(articles.flatMap((article) => article.data.articleType ? [article.data.articleType] : []))]
   .sort((a, b) => a.localeCompare(b));
 const categoryTitle = (category: string) =>
-  category.replaceAll("-", " ").replace(/\b\w/g, (letter) => letter.toUpperCase());
+  categoryLabels[category]?.title ?? category.replaceAll("-", " ").replace(/\b\w/g, (letter) => letter.toUpperCase());
 const typeTitle = (type: string) =>
   type.replaceAll("-", " ").replace(/\b\w/g, (letter) => letter.toUpperCase());
 const canonical = new URL("/reviews/", Astro.site).href;

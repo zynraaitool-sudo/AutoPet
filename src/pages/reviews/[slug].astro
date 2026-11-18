@@ -4,6 +4,8 @@ import SiteLayout from "../../layouts/SiteLayout.astro";
 import ProductTable from "../../components/ProductTable.astro";
 import ProsCons from "../../components/ProsCons.astro";
 import FAQSection from "../../components/FAQSection.astro";
+import RecommendedGear from "../../components/RecommendedGear.astro";
+import { categoryLabels } from "../../lib/category-labels";
 
 export async function getStaticPaths() {
   const reviews = await getCollection("reviews", ({ data }) => !data.draft);
@@ -13,18 +15,17 @@ export async function getStaticPaths() {
 const { review } = Astro.props;
 const { Content } = await render(review);
 const { title, description, date, updated, category, image, imageAlt, quickVerdict, comparisonTitle, productLabel, products, pros, cons, faqs } = review.data;
-const categoryLabels: Record<string, string> = {
-  "automatic-cat-feeders": "Automatic cat feeders",
-  "pet-water-fountains": "Pet water fountains",
-  "smart-litter-boxes": "Smart litter boxes",
-  "pet-enrichment": "Pet enrichment",
-  "pet-feeding-accessories": "Pet feeding accessories",
-  "pet-safety-accessories": "Pet safety accessories",
-  "pet-grooming": "Pet grooming",
-  "dog-walking-travel": "Dog walking & travel",
-  "interactive-cat-toys": "Interactive cat toys",
-};
-const categoryLabel = categoryLabels[category] ?? category;
+const categoryLabel = categoryLabels[category]?.title ?? category.replaceAll("-", " ").replace(/\b\w/g, (letter) => letter.toUpperCase());
+const categoryProducts = (await getCollection("products", ({ data }) => !data.draft && data.category === category))
+  .sort((a, b) => {
+    const relevance = Number(b.data.relatedArticle === review.id) - Number(a.data.relatedArticle === review.id);
+    return relevance || a.data.displayOrder - b.data.displayOrder || a.data.name.localeCompare(b.data.name);
+  });
+const catEnrichmentProducts = category === "interactive-cat-toys"
+  ? (await getCollection("products", ({ data }) => !data.draft && data.category === "pet-enrichment" && data.name.toLowerCase().includes("cat")))
+    .sort((a, b) => a.data.displayOrder - b.data.displayOrder || a.data.name.localeCompare(b.data.name))
+  : [];
+const recommendedProducts = [...categoryProducts, ...catEnrichmentProducts].slice(0, 3);
 const isoDate = date.toISOString();
 const isoUpdated = (updated ?? date).toISOString();
 const readingMinutes = Math.max(1, Math.ceil(review.body.split(/\s+/).length / 220));
@@ -48,7 +49,7 @@ const articleSchema = {
   <article class="page-shell article-shell">
     {image && <img class="featured-image" src={image} width="1200" height="675" loading="eager" fetchpriority="high" decoding="async" alt={imageAlt ?? title} />}
     <header class="article-header">
-      <a class="back-link" href={`/category/${category.toLowerCase().replaceAll(" ", "-")}/`}>← {categoryLabel}</a>
+      <a class="back-link" href={`/category/${category}/`}>← {categoryLabel}</a>
       <h1>{title}</h1>
       <p class="dek">{description}</p>
       <div class="meta">
@@ -84,6 +85,8 @@ const articleSchema = {
       )}
 
       <div class="prose"><Content /></div>
+
+      {recommendedProducts.length > 0 && <RecommendedGear products={recommendedProducts} />}
 
       {faqs.length > 0 && (
         <section aria-labelledby="faq-heading">

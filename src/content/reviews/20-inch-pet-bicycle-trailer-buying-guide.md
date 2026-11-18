@@ -3,7 +3,7 @@ title: "20-Inch Pet Bike Trailers: Check Fit, Hitch, and Folded Size"
 description: "Measure the pet against the cabin and the bicycle against the hitch specification; then check how the trailer folds for storage."
 date: 2026-11-17
 updated: 2026-11-17
-category: dog-walking-travel
+category: pet-walking-travel
 articleType: buying-guide
 quickVerdict: "Treat the listing as a starting point: Verify interior length and height, wheel material, hitch type, folded dimensions, and stated payload for the selected option."
 productLabel: AliExpress listing

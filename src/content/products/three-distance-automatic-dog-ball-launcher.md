@@ -2,7 +2,7 @@
 name: "Automatic Dog Ball Launcher with Three Distance Settings"
 category: pet-enrichment
 catalogVisible: true
-description: "Automatic Dog Ball Launcher with Three Distance Settings: Seller listing only; verify specifications and fit before buying."
+description: "Automatic Dog Ball Launcher with Three Distance Settings for climbing, resting, and play. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005011749990352"

@@ -2,7 +2,7 @@
 name: "USB-Rechargeable Dog Ball Launcher with Six Balls"
 category: pet-enrichment
 catalogVisible: true
-description: "USB-Rechargeable Dog Ball Launcher with Six Balls: Seller listing only; verify specifications and fit before buying."
+description: "USB-Rechargeable Dog Ball Launcher with Six Balls for climbing, resting, and play. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005011747328590"

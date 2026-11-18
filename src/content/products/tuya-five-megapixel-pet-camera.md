@@ -2,7 +2,7 @@
 name: "Tuya 5 MP Wi-Fi Camera for Pet Monitoring"
 category: pet-safety-accessories
 catalogVisible: true
-description: "Tuya 5 MP Wi-Fi Camera for Pet Monitoring: Seller listing only; verify specifications and fit before buying."
+description: "Tuya 5 MP Wi-Fi Camera for Pet Monitoring for everyday pet safety and containment. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005011889615067"

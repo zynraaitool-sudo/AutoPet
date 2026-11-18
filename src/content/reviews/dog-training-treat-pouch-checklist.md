@@ -4,7 +4,7 @@ description: A practical checklist for evaluating a seller-listed dog treat
   pouch before using it on walks or during reward-based training.
 date: 2026-11-14
 updated: 2026-11-14
-category: dog-walking-travel
+category: pet-walking-travel
 articleType: buying-guide
 image: /images/dog-training-treat-pouch-guide.webp
 quickVerdict: Check the opening, capacity, cleaning instructions, and included

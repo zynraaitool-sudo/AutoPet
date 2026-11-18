@@ -5,7 +5,7 @@ description: A measurement-first guide to a 137 × 147 cm car cover listing,
   restraint.
 date: 2026-11-14
 updated: 2026-11-14
-category: dog-walking-travel
+category: pet-walking-travel
 articleType: buying-guide
 image: /images/dog-car-cargo-covers-measurement-guide.webp
 quickVerdict: The seller lists a 137 × 147 cm cover and calls it waterproof.

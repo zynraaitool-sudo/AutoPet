@@ -3,7 +3,7 @@ title: "Swivel-Wheel Pet Trailers: Separate Stroller and Bike Modes"
 description: "Verify which wheels swivel in each configuration and whether the bike-attachment setup requires a different wheel position."
 date: 2026-11-17
 updated: 2026-11-17
-category: dog-walking-travel
+category: pet-walking-travel
 articleType: buying-guide
 quickVerdict: "Treat the listing as a starting point: Check whether the swivel wheels are for stroller mode only, how the bike hitch works, and the cabin dimensions."
 productLabel: AliExpress listing

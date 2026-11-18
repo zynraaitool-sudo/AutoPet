@@ -2,7 +2,7 @@
 name: "Adjustable Automatic Dog Ball Launcher with Five Balls"
 category: pet-enrichment
 catalogVisible: true
-description: "Adjustable Automatic Dog Ball Launcher with Five Balls: Seller listing only; verify specifications and fit before buying."
+description: "Adjustable Automatic Dog Ball Launcher with Five Balls for climbing, resting, and play. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005007219034495"

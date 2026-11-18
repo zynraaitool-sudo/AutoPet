@@ -6,6 +6,18 @@ const emptyToUndefined = (value: unknown) =>
   value == null || (typeof value === "string" && value.trim() === "") ? undefined : value;
 const emptyToArray = (value: unknown) =>
   value == null || (typeof value === "string" && value.trim() === "") ? [] : value;
+const categoryIds = [
+  "automatic-cat-feeders",
+  "pet-water-fountains",
+  "smart-litter-boxes",
+  "pet-inspired-toys",
+  "pet-enrichment",
+  "pet-feeding-accessories",
+  "pet-safety-accessories",
+  "pet-grooming",
+  "pet-walking-travel",
+  "interactive-cat-toys",
+] as const;
 
 const safeHttpUrl = z.string().url().refine(isHttpUrl, "Must be an HTTP or HTTPS URL");
 
@@ -16,7 +28,7 @@ const reviews = defineCollection({
     description: z.string(),
     date: z.coerce.date(),
     updated: z.preprocess(emptyToUndefined, z.coerce.date().optional()),
-    category: z.string(),
+    category: z.enum(categoryIds),
     articleType: z.enum(["product-review", "buying-guide", "comparison", "pet-care-guide"]).optional(),
     image: z.preprocess(emptyToUndefined, z.string().optional()),
     imageAlt: z.preprocess(emptyToUndefined, z.string().optional()),
@@ -60,18 +72,8 @@ const products = defineCollection({
   loader: glob({ pattern: "**/*.md", base: "./src/content/products" }),
   schema: z.object({
     name: z.string().min(1),
-    category: z.enum([
-      "automatic-cat-feeders",
-      "pet-water-fountains",
-      "smart-litter-boxes",
-      "pet-inspired-toys",
-      "pet-enrichment",
-      "pet-feeding-accessories",
-      "pet-safety-accessories",
-      "pet-grooming",
-      "dog-walking-travel",
-      "interactive-cat-toys",
-    ]),
+    category: z.enum(categoryIds),
+    seoTitle: z.preprocess(emptyToUndefined, z.string().optional()),
     description: z.string().min(1),
     image: z.preprocess(emptyToUndefined, z.string().optional()),
     imageAlt: z.preprocess(emptyToUndefined, z.string().optional()),

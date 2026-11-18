@@ -2,7 +2,7 @@
 name: "4 MP Auto-Tracking Indoor Pet Camera"
 category: pet-safety-accessories
 catalogVisible: true
-description: "4 MP Auto-Tracking Indoor Pet Camera: Seller listing only; verify specifications and fit before buying."
+description: "4 MP Auto-Tracking Indoor Pet Camera for everyday pet safety and containment. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005004557250962"

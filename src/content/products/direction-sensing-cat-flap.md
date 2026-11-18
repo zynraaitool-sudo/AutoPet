@@ -2,7 +2,7 @@
 name: "Direction-Sensing Automatic Cat Flap"
 category: pet-safety-accessories
 catalogVisible: true
-description: "Direction-Sensing Automatic Cat Flap: Seller listing only; verify specifications and fit before buying."
+description: "Direction-Sensing Automatic Cat Flap for everyday pet safety and containment. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005010285758556"

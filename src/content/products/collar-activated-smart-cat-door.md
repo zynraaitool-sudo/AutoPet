@@ -2,7 +2,7 @@
 name: "Collar-Activated Smart Cat Door"
 category: pet-safety-accessories
 catalogVisible: true
-description: "Collar-Activated Smart Cat Door: Seller listing only; verify specifications and fit before buying."
+description: "Collar-Activated Smart Cat Door for everyday pet safety and containment. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005013611614547"

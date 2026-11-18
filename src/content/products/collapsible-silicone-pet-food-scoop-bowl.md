@@ -2,9 +2,7 @@
 name: Collapsible Silicone Pet Food Scoop and Bowl
 category: pet-feeding-accessories
 catalogVisible: true
-description: An AliExpress listing describes a foldable silicone pet bowl or
-  food-storage accessory for travel. Confirm the exact shape, capacity, and
-  included parts in the selected option.
+description: "Collapsible Silicone Pet Food Scoop and Bowl for tidier pet mealtimes. Compare listed features and setup with your needs."
 image: /images/products/collapsible-silicone-pet-food-scoop-and-bowl/1.webp
 gallery:
   - /images/products/collapsible-silicone-pet-food-scoop-and-bowl/2.webp

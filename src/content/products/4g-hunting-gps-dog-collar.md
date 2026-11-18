@@ -2,7 +2,7 @@
 name: "4G GPS Dog Collar for Outdoor Tracking"
 category: pet-safety-accessories
 catalogVisible: true
-description: "4G GPS Dog Collar for Outdoor Tracking: Seller listing only; verify specifications and fit before buying."
+description: "4G GPS Dog Collar for Outdoor Tracking for everyday pet safety and containment. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005012186831266"

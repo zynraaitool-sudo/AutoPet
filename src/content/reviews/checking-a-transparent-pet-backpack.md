@@ -4,7 +4,7 @@ description: Before buying a capsule-style pet backpack, compare usable interior
   space, airflow, weight limits, closures, and your pet's comfort.
 date: 2026-11-14
 updated: 2026-11-14
-category: dog-walking-travel
+category: pet-walking-travel
 articleType: buying-guide
 image: /images/transparent-pet-backpacks-fit-ventilation.webp
 quickVerdict: A transparent panel is not proof of good airflow or a safe fit.

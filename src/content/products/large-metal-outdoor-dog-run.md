@@ -2,7 +2,7 @@
 name: "Large Metal Outdoor Dog Run"
 category: pet-safety-accessories
 catalogVisible: true
-description: "Large Metal Outdoor Dog Run: Seller listing only; verify specifications and fit before buying."
+description: "Large Metal Outdoor Dog Run for everyday pet safety and containment. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005011603572583"

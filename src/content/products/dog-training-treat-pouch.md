@@ -1,10 +1,8 @@
 ---
 name: Dog Training Treat Pouch
-category: dog-walking-travel
+category: pet-walking-travel
 catalogVisible: true
-description: An AliExpress listing for a waist-worn dog treat pouch. Confirm its
-  closure, capacity, attachment options, and cleaning instructions before
-  buying.
+description: "Dog Training Treat Pouch for walks and pet-friendly trips. Compare listed features and setup with your needs."
 image: /images/products/dog-training-treat-pouch/1.webp
 gallery:
   - /images/products/dog-training-treat-pouch/2.webp
@@ -31,4 +29,4 @@ displayOrder: 300
 draft: false
 ---
 
-This is a listing-based summary, not a product test. Check the exact size, closure, belt or clip, and cleaning instructions for the variant you plan to order. Keep treats fresh and use the pouch only for its intended purpose.
+This seller-listed pouch is designed to keep training rewards accessible during practice and walks. AutoPet has not tested it, so compare the selected size, closure, belt or clip, and cleaning instructions with how you plan to use it. Keep treats fresh and follow the care instructions.

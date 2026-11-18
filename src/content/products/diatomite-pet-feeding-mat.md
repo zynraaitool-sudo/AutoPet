@@ -2,9 +2,7 @@
 name: Diatomite Pet Feeding Mat
 category: pet-feeding-accessories
 catalogVisible: true
-description: An AliExpress listing for a shaped pet feeding mat that mentions
-  diatomite and a non-slip design. Verify the composition, surface finish, and
-  cleaning instructions before use.
+description: "Diatomite Pet Feeding Mat for tidier pet mealtimes. Compare listed features and setup with your needs."
 image: /images/products/diatomite-pet-feeding-mat/1.webp
 gallery:
   - /images/products/diatomite-pet-feeding-mat/2.webp

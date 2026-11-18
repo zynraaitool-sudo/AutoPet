@@ -3,7 +3,7 @@ title: "Solid-Wood Pet Stairs: Choose the Correct Size Option"
 description: "Compare the selected option’s height and tread width with the furniture and your pet rather than choosing by breed label."
 date: 2026-11-17
 updated: 2026-11-17
-category: dog-walking-travel
+category: pet-walking-travel
 articleType: buying-guide
 quickVerdict: "Treat the listing as a starting point: Verify which size is selected, the usable tread width, hinge hardware, finish, and maximum load."
 productLabel: AliExpress listing

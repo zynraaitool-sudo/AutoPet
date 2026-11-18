@@ -2,7 +2,7 @@
 name: "Microchip-Recognition Pet Door with Four-Way Lock"
 category: pet-safety-accessories
 catalogVisible: true
-description: "Microchip-Recognition Pet Door with Four-Way Lock: Seller listing only; verify specifications and fit before buying."
+description: "Microchip-Recognition Pet Door with Four-Way Lock for everyday pet safety and containment. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005013031406814"

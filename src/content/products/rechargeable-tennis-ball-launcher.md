@@ -2,7 +2,7 @@
 name: "Rechargeable Tennis-Ball Launcher for Dogs"
 category: pet-enrichment
 catalogVisible: true
-description: "Rechargeable Tennis-Ball Launcher for Dogs: Seller listing only; verify specifications and fit before buying."
+description: "Rechargeable Tennis-Ball Launcher for Dogs for climbing, resting, and play. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005012435834213"

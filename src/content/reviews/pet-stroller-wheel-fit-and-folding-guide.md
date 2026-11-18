@@ -4,7 +4,7 @@ description: A buyer's checklist for stroller fit, wheel locks, ventilation,
   folding dimensions, and supervised use.
 date: 2026-11-14
 updated: 2026-11-14
-category: dog-walking-travel
+category: pet-walking-travel
 articleType: buying-guide
 image: /images/pet-stroller-fit-and-safety-guide.webp
 quickVerdict: Compare interior and folded dimensions, inspect the wheel locks

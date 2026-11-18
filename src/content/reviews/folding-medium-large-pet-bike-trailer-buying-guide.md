@@ -3,7 +3,7 @@ title: "Foldable Dog Bike Trailers: Frame, Fold, and Hitch Checks"
 description: "Compare the trailer’s unfolded and folded dimensions, then confirm the hitch and frame details for the exact size option."
 date: 2026-11-17
 updated: 2026-11-17
-category: dog-walking-travel
+category: pet-walking-travel
 articleType: buying-guide
 quickVerdict: "Treat the listing as a starting point: Ask for the frame material, cabin dimensions, folded size, hitch specification, and maximum load for the exact option."
 productLabel: AliExpress listing

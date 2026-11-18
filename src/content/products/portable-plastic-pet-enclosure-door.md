@@ -2,7 +2,7 @@
 name: "Portable Plastic Pet Enclosure with Door"
 category: pet-safety-accessories
 catalogVisible: true
-description: "Portable Plastic Pet Enclosure with Door: Seller listing only; verify specifications and fit before buying."
+description: "Portable Plastic Pet Enclosure with Door for everyday pet safety and containment. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005011564429638"

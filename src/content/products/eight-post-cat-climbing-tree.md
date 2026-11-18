@@ -2,7 +2,7 @@
 name: "Eight-Post Cat Climbing Tree with Washable Mat"
 category: pet-enrichment
 catalogVisible: true
-description: "Eight-Post Cat Climbing Tree with Washable Mat: Seller listing only; verify specifications and fit before buying."
+description: "Eight-Post Cat Climbing Tree with Washable Mat for climbing, resting, and play. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005013610935775"

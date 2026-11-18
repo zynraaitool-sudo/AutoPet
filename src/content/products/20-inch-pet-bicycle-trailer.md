@@ -1,8 +1,8 @@
 ---
 name: "20-Inch-Wheel Pet Bicycle Trailer"
-category: dog-walking-travel
+category: pet-walking-travel
 catalogVisible: true
-description: "20-Inch-Wheel Pet Bicycle Trailer: Seller listing only; verify specifications and fit before buying."
+description: "20-Inch-Wheel Pet Bicycle Trailer for walks and pet-friendly trips. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005012294640881"

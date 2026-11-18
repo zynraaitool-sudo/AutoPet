@@ -2,7 +2,7 @@
 name: "Tall Solid-Wood Cat Tower with Integrated Scratching Posts"
 category: pet-enrichment
 catalogVisible: true
-description: "Tall Solid-Wood Cat Tower with Integrated Scratching Posts: Seller listing only; verify specifications and fit before buying."
+description: "Tall Solid-Wood Cat Tower with Integrated Scratching Posts for climbing, resting, and play. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005012568240445"

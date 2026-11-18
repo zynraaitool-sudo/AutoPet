@@ -2,7 +2,7 @@
 name: "All-Weather Outdoor Dog House"
 category: pet-safety-accessories
 catalogVisible: true
-description: "All-Weather Outdoor Dog House: Seller listing only; verify specifications and fit before buying."
+description: "All-Weather Outdoor Dog House for everyday pet safety and containment. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005012231865534"

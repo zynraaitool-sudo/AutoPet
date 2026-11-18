@@ -2,7 +2,7 @@
 name: "Heavy-Duty Metal Dog Kennel Run"
 category: pet-safety-accessories
 catalogVisible: true
-description: "Heavy-Duty Metal Dog Kennel Run: Seller listing only; verify specifications and fit before buying."
+description: "Heavy-Duty Metal Dog Kennel Run for everyday pet safety and containment. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005012494387793"

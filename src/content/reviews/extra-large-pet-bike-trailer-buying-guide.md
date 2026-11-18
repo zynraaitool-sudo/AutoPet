@@ -3,7 +3,7 @@ title: "XL Pet Trailers: Check the Cabin and Brakes Before a Ride"
 description: "An XL label does not guarantee usable space; compare the inside measurements with the pet and verify how the parking brake works."
 date: 2026-11-17
 updated: 2026-11-17
-category: dog-walking-travel
+category: pet-walking-travel
 articleType: buying-guide
 quickVerdict: "Treat the listing as a starting point: Confirm the cabin measurements, brake type, wheelbase, conversion parts, and whether the stroller handle is included."
 productLabel: AliExpress listing

@@ -1,10 +1,8 @@
 ---
 name: Escape-Resistant Cat Harness and Leash
-category: dog-walking-travel
+category: pet-walking-travel
 catalogVisible: true
-description: An AliExpress listing for a cat harness and leash described as
-  escape-resistant. Measure the cat and verify every adjustment before outdoor
-  use.
+description: "Escape-Resistant Cat Harness and Leash for walks and pet-friendly trips. Compare listed features and setup with your needs."
 image: /images/products/escape-resistant-cat-harness-and-leash/1.webp
 gallery:
   - /images/products/escape-resistant-cat-harness-and-leash/2.webp
@@ -22,7 +20,8 @@ features:
 pros:
   - A fitted harness can provide a lead attachment for controlled outings.
 cons:
-  - The seller's escape-resistance wording is not a guarantee of secure fit.
+  - The seller's escape-resistance wording is not a guarantee of secure fit;
+    check measurements and adjustment before use.
   - Harnesses are not suitable for every cat; outdoor use requires supervision.
 productUrl: https://s.click.aliexpress.com/e/_c3cNAABt
 relatedArticle: escape-resistant-cat-harness-fitting-guide
@@ -30,4 +29,6 @@ displayOrder: 316
 draft: false
 ---
 
-The listing's escape-resistance wording is not independently verified. Measure the cat, check the adjustment range, and practice indoors with supervision before going outside. Do not leave a harnessed cat unattended or use the leash to lift or restrain the animal.
+An adjustable harness and leash can help introduce a cat to calm, supervised outdoor time. The seller describes this option as escape-resistant, though fit depends on careful measuring and adjustment. AutoPet has not tested the harness.
+
+Compare chest and neck measurements with the current size chart, check the adjustment range and included pieces, and practice indoors before an outing. Stay with your cat while the harness is on, and never use the leash to lift or restrain the animal.

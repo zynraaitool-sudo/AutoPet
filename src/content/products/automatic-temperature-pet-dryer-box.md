@@ -2,7 +2,7 @@
 name: "Automatic-Temperature Pet Dryer Box"
 category: pet-grooming
 catalogVisible: true
-description: "Automatic-Temperature Pet Dryer Box: Seller listing only; verify specifications and fit before buying."
+description: "Automatic-Temperature Pet Dryer Box for at-home grooming routines. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005012849479637"

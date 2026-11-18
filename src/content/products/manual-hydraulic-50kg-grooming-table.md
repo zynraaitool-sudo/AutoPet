@@ -2,7 +2,7 @@
 name: "Manual Hydraulic Grooming Table with 50 kg Listing Claim"
 category: pet-grooming
 catalogVisible: true
-description: "Manual Hydraulic Grooming Table with 50 kg Listing Claim: Seller listing only; verify specifications and fit before buying."
+description: "Manual Hydraulic Grooming Table with 50 kg Listing Claim for at-home grooming routines. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005012830598912"

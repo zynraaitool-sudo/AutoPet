@@ -3,7 +3,7 @@ title: "Folding Aluminum Travel Crates: Verify Fit and Transport Rules"
 description: "Measure the dog inside the crate and confirm the transport authority’s rules; a seller’s travel claim is not certification."
 date: 2026-11-17
 updated: 2026-11-17
-category: dog-walking-travel
+category: pet-walking-travel
 articleType: buying-guide
 quickVerdict: "Treat the listing as a starting point: Check internal measurements, door layout, frame-lock design, vehicle anchoring points, and airline approval separately."
 productLabel: AliExpress listing

@@ -1,10 +1,8 @@
 ---
 name: Cotton-Lined Winter Shoes for Small Dogs
-category: dog-walking-travel
+category: pet-walking-travel
 catalogVisible: true
-description: An AliExpress listing for adjustable, cotton-lined winter shoes
-  marketed for small dogs such as Pomeranians. Measure each paw and verify the
-  sole and closure details.
+description: "Cotton-Lined Winter Shoes for Small Dogs for walks and pet-friendly trips. Compare listed features and setup with your needs."
 image: /images/products/cotton-lined-winter-shoes-for-small-dogs/1.webp
 gallery:
   - /images/products/cotton-lined-winter-shoes-for-small-dogs/1.webp

@@ -4,7 +4,7 @@ description: Check the seller-stated capacity, materials, seal, cleaning, and
   intended use of a 285ml portable dog water bottle before buying.
 date: 2026-11-13
 updated: 2026-11-13
-category: dog-walking-travel
+category: pet-walking-travel
 articleType: buying-guide
 image: /images/portable-dog-water-bottle-285ml-autopet.webp
 comparisonTitle: Current product listing

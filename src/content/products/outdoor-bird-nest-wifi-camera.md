@@ -2,7 +2,7 @@
 name: "Outdoor Bird-Nest Wi-Fi Camera with Night Vision"
 category: pet-safety-accessories
 catalogVisible: true
-description: "Outdoor Bird-Nest Wi-Fi Camera with Night Vision: Seller listing only; verify specifications and fit before buying."
+description: "Outdoor Bird-Nest Wi-Fi Camera with Night Vision for everyday pet safety and containment. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005010146327868"

@@ -2,7 +2,7 @@
 name: "Plastic Panel Multi-Pet Enclosure"
 category: pet-safety-accessories
 catalogVisible: true
-description: "Plastic Panel Multi-Pet Enclosure: Seller listing only; verify specifications and fit before buying."
+description: "Plastic Panel Multi-Pet Enclosure for everyday pet safety and containment. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005009528829986"

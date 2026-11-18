@@ -2,7 +2,7 @@
 name: "App-Controlled Pet Drying Box"
 category: pet-grooming
 catalogVisible: true
-description: "App-Controlled Pet Drying Box: Seller listing only; verify specifications and fit before buying."
+description: "App-Controlled Pet Drying Box for at-home grooming routines. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005012577487054"

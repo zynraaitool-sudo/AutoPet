@@ -2,7 +2,7 @@
 name: "USMILEPET Salon Grooming Table with Plastic Top"
 category: pet-grooming
 catalogVisible: true
-description: "USMILEPET Salon Grooming Table with Plastic Top: Seller listing only; verify specifications and fit before buying."
+description: "USMILEPET Salon Grooming Table with Plastic Top for at-home grooming routines. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005012141908325"

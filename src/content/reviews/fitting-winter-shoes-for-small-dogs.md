@@ -4,7 +4,7 @@ description: A fit-first guide to cotton-lined dog shoes, including measuring
   each paw, checking closures, and assessing comfort during a short trial.
 date: 2026-11-14
 updated: 2026-11-14
-category: dog-walking-travel
+category: pet-walking-travel
 articleType: buying-guide
 image: /images/winter-dog-shoes-small-breeds-guide.webp
 quickVerdict: The listing markets these shoes to small dogs and claims a soft,

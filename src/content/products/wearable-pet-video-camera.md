@@ -2,7 +2,7 @@
 name: "Wearable 4G Pet Video Camera with GPS Features"
 category: pet-safety-accessories
 catalogVisible: true
-description: "Wearable 4G Pet Video Camera with GPS Features: Seller listing only; verify specifications and fit before buying."
+description: "Wearable 4G Pet Video Camera with GPS Features for everyday pet safety and containment. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005012518539628"

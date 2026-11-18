@@ -1,10 +1,8 @@
 ---
 name: Transparent Capsule Pet Backpack Carrier
-category: dog-walking-travel
+category: pet-walking-travel
 catalogVisible: true
-description: An AliExpress listing for a transparent capsule-style backpack
-  carrier marketed for small dogs and cats. Confirm dimensions, ventilation,
-  weight limits, and closures before use.
+description: "Transparent Capsule Pet Backpack Carrier for walks and pet-friendly trips. Compare listed features and setup with your needs."
 image: /images/products/transparent-capsule-pet-backpack-carrier/1.webp
 gallery:
   - /images/products/transparent-capsule-pet-backpack-carrier/4.webp

@@ -2,7 +2,7 @@
 name: "360-Degree Rotating Pet Grooming Table"
 category: pet-grooming
 catalogVisible: true
-description: "360-Degree Rotating Pet Grooming Table: Seller listing only; verify specifications and fit before buying."
+description: "360-Degree Rotating Pet Grooming Table for at-home grooming routines. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005013005146214"

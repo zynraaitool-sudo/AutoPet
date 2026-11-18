@@ -2,7 +2,7 @@
 name: "CW-22 Solid-Wood Multi-Cat Climbing Frame"
 category: pet-enrichment
 catalogVisible: true
-description: "CW-22 Solid-Wood Multi-Cat Climbing Frame: Seller listing only; verify specifications and fit before buying."
+description: "CW-22 Solid-Wood Multi-Cat Climbing Frame for climbing, resting, and play. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005012562769727"

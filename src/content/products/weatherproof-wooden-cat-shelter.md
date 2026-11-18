@@ -2,7 +2,7 @@
 name: "Weatherproof Wooden Outdoor Cat Shelter"
 category: pet-safety-accessories
 catalogVisible: true
-description: "Weatherproof Wooden Outdoor Cat Shelter: Seller listing only; verify specifications and fit before buying."
+description: "Weatherproof Wooden Outdoor Cat Shelter for everyday pet safety and containment. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005012839933671"

@@ -2,7 +2,7 @@
 name: "Colorful High-Airflow Pet Dryer"
 category: pet-grooming
 catalogVisible: true
-description: "Colorful High-Airflow Pet Dryer: Seller listing only; verify specifications and fit before buying."
+description: "Colorful High-Airflow Pet Dryer for at-home grooming routines. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005013551689101"

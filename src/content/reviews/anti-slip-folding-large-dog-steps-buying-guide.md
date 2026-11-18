@@ -3,7 +3,7 @@ title: "Folding Dog Steps: Measure Rise, Tread, and Storage Space"
 description: "Measure the target height and the dog’s stride, then confirm that the treads are wide and stable enough for a slow climb."
 date: 2026-11-17
 updated: 2026-11-17
-category: dog-walking-travel
+category: pet-walking-travel
 articleType: buying-guide
 quickVerdict: "Treat the listing as a starting point: Check step height, tread depth, folded size, load documentation, and the surface grip when wet."
 productLabel: AliExpress listing

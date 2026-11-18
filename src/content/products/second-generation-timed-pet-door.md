@@ -2,7 +2,7 @@
 name: "Second-Generation Timed Automatic Pet Door"
 category: pet-safety-accessories
 catalogVisible: true
-description: "Second-Generation Timed Automatic Pet Door: Seller listing only; verify specifications and fit before buying."
+description: "Second-Generation Timed Automatic Pet Door for everyday pet safety and containment. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005009621252050"

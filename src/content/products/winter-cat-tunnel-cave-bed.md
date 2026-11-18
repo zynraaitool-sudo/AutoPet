@@ -2,9 +2,7 @@
 name: Thick Winter Cat Tunnel Cave Bed
 category: pet-enrichment
 catalogVisible: true
-description: An AliExpress listing for a thick winter cat bed with a tunnel or
-  hide-and-seek design. Check the dimensions, fabric, and washing instructions
-  for the chosen variant.
+description: "Thick Winter Cat Tunnel Cave Bed for climbing, resting, and play. Compare listed features and setup with your needs."
 image: /images/products/thick-winter-cat-tunnel-cave-bed/1.webp
 gallery:
   - /images/products/thick-winter-cat-tunnel-cave-bed/2.webp

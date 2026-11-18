@@ -1,8 +1,8 @@
 ---
 name: "Folding Aluminum Travel Crate for Medium and Large Dogs"
-category: dog-walking-travel
+category: pet-walking-travel
 catalogVisible: true
-description: "Folding Aluminum Travel Crate for Medium and Large Dogs: Seller listing only; verify specifications and fit before buying."
+description: "Folding Aluminum Travel Crate for Medium and Large Dogs for walks and pet-friendly trips. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005007228727314"

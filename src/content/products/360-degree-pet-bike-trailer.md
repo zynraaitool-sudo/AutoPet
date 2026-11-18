@@ -1,8 +1,8 @@
 ---
 name: "Pet Bicycle Trailer with 360-Degree Swivel Wheels"
-category: dog-walking-travel
+category: pet-walking-travel
 catalogVisible: true
-description: "Pet Bicycle Trailer with 360-Degree Swivel Wheels: Seller listing only; verify specifications and fit before buying."
+description: "Pet Bicycle Trailer with 360-Degree Swivel Wheels for walks and pet-friendly trips. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005013369131551"

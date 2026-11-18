@@ -1,6 +1,6 @@
 ---
 name: Dog Car Booster Seat
-category: dog-walking-travel
+category: pet-walking-travel
 catalogVisible: true
 description: An AliExpress listing for a raised car seat for small pets. Check
   seat dimensions, anchoring straps, tether details, and vehicle compatibility.

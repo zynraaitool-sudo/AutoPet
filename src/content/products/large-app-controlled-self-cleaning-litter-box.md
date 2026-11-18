@@ -2,9 +2,7 @@
 name: Large-Capacity App-Controlled Self-Cleaning Litter Box
 category: smart-litter-boxes
 catalogVisible: true
-description: An AliExpress listing for an automatic self-cleaning litter box
-  with app control and a large-capacity claim. Verify its design, measurements,
-  and safeguards before purchase.
+description: "Large-Capacity App-Controlled Self-Cleaning Litter Box for a more convenient litter-care routine. Compare listed features and setup with your needs."
 image: /images/products/large-capacity-app-controlled-self-cleaning-litter-box/1.webp
 gallery:
   - /images/products/large-capacity-app-controlled-self-cleaning-litter-box/4.webp

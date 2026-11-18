@@ -1,6 +1,6 @@
 ---
 name: Folding Dog Car Ramp with Side Rails
-category: dog-walking-travel
+category: pet-walking-travel
 catalogVisible: true
 description: An AliExpress listing describes a folding vehicle ramp with side
   rails. Verify its deployed length, storage size, surface grip, and load

@@ -4,7 +4,7 @@ description: A buying guide to booster-seat dimensions, mounting straps, and
   safe travel practices without mistaking a raised cushion for crash protection.
 date: 2026-11-14
 updated: 2026-11-14
-category: dog-walking-travel
+category: pet-walking-travel
 articleType: buying-guide
 image: /images/dog-car-booster-seats-safety-guide.webp
 quickVerdict: Confirm the seat fits your vehicle and inspect its anchors, but do

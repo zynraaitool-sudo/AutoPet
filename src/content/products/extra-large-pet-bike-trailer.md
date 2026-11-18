@@ -1,8 +1,8 @@
 ---
 name: "Extra-Large Pet Bike Trailer and Stroller"
-category: dog-walking-travel
+category: pet-walking-travel
 catalogVisible: true
-description: "Extra-Large Pet Bike Trailer and Stroller: Seller listing only; verify specifications and fit before buying."
+description: "Extra-Large Pet Bike Trailer and Stroller for walks and pet-friendly trips. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005009554887772"

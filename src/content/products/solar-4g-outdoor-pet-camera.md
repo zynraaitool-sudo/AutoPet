@@ -2,7 +2,7 @@
 name: "Solar 4G/Wi-Fi Outdoor Camera for Pet Areas"
 category: pet-safety-accessories
 catalogVisible: true
-description: "Solar 4G/Wi-Fi Outdoor Camera for Pet Areas: Seller listing only; verify specifications and fit before buying."
+description: "Solar 4G/Wi-Fi Outdoor Camera for Pet Areas for everyday pet safety and containment. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005009100590592"

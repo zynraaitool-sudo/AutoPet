@@ -4,7 +4,7 @@ description: How to assess a seller-listed walking harness by measurements,
   adjustment range, hardware, and use limitations before ordering.
 date: 2026-11-13
 updated: 2026-11-13
-category: dog-walking-travel
+category: pet-walking-travel
 articleType: buying-guide
 image: /images/dog-walking-harness-fit-guide.webp
 comparisonTitle: Current product listing

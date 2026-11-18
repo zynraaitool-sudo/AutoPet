@@ -1,0 +1,37 @@
+---
+import type { CollectionEntry } from "astro:content";
+
+interface Props {
+  products: CollectionEntry<"products">[];
+}
+
+const { products } = Astro.props;
+---
+
+<section class="recommended-gear" aria-labelledby="recommended-gear-heading">
+  <h2 id="recommended-gear-heading">Recommended products</h2>
+  <div class="gear-grid">
+    {products.map((product) => (
+      <article class="gear-card">
+        <h3><a href={`/products/${product.id}/`}>{product.data.name}</a></h3>
+        <p>{product.data.description}</p>
+        <a class="gear-cta" href={`/products/${product.id}/`}>View product details <span aria-hidden="true">→</span></a>
+      </article>
+    ))}
+  </div>
+</section>
+
+<style>
+  .recommended-gear { margin-top: 2.25rem; }
+  .recommended-gear > h2 { margin-bottom: 1rem; }
+  .gear-grid { display: grid; grid-template-columns: 1fr; gap: 1rem; }
+  .gear-card { display: flex; flex-direction: column; padding: 1rem; border: 1px solid var(--line); border-radius: var(--card-radius); background: var(--paper); }
+  .gear-card h3 { margin: 0 0 0.5rem; font-size: 1.15rem; }
+  .gear-card h3 a { color: var(--ink); text-decoration: none; }
+  .gear-card h3 a:hover { color: var(--teal); text-decoration: underline; }
+  .gear-card p { margin: 0 0 0.75rem; color: var(--muted-ink); }
+  .gear-cta { display: inline-flex; align-items: center; gap: 0.45rem; align-self: flex-start; min-height: var(--button-height); margin-top: auto; padding: 0.55rem 0.9rem; border-radius: var(--control-radius); background: var(--sun); color: var(--teal-deep); font-size: var(--button-font-size); font-weight: 750; text-decoration: none; }
+  .gear-cta:hover { background: var(--teal-deep); color: var(--paper); }
+  @media (min-width: 700px) { .gear-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+  @media (min-width: 1000px) { .gear-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+</style>

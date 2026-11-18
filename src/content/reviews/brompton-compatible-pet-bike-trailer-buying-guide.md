@@ -3,7 +3,7 @@ title: "A Pet Trailer for Folding Bikes: Confirm the Hitch and Clearance"
 description: "Check the exact hitch interface and wheel clearance for your bike; a general compatibility claim is not enough to establish a safe fit."
 date: 2026-11-17
 updated: 2026-11-17
-category: dog-walking-travel
+category: pet-walking-travel
 articleType: buying-guide
 quickVerdict: "Treat the listing as a starting point: Confirm the hitch standard, wheel clearance, maximum pet dimensions, trailer weight, and whether the bicycle connector is included."
 productLabel: AliExpress listing

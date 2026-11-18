@@ -2,7 +2,7 @@
 name: "Washable Winter Pet House with Removable Cover"
 category: pet-enrichment
 catalogVisible: true
-description: "Washable Winter Pet House with Removable Cover: Seller listing only; verify specifications and fit before buying."
+description: "Washable Winter Pet House with Removable Cover for climbing, resting, and play. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005013578932063"

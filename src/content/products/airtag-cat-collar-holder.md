@@ -2,9 +2,7 @@
 name: Reflective Cat Collar with AirTag Holder
 category: pet-safety-accessories
 catalogVisible: true
-description: An AliExpress listing for a reflective cat collar with a protective
-  holder designed for an Apple AirTag. The tracker is not included unless the
-  listing explicitly says so.
+description: "Reflective Cat Collar with AirTag Holder for everyday pet safety and containment. Compare listed features and setup with your needs."
 image: /images/products/reflective-cat-collar-with-airtag-holder/1.webp
 gallery:
   - /images/products/reflective-cat-collar-with-airtag-holder/2.webp

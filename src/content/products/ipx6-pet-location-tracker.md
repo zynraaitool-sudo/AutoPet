@@ -2,7 +2,7 @@
 name: "IPX6 Pet Location Tracker with App Alerts"
 category: pet-safety-accessories
 catalogVisible: true
-description: "IPX6 Pet Location Tracker with App Alerts: Seller listing only; verify specifications and fit before buying."
+description: "IPX6 Pet Location Tracker with App Alerts for everyday pet safety and containment. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005012903428290"

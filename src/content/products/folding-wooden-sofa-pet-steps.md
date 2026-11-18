@@ -2,7 +2,7 @@
 name: "Folding Wooden Pet Steps for Sofas and Beds"
 category: pet-enrichment
 catalogVisible: true
-description: "Folding Wooden Pet Steps for Sofas and Beds: Seller listing only; verify specifications and fit before buying."
+description: "Folding Wooden Pet Steps for Sofas and Beds for climbing, resting, and play. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005013084375756"

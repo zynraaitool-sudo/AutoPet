@@ -2,7 +2,7 @@
 name: "Modular Indoor Pet Kennel with Enclosed Panels"
 category: pet-safety-accessories
 catalogVisible: true
-description: "Modular Indoor Pet Kennel with Enclosed Panels: Seller listing only; verify specifications and fit before buying."
+description: "Modular Indoor Pet Kennel with Enclosed Panels for everyday pet safety and containment. Compare listed features and setup with your needs."
 specifications:
   - name: AliExpress item
     value: "1005012344539846"

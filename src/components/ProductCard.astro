@@ -1,5 +1,6 @@
 ---
 import type { CollectionEntry } from "astro:content";
+import { categoryLabels } from "../lib/category-labels";
 
 interface Props {
   product: CollectionEntry<"products">;
@@ -8,7 +9,7 @@ interface Props {
 
 const { product, variant = "catalog" } = Astro.props;
 const { name, category, description, image, imageAlt, price } = product.data;
-const categoryTitle = category.replaceAll("-", " ").replace(/\b\w/g, (letter) => letter.toUpperCase());
+const categoryTitle = categoryLabels[category]?.title ?? category.replaceAll("-", " ").replace(/\b\w/g, (letter) => letter.toUpperCase());
 ---
 
 <article class:list={["content-card", "product-card", `product-card-${variant}`]}>
