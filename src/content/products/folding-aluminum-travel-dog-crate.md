@@ -1,22 +1,32 @@
 ---
-name: "Folding Aluminum Travel Crate for Medium and Large Dogs"
+name: Folding Aluminum Travel Crate for Medium and Large Dogs
 category: dog-walking-travel
 catalogVisible: true
-description: "Folding Aluminum Travel Crate for Medium and Large Dogs: Seller listing only; verify specifications and fit before buying."
+description: "Folding Aluminum Travel Crate for Medium and Large Dogs: Seller
+  listing only; verify specifications and fit before buying."
+image: /images/products/folding-aluminum-travel-crate-for-medium-and-large-dogs/1.webp
+gallery:
+  - /images/products/folding-aluminum-travel-crate-for-medium-and-large-dogs/2.webp
+  - /images/products/folding-aluminum-travel-crate-for-medium-and-large-dogs/3.webp
+  - /images/products/folding-aluminum-travel-crate-for-medium-and-large-dogs/4.webp
+  - /images/products/folding-aluminum-travel-crate-for-medium-and-large-dogs/5.webp
+  - /images/products/folding-aluminum-travel-crate-for-medium-and-large-dogs/6.webp
 specifications:
   - name: AliExpress item
     value: "1005007228727314"
 features:
-  - "a folding aluminum crate for vehicle travel and camping."
-  - "Listing-based summary only; product features have not been independently tested."
+  - a folding aluminum crate for vehicle travel and camping.
+  - Listing-based summary only; product features have not been independently
+    tested.
 pros:
-  - "The listing identifies a specific product configuration to investigate."
+  - The listing identifies a specific product configuration to investigate.
 cons:
-  - "Seller claims, current specifications, shipping, and variant availability need confirmation."
-productUrl: https://www.aliexpress.com/item/1005007228727314.html
+  - Seller claims, current specifications, shipping, and variant availability
+    need confirmation.
+productUrl: https://s.click.aliexpress.com/e/_c2ybHOsp
 relatedArticle: folding-aluminum-travel-dog-crate-buying-guide
 displayOrder: 837
-draft: true
+draft: false
 ---
 
 The listing describes a folding aluminum crate for vehicle travel and camping. This page is a summary of the seller listing, not a hands-on test. Before purchase, check internal measurements, door layout, frame-lock design, vehicle anchoring points, and airline approval separately. Do not assume an online crate listing meets airline or crash-safety requirements.
