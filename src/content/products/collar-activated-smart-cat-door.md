@@ -1,21 +1,30 @@
 ---
-name: "Collar-Activated Smart Cat Door"
+name: Collar-Activated Smart Cat Door
 category: pet-safety-accessories
 catalogVisible: true
-description: "Collar-Activated Smart Cat Door for everyday pet safety and containment. Compare listed features and setup with your needs."
+description: Collar-Activated Smart Cat Door for everyday pet safety and
+  containment. Compare listed features and setup with your needs.
+image: /images/products/collar-activated-smart-cat-door/smart_pet_door_1_compressed.webp
+gallery:
+  - /images/products/collar-activated-smart-cat-door/smart_pet_door_2_compressed.webp
+  - /images/products/collar-activated-smart-cat-door/smart_pet_door_3_compressed.webp
+  - /images/products/collar-activated-smart-cat-door/smart_pet_door_4_compressed.webp
+  - /images/products/collar-activated-smart-cat-door/smart_pet_door_5_compressed.webp
+  - /images/products/collar-activated-smart-cat-door/smart_pet_door_6_compressed.webp
 specifications:
   - name: AliExpress item
     value: "1005013611614547"
 features:
-  - "an automatic cat door activated by a matching collar."
+  - an automatic cat door activated by a matching collar.
 pros:
-  - "Selective or timed access can help manage a pet's movement between spaces."
+  - Selective or timed access can help manage a pet's movement between spaces.
 cons:
-  - Check the selected option's specifications, shipping, and return terms before ordering.
-productUrl: https://www.aliexpress.com/item/1005013611614547.html
+  - Check the selected option's specifications, shipping, and return terms
+    before ordering.
+productUrl: https://s.click.aliexpress.com/e/_c39KwgN7
 relatedArticle: collar-activated-smart-cat-door-buying-guide
-displayOrder: 818
-draft: true
+displayOrder: 1000
+draft: false
 ---
 
 <!-- autopet-master-optimized -->

@@ -1,21 +1,30 @@
 ---
-name: "Portable Plastic Pet Enclosure with Door"
+name: Portable Plastic Pet Enclosure with Door
 category: pet-safety-accessories
 catalogVisible: true
-description: "Portable Plastic Pet Enclosure with Door for everyday pet safety and containment. Compare listed features and setup with your needs."
+description: Portable Plastic Pet Enclosure with Door for everyday pet safety
+  and containment. Compare listed features and setup with your needs.
+image: /images/products/portable-plastic-pet-enclosure-with-door/pet_fence_image_1.webp
+gallery:
+  - /images/products/portable-plastic-pet-enclosure-with-door/pet_fence_image_2.webp
+  - /images/products/portable-plastic-pet-enclosure-with-door/pet_fence_image_3.webp
+  - /images/products/portable-plastic-pet-enclosure-with-door/pet_fence_image_4.webp
+  - /images/products/portable-plastic-pet-enclosure-with-door/pet_fence_image_5.webp
+  - /images/products/portable-plastic-pet-enclosure-with-door/pet_fence_image_6.webp
 specifications:
   - name: AliExpress item
     value: "1005011564429638"
 features:
-  - "a portable plastic enclosure for indoor and outdoor use."
+  - a portable plastic enclosure for indoor and outdoor use.
 pros:
-  - "Selective or timed access can help manage a pet's movement between spaces."
+  - Selective or timed access can help manage a pet's movement between spaces.
 cons:
-  - Check the selected option's specifications, shipping, and return terms before ordering.
-productUrl: https://www.aliexpress.com/item/1005011564429638.html
+  - Check the selected option's specifications, shipping, and return terms
+    before ordering.
+productUrl: https://s.click.aliexpress.com/e/_c4agbvhf
 relatedArticle: portable-plastic-pet-enclosure-door-buying-guide
 displayOrder: 839
-draft: true
+draft: false
 ---
 
 <!-- autopet-master-optimized -->

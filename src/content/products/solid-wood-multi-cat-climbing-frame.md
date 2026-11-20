@@ -1,21 +1,29 @@
 ---
-name: "CW-22 Solid-Wood Multi-Cat Climbing Frame"
+name: CW-22 Solid-Wood Multi-Cat Climbing Frame
 category: pet-enrichment
 catalogVisible: true
-description: "CW-22 Solid-Wood Multi-Cat Climbing Frame for climbing, resting, and play. Compare listed features and setup with your needs."
+description: CW-22 Solid-Wood Multi-Cat Climbing Frame for climbing, resting,
+  and play. Compare listed features and setup with your needs.
+image: /images/products/cw-22-solid-wood-multi-cat-climbing-frame/image_1.webp
+gallery:
+  - /images/products/cw-22-solid-wood-multi-cat-climbing-frame/image_2.webp
+  - /images/products/cw-22-solid-wood-multi-cat-climbing-frame/image_3.webp
+  - /images/products/cw-22-solid-wood-multi-cat-climbing-frame/image_4.webp
 specifications:
   - name: AliExpress item
     value: "1005012562769727"
 features:
-  - "a large solid-wood climbing structure intended for multiple cats."
+  - a large solid-wood climbing structure intended for multiple cats.
 pros:
-  - "A multi-level setup can combine climbing, perching, and scratching in one area."
+  - A multi-level setup can combine climbing, perching, and scratching in one
+    area.
 cons:
-  - Check the selected option's specifications, shipping, and return terms before ordering.
-productUrl: https://www.aliexpress.com/item/1005012562769727.html
+  - Check the selected option's specifications, shipping, and return terms
+    before ordering.
+productUrl: https://s.click.aliexpress.com/e/_c3gqyalj
 relatedArticle: solid-wood-multi-cat-climbing-frame-buying-guide
 displayOrder: 804
-draft: true
+draft: false
 ---
 
 <!-- autopet-master-optimized -->

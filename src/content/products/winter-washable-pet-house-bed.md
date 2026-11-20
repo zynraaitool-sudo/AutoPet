@@ -1,21 +1,31 @@
 ---
-name: "Washable Winter Pet House with Removable Cover"
+name: Washable Winter Pet House with Removable Cover
 category: pet-enrichment
 catalogVisible: true
-description: "Washable Winter Pet House with Removable Cover for climbing, resting, and play. Compare listed features and setup with your needs."
+description: Washable Winter Pet House with Removable Cover for climbing,
+  resting, and play. Compare listed features and setup with your needs.
+image: /images/products/washable-winter-pet-house-with-removable-cover/2.webp
+gallery:
+  - /images/products/washable-winter-pet-house-with-removable-cover/1.webp
+  - /images/products/washable-winter-pet-house-with-removable-cover/3.webp
+  - /images/products/washable-winter-pet-house-with-removable-cover/4.webp
+  - /images/products/washable-winter-pet-house-with-removable-cover/5.webp
+  - /images/products/washable-winter-pet-house-with-removable-cover/6.webp
 specifications:
   - name: AliExpress item
     value: "1005013578932063"
 features:
-  - "a warm, enclosed pet house with washable materials."
+  - a warm, enclosed pet house with washable materials.
 pros:
-  - "The listed features can help organize a practical routine when the selected size and setup fit your needs."
+  - The listed features can help organize a practical routine when the selected
+    size and setup fit your needs.
 cons:
-  - Check the selected option's specifications, shipping, and return terms before ordering.
-productUrl: https://www.aliexpress.com/item/1005013578932063.html
+  - Check the selected option's specifications, shipping, and return terms
+    before ordering.
+productUrl: https://s.click.aliexpress.com/e/_c41r2aTr
 relatedArticle: winter-washable-pet-house-bed-buying-guide
 displayOrder: 835
-draft: true
+draft: false
 ---
 
 <!-- autopet-master-optimized -->

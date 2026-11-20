@@ -1,21 +1,30 @@
 ---
-name: "Second-Generation Timed Automatic Pet Door"
+name: Second-Generation Timed Automatic Pet Door
 category: pet-safety-accessories
 catalogVisible: true
-description: "Second-Generation Timed Automatic Pet Door for everyday pet safety and containment. Compare listed features and setup with your needs."
+description: Second-Generation Timed Automatic Pet Door for everyday pet safety
+  and containment. Compare listed features and setup with your needs.
+image: /images/products/second-generation-timed-automatic-pet-door/image_1.webp
+gallery:
+  - /images/products/second-generation-timed-automatic-pet-door/image_2.webp
+  - /images/products/second-generation-timed-automatic-pet-door/image_3.webp
+  - /images/products/second-generation-timed-automatic-pet-door/image_4.webp
+  - /images/products/second-generation-timed-automatic-pet-door/image_5.webp
+  - /images/products/second-generation-timed-automatic-pet-door/image_6.webp
 specifications:
   - name: AliExpress item
     value: "1005009621252050"
 features:
-  - "a timed automatic door intended for cats and dogs."
+  - a timed automatic door intended for cats and dogs.
 pros:
-  - "Selective or timed access can help manage a pet's movement between spaces."
+  - Selective or timed access can help manage a pet's movement between spaces.
 cons:
-  - Check the selected option's specifications, shipping, and return terms before ordering.
-productUrl: https://www.aliexpress.com/item/1005009621252050.html
+  - Check the selected option's specifications, shipping, and return terms
+    before ordering.
+productUrl: https://s.click.aliexpress.com/e/_c4SosZ9X
 relatedArticle: second-generation-timed-pet-door-buying-guide
 displayOrder: 819
-draft: true
+draft: false
 ---
 
 <!-- autopet-master-optimized -->

@@ -1,29 +1,35 @@
 ---
 title: "20-Inch Pet Bike Trailers: Check Fit, Hitch, and Folded Size"
-description: "Measure the pet against the cabin and the bicycle against the hitch specification; then check how the trailer folds for storage."
+description: Measure the pet against the cabin and the bicycle against the hitch
+  specification; then check how the trailer folds for storage.
 date: 2026-11-17
 updated: 2026-11-17
 category: pet-walking-travel
 articleType: buying-guide
-quickVerdict: "Treat the listing as a starting point: Verify interior length and height, wheel material, hitch type, folded dimensions, and stated payload for the selected option."
+quickVerdict: "Treat the listing as a starting point: Verify interior length and
+  height, wheel material, hitch type, folded dimensions, and stated payload for
+  the selected option."
 productLabel: AliExpress listing
 products:
-  - name: "20-Inch-Wheel Pet Bicycle Trailer"
+  - name: 20-Inch-Wheel Pet Bicycle Trailer
     priceRange: Check the current AliExpress listing
     features:
-      - "a pet trailer with 20-inch wheels, an aluminum wheel set, and a steel frame."
-      - "Seller claims have not been independently verified."
-    url: https://www.aliexpress.com/item/1005012294640881.html
+      - a pet trailer with 20-inch wheels, an aluminum wheel set, and a steel
+        frame.
+      - Seller claims have not been independently verified.
+    url: https://s.click.aliexpress.com/e/_c4VV2jkz
     affiliate: false
 pros:
-  - "A product-specific listing gives buyers concrete specifications to verify."
+  - A product-specific listing gives buyers concrete specifications to verify.
 cons:
-  - "This is not a hands-on review; product performance and availability may vary."
+  - This is not a hands-on review; product performance and availability may vary.
 faqs:
-  - question: "Has AutoPet tested the 20-inch-wheel pet bicycle trailer?"
-    answer: "No. This guide summarizes the public AliExpress listing; AutoPet has not purchased or independently tested this item."
-  - question: "Does the listing prove that the product is suitable for every pet?"
-    answer: "No. Confirm the exact model and fit for the individual animal, and stop use if it causes distress or appears unsafe."
+  - question: Has AutoPet tested the 20-inch-wheel pet bicycle trailer?
+    answer: No. This guide summarizes the public AliExpress listing; AutoPet has not
+      purchased or independently tested this item.
+  - question: Does the listing prove that the product is suitable for every pet?
+    answer: No. Confirm the exact model and fit for the individual animal, and stop
+      use if it causes distress or appears unsafe.
 draft: true
 ---
 

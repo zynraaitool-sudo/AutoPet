@@ -1,21 +1,30 @@
 ---
-name: "Modular Indoor Pet Kennel with Enclosed Panels"
+name: Modular Indoor Pet Kennel with Enclosed Panels
 category: pet-safety-accessories
 catalogVisible: true
-description: "Modular Indoor Pet Kennel with Enclosed Panels for everyday pet safety and containment. Compare listed features and setup with your needs."
+description: Modular Indoor Pet Kennel with Enclosed Panels for everyday pet
+  safety and containment. Compare listed features and setup with your needs.
+image: /images/products/modular-indoor-pet-kennel-with-enclosed-panels/product_image_1.webp
+gallery:
+  - /images/products/modular-indoor-pet-kennel-with-enclosed-panels/product_image_2.webp
+  - /images/products/modular-indoor-pet-kennel-with-enclosed-panels/product_image_3.webp
+  - /images/products/modular-indoor-pet-kennel-with-enclosed-panels/product_image_4.webp
+  - /images/products/modular-indoor-pet-kennel-with-enclosed-panels/product_image_5.webp
+  - /images/products/modular-indoor-pet-kennel-with-enclosed-panels/product_image_6.webp
 specifications:
   - name: AliExpress item
     value: "1005012344539846"
 features:
-  - "a configurable indoor enclosure for cats and dogs."
+  - a configurable indoor enclosure for cats and dogs.
 pros:
-  - "Selective or timed access can help manage a pet's movement between spaces."
+  - Selective or timed access can help manage a pet's movement between spaces.
 cons:
-  - Check the selected option's specifications, shipping, and return terms before ordering.
-productUrl: https://www.aliexpress.com/item/1005012344539846.html
+  - Check the selected option's specifications, shipping, and return terms
+    before ordering.
+productUrl: https://s.click.aliexpress.com/e/_c45Azx3x
 relatedArticle: modular-indoor-pet-kennel-buying-guide
 displayOrder: 833
-draft: true
+draft: false
 ---
 
 <!-- autopet-master-optimized -->
