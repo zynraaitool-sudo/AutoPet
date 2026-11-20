@@ -2,8 +2,8 @@
 name: ROJECO 5L Feeder with 3.5L Gravity Water Dispenser
 category: automatic-cat-feeders
 catalogVisible: true
-description: ROJECO feeder with an advertised 5L food container and separate
-  3.5L gravity water dispenser. Compare the selected features and setup with your needs.
+description: ROJECO feeder with an advertised 5L food container and separate 3.5L gravity water dispenser. Compare the selected features and setup with your needs.
+imageAlt: "ROJECO 5L Feeder with 3.5L Gravity Water Dispenser product view"
 image: /images/products/rojeco-5l-feeder-with-3-5l-gravity-water-dispenser/1.webp
 gallery:
   - /images/products/rojeco-5l-feeder-with-3-5l-gravity-water-dispenser/2.webp
@@ -68,3 +68,19 @@ The listing describes 5L of food capacity plus a separate 3.5L gravity water dis
 The seller also lists app control and feeding settings. Confirm which features are included in the exact option, how the feeder is powered, what portions can be scheduled, and how the water dispenser and food-contact parts should be cleaned.
 
 Do not assume the feeder can safely store wet food. Check the manufacturer's instructions for supported food types and storage requirements. Verify the current price, shipping, return terms, and included accessories on the live listing before ordering.
+
+
+## Product-specific buying checklist
+
+For **ROJECO 5L Feeder with 3.5L Gravity Water Dispenser**, focus on meal capacity, portion control, kibble size, app Wi-Fi requirements, backup power, cleaning access, and the exact bowl or hopper included. Start with the listing fields above—especially Food capacity, Water capacity—and confirm the exact model before comparing options.
+
+The useful question is the correct feeder capacity for the household and whether its controls match the intended feeding routine, not simply whether the product has the longest feature list. Compare the exact selectable option, since bundles and variants can differ.
+
+## Questions to ask before checkout
+
+- Does the current listing include every component shown or described?
+- Do the measurements, capacity, and limits match the intended use?
+- Are cleaning, storage, power, and setup requirements workable in the home?
+- Have shipping, returns, and seller terms been checked for the exact option?
+
+This checklist highlights points to verify rather than claims about independent testing or guaranteed performance.

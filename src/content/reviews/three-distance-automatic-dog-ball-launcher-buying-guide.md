@@ -26,28 +26,24 @@ faqs:
     answer: "No. Confirm the exact model and fit for the individual animal, and stop use if it causes distress or appears unsafe."
 draft: true
 ---
+The listing advertises approximately 10-30 feet across three launch settings. That range is a seller claim, not a test result, and actual distance can vary with the ball, surface, or model. The purchase decision should start with compatible ball size and the amount of clear, supervised space available.
 
-The listing describes three launch distances, advertised as approximately 10-30 feet. This is an evaluation of the listing, not a test of the product. Seller descriptions and images are claims to verify against the exact selected option.
+## Check compatibility before checkout
+Confirm the ball diameter and whether the package includes enough balls for the exact selected option. Ask about replacement ball availability and whether non-standard balls are safe to use. The available product source does not state a tested distance, ball specification, or launch interval that can be quoted as verified fact.
 
-## What this listing actually describes
+Measure the safest launch lane. It should have a clear end area, no stairs or traffic, and a surface that does not create slipping. Also check the power method and whether the unit needs mains power or batteries. If indoor use is intended, the 10-30-foot claim should be interpreted cautiously rather than as a guaranteed indoor result.
 
-Confirm ball dimensions and provide a clear, non-slip launch lane before introducing an automatic throwing device. Read the full item page and compare the selected option with the title, photographs, and specifications. Sellers may show several sizes or bundles on one page, and the selected option may differ from the main listing image.
+## Introduce the launcher safely
+Place the launcher on a stable, level area and follow the manual. Use only the stated ball and start with the shortest setting while the dog is supervised. Keep hands, toys, and other pets away from the delivery opening. Stop if the dog guards the launcher, tries to chew the mechanism or balls, becomes overexcited, or loses interest.
 
-## Details to confirm before ordering
+Compare the stated distance options, compatible ball size, and return terms in the current listing. This guide has not verified launch distance or ball fit through hands-on testing.
 
-Confirm ball diameter, launch distance settings, power method, replacement ball availability, and indoor clearance. Ask the seller for missing measurements or compatibility information and save the exact listing and option details. Also check shipping, taxes, warranty terms, and the cost or process for returning an oversized package.
+## Common mistakes
+Do not buy a launcher because “automatic fetch” sounds convenient without confirming ball size and clearance. Do not use damaged or undersized balls, and do not leave a dog alone to manage repeated launches. Do not assume the same three settings will produce identical distances on carpet, outdoors, or with replacement balls.
 
-## Use and setup considerations
+## FAQs
+**Does 10-30 feet mean guaranteed throw lengths?** No. It is described in the listing as an advertised approximate range.
 
-Use only the specified balls and supervise play; stop if the dog guards or chews the launcher. Follow the product manual and seek professional advice when setup or use could affect an animal's health or safety. A listing description is not proof of certification, performance, or suitability for every pet.
+**Can any ball be used?** The source does not establish compatibility. Use only the manufacturer's specified ball and replacement type.
 
-## Bottom line
-
-Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
-
-<!-- autopet-master-optimized -->
-
-## Related product listings
-- [Automatic Dog Ball Launcher with Three Distance Settings](/products/three-distance-automatic-dog-ball-launcher/)
-
-Browse the [AutoPet Pet Enrichment category](/category/pet-enrichment/) for the latest published resources.
+**What is the main unknown?** Verified ball size, actual setting distances, power details, launch interval, and replacement availability for the exact model.

@@ -27,27 +27,43 @@ faqs:
 draft: true
 ---
 
-The listing describes a height-adjustable hydraulic grooming table with a round top. This is an evaluation of the listing, not a test of the product. Seller descriptions and images are claims to verify against the exact selected option.
+The listing describes a round, height-adjustable hydraulic grooming table. A circular top can save corners, but it may provide a different standing footprint than a rectangular table. The exact diameter, lift range, base size, pump operation, and load limit are essential unknowns.
 
-## What this listing actually describes
+## Match the top and lift range
 
-Check whether the round surface provides enough room and how the lift is controlled at its lowest and highest settings. Read the full item page and compare the selected option with the title, photographs, and specifications. Sellers may show several sizes or bundles on one page, and the selected option may differ from the main listing image.
+Measure the dog from nose to tail and check whether the standing area leaves enough room for the groomer to work. Ask for the top diameter and the exact lowest and highest working heights. Compare both with the ceiling, nearby equipment, and the intended user.
 
-## Details to confirm before ordering
+Confirm whether an arm or restraint is included and how it attaches to the round top. The source does not state an attachment size or accessory set. Also confirm the surface material and cleaning method.
 
-Check the top diameter, lift range, pump details, base footprint, and the stated weight capacity. Ask the seller for missing measurements or compatibility information and save the exact listing and option details. Also check shipping, taxes, warranty terms, and the cost or process for returning an oversized package.
+## Pump and mechanism checks
 
-## Use and setup considerations
+Ask what controls the lift, how it is locked, and whether it lowers continuously or in stages. Verify the pump location and how much base clearance is available around it. “Hydraulic” does not give a speed, lift limit, or tested capacity.
 
-Keep paws clear of the lifting mechanism and lower the table slowly while the animal is supported. Follow the product manual and seek professional advice when setup or use could affect an animal's health or safety. A listing description is not proof of certification, performance, or suitability for every pet.
+Set up on a level floor with clear space around the pedal or pump. Before a pet gets on, raise and lower the empty table through its usable range. Stop if it creeps, leaks, tilts, or makes an unfamiliar noise.
 
-## Bottom line
+## Safe grooming height
 
-Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+Keep paws, tails, and grooming tools clear of the mechanism and pinch areas. Support the animal throughout adjustment and lower it slowly. Never leave a pet unattended on an elevated table.
 
-<!-- autopet-master-optimized -->
+Use restraints only as specified and fitted for the pet; they do not replace direct handling. The source provides no independent stability or maximum-load result, so stay within the manufacturer’s verified limit and seek professional guidance for the setup or a difficult animal.
+
+## Common mistakes
+
+- Using the round top’s diameter in place of the usable standing area.
+- Ordering an arm or clamp that does not fit the model.
+- Testing the pump only at mid-height.
+- Allowing paws or the leash near the lift mechanism.
+- Exceeding an unverified capacity claim.
+
+## FAQs
+
+**Are the top diameter and lift range confirmed?** No. They are missing from the source and must be requested.
+
+**Is the weight capacity independently verified?** No. Treat any live-listing number as a seller claim until documented by the manufacturer.
+
+**Was the table tested hands-on?** No. This guide makes no stability or performance claim.
 
 ## Related product listings
 - [Round Hydraulic Pet Grooming Table](/products/hydraulic-round-pet-grooming-table/)
 
-Browse the [AutoPet Pet Grooming category](/category/pet-grooming/) for the latest published resources.
+Browse the [AutoPet Pet Grooming category](/category/pet-grooming/) for published related guidance.

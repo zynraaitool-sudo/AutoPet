@@ -26,28 +26,28 @@ faqs:
     answer: "No. Confirm the exact model and fit for the individual animal, and stop use if it causes distress or appears unsafe."
 draft: true
 ---
+An RFID smart pet door with a radar sensor combines two possible technologies, but the listing does not explain which sensor controls entry, exit, or locking. “Smart” and “radar” do not establish range, false-trigger behavior, or power-loss operation.
 
-The listing describes an RFID pet door with a radar sensor and smart controls. This is an evaluation of the listing, not a test of the product. Seller descriptions and images are claims to verify against the exact selected option.
+## Identify each function
 
-## What this listing actually describes
+Ask the seller for a mode diagram showing whether RFID or radar activates the flap, which direction is detected, and whether each mode can be configured separately. Confirm tag or collar-reader contents, maximum registered pets, pet size limits, and opening dimensions. The source provides no tag count, compatibility, sensor sensitivity, or cutout template.
 
-Clarify whether the RFID tag or radar sensor controls each function and whether multiple pets can be configured separately. Read the full item page and compare the selected option with the title, photographs, and specifications. Sellers may show several sizes or bundles on one page, and the selected option may differ from the main listing image.
+Check the wall or door thickness and the full frame dimensions before purchase. The listing gives no installation depth or weather-sealing details, so those remain unknown until verified.
 
-## Details to confirm before ordering
+## Power and initial testing
 
-Ask whether RFID tags are included, how the radar behaves around other pets, and what power source is required. Ask the seller for missing measurements or compatibility information and save the exact listing and option details. Also check shipping, taxes, warranty terms, and the cost or process for returning an oversized package.
+Confirm the power source, battery backup, and behavior during an outage or low battery. Test each lock state, entry direction, exit direction, and the flap manually before routine use. Introduce every animal while supervised to see whether another pet accidentally triggers the door or becomes trapped outside.
 
-## Use and setup considerations
+Keep a manual access plan and do not assume an automatic mode fails closed or open. Stop use if the flap operates unexpectedly or a pet hesitates or becomes caught.
 
-Check for unintended opening and supervise initial use with every animal in the household. Follow the product manual and seek professional advice when setup or use could affect an animal's health or safety. A listing description is not proof of certification, performance, or suitability for every pet.
+## Common mistakes
 
-## Bottom line
+Do not assume a tag is included. Do not interpret radar as a guaranteed pet-only sensor. Do not cut an opening until measurements and a lock diagram are confirmed.
 
-Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+## FAQs
 
-<!-- autopet-master-optimized -->
+**Can radar distinguish all household animals?** The source provides no detection performance. Sensor range and false-trigger tests are essential unknowns.
 
-## Related product listings
-- [RFID Smart Pet Door with Radar Sensor](/products/rfid-radar-smart-pet-door/)
+**What should be verified?** RFID tag contents, registration capacity, opening size, radar function, power backup, lock modes, and installation depth.
 
-Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for the latest published resources.
+Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for published resources.

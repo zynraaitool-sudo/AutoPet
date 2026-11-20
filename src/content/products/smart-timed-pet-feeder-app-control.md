@@ -4,6 +4,7 @@ seoTitle: "Smart Cat Feeder with App Scheduling & Portion Control | AutoPet"
 category: automatic-cat-feeders
 catalogVisible: true
 description: "Smart Timed Pet Feeder with App and Portion Control for scheduled cat meals. Compare listed features and setup with your needs."
+imageAlt: "Smart Timed Pet Feeder with App and Portion Control product view"
 image: /images/products/smart-timed-pet-feeder-with-app-and-portion-control/1.webp
 gallery:
   - /images/products/smart-timed-pet-feeder-with-app-and-portion-control/2.webp
@@ -61,3 +62,19 @@ This feeder listing combines timed scheduling, portion controls, and mobile acce
 Before ordering, compare the selected model and variant with its manual. Check schedule limits, how portions are measured, app and network compatibility, power requirements, cleaning instructions, and included accessories. Portion weights can vary by kibble type, so use the manual to match settings to your pet's food.
 
 If your pet has a prescribed diet or feeding schedule, confirm the device can follow the veterinarian's instructions before relying on it. Test the setup while you are home.
+
+
+## Product-specific buying checklist
+
+For **Smart Timed Pet Feeder with App and Portion Control**, focus on meal capacity, portion control, kibble size, app Wi-Fi requirements, backup power, cleaning access, and the exact bowl or hopper included. Start with the listing fields above—especially Listed functions—and confirm the exact model before comparing options.
+
+The useful question is the correct feeder capacity for the household and whether its controls match the intended feeding routine, not simply whether the product has the longest feature list. Compare the exact selectable option, since bundles and variants can differ.
+
+## Questions to ask before checkout
+
+- Does the current listing include every component shown or described?
+- Do the measurements, capacity, and limits match the intended use?
+- Are cleaning, storage, power, and setup requirements workable in the home?
+- Have shipping, returns, and seller terms been checked for the exact option?
+
+This checklist highlights points to verify rather than claims about independent testing or guaranteed performance.

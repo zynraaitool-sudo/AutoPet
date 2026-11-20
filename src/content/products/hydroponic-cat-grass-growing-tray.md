@@ -2,8 +2,8 @@
 name: Hydroponic Cat Grass Growing Tray
 category: pet-enrichment
 catalogVisible: true
-description: An AliExpress listing for a soil-free cat grass sprouting tray.
-  Confirm whether seeds, growing medium, or only the tray are included.
+description: An AliExpress listing for a soil-free cat grass sprouting tray. Confirm whether seeds, growing medium, or only the tray are included.
+imageAlt: "Hydroponic Cat Grass Growing Tray product view"
 image: /images/products/hydroponic-cat-grass-growing-tray/1.webp
 gallery:
   - /images/products/hydroponic-cat-grass-growing-tray/2.webp
@@ -58,3 +58,19 @@ This page summarizes the available listing information and has not been presente
 ## Related guide
 Read [Hydroponic Cat Grass Trays: Check What's Included and Keep Growth Clean](/reviews/hydroponic-cat-grass-planter-setup-guide/) for practical fit, setup, or comparison checks.
 The seller describes a tray for growing cat grass without soil. Check exactly what arrives, as seeds may be excluded. Follow the seller's growing and cleaning directions, discard moldy growth, and keep the tray out of reach if your cat chews or tips it.
+
+
+## Product-specific buying checklist
+
+For **Hydroponic Cat Grass Growing Tray**, focus on size, difficulty, supervised-use guidance, materials, cleanability, food compatibility, and small-part risks. Start with the listing fields above—especially Product type, Included contents—and confirm the exact model before comparing options.
+
+The useful question is whether the activity level is suitable and the product can be cleaned safely, not simply whether the product has the longest feature list. Compare the exact selectable option, since bundles and variants can differ.
+
+## Questions to ask before checkout
+
+- Does the current listing include every component shown or described?
+- Do the measurements, capacity, and limits match the intended use?
+- Are cleaning, storage, power, and setup requirements workable in the home?
+- Have shipping, returns, and seller terms been checked for the exact option?
+
+This checklist highlights points to verify rather than claims about independent testing or guaranteed performance.

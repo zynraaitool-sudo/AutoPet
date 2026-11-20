@@ -3,6 +3,7 @@ name: Large-Capacity App-Controlled Self-Cleaning Litter Box
 category: smart-litter-boxes
 catalogVisible: true
 description: "Large-Capacity App-Controlled Self-Cleaning Litter Box for a more convenient litter-care routine. Compare listed features and setup with your needs."
+imageAlt: "Large-Capacity App-Controlled Self-Cleaning Litter Box product view"
 image: /images/products/large-capacity-app-controlled-self-cleaning-litter-box/1.webp
 gallery:
   - /images/products/large-capacity-app-controlled-self-cleaning-litter-box/4.webp
@@ -66,3 +67,19 @@ Confirm that the listing still refers to the same model and check the selected v
 The seller describes this as a fully automatic, app-controlled litter box and advertises a large capacity. The title does not provide a measured waste-bin volume, the unit's footprint, the supported litter types, or how the product responds to a pet entering during a cycle.
 
 Compare the stated dimensions with the space available at home, and look for clear information about entry access, sensors, power, cleaning, and replacement parts. A larger advertised capacity does not remove the need for regular inspection and cleaning. Introduce automated equipment gradually and keep a familiar litter tray available until your cat is comfortable.
+
+
+## Product-specific buying checklist
+
+For **Large-Capacity App-Controlled Self-Cleaning Litter Box**, focus on usable interior dimensions, compatible litter, entry height, power requirements, cleaning-cycle controls, waste-bin access, and app permissions. Start with the listing fields above—especially Seller-listed operation, Seller-listed controls, Capacity—and confirm the exact model before comparing options.
+
+The useful question is whether the selected size and cleaning design fit the pet and the room, not simply whether the product has the longest feature list. Compare the exact selectable option, since bundles and variants can differ.
+
+## Questions to ask before checkout
+
+- Does the current listing include every component shown or described?
+- Do the measurements, capacity, and limits match the intended use?
+- Are cleaning, storage, power, and setup requirements workable in the home?
+- Have shipping, returns, and seller terms been checked for the exact option?
+
+This checklist highlights points to verify rather than claims about independent testing or guaranteed performance.

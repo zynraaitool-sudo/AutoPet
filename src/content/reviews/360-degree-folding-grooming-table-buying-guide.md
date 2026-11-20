@@ -26,28 +26,47 @@ faqs:
     answer: "No. Confirm the exact model and fit for the individual animal, and stop use if it causes distress or appears unsafe."
 draft: true
 ---
+The listing describes a rotating hydraulic table with a non-slip top, but it does not establish which component turns or how movement is restrained. “360-degree” could refer to the top, an arm, or the complete assembly. Start with the mechanism, not the headline.
 
-The listing describes a rotating hydraulic grooming table with a non-slip top. This is an evaluation of the listing, not a test of the product. Seller descriptions and images are claims to verify against the exact selected option.
+## Determine what rotates
 
-## What this listing actually describes
+Ask for a diagram or written description of the rotating part and whether it has a lock or fixed-position stop. Confirm whether rotation occurs while the table is loaded and whether the hydraulic lift remains stationary. Verify tabletop dimensions, usable surface area, base footprint, and height range; these values are not in the source.
 
-Clarify whether the top, arm, or entire table rotates and how that movement is locked during use. Read the full item page and compare the selected option with the title, photographs, and specifications. Sellers may show several sizes or bundles on one page, and the selected option may differ from the main listing image.
+Also confirm whether the product is a complete table or a top requiring another frame. Check for an included arm, clamps, restraints, and hydraulic components. Bundles and selectable options may differ, so match the item number and variant to the final order.
 
-## Details to confirm before ordering
+## Stability and space checks
 
-Confirm what rotates, whether the rotation locks, tabletop dimensions, base footprint, and assembly requirements. Ask the seller for missing measurements or compatibility information and save the exact listing and option details. Also check shipping, taxes, warranty terms, and the cost or process for returning an oversized package.
+Use a level, solid floor and follow the assembly instructions. Check that the top, base, and lift mechanism do not shift or rock. The seller does not document a load limit or independent stability test, so ask for the verified working capacity and the relationship between load and height.
 
-## Use and setup considerations
+Measure the room with the table at its lowest and raised positions. Keep people, cords, tools, and pets outside the rotating path.
 
-Keep the rotation locked during grooming unless the manufacturer explicitly says otherwise. Follow the product manual and seek professional advice when setup or use could affect an animal's health or safety. A listing description is not proof of certification, performance, or suitability for every pet.
+## Setup and use
 
-## Bottom line
+Move the table through its permitted range without a pet first. Engage the lock or stop exactly as described in the manual. Do not rely on a visible stop unless it is a positive lock. Keep a pet supported with the supplied restraint system where appropriate, and never leave an animal unattended on an elevated table.
 
-Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+The non-slip description is a feature claim, not proof of grip for every surface or pet. Ask for cleaning instructions and confirm that the top can be wiped without damage.
 
-<!-- autopet-master-optimized -->
+## Common mistakes
 
-## Related product listings
+- Assuming the top, arm, and base all rotate
+- Treating the 360-degree label as proof of a lock
+- Buying without tabletop and base dimensions
+- Leaving the table unlocked during grooming
+- Assuming the arm or restraint is included
+
+## FAQs
+
+**Does 360-degree mean the whole table rotates?**
+Not necessarily. The listing does not identify the rotating component.
+
+**Can I lock the position?**
+The source does not confirm a lock. Require a written answer for the exact option.
+
+**Is the hydraulic action suitable for every pet?**
+No. Capacity, adjustment range, and safe-use limits are unknown.
+
+## Related listing
+
 - [360-Degree Rotating Pet Grooming Table](/products/360-degree-folding-grooming-table/)
 
-Browse the [AutoPet Pet Grooming category](/category/pet-grooming/) for the latest published resources.
+Browse the [AutoPet Pet Grooming category](/category/pet-grooming/) for related resources.

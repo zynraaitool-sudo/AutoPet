@@ -27,27 +27,43 @@ faqs:
 draft: true
 ---
 
-The listing describes a launcher with five balls and adjustable distance settings. This is an evaluation of the listing, not a test of the product. Seller descriptions and images are claims to verify against the exact selected option.
+The listing describes an adjustable automatic launcher with five balls. It may suit a dog that already enjoys fetch, but it does not establish the actual launch distances, ball diameter, launch interval, noise level, or power source. Buy for a controlled environment, not from the word “automatic” alone.
 
-## What this listing actually describes
+## Ball and launcher compatibility
 
-Check the stated launch range and use the shortest setting first in a clear, supervised area. Read the full item page and compare the selected option with the title, photographs, and specifications. Sellers may show several sizes or bundles on one page, and the selected option may differ from the main listing image.
+Confirm the exact ball size, quantity, and whether the five balls are standard included parts or a separate bundle. Check whether replacement balls must meet a particular size or material. The source gives no dimensions, replacement policy, or model-specific accessory list.
 
-## Details to confirm before ordering
+Ask for every distance setting and the minimum and maximum clearance behind and in front of the launcher. A wall, stairway, pet, person, or fragile object can turn a short range into a hazard. The seller may show a broad category photo rather than the exact selected item.
 
-Confirm the number and size of balls, launch interval, power source, and required clearance. Ask the seller for missing measurements or compatibility information and save the exact listing and option details. Also check shipping, taxes, warranty terms, and the cost or process for returning an oversized package.
+## Power and placement
 
-## Use and setup considerations
+Verify the power source and whether batteries or a mains adapter are included. Confirm the listed operating method and whether the launcher has a manual stop. The source does not state runtime, charging time, power consumption, or a weather rating.
 
-Start at the shortest setting in a supervised space and stop if the dog becomes overexcited. Follow the product manual and seek professional advice when setup or use could affect an animal's health or safety. A listing description is not proof of certification, performance, or suitability for every pet.
+Place the launcher on a flat indoor or outdoor surface according to the manual, with a clear run in front and no people or pets in the firing line. It is not a substitute for direct supervision.
 
-## Bottom line
+## Introduce fetch at the shortest setting
 
-Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+Test the shortest setting without the dog first. Recheck the ball feed, jam clearance, and stop control. Then let the dog approach on a lead or with a controlled cue, keeping hands and mouth away from the launch opening.
 
-<!-- autopet-master-optimized -->
+Increase distance only if the dog retrieves calmly and the surface remains clear. Stop for overexcitement, repeated ball-swallowing attempts, overheating, limping, or any unwillingness to continue. The listing provides no age, health, or exercise guidance.
+
+## Common mistakes
+
+- Using the largest setting during the first session.
+- Assuming the five included balls fit other launchers or sizes.
+- Playing near stairs, roads, furniture, or people.
+- Leaving the launcher running without supervision.
+- Continuing fetch if the dog becomes overexcited or fatigued.
+
+## FAQs
+
+**Are the launch distances verified?** No. The source names adjustable distance settings but gives no tested range or variation.
+
+**Can standard tennis balls be used?** The listing does not confirm compatibility. Check the required ball diameter and whether the exact included balls meet it.
+
+**Has the launcher been independently tested?** No. AutoPet has not operated it or measured its performance.
 
 ## Related product listings
 - [Adjustable Automatic Dog Ball Launcher with Five Balls](/products/five-ball-adjustable-launcher/)
 
-Browse the [AutoPet Pet Enrichment category](/category/pet-enrichment/) for the latest published resources.
+Browse the [AutoPet Pet Enrichment category](/category/pet-enrichment/) for published related guidance.

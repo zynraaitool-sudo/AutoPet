@@ -2,9 +2,8 @@
 name: Motion-Sensor Pet Water Fountain with Filter
 category: pet-water-fountains
 catalogVisible: true
-description: An AliExpress listing for a USB-powered pet fountain that mentions
-  motion sensing and filtration. Confirm the reservoir, filter, pump, and power
-  requirements.
+description: An AliExpress listing for a USB-powered pet fountain that mentions motion sensing and filtration. Confirm the reservoir, filter, pump, and power requirements.
+imageAlt: "Motion-Sensor Pet Water Fountain with Filter product view"
 image: /images/products/motion-sensor-pet-water-fountain-with-filter/1.webp
 gallery:
   - /images/products/motion-sensor-pet-water-fountain-with-filter/2.webp
@@ -70,3 +69,19 @@ The listing title mentions motion detection, infrared sensing, filtration, and U
 Confirm the reservoir capacity, filter type and replacement schedule, pump disassembly instructions, and required USB power supply. Ask whether the sensor can be disabled and whether the fountain can run continuously. Listing terms such as “universal” do not establish compatibility with every adapter or electrical supply.
 
 Clean the fountain and replace filters on the schedule provided by its manufacturer. Keep a separate bowl of fresh water available while introducing a new dispenser, and check that the pump is operating and the water stays clean.
+
+
+## Product-specific buying checklist
+
+For **Motion-Sensor Pet Water Fountain with Filter**, focus on reservoir capacity, pump access, filter availability, hose or cable routing, noise, cleaning method, and the included filter type. Start with the listing fields above—especially Seller-listed activation, Power mentioned, Filtration—and confirm the exact model before comparing options.
+
+The useful question is whether the fountain size and maintenance workload suit the available space, not simply whether the product has the longest feature list. Compare the exact selectable option, since bundles and variants can differ.
+
+## Questions to ask before checkout
+
+- Does the current listing include every component shown or described?
+- Do the measurements, capacity, and limits match the intended use?
+- Are cleaning, storage, power, and setup requirements workable in the home?
+- Have shipping, returns, and seller terms been checked for the exact option?
+
+This checklist highlights points to verify rather than claims about independent testing or guaranteed performance.

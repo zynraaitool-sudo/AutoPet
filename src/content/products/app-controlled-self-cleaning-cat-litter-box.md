@@ -4,6 +4,7 @@ category: smart-litter-boxes
 catalogVisible: true
 seoTitle: "Large Self-Cleaning Cat Litter Box with App Control | AutoPet"
 description: "App-Controlled Self-Cleaning Cat Litter Box for a more convenient litter-care routine. Compare listed features and setup with your needs."
+imageAlt: "App-Controlled Self-Cleaning Cat Litter Box product view"
 image: /images/products/app-controlled-self-cleaning-cat-litter-box/1.webp
 gallery:
   - /images/products/app-controlled-self-cleaning-cat-litter-box/2.webp
@@ -70,3 +71,19 @@ This listing combines automatic cleaning with app control and 2.4 GHz Wi-Fi for 
 Compare the selected variant's dimensions, compatible litter, waste capacity, app support, and cleaning cycle. Review the instructions for its sensors and for behavior during power or network interruptions.
 
 Before ordering, read the operating and cleaning instructions and learn how to stop the unit safely. Introduce an automatic litter system gradually while keeping a familiar, clean litter box available, and observe your cat using it before relying on the new routine.
+
+
+## Product-specific buying checklist
+
+For **App-Controlled Self-Cleaning Cat Litter Box**, focus on usable interior dimensions, compatible litter, entry height, power requirements, cleaning-cycle controls, waste-bin access, and app permissions. Start with the listing fields above—especially Seller-listed operation, Connectivity in listing title, Listed material—and confirm the exact model before comparing options.
+
+The useful question is whether the selected size and cleaning design fit the pet and the room, not simply whether the product has the longest feature list. Compare the exact selectable option, since bundles and variants can differ.
+
+## Questions to ask before checkout
+
+- Does the current listing include every component shown or described?
+- Do the measurements, capacity, and limits match the intended use?
+- Are cleaning, storage, power, and setup requirements workable in the home?
+- Have shipping, returns, and seller terms been checked for the exact option?
+
+This checklist highlights points to verify rather than claims about independent testing or guaranteed performance.

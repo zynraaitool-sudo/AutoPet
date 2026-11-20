@@ -26,28 +26,32 @@ faqs:
     answer: "No. Confirm the exact model and fit for the individual animal, and stop use if it causes distress or appears unsafe."
 draft: true
 ---
+A rechargeable tennis-ball launcher may provide repeatable fetch, but the source gives only a general description and does not specify range, ball size, charging method, or battery runtime. The listed balls and the launcher opening must match exactly.
 
-The listing describes a rechargeable interactive launcher with tennis balls. This is an evaluation of the listing, not a test of the product. Seller descriptions and images are claims to verify against the exact selected option.
+## Confirm the ball and package
 
-## What this listing actually describes
+Check the included ball diameter and whether additional balls are sold separately. Confirm that replacements fit the launcher opening and are appropriate for the dog’s bite and swallowing risk. The source does not identify a standard ball size or certify that a common tennis ball is compatible. Ball wear, size, and pressure should be verified from the live listing or manual.
 
-Compare the launcher opening with the exact ball diameter and check whether safe replacement balls are available. Read the full item page and compare the selected option with the title, photographs, and specifications. Sellers may show several sizes or bundles on one page, and the selected option may differ from the main listing image.
+Also confirm battery type, charging cable and time, runtime, controls, and whether the unit has a distance setting. Ask which parts are supplied. A listing with “tennis balls” may show more than the option included in an order.
 
-## Details to confirm before ordering
+## Set up a safe play area
 
-Verify that the included balls match the opening, how the battery charges, and whether the launcher accepts standard balls. Ask the seller for missing measurements or compatibility information and save the exact listing and option details. Also check shipping, taxes, warranty terms, and the cost or process for returning an oversized package.
+Place the launcher on a stable surface in a clear, unobstructed area. Follow the manufacturer’s setup and start with the shortest or lowest setting if that control exists and is described. Keep the dog away from the loading path and supervise every early session.
 
-## Use and setup considerations
+Stop play if the ball is damaged, too small, chewed, or difficult to retrieve. Stop the machine if it moves, jams, overheats, or throws unpredictably. Never leave a battery, cable, or small ball within reach when charging or not supervised.
 
-Do not use a ball that is too small, damaged, or easy for the dog to swallow. Follow the product manual and seek professional advice when setup or use could affect an animal's health or safety. A listing description is not proof of certification, performance, or suitability for every pet.
+## Common mistakes
 
-## Bottom line
+Do not assume every tennis ball fits. Do not substitute a badly worn or undersized ball. Do not treat automatic fetch as a substitute for supervision or appropriate exercise breaks.
 
-Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+## FAQs
 
-<!-- autopet-master-optimized -->
+**Has this launcher been performance-tested?** No. Range, launch consistency, battery life, and noise are not established by the source.
 
-## Related product listings
+**What should be verified?** Exact ball dimensions and suitability, included count, charging details, controls, replacement availability, and stability.
+
+## Related pages
+
 - [Rechargeable Tennis-Ball Launcher for Dogs](/products/rechargeable-tennis-ball-launcher/)
 
-Browse the [AutoPet Pet Enrichment category](/category/pet-enrichment/) for the latest published resources.
+Browse the [AutoPet Pet Enrichment category](/category/pet-enrichment/) for published resources.

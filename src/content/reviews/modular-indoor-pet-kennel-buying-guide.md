@@ -26,28 +26,32 @@ faqs:
     answer: "No. Confirm the exact model and fit for the individual animal, and stop use if it causes distress or appears unsafe."
 draft: true
 ---
+A modular indoor kennel can be adapted to a room, but the selected bundle determines the actual size and shape. The source describes configurable enclosed panels for cats and dogs and provides no panel count, panel dimensions, or independent load testing.
 
-The listing describes a configurable indoor enclosure for cats and dogs. This is an evaluation of the listing, not a test of the product. Seller descriptions and images are claims to verify against the exact selected option.
+## Map the enclosure first
 
-## What this listing actually describes
+Measure the available floor area and planned layout. Confirm individual panel dimensions, the number of panels in the exact option, door location and width, connector style, and whether a top or base is included. The product may be shown with accessories that are not supplied, so compare the package line with photographs and seller text.
 
-Confirm the exact panel count and assembled footprint, then check that the latch and connectors suit the intended pet. Read the full item page and compare the selected option with the title, photographs, and specifications. Sellers may show several sizes or bundles on one page, and the selected option may differ from the main listing image.
+Match the assembled footprint to the pet’s turning and resting needs. A cat or dog that is being introduced to a restricted area may need a larger setup and continuous supervision. Height, spacing, and climb resistance are not established by the source and should be checked for the individual animal.
 
-## Details to confirm before ordering
+## Assemble and inspect
 
-Check panel dimensions, connector type, door latch, floor footprint, and whether the pictured accessories are included. Ask the seller for missing measurements or compatibility information and save the exact listing and option details. Also check shipping, taxes, warranty terms, and the cost or process for returning an oversized package.
+Use the manufacturer’s connector sequence and assemble on a level, clear floor. Before use, press gently around joints and the door to check that panels do not separate or tip. Inspect gaps for trapped paws or heads and check edges and corners for sharp features.
 
-## Use and setup considerations
+Keep food, water, toys, and safe resting items in positions that do not interfere with latches or exits. Do not leave a pet unattended until you have completed a supervised trial and confirmed that the enclosure remains stable.
 
-Use the enclosure only for supervised, appropriate periods and inspect connectors for gaps or sharp edges. Follow the product manual and seek professional advice when setup or use could affect an animal's health or safety. A listing description is not proof of certification, performance, or suitability for every pet.
+## Common mistakes
 
-## Bottom line
+Do not calculate area from the number of panels alone. Do not assume a pictured mat or roof is included. Do not use a modular setup for unsupervised confinement when the exact latch and connector strength are unknown.
 
-Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+## FAQs
 
-<!-- autopet-master-optimized -->
+**What is missing from the listing summary?** Panel count, dimensions, assembled footprint, material, connector strength, door size, and whether a base or top is included.
 
-## Related product listings
+**Is the enclosure escape-proof?** No claim is supported in the source. Check spacing and latch security against the specific pet and supervise early use.
+
+## Related pages
+
 - [Modular Indoor Pet Kennel with Enclosed Panels](/products/modular-indoor-pet-kennel/)
 
-Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for the latest published resources.
+Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for published resources.

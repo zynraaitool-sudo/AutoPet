@@ -2,9 +2,8 @@
 name: Cat Window Hammock with Suction Cups
 category: pet-enrichment
 catalogVisible: true
-description: An AliExpress listing for a suction-mounted cat window perch.
-  Verify the complete mounting method, weight guidance, and window
-  compatibility.
+description: An AliExpress listing for a suction-mounted cat window perch. Verify the complete mounting method, weight guidance, and window compatibility.
+imageAlt: "Cat Window Hammock with Suction Cups product view"
 image: /images/products/cat-window-hammock-with-suction-cups/1.webp
 gallery:
   - /images/products/cat-window-hammock-with-suction-cups/2.webp
@@ -63,3 +62,19 @@ Read [Cat Window Hammocks: Suction-Cup Checks Before You Install One](/reviews/c
 Cat Window Hammock with Suction Cups may suit owners adding supervised activity or a comfortable resting spot. Compare its size, selected features, and setup requirements with your pet and home before choosing.
 
 Inspect the window and mounting surface, follow the seller's installation instructions, and check the attachment regularly. Do not rely on an unverified suction rating to support a cat above a hard or unsafe landing area.
+
+
+## Product-specific buying checklist
+
+For **Cat Window Hammock with Suction Cups**, focus on size, difficulty, supervised-use guidance, materials, cleanability, food compatibility, and small-part risks. Start with the listing fields above—especially Product type, Mounting—and confirm the exact model before comparing options.
+
+The useful question is whether the activity level is suitable and the product can be cleaned safely, not simply whether the product has the longest feature list. Compare the exact selectable option, since bundles and variants can differ.
+
+## Questions to ask before checkout
+
+- Does the current listing include every component shown or described?
+- Do the measurements, capacity, and limits match the intended use?
+- Are cleaning, storage, power, and setup requirements workable in the home?
+- Have shipping, returns, and seller terms been checked for the exact option?
+
+This checklist highlights points to verify rather than claims about independent testing or guaranteed performance.

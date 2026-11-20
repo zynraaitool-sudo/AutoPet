@@ -26,28 +26,24 @@ faqs:
     answer: "No. Confirm the exact model and fit for the individual animal, and stop use if it causes distress or appears unsafe."
 draft: true
 ---
+The CW-22 listing describes a large solid-wood climbing structure for multiple cats, but it does not provide enough dimension or anchoring information in the product source to confirm its suitability. Treat the listing as a fit exercise: measure the room and map every cat's climbing route before considering the frame.
 
-The listing describes a large solid-wood climbing structure intended for multiple cats. This is an evaluation of the listing, not a test of the product. Seller descriptions and images are claims to verify against the exact selected option.
+## Start with the floor plan
+Measure the wall-to-wall and furniture clearance needed by the complete assembled structure, not only the base. Account for overhangs, platforms, and the route a cat takes before jumping or landing. Count the usable levels and check whether they are large enough for the cats to turn or rest. A frame that fits the room can still block a doorway or place a jump near fragile objects.
 
-## What this listing actually describes
+The seller source identifies a large structure but gives no complete footprint, platform measurements, or stated load limit for this guide to quote. Ask for a dimension sheet and exact package size. If the answers are missing, compare the product visually and in writing only, without assuming capacity or “multi-cat” safety.
 
-Map the frame’s footprint and each cat’s route, then confirm how the tall structure is secured before ordering. Read the full item page and compare the selected option with the title, photographs, and specifications. Sellers may show several sizes or bundles on one page, and the selected option may differ from the main listing image.
+## Anchoring and assembly checks
+Before assembly, identify the floor surface and whether the chosen location may allow tipping or sliding. Confirm the wall or floor anchoring method shown by the manufacturer, including which hardware is included. Do not assume generic wall anchors are appropriate for every wall, and do not install above a route with hard furniture below.
 
-## Details to confirm before ordering
+Follow the assembly instructions and tighten the specified fasteners. Apply gentle pressure to each section and retighten as directed before routine use. Inspect fasteners, wood, posts, and scratching surfaces periodically. The [CW-22 product page](/products/solid-wood-multi-cat-climbing-frame/) lists the basic claim and item number. For a wall-mounted alternative with different attachment requirements, see the published [Cat Wall Shelves guide](/reviews/cat-wall-shelves-mounting-and-spacing-guide/).
 
-Request the complete footprint, platform dimensions, wall or floor anchoring method, wood finish, and package measurements. Ask the seller for missing measurements or compatibility information and save the exact listing and option details. Also check shipping, taxes, warranty terms, and the cost or process for returning an oversized package.
+## Common mistakes
+A tall, wide structure is often judged by height alone. Also verify the base width, route spacing, package weight, and whether the selected option includes the same platforms shown in the photos. Do not assume that the use of solid wood proves every joint or panel is secure. If multiple cats are likely to use it at once, unresolved load limits make the listing unsuitable as evidence of simultaneous use.
 
-## Use and setup considerations
+## FAQs
+**How do we know it is stable?** Stability has not been established in the source; confirm anchoring instructions and regular inspection requirements.
 
-Do not assume a seller’s load claims are verified; anchor the assembled structure and inspect it regularly. Follow the product manual and seek professional advice when setup or use could affect an animal's health or safety. A listing description is not proof of certification, performance, or suitability for every pet.
+**Are there enough resting areas?** The exact platform dimensions and count must be checked on the live selected option.
 
-## Bottom line
-
-Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
-
-<!-- autopet-master-optimized -->
-
-## Related product listings
-- [CW-22 Solid-Wood Multi-Cat Climbing Frame](/products/solid-wood-multi-cat-climbing-frame/)
-
-Browse the [AutoPet Pet Enrichment category](/category/pet-enrichment/) for the latest published resources.
+**What is the biggest purchase risk?** Ordering a structure whose footprint, wall support, or included parts do not match the room and listing photos.

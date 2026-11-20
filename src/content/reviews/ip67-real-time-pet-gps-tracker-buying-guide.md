@@ -27,27 +27,40 @@ faqs:
 draft: true
 ---
 
-The listing describes live location, geofencing, history, and Type-C charging. This is an evaluation of the listing, not a test of the product. Seller descriptions and images are claims to verify against the exact selected option.
+The listing describes live location, geofencing, location history, and Type-C charging. It may provide useful app information, but “real-time,” “GPS,” and “IP67” are not complete proof of coverage, accuracy, battery life, or water resistance. Confirm the network and service arrangement first.
 
-## What this listing actually describes
+## Network and positioning checks
 
-A location device needs compatible networks and often a data plan; check update frequency and monthly requirements before buying. Read the full item page and compare the selected option with the title, photographs, and specifications. Sellers may show several sizes or bundles on one page, and the selected option may differ from the main listing image.
+Ask whether the device uses cellular networks, GPS, or both, and identify the exact bands and supported countries. Confirm whether a SIM is built in, inserted by the user, or replaced through a subscription. The source does not provide coverage areas or service providers.
 
-## Details to confirm before ordering
+Check the app’s update interval and whether it changes with battery mode or network quality. “Real-time” may have a delay. The source gives no accuracy range, satellite capability, update interval, or test result.
 
-Confirm cellular bands, required SIM or subscription, location update interval, battery life, and the meaning of the IP67 claim. Ask the seller for missing measurements or compatibility information and save the exact listing and option details. Also check shipping, taxes, warranty terms, and the cost or process for returning an oversized package.
+## Ongoing cost and battery
 
-## Use and setup considerations
+Confirm whether the price includes a SIM, app, data plan, or trial. Ask for the subscription cost, renewal terms, cancellation process, and what happens if service is paused. A one-time hardware price may not cover ongoing operation.
 
-Do not rely on a tracker as a substitute for secure identification, a leash, or a fenced area. Follow the product manual and seek professional advice when setup or use could affect an animal's health or safety. A listing description is not proof of certification, performance, or suitability for every pet.
+For battery life, verify a measured value and the conditions used. The source provides no runtime, charging time, or expected life. A Type-C port confirms charging style only; it does not confirm battery capacity or included cable.
 
-## Bottom line
+## Water protection and fit
 
-Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+An IP67 claim does not establish the exact test or the full collar and attachment system. Check the manufacturer’s rating information, charging-port cover, strap, and attachment strength. Confirm the tracker’s dimensions and weight against the pet.
 
-<!-- autopet-master-optimized -->
+Before outdoor use, test location updates in the usual area and check that the collar or harness cannot loosen. Secure the tracker according to the manual and keep the app or backup identification available.
 
-## Related product listings
-- [IP67 Real-Time Pet GPS Tracker with Type-C Charging](/products/ip67-real-time-pet-gps-tracker/)
+## Common mistakes
 
-Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for the latest published resources.
+- Assuming GPS works without cellular coverage or a SIM.
+- Comparing a tracker without checking subscription and cancellation terms.
+- Treating a water rating as permission for every water activity.
+- Basing fit on the dog alone while ignoring collar movement.
+- Using the device instead of a secure leash or fenced area.
+
+## FAQs
+
+**Is cellular coverage and a subscription confirmed?** No. The source does not list bands, regions, SIM requirements, or recurring costs.
+
+**What does IP67 mean for this exact device?** The claim is present, but test details and charging-port conditions are unknown. Verify the manufacturer documentation.
+
+**Has this tracker been tested for accuracy or battery life?** No. AutoPet has not hands-on tested location, battery, or water performance.
+
+Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for published related guidance.

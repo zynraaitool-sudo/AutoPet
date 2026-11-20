@@ -26,28 +26,28 @@ faqs:
     answer: "No. Confirm the exact model and fit for the individual animal, and stop use if it causes distress or appears unsafe."
 draft: true
 ---
+This listing describes a manual hydraulic grooming table and assigns it a 50 kg capacity. A capacity printed in a listing title is not proof of tested load, because the source does not explain the test method or the exact configuration to which it applies.
 
-The listing describes a manually raised grooming table and states a 50 kg capacity. This is an evaluation of the listing, not a test of the product. Seller descriptions and images are claims to verify against the exact selected option.
+## Verify capacity and dimensions
 
-## What this listing actually describes
+Ask the seller for a manufacturer rating, documented test method, usable tabletop size, lowest and highest working heights, and the exact arm and base configuration. The source provides no table length or width, adjustment range, hydraulic mechanism rating, foot footprint, or attachment details. Treat those specifications as unknown until confirmed in the live listing or written seller response.
 
-Ask for the table’s tested load documentation and usable height range instead of relying on a number in a listing title. Read the full item page and compare the selected option with the title, photographs, and specifications. Sellers may show several sizes or bundles on one page, and the selected option may differ from the main listing image.
+Compare the table’s usable top with the pet’s standing footprint and the available work area. Confirm whether an arm, clamps, noose, or non-slip mat is included; the listing feature alone does not establish the package. Check shipping weight and dimensions because a hydraulic table may require careful delivery and assembly.
 
-## Details to confirm before ordering
+## Setup and safe use
 
-Treat the capacity as a seller claim; ask how it was tested and confirm the adjustment range, arm, and base dimensions. Ask the seller for missing measurements or compatibility information and save the exact listing and option details. Also check shipping, taxes, warranty terms, and the cost or process for returning an oversized package.
+Place the table on a level, stable floor and fully lock or lower it according to the manual before use. Keep the load below a verified rating, if one can be obtained, and never exceed the seller’s stated limit based only on the title. Inspect hydraulic movement, fasteners, surface, and the arm before each session.
 
-## Use and setup considerations
+Use restraint appropriate to the grooming task without leaving the animal unattended. Any hydraulic movement should be controlled so the pet is not startled or lifted onto an unstable surface. Stop if the table shifts, leaks, fails to hold height, or has exposed damage.
 
-Use a stable floor and never exceed a verified manufacturer limit. Follow the product manual and seek professional advice when setup or use could affect an animal's health or safety. A listing description is not proof of certification, performance, or suitability for every pet.
+## Common mistakes
 
-## Bottom line
+Do not choose by 50 kg alone: pet fit and usable height matter. Do not assume every arm or clamp is included or that the frame is certified. Do not groom on a slippery or uneven floor.
 
-Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+## FAQs
 
-<!-- autopet-master-optimized -->
+**Has the 50 kg capacity been independently verified?** No. Ask for manufacturer documentation and confirm the test condition and selected model.
 
-## Related product listings
-- [Manual Hydraulic Grooming Table with 50 kg Listing Claim](/products/manual-hydraulic-50kg-grooming-table/)
+**What information is missing?** Tabletop dimensions, adjustment range, lift mechanism details, base footprint, arm contents, and weight or stability testing.
 
-Browse the [AutoPet Pet Grooming category](/category/pet-grooming/) for the latest published resources.
+Browse the [AutoPet Pet Grooming category](/category/pet-grooming/) for published resources.

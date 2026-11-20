@@ -26,28 +26,24 @@ faqs:
     answer: "No. Confirm the exact model and fit for the individual animal, and stop use if it causes distress or appears unsafe."
 draft: true
 ---
+A compact climbing condo can combine vertical perches with a scratching post and hideaway, but “space-saving” describes the overall footprint, not whether every part fits a particular cat. The listing identifies a sisal post and built-in hideaway; it does not supply enough platform or opening measurements in the source to judge fit.
 
-The search result describes a compact multi-level climbing frame with a sisal post and built-in hideaway. This is an evaluation of the listing, not a test of the product. Seller descriptions and images are claims to verify against the exact selected option.
+## Measure the compact layout
+Trace the assembled base footprint on the floor and leave clearance for jumps and exits. Measure each cat at rest, including width and preferred lying posture. Then compare those measurements with the platform and hideaway dimensions from the seller. A photo cannot show whether a cat can turn around comfortably or enter without crouching too sharply.
 
-## What this listing actually describes
+Check the assembled height, individual platform depth, opening size, and distance between levels. Ask for the exact dimensions and confirm whether the hideaway, post, beds, or mats are included in the selected option. The [condo product page](/products/space-saving-cat-climbing-condo/) records the item and basic feature claim.
 
-Check the floor footprint and the dimensions of each resting level; a product photo cannot show whether a cat can turn comfortably. Read the full item page and compare the selected option with the title, photographs, and specifications. Sellers may show several sizes or bundles on one page, and the selected option may differ from the main listing image.
+## Stability and assembly
+Place the base on a firm, level surface. Assemble it exactly as directed, tighten fasteners, and check for wobble before a cat uses it. The compact base may be suitable for an accessible room but is not a substitute for checking stability and load limits. Keep the condo away from an edge, unstable furniture, and a route that forces a risky jump.
 
-## Details to confirm before ordering
+Inspect the sisal area for fraying and the platforms or fabric for loosening. Remove or repair damaged components according to the manufacturer. Supervise the first few uses and allow the cat to approach the hideaway voluntarily. A wall-mounted setup is a different option with its own fit and anchoring checks; see the published [Cat Wall Shelves guide](/reviews/cat-wall-shelves-mounting-and-spacing-guide/).
 
-Compare the full footprint with the room, measure each platform, and confirm the hideaway opening and assembly hardware. Ask the seller for missing measurements or compatibility information and save the exact listing and option details. Also check shipping, taxes, warranty terms, and the cost or process for returning an oversized package.
+## Common mistakes
+Do not assume the hideaway opening is usable because it appears large in a picture. Do not use a seller's generic cat-size claim in place of measurements. Also check whether replacement fabric or sisal parts are available. A listed compact size does not establish safe use for every cat or multiple animals.
 
-## Use and setup considerations
+## FAQs
+**How should a hideaway be measured?** Confirm interior width, height, entrance size, and whether the floor or platform encroaches on the usable space.
 
-A compact footprint still needs a stable base; check for wobble after assembly and supervise initial use. Follow the product manual and seek professional advice when setup or use could affect an animal's health or safety. A listing description is not proof of certification, performance, or suitability for every pet.
+**Does sisal prove a scratching surface is durable?** No. The listing provides only the post description; wear and replacement availability remain to be checked.
 
-## Bottom line
-
-Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
-
-<!-- autopet-master-optimized -->
-
-## Related product listings
-- [Space-Saving Cat Climbing Condo with Sisal Post](/products/space-saving-cat-climbing-condo/)
-
-Browse the [AutoPet Pet Enrichment category](/category/pet-enrichment/) for the latest published resources.
+**What should be tested after assembly?** Wobble, fastener tightness, platform movement, and whether the cat can enter and leave without obstruction.

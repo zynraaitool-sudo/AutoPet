@@ -26,28 +26,28 @@ faqs:
     answer: "No. Confirm the exact model and fit for the individual animal, and stop use if it causes distress or appears unsafe."
 draft: true
 ---
+A solar 4G or Wi-Fi outdoor camera may show activity around a pet area, but the listing does not establish network compatibility, solar performance, or what data and subscription services are needed. It should not be considered a containment or emergency-alert system.
 
-The listing describes a solar-powered outdoor camera with 4G/Wi-Fi options and motion detection. This is an evaluation of the listing, not a test of the product. Seller descriptions and images are claims to verify against the exact selected option.
+## Confirm cellular and power requirements
 
-## What this listing actually describes
+Check whether the exact option includes a SIM card, whether a separate data plan is required, and which 4G bands and carriers are supported. Confirm whether Wi-Fi and 4G are separate modes or alternatives and whether the app, cloud storage, or recording has recurring fees. The source gives no network bands, battery capacity, solar panel output, or weather rating.
 
-A cellular camera can require a data plan; confirm network compatibility and what comes in the box. Read the full item page and compare the selected option with the title, photographs, and specifications. Sellers may show several sizes or bundles on one page, and the selected option may differ from the main listing image.
+Verify that the package includes the panel, mounting bracket, cable, battery or power supply, and card slot equipment shown in the listing. Ask for the operating temperature and waterproof rating rather than relying on “outdoor” or “solar” in the title.
 
-## Details to confirm before ordering
+## Plan placement and recovery
 
-Check whether a SIM card or data plan is required, the supported cellular bands, solar panel inclusion, and weather rating. Ask the seller for missing measurements or compatibility information and save the exact listing and option details. Also check shipping, taxes, warranty terms, and the cost or process for returning an oversized package.
+Choose a mount that can reach the Wi-Fi or cellular signal and avoid unsafe climbing or cable exposure. Position the camera where a person can safely reach it for charging, reset, or removal. Test alerts and the live view in the actual location before relying on any monitoring feature.
 
-## Use and setup considerations
+Do not assume motion detection, cloud recording, or solar charging works continuously. Check privacy and network security settings, and use an appropriate local or remote recording plan only after reading the seller or app terms.
 
-Do not rely on a camera as a pet containment or emergency-alert system. Follow the product manual and seek professional advice when setup or use could affect an animal's health or safety. A listing description is not proof of certification, performance, or suitability for every pet.
+## Common mistakes
 
-## Bottom line
+Do not buy before verifying supported bands and data needs. Do not assume a solar panel is included or will maintain charge in the planned location. Do not treat a camera as a substitute for fencing, supervision, or an emergency plan.
 
-Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+## FAQs
 
-<!-- autopet-master-optimized -->
+**Does the camera include a data plan?** The source does not say. Confirm SIM, carrier, subscription, and plan terms for the exact option.
 
-## Related product listings
-- [Solar 4G/Wi-Fi Outdoor Camera for Pet Areas](/products/solar-4g-outdoor-pet-camera/)
+**What else is unknown?** Cellular bands, battery and solar performance, weather rating, storage fees, resolution, and included mounting equipment.
 
-Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for the latest published resources.
+Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for published resources.

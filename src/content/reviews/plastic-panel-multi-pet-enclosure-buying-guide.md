@@ -26,28 +26,32 @@ faqs:
     answer: "No. Confirm the exact model and fit for the individual animal, and stop use if it causes distress or appears unsafe."
 draft: true
 ---
+A plastic-panel enclosure can create a temporary boundary for small pets, but the exact panel count and spacing determine whether it is usable. The source describes several small-pet use and provides no dimensions, connector strength, or independent test data.
 
-The listing describes a modular plastic enclosure for several small pets. This is an evaluation of the listing, not a test of the product. Seller descriptions and images are claims to verify against the exact selected option.
+## Plan for the smallest animal
 
-## What this listing actually describes
+Measure the room and draw the planned shape before comparing options. Confirm panel width and height, gate position and width, total panel count, corner connectors, and whether a base mat or cover is included. Then compare every gap with the smallest animal in the household; the source does not establish safe spacing for a species or age group.
 
-Check the gap between panels against the smallest pet and confirm that the door can be secured from both sides. Read the full item page and compare the selected option with the title, photographs, and specifications. Sellers may show several sizes or bundles on one page, and the selected option may differ from the main listing image.
+Do not rely on a main photograph to show the entire footprint. Different selectable bundles may form different rectangles or sizes. Ask for a panel diagram and clear assembled dimensions if the seller’s listing is incomplete.
 
-## Details to confirm before ordering
+## Setup and supervised use
 
-Verify panel count, assembled shape, doorway size, connector strength, and whether a base mat is included. Ask the seller for missing measurements or compatibility information and save the exact listing and option details. Also check shipping, taxes, warranty terms, and the cost or process for returning an oversized package.
+Set the enclosure on a level, stable surface and follow the assembly instructions. Check every connector and corner after assembly and again after the enclosure moves or is cleaned. Remove the pet if a panel shifts, a latch fails, or any gap widens.
 
-## Use and setup considerations
+Keep toys and accessories arranged so no pet is trapped behind a panel. Supervise early use and watch for chewing, climbing, or attempts to squeeze through openings. The listing is not evidence of protection against determined chewing or escape.
 
-Choose panel spacing appropriate to the smallest animal and supervise early use. Follow the product manual and seek professional advice when setup or use could affect an animal's health or safety. A listing description is not proof of certification, performance, or suitability for every pet.
+## Common mistakes
 
-## Bottom line
+Do not assume all variants have the same number of panels. Do not use the “multi-pet” description as proof of compatibility between incompatible animals. Do not leave pets unattended until stability and door security have been checked.
 
-Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+## FAQs
 
-<!-- autopet-master-optimized -->
+**What essential measurements are missing?** Panel size, total panel count, assembled area, door opening, gap spacing, and base or mat contents.
 
-## Related product listings
+**Can it hold several pets safely?** That depends on species, temperament, size, and supervision. The source does not establish a capacity or social compatibility rule.
+
+## Related pages
+
 - [Plastic Panel Multi-Pet Enclosure](/products/plastic-panel-multi-pet-enclosure/)
 
-Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for the latest published resources.
+Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for published resources.

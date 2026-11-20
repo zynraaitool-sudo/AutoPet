@@ -2,9 +2,8 @@
 name: Washable Pet Cooling Mat
 category: pet-enrichment
 catalogVisible: true
-description: An AliExpress listing for a breathable summer mat for cats and
-  dogs. Check dimensions, washing method, and whether it uses gel or a simple
-  fabric.
+description: An AliExpress listing for a breathable summer mat for cats and dogs. Check dimensions, washing method, and whether it uses gel or a simple fabric.
+imageAlt: "Washable Pet Cooling Mat product view"
 image: /images/products/washable-pet-cooling-mat/1.webp
 gallery:
   - /images/products/washable-pet-cooling-mat/2.webp
@@ -60,3 +59,19 @@ This page summarizes the available listing information and has not been presente
 ## Related guide
 Read [Pet Cooling Mats: Check the Filling and Keep a Cool Room Available](/reviews/pet-cooling-mat-care-and-temperature-guide/) for practical fit, setup, or comparison checks.
 The listing describes a breathable pet mat, but its cooling effect has not been measured. Check the materials, care label, and filling, and inspect it for damage. A mat does not replace shade, fresh water, ventilation, or veterinary care for heat-related symptoms.
+
+
+## Product-specific buying checklist
+
+For **Washable Pet Cooling Mat**, focus on size, difficulty, supervised-use guidance, materials, cleanability, food compatibility, and small-part risks. Start with the listing fields above—especially Product type, Care—and confirm the exact model before comparing options.
+
+The useful question is whether the activity level is suitable and the product can be cleaned safely, not simply whether the product has the longest feature list. Compare the exact selectable option, since bundles and variants can differ.
+
+## Questions to ask before checkout
+
+- Does the current listing include every component shown or described?
+- Do the measurements, capacity, and limits match the intended use?
+- Are cleaning, storage, power, and setup requirements workable in the home?
+- Have shipping, returns, and seller terms been checked for the exact option?
+
+This checklist highlights points to verify rather than claims about independent testing or guaranteed performance.

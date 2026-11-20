@@ -26,28 +26,32 @@ faqs:
     answer: "No. Confirm the exact model and fit for the individual animal, and stop use if it causes distress or appears unsafe."
 draft: true
 ---
+A timed automatic pet door can limit or schedule access, but the listing alone does not show whether the schedule is independent for entry and exit or what happens during a power interruption. Confirm every operating mode before cutting an opening.
 
-The listing describes a timed automatic door intended for cats and dogs. This is an evaluation of the listing, not a test of the product. Seller descriptions and images are claims to verify against the exact selected option.
+## Verify the timer and manual control
 
-## What this listing actually describes
+Check the timer granularity, whether schedules can be set daily or for selected periods, and how the door responds at the changeover. Confirm a manual override, lock modes, pet-size opening, and power source. The source does not provide schedule limits, door dimensions, battery type, or fail-safe behavior.
 
-A schedule is useful only if it matches the household routine; confirm manual control and power-loss behavior first. Read the full item page and compare the selected option with the title, photographs, and specifications. Sellers may show several sizes or bundles on one page, and the selected option may differ from the main listing image.
+Measure the pet and the mounting surface. Confirm door thickness, frame depth, weather sealing, and the exact cutout. Ask whether a template is included and whether the selected option includes all mounting parts.
 
-## Details to confirm before ordering
+## Test before routine use
 
-Check the timer schedule, manual override, power source, door measurements, and behavior during a power interruption. Ask the seller for missing measurements or compatibility information and save the exact listing and option details. Also check shipping, taxes, warranty terms, and the cost or process for returning an oversized package.
+If possible, complete a temporary or dry fit first. Test manual entry and exit, timed changes, and behavior after battery removal or power loss. Use direct supervision while the pet learns the door, watching for trapped tails or hesitation.
 
-## Use and setup considerations
+Keep a backup access plan and do not rely on the timer to secure the property or prevent wildlife entry unless the exact lock and latch behavior have been confirmed. Replace weak batteries and inspect the flap and frame before leaving a pet alone.
 
-Keep a manual access plan available and test the latch before leaving a pet alone. Follow the product manual and seek professional advice when setup or use could affect an animal's health or safety. A listing description is not proof of certification, performance, or suitability for every pet.
+## Common mistakes
 
-## Bottom line
+Do not install on an assumed cutout. Do not assume manual override is available or that power loss opens or locks safely. Do not leave a pet outside or indoors without a contingency for a failed schedule.
 
-Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+## FAQs
 
-<!-- autopet-master-optimized -->
+**What happens during a power interruption?** The source does not establish this. Obtain the manufacturer’s fail-safe description before purchase.
 
-## Related product listings
+**What dimensions remain unknown?** Flap size, pet range, frame depth, mounting surface options, battery or supply details, and included template or hardware.
+
+## Related pages
+
 - [Second-Generation Timed Automatic Pet Door](/products/second-generation-timed-pet-door/)
 
-Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for the latest published resources.
+Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for published resources.

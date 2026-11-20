@@ -1,7 +1,7 @@
 ---
 title: "Parrot Foraging Spinners: Match the Toy to the Bird and Inspect It Often"
-description: A checklist for sizing a rotating treat toy, choosing suitable
-  rewards, and removing worn or unsafe parts.
+description: A checklist for sizing a rotating treat toy, choosing suitable rewards, and removing worn or unsafe parts.
+imageAlt: "Parrot Foraging Spinners: Match the Toy to the Bird and Inspect It Often guide"
 date: 2026-11-14
 updated: 2026-11-14
 category: pet-enrichment
@@ -47,3 +47,20 @@ Foraging should be enriching, not frustrating or hazardous. Match the toy to the
 - [Parrot Treat-Foraging Spinner Toy](/products/parrot-treat-foraging-spinner/)
 
 Browse the [AutoPet Pet Enrichment category](/category/pet-enrichment/) for the latest published resources.
+
+
+## Practical buying checklist
+
+Use this guide to parrot foraging spinners: match the toy to the bird and inspect it often by checking difficulty, size, materials, supervision, cleanability, and compatibility with the pet's food. Verify the exact model or variant rather than relying on a category label or a feature in the listing title.
+
+## Common mistake to avoid
+
+A common mistake is treating every difficulty level as suitable for every pet. Separate stated seller details from independently tested results, and confirm unresolved points in the live listing or manufacturer's documentation.
+
+## Quick checklist
+
+- [ ] The measurements or capacity fit the intended pet and space.
+- [ ] The exact option includes the shown accessories or attachments.
+- [ ] Setup, cleaning, and power requirements are workable.
+- [ ] Shipping, returns, and seller terms are acceptable.
+- [ ] The final choice is based on a current listing, not an assumed specification.

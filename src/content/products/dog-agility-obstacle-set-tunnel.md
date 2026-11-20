@@ -2,8 +2,8 @@
 name: 7-Piece Dog Agility Set with Tunnel
 category: pet-enrichment
 catalogVisible: true
-description: An AliExpress listing for a dog agility set with jumping obstacles
-  and a tunnel. Confirm all parts, dimensions, and assembly requirements.
+description: An AliExpress listing for a dog agility set with jumping obstacles and a tunnel. Confirm all parts, dimensions, and assembly requirements.
+imageAlt: "7-Piece Dog Agility Set with Tunnel product view"
 image: /images/products/7-piece-dog-agility-set-with-tunnel/1.webp
 gallery:
   - /images/products/7-piece-dog-agility-set-with-tunnel/2.webp
@@ -62,3 +62,19 @@ Read [Dog Agility Sets: Check the Pieces and Start With Low Obstacles](/reviews/
 7-Piece Dog Agility Set with Tunnel may suit owners adding supervised activity or a comfortable resting spot. Compare its size, selected features, and setup requirements with your pet and home before choosing.
 
 Confirm what the seven-piece count includes and how the obstacles are secured. Start with low, simple activities on a clear surface, and ask a veterinarian before high-impact exercise for a puppy, senior dog, or dog with mobility concerns.
+
+
+## Product-specific buying checklist
+
+For **7-Piece Dog Agility Set with Tunnel**, focus on size, difficulty, supervised-use guidance, materials, cleanability, food compatibility, and small-part risks. Start with the listing fields above—especially Listed set size, Included obstacle—and confirm the exact model before comparing options.
+
+The useful question is whether the activity level is suitable and the product can be cleaned safely, not simply whether the product has the longest feature list. Compare the exact selectable option, since bundles and variants can differ.
+
+## Questions to ask before checkout
+
+- Does the current listing include every component shown or described?
+- Do the measurements, capacity, and limits match the intended use?
+- Are cleaning, storage, power, and setup requirements workable in the home?
+- Have shipping, returns, and seller terms been checked for the exact option?
+
+This checklist highlights points to verify rather than claims about independent testing or guaranteed performance.

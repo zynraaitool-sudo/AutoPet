@@ -2,8 +2,8 @@
 name: Dog Car Booster Seat
 category: pet-walking-travel
 catalogVisible: true
-description: An AliExpress listing for a raised car seat for small pets. Check
-  seat dimensions, anchoring straps, tether details, and vehicle compatibility.
+description: An AliExpress listing for a raised car seat for small pets. Check seat dimensions, anchoring straps, tether details, and vehicle compatibility.
+imageAlt: "Dog Car Booster Seat product view"
 image: /images/products/dog-car-booster-seat/1.webp
 gallery:
   - /images/products/dog-car-booster-seat/2.webp
@@ -59,3 +59,19 @@ This page summarizes the available listing information and has not been presente
 ## Related guide
 Read [Dog Car Booster Seats: Check Anchoring and Use a Separate Restraint](/reviews/dog-car-booster-seat-setup-and-restraint/) for practical fit, setup, or comparison checks.
 The seller describes a booster-style pet seat, but no crash-safety performance is established. Review how it anchors to the vehicle and whether the restraint is intended for use with a properly fitted harness. Never allow a pet to ride loose or attach a tether to a collar.
+
+
+## Product-specific buying checklist
+
+For **Dog Car Booster Seat**, focus on pet measurements, weight limit, fit adjustments, restraint points, ventilation, folding dimensions, and storage or transport needs. Start with the listing fields above—especially Product type, Listed extras—and confirm the exact model before comparing options.
+
+The useful question is whether the exact size and restraint system are appropriate for the planned use, not simply whether the product has the longest feature list. Compare the exact selectable option, since bundles and variants can differ.
+
+## Questions to ask before checkout
+
+- Does the current listing include every component shown or described?
+- Do the measurements, capacity, and limits match the intended use?
+- Are cleaning, storage, power, and setup requirements workable in the home?
+- Have shipping, returns, and seller terms been checked for the exact option?
+
+This checklist highlights points to verify rather than claims about independent testing or guaranteed performance.

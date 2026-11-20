@@ -3,6 +3,7 @@ name: 285ml Portable Dog Water Bottle
 category: pet-walking-travel
 catalogVisible: true
 description: "285ml Portable Dog Water Bottle for walks and pet-friendly trips. Compare listed features and setup with your needs."
+imageAlt: "285ml Portable Dog Water Bottle product view"
 image: /images/s8316c2b784bd4624948e4369117514adr.png_220x220.png_.avif
 gallery:
   - /images/sb576e3489ae64140af3a4f04e7d9979az.jpg_220x220q75.jpg_.avif
@@ -63,3 +64,19 @@ Check which parts use each listed material, how water is dispensed and returned,
 Before travel, follow the seller's cleaning instructions and test the closure at home. Carry enough water for your pet and conditions, and keep a suitable water source available on longer outings.
 
 This is a direct AliExpress product link, not an affiliate link. Product variants, price, shipping, and availability may change.
+
+
+## Product-specific buying checklist
+
+For **285ml Portable Dog Water Bottle**, focus on pet measurements, weight limit, fit adjustments, restraint points, ventilation, folding dimensions, and storage or transport needs. Start with the listing fields above—especially Advertised capacity, Listed materials—and confirm the exact model before comparing options.
+
+The useful question is whether the exact size and restraint system are appropriate for the planned use, not simply whether the product has the longest feature list. Compare the exact selectable option, since bundles and variants can differ.
+
+## Questions to ask before checkout
+
+- Does the current listing include every component shown or described?
+- Do the measurements, capacity, and limits match the intended use?
+- Are cleaning, storage, power, and setup requirements workable in the home?
+- Have shipping, returns, and seller terms been checked for the exact option?
+
+This checklist highlights points to verify rather than claims about independent testing or guaranteed performance.

@@ -26,28 +26,55 @@ faqs:
     answer: "No. Confirm the exact model and fit for the individual animal, and stop use if it causes distress or appears unsafe."
 draft: true
 ---
+The listing describes a bicycle trailer intended to connect with Brompton-style bicycles, but the source does not provide a bicycle model list or confirm the hitch on the exact selected option. Compatibility claims do not establish a safe fit for every folding bike or frame style.
 
-The listing describes a bicycle trailer intended to connect with Brompton-style bicycles. This is an evaluation of the listing, not a test of the product. Seller descriptions and images are claims to verify against the exact selected option.
+## Check the exact interface
 
-## What this listing actually describes
+Ask for the hitch standard, axle or frame attachment method, included connector, and clearance around brakes and rear parts. A Brompton-style description is not an exact model confirmation. Verify whether adapter parts are included and whether the seller has tested the exact bicycle version.
 
-Check the exact hitch interface and wheel clearance for your bike; a general compatibility claim is not enough to establish a safe fit. Read the full item page and compare the selected option with the title, photographs, and specifications. Sellers may show several sizes or bundles on one page, and the selected option may differ from the main listing image.
+Also compare wheel clearance and turning radius. Folding-bike geometry and rear accessories can interfere with a trailer even when the hitch appears similar.
 
-## Details to confirm before ordering
+## Match the cabin to the pet
 
-Confirm the hitch standard, wheel clearance, maximum pet dimensions, trailer weight, and whether the bicycle connector is included. Ask the seller for missing measurements or compatibility information and save the exact listing and option details. Also check shipping, taxes, warranty terms, and the cost or process for returning an oversized package.
+Measure the pet while standing and resting. Compare the exact internal length, width, and height with those measurements. Ask for usable floor area and payload, both of which are not documented in the source. A compatibility claim says nothing about cabin comfort.
 
-## Use and setup considerations
+Before purchase, verify:
 
-Verify compatibility with the exact bicycle and use a separate harness attachment inside the trailer. Follow the product manual and seek professional advice when setup or use could affect an animal's health or safety. A listing description is not proof of certification, performance, or suitability for every pet.
+- Hitch and included hardware
+- Exact bicycle compatibility
+- Wheel and frame clearance
+- Cabin and folded dimensions
+- Payload and restraint point
+- Tire and joint instructions
+- Freight and return terms
 
-## Bottom line
+## Setup and first use
 
-Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+Inspect the frame, wheels, hitch, and safety parts before carrying a pet. Follow the manual for connection and attachment. Test the assembly by walking the bicycle or trailer before riding, and stop if the hitch, wheel, or frame shifts.
 
-<!-- autopet-master-optimized -->
+Use a harness connected to the manufacturer-approved restraint point. Do not leave a pet loose in the cabin. Keep the first ride short and at low speed until the pet and equipment have been checked in motion.
 
-## Related product listings
+## Common mistakes
+
+- Assuming Brompton-style means every Brompton fits
+- Ignoring brakes or frame clearance
+- Buying without the connector
+- Replacing the cabin restraint with a collar
+- Testing while carrying a pet for the first time
+
+## FAQs
+
+**Is this compatible with my Brompton?**
+Not unless the exact model, hitch, and included adapters are confirmed.
+
+**Does a folding-bike hitch transfer to every bicycle?**
+No. Hitch and axle designs vary.
+
+**Is the trailer suitable for every pet?**
+No. Cabin dimensions and payload remain unknown.
+
+## Related listing
+
 - [Brompton-Compatible Pet Bicycle Trailer](/products/brompton-compatible-pet-bike-trailer/)
 
-Browse the [AutoPet Pet Walking Travel category](/category/pet-walking-travel/) for the latest published resources.
+Browse the [AutoPet Pet Walking Travel category](/category/pet-walking-travel/) for related resources.

@@ -26,28 +26,32 @@ faqs:
     answer: "No. Confirm the exact model and fit for the individual animal, and stop use if it causes distress or appears unsafe."
 draft: true
 ---
+A large metal outdoor dog run can provide a defined exercise or containment area, but the listing alone does not establish its assembled dimensions or escape resistance. Measure the yard and the dog first, then verify exactly which panels, door, and anchors come with the selected option.
 
-The listing describes a large metal enclosure for outdoor yards and camping. This is an evaluation of the listing, not a test of the product. Seller descriptions and images are claims to verify against the exact selected option.
+## Choose the correct layout
 
-## What this listing actually describes
+Calculate the usable interior area from panel dimensions, not the outside of a wide-angle photograph. Confirm the delivered panel count, panel height and width, door position, and whether corner or roof components are included. The source does not provide floor area, bar spacing, wire gauge, coating, or anchor type, so those values remain unknown.
 
-Measure the actual enclosure area and inspect bar spacing and anchoring; do not rely on a wide-angle listing photo. Read the full item page and compare the selected option with the title, photographs, and specifications. Sellers may show several sizes or bundles on one page, and the selected option may differ from the main listing image.
+For a dog that may climb or squeeze through openings, bar spacing is a fit issue that should be checked against the smallest expected gap and the animal’s size. Ask the seller for clear measurements and a panel diagram. Also confirm the assembled footprint, gate clearance, and whether the enclosure fits the available level surface.
 
-## Details to confirm before ordering
+## Inspect before use
 
-Request assembled dimensions, bar spacing, coating details, ground anchors, door latch, and the delivered panel count. Ask the seller for missing measurements or compatibility information and save the exact listing and option details. Also check shipping, taxes, warranty terms, and the cost or process for returning an oversized package.
+The source has no independent safety testing or certification data. On delivery, inspect every joint, panel edge, latch, and coating. Verify that the run is stable and that all supplied anchors suit the ground and local conditions. Stop use if panels separate, edges or fasteners become sharp, or the dog can manipulate the latch.
 
-## Use and setup considerations
+Set up in a location away from hazards, and never assume outdoor use is secure without anchoring and a complete inspection. The listing gives no weather, corrosion, or long-term durability information; confirm those details with the seller.
 
-Inspect for sharp edges, escape gaps, and loose fittings before allowing a dog inside. Follow the product manual and seek professional advice when setup or use could affect an animal's health or safety. A listing description is not proof of certification, performance, or suitability for every pet.
+## Common mistakes
 
-## Bottom line
+Do not assume the title’s “large” size matches a particular dog or room. Do not skip ground anchors because the run looks heavy. Do not use a damaged or incompletely assembled panel set as unattended housing.
 
-Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+## FAQs
 
-<!-- autopet-master-optimized -->
+**Does the listing prove a tested load or escape resistance?** No. It provides only a general enclosure description. Load, bar spacing, coatings, anchors, and test data are essential unknowns.
 
-## Related product listings
+**What should be confirmed at checkout?** Assembled length and width, height, panel count, bar spacing, door design, ground anchors, included roof or floor items, and return terms.
+
+## Related pages
+
 - [Large Metal Outdoor Dog Run](/products/large-metal-outdoor-dog-run/)
 
-Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for the latest published resources.
+Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for published resources.

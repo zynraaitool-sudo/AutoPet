@@ -27,27 +27,43 @@ faqs:
 draft: true
 ---
 
-The listing describes a sensor-based cat flap with separate entry and exit control. This is an evaluation of the listing, not a test of the product. Seller descriptions and images are claims to verify against the exact selected option.
+This listing combines a sensor-based flap with separate entry and exit control. The useful buying question is whether the selected option can distinguish the direction of travel under the same conditions as the intended doorway. “Automatic” is not enough by itself: the listing does not establish sensor type, detection reliability, or exact power requirements.
 
-## What this listing actually describes
+## What to verify about the sensor
 
-Verify exactly what the sensor detects and test entry, exit, and locked modes before installation. Read the full item page and compare the selected option with the title, photographs, and specifications. Sellers may show several sizes or bundles on one page, and the selected option may differ from the main listing image.
+Confirm whether direction is detected by a collar tag, a separate sensor, or another mechanism. The source does not provide a compatible collar model, a list of required accessories, or an operating range. Ask the seller to identify the mechanism and every item included with the exact selectable option.
 
-## Details to confirm before ordering
+Check the direction settings in the manual or listing: entry-only, exit-only, both, and locked states should be described separately. A photo of a control panel is not a complete demonstration. Also confirm the opening size and whether the frame dimensions match both the cat and the wall or door.
 
-Check what triggers the sensor, direction settings, collar or tag requirements, and opening size. Ask the seller for missing measurements or compatibility information and save the exact listing and option details. Also check shipping, taxes, warranty terms, and the cost or process for returning an oversized package.
+## Fit and installation checks
 
-## Use and setup considerations
+Measure the cat’s shoulder width, the existing opening, and the finished wall or door thickness. Compare these figures with the seller’s usable opening—not only the external frame or a stock image. Unknowns include minimum and maximum pet dimensions, tunnel depth, mounting materials, weather protection, and whether a cutting template is included.
 
-Test each lock mode repeatedly indoors before relying on it to manage outdoor access. Follow the product manual and seek professional advice when setup or use could affect an animal's health or safety. A listing description is not proof of certification, performance, or suitability for every pet.
+Before drilling or cutting, determine whether the flap has a solid mounting method and suitable seals for the location. The listing also does not state an independent suitability, durability, or certification result, so do not treat it as an approval for every door or building.
 
-## Bottom line
+## Test the modes before routine use
 
-Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+With the unit installed, test entry, exit, and locking with the pet in a calm, supervised setting. Watch for false detections, repeated cycling, or refusal to pass. Test when the battery or power status is low if replaceable power is used, because the listed source gives no low-power behavior.
 
-<!-- autopet-master-optimized -->
+Keep a normal escape route or supervised fallback available until the system has worked repeatedly. Stop use if the frame pinches, the flap is too small, the cat becomes distressed, or the closing action catches fur or skin.
+
+## Common mistakes
+
+- Assuming every variant, collar, or adapter shown in the listing is included.
+- Matching the listing title instead of the exact opening and frame measurements.
+- Testing only while the cat approaches, rather than in both directions.
+- Leaving the flap unattended before verifying false entry or exit behavior.
+- Treating a seller travel or security claim as independent certification.
+
+## FAQs
+
+**Does the listing confirm a pet collar or microchip compatibility?** No. It gives no complete compatibility table, so verify the collar, tag, sensor, and selected model directly with the seller.
+
+**Can it be used for both entry and exit control?** The listing says separate entry and exit control is a feature, but the exact mode names and behavior remain unverified. Test each mode before relying on it.
+
+**Is this a hands-on recommendation?** No. AutoPet has not purchased or tested the item. Keep the result as a seller-claimed starting point.
 
 ## Related product listings
 - [Direction-Sensing Automatic Cat Flap](/products/direction-sensing-cat-flap/)
 
-Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for the latest published resources.
+Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for published related guidance.

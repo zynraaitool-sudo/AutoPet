@@ -2,8 +2,8 @@
 name: Manual Dog Paw-Washing Cup
 category: pet-grooming
 catalogVisible: true
-description: An AliExpress listing for a portable paw-washing cup with a soft
-  silicone brush insert. Confirm inner diameter and cleaning instructions.
+description: An AliExpress listing for a portable paw-washing cup with a soft silicone brush insert. Confirm inner diameter and cleaning instructions.
+imageAlt: "Manual Dog Paw-Washing Cup product view"
 image: /images/products/manual-dog-paw-washing-cup/1.webp
 gallery:
   - /images/products/manual-dog-paw-washing-cup/2.webp
@@ -58,3 +58,19 @@ This page summarizes the available listing information and has not been presente
 ## Related guide
 Read [Dog Paw-Washing Cups: Check the Opening and Clean the Insert](/reviews/dog-paw-washing-cup-fit-and-cleaning/) for practical fit, setup, or comparison checks.
 The AliExpress listing describes a manual paw cleaner with a silicone insert. Compare the opening with your dog's paw size, inspect the insert for rough edges, and check how the parts are washed and dried.
+
+
+## Product-specific buying checklist
+
+For **Manual Dog Paw-Washing Cup**, focus on table or tool dimensions, material, weight limit, stability, included attachments, storage needs, and cleaning method. Start with the listing fields above—especially Product type, Listed component—and confirm the exact model before comparing options.
+
+The useful question is whether the equipment fits the available space and grooming routine, not simply whether the product has the longest feature list. Compare the exact selectable option, since bundles and variants can differ.
+
+## Questions to ask before checkout
+
+- Does the current listing include every component shown or described?
+- Do the measurements, capacity, and limits match the intended use?
+- Are cleaning, storage, power, and setup requirements workable in the home?
+- Have shipping, returns, and seller terms been checked for the exact option?
+
+This checklist highlights points to verify rather than claims about independent testing or guaranteed performance.

@@ -26,28 +26,32 @@ faqs:
     answer: "No. Confirm the exact model and fit for the individual animal, and stop use if it causes distress or appears unsafe."
 draft: true
 ---
+Rotating foam pet stairs are described as a configurable layout for beds or sofas, but the listing does not state foam density, step strength, exact dimensions, or a locking mechanism. Those details determine whether the stairs fit the furniture and remain stable under the pet.
 
-The listing describes foam steps that can be rotated for different layouts. This is an evaluation of the listing, not a test of the product. Seller descriptions and images are claims to verify against the exact selected option.
+## Match size and support
 
-## What this listing actually describes
+Measure the furniture height and the pet’s stride before selecting an option. Confirm every step height and tread width, total length and width, weight range, and whether the rotated layout changes the footprint. The source does not provide a usable weight limit or foam density.
 
-Soft steps can compress with use; check the support material, cover care, and stability in each layout. Read the full item page and compare the selected option with the title, photographs, and specifications. Sellers may show several sizes or bundles on one page, and the selected option may differ from the main listing image.
+Check whether the cover is removable and washable, and follow care instructions because damp or compressed foam may change support. Confirm whether the sections lock, interconnect, or simply rely on friction in each layout.
 
-## Details to confirm before ordering
+## Introduce and monitor
 
-Confirm each step’s dimensions, foam firmness, cover washing instructions, and whether the configuration locks in place. Ask the seller for missing measurements or compatibility information and save the exact listing and option details. Also check shipping, taxes, warranty terms, and the cost or process for returning an oversized package.
+Place the stairs on a level, non-slip surface close to the furniture. Test each arrangement while the pet is supervised. Watch for sliding, foam compression, uneven tread surfaces, or reluctance to climb. Stop using a configuration that shifts or does not hold shape under the animal.
 
-## Use and setup considerations
+Keep the stairs clear of loose cords and inspect seams and covers for damage. The listing provides no independent stability or durability test, so regular visual and movement checks remain important.
 
-Check for shifting or compression under the pet and stop using the stairs if they become unstable. Follow the product manual and seek professional advice when setup or use could affect an animal's health or safety. A listing description is not proof of certification, performance, or suitability for every pet.
+## Common mistakes
 
-## Bottom line
+Do not assume a soft stair is a substitute for a rigid stair for every pet. Do not use the stairs after foam or seams show damage. Do not assume a wash label or locking method applies to every size option.
 
-Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+## FAQs
 
-<!-- autopet-master-optimized -->
+**Is foam firmness or capacity known?** No. Confirm dimensions, foam type, weight rating, and construction from the exact seller documentation.
 
-## Related product listings
+**Do the layouts lock?** The source does not say. Verify the connector or friction design and test every chosen position.
+
+## Related pages
+
 - [Rotating Foam Pet Stairs for Beds and Sofas](/products/rotating-foam-pet-stairs/)
 
-Browse the [AutoPet Pet Enrichment category](/category/pet-enrichment/) for the latest published resources.
+Browse the [AutoPet Pet Enrichment category](/category/pet-enrichment/) for published resources.

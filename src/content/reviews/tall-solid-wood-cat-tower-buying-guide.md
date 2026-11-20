@@ -26,28 +26,24 @@ faqs:
     answer: "No. Confirm the exact model and fit for the individual animal, and stop use if it causes distress or appears unsafe."
 draft: true
 ---
+A tall cat tower offers vertical resting and scratching space, but height is not a substitute for a broad, secure base. The listing for this solid-wood tower names integrated scratching surfaces but leaves the exact height, base, package, and anchoring details to be confirmed.
 
-The listing describes a tall solid-wood tower with integrated scratching surfaces. This is an evaluation of the listing, not a test of the product. Seller descriptions and images are claims to verify against the exact selected option.
+## Choose for the available height and route
+Measure ceiling clearance and the horizontal footprint. Then map the tower's route: can the cat reach each platform without crossing a window ledge, unstable furniture, or a wall-mounted object? Check platform depth and opening spacing, as the listing source does not give usable dimensions.
 
-## What this listing actually describes
+Ask for the overall assembled height, base dimensions, platform count, and individual platform sizes. Confirm whether the selected option includes every visible platform and whether the scratching posts or coverings are replaceable. The [tall tower product page](/products/tall-solid-wood-cat-tower/) provides the item number and basic description.
 
-A tall tower needs a stable footprint and a clear assembly plan; confirm what is included and how the seller expects it to be secured. Read the full item page and compare the selected option with the title, photographs, and specifications. Sellers may show several sizes or bundles on one page, and the selected option may differ from the main listing image.
+## Assemble and anchor before regular use
+Use the supplied instructions and intended anchoring points. Confirm that the wall material and included hardware are compatible, or consult a qualified installer. A tower may require placement on a level, firm floor and clearance from curtains, shelves, or blind cords.
 
-## Details to confirm before ordering
+Tighten fasteners and check for movement before allowing use. Reinspect joints and scratching surfaces regularly, especially after moving the tower. Stop use if the tower shifts, a platform loosens, or a cat appears unable to use the route safely. A wall-mounted alternative has different anchoring requirements; see the published [Cat Wall Shelves guide](/reviews/cat-wall-shelves-mounting-and-spacing-guide/).
 
-Confirm overall height, base dimensions, replacement scratching components, finish, and whether the selected option includes every platform. Ask the seller for missing measurements or compatibility information and save the exact listing and option details. Also check shipping, taxes, warranty terms, and the cost or process for returning an oversized package.
+## Common mistakes
+Do not treat integrated scratching surfaces as durable without checking the material and replacement path. Do not order by height alone if the package may not fit stairs or doors. Do not assume that solid wood establishes a load rating or certification. For a shared household, confirm capacity rather than extrapolating from the number of platforms.
 
-## Use and setup considerations
+## FAQs
+**Is the tower suitable for a large cat?** The source does not provide a verified size or load limit, so suitability cannot be established.
 
-Secure tall furniture as directed and keep it away from unstable window coverings or shelves. Follow the product manual and seek professional advice when setup or use could affect an animal's health or safety. A listing description is not proof of certification, performance, or suitability for every pet.
+**Can it be placed anywhere?** No. It needs a firm, level position and should not depend on nearby furniture or an unstable wall fixture.
 
-## Bottom line
-
-Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
-
-<!-- autopet-master-optimized -->
-
-## Related product listings
-- [Tall Solid-Wood Cat Tower with Integrated Scratching Posts](/products/tall-solid-wood-cat-tower/)
-
-Browse the [AutoPet Pet Enrichment category](/category/pet-enrichment/) for the latest published resources.
+**What is essential to verify?** Overall height, base dimensions, platform sizes, included parts, anchoring method, and stated capacity.

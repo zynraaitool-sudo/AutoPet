@@ -4,6 +4,7 @@ seoTitle: "Dual-Outlet Automatic Cat Feeder with Slow-Feed Option | AutoPet"
 category: automatic-cat-feeders
 catalogVisible: true
 description: "FirmHome Dual-Outlet Automatic Pet Feeder for scheduled cat meals. Compare listed features and setup with your needs."
+imageAlt: "FirmHome Dual-Outlet Automatic Pet Feeder product view"
 image: /images/products/firmhome-dual-outlet-automatic-pet-feeder/1.webp
 gallery:
   - /images/products/firmhome-dual-outlet-automatic-pet-feeder/2.webp
@@ -66,3 +67,19 @@ The FirmHome listing describes a dual-outlet automatic feeder with a slow-feed o
 Before choosing, check how food is routed, whether both bowls receive the same meal, which settings can be scheduled, and how the slow-feed option operates. Compare capacity, kibble compatibility, cleaning, and power requirements, and confirm the bowls included with the selected model.
 
 If you have more than one pet, consider their feeding routines and whether they can reach each other's bowl. Current options, price, and seller details can change, so review the live listing before ordering.
+
+
+## Product-specific buying checklist
+
+For **FirmHome Dual-Outlet Automatic Pet Feeder**, focus on meal capacity, portion control, kibble size, app Wi-Fi requirements, backup power, cleaning access, and the exact bowl or hopper included. Start with the listing fields above—especially Listed design, Listed features—and confirm the exact model before comparing options.
+
+The useful question is the correct feeder capacity for the household and whether its controls match the intended feeding routine, not simply whether the product has the longest feature list. Compare the exact selectable option, since bundles and variants can differ.
+
+## Questions to ask before checkout
+
+- Does the current listing include every component shown or described?
+- Do the measurements, capacity, and limits match the intended use?
+- Are cleaning, storage, power, and setup requirements workable in the home?
+- Have shipping, returns, and seller terms been checked for the exact option?
+
+This checklist highlights points to verify rather than claims about independent testing or guaranteed performance.

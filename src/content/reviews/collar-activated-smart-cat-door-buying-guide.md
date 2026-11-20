@@ -26,28 +26,47 @@ faqs:
     answer: "No. Confirm the exact model and fit for the individual animal, and stop use if it causes distress or appears unsafe."
 draft: true
 ---
+The listing describes an automatic cat door activated by a matching collar, but it does not confirm which tag technology is used, how reliably it reads, or whether the tag is included. Opening dimensions, wall thickness, battery life, and lock behavior also need verification.
 
-The listing describes an automatic cat door activated by a matching collar. This is an evaluation of the listing, not a test of the product. Seller descriptions and images are claims to verify against the exact selected option.
+## Check the complete kit
 
-## What this listing actually describes
+Ask whether the collar sensor or RFID tag is included in the exact option, how many tags are supported, and whether it can be used with a separate collar. Confirm whether activation opens in both directions or has independent entry and exit settings. The source does not establish whether multiple cats can be registered.
 
-Measure the pet and installation surface, and verify whether the activation tag is included in the selected kit. Read the full item page and compare the selected option with the title, photographs, and specifications. Sellers may show several sizes or bundles on one page, and the selected option may differ from the main listing image.
+A title label does not prove that the accessory in a photo is included. Compare the item number and option description before checkout.
 
-## Details to confirm before ordering
+## Measure and install
 
-Confirm whether the collar tag is included, the door opening dimensions, wall thickness range, and battery requirements. Ask the seller for missing measurements or compatibility information and save the exact listing and option details. Also check shipping, taxes, warranty terms, and the cost or process for returning an oversized package.
+Measure the cat at its widest and tallest point, then compare those figures with the exact opening and threshold. Measure the door or wall thickness and obtain the template before cutting. Ask for required batteries, external power, seal parts, frame size, and mounting hardware.
 
-## Use and setup considerations
+Before purchase, verify opening dimensions, thickness range, tag or collar inclusion, supported directions and locks, battery type, usable life, and weather sealing.
 
-Test the lock and direction settings before allowing unsupervised access outdoors. Follow the product manual and seek professional advice when setup or use could affect an animal's health or safety. A listing description is not proof of certification, performance, or suitability for every pet.
+## Setup and supervised access
 
-## Bottom line
+Follow the manual to register or place the activation tag and test the reading range. Check the lock, entry, and exit settings before allowing outside access. Introduce the door with the cat supervised and keep the environment controlled until the mechanism is predictable.
 
-Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+Inspect the flap and latch during use. Test whether another nearby animal or object can trigger the door unintentionally, and keep a household plan for bad weather or extended absences.
 
-<!-- autopet-master-optimized -->
+## Common mistakes
 
-## Related product listings
+- Assuming the collar tag is included
+- Cutting before template verification
+- Ignoring wall thickness
+- Allowing unsupervised outdoor access before testing
+- Assuming every nearby collar or chip is compatible
+
+## FAQs
+
+**Is the activation tag included?**
+Not established by the source. Verify it in the exact selected kit.
+
+**Does the door recognize every cat collar or chip?**
+No. The listing refers only to a matching collar and does not document universal compatibility.
+
+**Will it fit my wall or door?**
+Not until opening size and wall or door thickness match the manufacturer's range.
+
+## Related listing
+
 - [Collar-Activated Smart Cat Door](/products/collar-activated-smart-cat-door/)
 
-Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for the latest published resources.
+Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for related resources.

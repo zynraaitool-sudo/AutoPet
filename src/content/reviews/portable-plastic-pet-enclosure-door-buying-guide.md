@@ -26,28 +26,32 @@ faqs:
     answer: "No. Confirm the exact model and fit for the individual animal, and stop use if it causes distress or appears unsafe."
 draft: true
 ---
+The listing describes a portable plastic enclosure with a door for indoor or outdoor use, but portability is not the same as stability or weather protection. The exact panel count and connector design are the key specifications to verify before choosing a space.
 
-The listing describes a portable plastic enclosure for indoor and outdoor use. This is an evaluation of the listing, not a test of the product. Seller descriptions and images are claims to verify against the exact selected option.
+## Check the exact kit
 
-## What this listing actually describes
+Confirm the number and dimensions of panels, door type and opening, corner pieces, connectors, and whether anchors or a floor mat are included. The source gives no assembled footprint, panel height, intended pet size, weight limit, or outdoor weather rating. A variant shown in one photograph may not match the option added to the cart.
 
-The connector design and panel count determine the usable setup; verify both before deciding whether the enclosure fits your space. Read the full item page and compare the selected option with the title, photographs, and specifications. Sellers may show several sizes or bundles on one page, and the selected option may differ from the main listing image.
+Measure the room or ground area, including door clearance and nearby hazards. A larger panel count may be needed to create a comfortable layout, but extra panels can also require more setup space. Ask the seller for a clear parts and assembly list.
 
-## Details to confirm before ordering
+## Assemble and test
 
-Confirm the number and size of panels, connector design, door opening, surface compatibility, and intended pet size. Ask the seller for missing measurements or compatibility information and save the exact listing and option details. Also check shipping, taxes, warranty terms, and the cost or process for returning an oversized package.
+Place the enclosure on a flat, level surface and follow the included instructions. Connect every joint and check the door latch by hand. Gently press each panel to identify tipping or separation before the pet enters.
 
-## Use and setup considerations
+For outdoor use, confirm that the surface and weather are suitable and consider wind or rain as unknown hazards if no stability and weather information is provided. The listing does not prove that the kit is escape-proof or suitable for unattended use.
 
-Check that panels cannot tip or separate and use only where the pet can be supervised. Follow the product manual and seek professional advice when setup or use could affect an animal's health or safety. A listing description is not proof of certification, performance, or suitability for every pet.
+## Common mistakes
 
-## Bottom line
+Do not assume “portable” means it resists tipping. Do not leave gaps between mismatched parts. Do not use a plastic enclosure where it can be exposed to a surface or environment that exceeds the manufacturer guidance.
 
-Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+## FAQs
 
-<!-- autopet-master-optimized -->
+**What is not established in the source?** Panel dimensions, footprint, material details, weight limits, door dimensions, stability, and weather performance.
 
-## Related product listings
+**Should the pet be left alone?** The source provides no unattended-use rating. Supervise initial use and stop if the enclosure shifts or the door is opened.
+
+## Related pages
+
 - [Portable Plastic Pet Enclosure with Door](/products/portable-plastic-pet-enclosure-door/)
 
-Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for the latest published resources.
+Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for published resources.

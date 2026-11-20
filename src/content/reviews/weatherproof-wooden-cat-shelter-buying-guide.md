@@ -26,28 +26,24 @@ faqs:
     answer: "No. Confirm the exact model and fit for the individual animal, and stop use if it causes distress or appears unsafe."
 draft: true
 ---
+The listing describes an enclosed wooden outdoor cat shelter, but “weatherproof” is not a substitute for verified construction details. The source does not provide treatment specifications, roof materials, interior dimensions, or a weather rating.
 
-The listing describes an enclosed wooden cat shelter for outdoor use in multiple seasons. This is an evaluation of the listing, not a test of the product. Seller descriptions and images are claims to verify against the exact selected option.
+## Define the shelter's job
+Measure the cat and the intended resting position. Then ask for interior length, width, height, entrance opening, and floor elevation. Confirm whether bedding is included and whether the selected option is an assembled shelter or a kit. Compare the package dimensions with the delivery route.
 
-## What this listing actually describes
+Ask about the wood type, treatment, roof sealing, water drainage, ventilation, and whether the finish is rated for outdoor use. The source gives no certification or independently verified water resistance. The [wooden shelter product page](/products/weatherproof-wooden-cat-shelter/) records the item number and basic outdoor claim.
 
-A weatherproof claim needs details: check roof construction, ventilation, raised flooring, and the finish used on the wood. Read the full item page and compare the selected option with the title, photographs, and specifications. Sellers may show several sizes or bundles on one page, and the selected option may differ from the main listing image.
+## Choose and maintain the location
+Set the shelter on a dry, level surface with drainage and some protection from direct wind or rain. Do not place it where it can become a trap or where sharp heat or cold can build around the walls. Follow the manual for assembly and any treatment or curing instructions. Keep the interior dry and inspect it for moisture, rot, splinters, loose fasteners, and pests.
 
-## Details to confirm before ordering
+A shelter can provide a dry resting place, but it does not make outdoor conditions safe in every season. If a cat is unwell or the temperature is dangerous, use safe local care resources rather than relying on the shelter alone.
 
-Ask about the wood treatment, roof sealing, ventilation, interior dimensions, floor elevation, and replacement parts. Ask the seller for missing measurements or compatibility information and save the exact listing and option details. Also check shipping, taxes, warranty terms, and the cost or process for returning an oversized package.
+## Common mistakes
+Do not assume that an outdoor label means weatherproof without checking roof and floor details. Do not use a photo to estimate interior room. Do not apply an unspecified coating or cleaner until its manufacturer instructions are known. Do not leave water pooling beneath or inside the shelter.
 
-## Use and setup considerations
+## FAQs
+**Is the shelter fully waterproof?** The source does not establish that. Ask for exact roof, floor, seam, and treatment details.
 
-Provide a dry, shaded location and inspect the shelter for moisture, splinters, and temperature extremes. Follow the product manual and seek professional advice when setup or use could affect an animal's health or safety. A listing description is not proof of certification, performance, or suitability for every pet.
+**What is the essential unknown?** Interior dimensions, wood treatment, drainage, ventilation, floor elevation, and assembly method.
 
-## Bottom line
-
-Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
-
-<!-- autopet-master-optimized -->
-
-## Related product listings
-- [Weatherproof Wooden Outdoor Cat Shelter](/products/weatherproof-wooden-cat-shelter/)
-
-Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for the latest published resources.
+**Can it be used for every season?** The listing is only a general description. Local conditions and the cat's needs determine whether the shelter is appropriate.

@@ -27,27 +27,43 @@ faqs:
 draft: true
 ---
 
-The search result describes an indoor 4 MP camera with automatic tracking and 2.4 GHz Wi-Fi. This is an evaluation of the listing, not a test of the product. Seller descriptions and images are claims to verify against the exact selected option.
+The listing describes a 4 MP indoor camera with automatic tracking and 2.4 GHz Wi-Fi. The main decisions are whether the app and network are compatible, whether tracking can be limited or disabled, and whether recorded or live views stay private to the intended household.
 
-## What this listing actually describes
+## Tracking and viewing checks
 
-Confirm which motion the camera tracks and whether the function can be disabled or limited to a chosen area. Read the full item page and compare the selected option with the title, photographs, and specifications. Sellers may show several sizes or bundles on one page, and the selected option may differ from the main listing image.
+Ask what the camera follows—motion, a person, a pet, or its own detected subject—and whether it pans continuously or only responds to a marked area. The source does not explain tracking sensitivity, viewing angle, or whether the pan stops at the edges.
 
-## Details to confirm before ordering
+Confirm the listed resolution and whether the app actually supports live view, alerts, recording, and two-way audio on the camera model. The source says 4 MP and 2.4 GHz Wi-Fi, but it does not give the Wi-Fi name or frequency list, privacy controls, or storage format.
 
-Verify the tracking function, viewing angle, storage method, network band, app compatibility, and privacy settings. Ask the seller for missing measurements or compatibility information and save the exact listing and option details. Also check shipping, taxes, warranty terms, and the cost or process for returning an oversized package.
+## Network, storage, and app setup
 
-## Use and setup considerations
+Verify support for the phone’s operating system and whether the app requires an account or regional service. Confirm whether storage is local, cloud, or both, and whether a card or subscription is needed. Ask the seller about recording quality, retention, and return terms before a card or subscription purchase.
 
-Turn off tracking if it points into private spaces, and secure the camera and power cable. Follow the product manual and seek professional advice when setup or use could affect an animal's health or safety. A listing description is not proof of certification, performance, or suitability for every pet.
+The source does not establish server location, encryption features, or alert reliability. If privacy matters, review the account settings and permissions rather than relying on a “secure” or “smart” label.
 
-## Bottom line
+## Position and test
 
-Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+Place the camera where it cannot be knocked over, and secure the power cable away from chewing or walking routes. Point it at the pet area only, then disable tracking or adjust motion zones before mounting if it might enter private rooms or windows.
 
-<!-- autopet-master-optimized -->
+Test live view on the local Wi-Fi and rehearse the app controls. Check whether notifications continue when the phone changes networks. Do not assume the camera can replace direct supervision or a functioning alarm.
+
+## Common mistakes
+
+- Treating 4 MP as proven image quality at a particular distance.
+- Using the camera on an unsupported Wi-Fi band or phone app.
+- Buying a cloud or local-storage plan before checking compatibility.
+- Pointing tracking at private areas.
+- Leaving a cable loose or placing the camera near water.
+
+## FAQs
+
+**Can tracking be disabled or limited?** The listing does not provide enough detail. Verify a zone, privacy, or tracking setting in the exact app and model.
+
+**Does it work with 5 GHz Wi-Fi?** The source names 2.4 GHz. It does not confirm 5 GHz compatibility or dual-band support.
+
+**Was the camera independently tested?** No. Performance, app behavior, and privacy settings remain unverified.
 
 ## Related product listings
 - [4 MP Auto-Tracking Indoor Pet Camera](/products/four-megapixel-auto-tracking-pet-camera/)
 
-Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for the latest published resources.
+Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for published related guidance.

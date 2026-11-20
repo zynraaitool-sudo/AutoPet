@@ -27,27 +27,43 @@ faqs:
 draft: true
 ---
 
-The listing describes eight scratching posts, two beds, a large platform, and a washable mat. This is an evaluation of the listing, not a test of the product. Seller descriptions and images are claims to verify against the exact selected option.
+The listing describes eight scratching posts, two beds, a large platform, and a washable mat. The number of posts is a useful layout clue, but it does not by itself establish usable platform size, assembled height, spacing, or stability. Compare the exact option’s dimensions with the cat and the available floor and ceiling space.
 
-## What this listing actually describes
+## Count and measure the usable areas
 
-Count the posts and resting areas in the selected option, then check whether the mat and covers can be cleaned as described. Read the full item page and compare the selected option with the title, photographs, and specifications. Sellers may show several sizes or bundles on one page, and the selected option may differ from the main listing image.
+Ask for separate dimensions for the beds, platform, post spacing, and overall assembled height. Pictures may show one configuration while a selectable variant changes parts or size. The source does not give a maximum cat size or weight, so do not infer suitability from the term “cat” alone.
 
-## Details to confirm before ordering
+Check whether the washable mat is attached, removable, or replaceable, and whether its cleaning method differs from the rest of the covered surfaces. “Washable” does not define whether the cover is machine washable, hand washable, or removable. The listing also provides no detail on spare fabric, replacement posts, or cleaning frequency.
 
-Check post spacing, platform sizes, textile cleaning instructions, replacement parts, and the assembled height. Ask the seller for missing measurements or compatibility information and save the exact listing and option details. Also check shipping, taxes, warranty terms, and the cost or process for returning an oversized package.
+## Place and assemble it carefully
 
-## Use and setup considerations
+Choose a level area with enough room for the cat to jump without hitting furniture or walls. Follow the manual for fasteners and the order of assembly, and make sure the base sits flat without rocking. The source does not state a tested stability limit or anti-tip method, so verify whether wall anchoring is needed and whether it is included.
 
-Inspect fasteners and fabric loops often; remove damaged pieces that could snag claws. Follow the product manual and seek professional advice when setup or use could affect an animal's health or safety. A listing description is not proof of certification, performance, or suitability for every pet.
+Introduce the tree gradually. Do not crowd all resting areas with other equipment, and keep loose cords or hanging toys away from it. Stop use if a platform shifts, a post bends, or a fabric loop catches a claw.
 
-## Bottom line
+## Clean and inspect wear points
 
-Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+Remove the washable mat when dirty only as the label directs, and dry it completely before replacing it. Vacuums or brushes may be appropriate for loose fur, but the exact upholstery or surface must be checked before using water or detergents.
 
-<!-- autopet-master-optimized -->
+Periodically inspect joints, screws, posts, bed seams, and fabric loops. Re-tighten fasteners only according to the manual. A damaged part should be removed or repaired with the intended manufacturer component; the listing gives no approved replacement-parts program.
+
+## Common mistakes
+
+- Counting “eight posts” while overlooking the diameter or spacing that affects use.
+- Buying from an image instead of the exact selected option.
+- Putting the tree near an edge or in a narrow route where it can be bumped.
+- Using a cleaning method that the seller has not specified for the fabric.
+- Assuming every platform and bed is sized for a particular cat.
+
+## FAQs
+
+**Is one of the beds or the platform the same size in every option?** Not necessarily. The listing names the features but does not publish dimensions for each selectable configuration.
+
+**Does washable mean the whole tree can go in a washing machine?** No. Verify whether only the mat or covers are removable and washable, and follow their care information.
+
+**Was this tested hands-on?** No. This is a listing-based guide, not a stability or durability test.
 
 ## Related product listings
 - [Eight-Post Cat Climbing Tree with Washable Mat](/products/eight-post-cat-climbing-tree/)
 
-Browse the [AutoPet Pet Enrichment category](/category/pet-enrichment/) for the latest published resources.
+Browse the [AutoPet Pet Enrichment category](/category/pet-enrichment/) for published related guidance.

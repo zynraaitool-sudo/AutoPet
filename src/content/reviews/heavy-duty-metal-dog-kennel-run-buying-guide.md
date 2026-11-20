@@ -27,27 +27,40 @@ faqs:
 draft: true
 ---
 
-The listing describes a large outdoor metal kennel or run. This is an evaluation of the listing, not a test of the product. Seller descriptions and images are claims to verify against the exact selected option.
+The listing describes a large outdoor metal kennel or run. “Heavy-duty” is not a complete specification: the panel size, wire spacing, frame gauge, latch, coating, anchor count, and delivered panel count remain essential unknowns. The exact assembled footprint matters as much as the listing title.
 
-## What this listing actually describes
+## Measure and match the enclosure
 
-Look beyond the overall size: panel connections, door security, and ground anchoring determine how the run functions. Read the full item page and compare the selected option with the title, photographs, and specifications. Sellers may show several sizes or bundles on one page, and the selected option may differ from the main listing image.
+Measure the intended outdoor area, including gate clearance and a margin around the panels. Ask for the assembled dimensions and usable floor area rather than an overall package or photo size. Confirm whether a roof or cover is included and whether posts or accessories are part of the selected option.
 
-## Details to confirm before ordering
+Check bar or wire spacing against the dog’s size and behavior. The source gives no stated spacing or escape-risk limit, so do not infer safety from a heavy appearance. The dog should be unable to pass its head or paws through openings or reach sharp edges.
 
-Check wire gauge, panel dimensions, latch design, corrosion protection, and included ground anchors. Ask the seller for missing measurements or compatibility information and save the exact listing and option details. Also check shipping, taxes, warranty terms, and the cost or process for returning an oversized package.
+## Joints, latch, and anchors
 
-## Use and setup considerations
+Request the panel connector type, door latch, and anti-lift or ground-anchor method. Look for the wire or tube gauge and corrosion protection that applies to the exact option. “Metal” and “outdoor” do not establish rust resistance or long-term stability.
 
-Inspect every joint and latch; a kennel is not escape-proof unless the installed configuration is secure. Follow the product manual and seek professional advice when setup or use could affect an animal's health or safety. A listing description is not proof of certification, performance, or suitability for every pet.
+After assembly on a level surface, shake each panel and close the latch from multiple positions. Inspect every joint for protruding edges and gaps. Recheck connections after the first week of use and whenever the run is moved or after severe weather.
 
-## Bottom line
+## Outdoor setup
 
-Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+Provide shade, water, and a dry resting area appropriate to the weather, without blocking ventilation or creating a climbing aid. Keep the location away from hazards and secure nearby gates or doors. The source gives no weather or temperature limit.
 
-<!-- autopet-master-optimized -->
+A kennel is not escape-proof simply because it is heavy or locked. Supervise and inspect it regularly, especially with an active or persistent dog. Stop use if a panel separates, a latch releases, or sharp or rusted parts appear.
 
-## Related product listings
-- [Heavy-Duty Metal Dog Kennel Run](/products/heavy-duty-metal-dog-kennel-run/)
+## Common mistakes
 
-Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for the latest published resources.
+- Assuming “heavy-duty” gives a documented load or escape standard.
+- Ordering from overall size instead of assembled panel dimensions.
+- Missing or using the wrong number of ground anchors.
+- Leaving sharp edges or gaps at panel joins.
+- Using the run as weather shelter without checking shade and drainage.
+
+## FAQs
+
+**What size and wire spacing are confirmed?** Only the general category is confirmed. Exact dimensions and spacing are unknown and must be verified.
+
+**Are ground anchors included?** The listing does not establish quantity or compatibility. Ask before ordering.
+
+**Is the kennel independently tested for escape or corrosion?** No. It is not an independently reviewed or certified setup.
+
+Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for published related guidance.

@@ -3,6 +3,7 @@ name: M-Shaped Corrugated Cardboard Cat Scratcher
 category: pet-enrichment
 catalogVisible: true
 description: "M-Shaped Corrugated Cardboard Cat Scratcher for climbing, resting, and play. Compare listed features and setup with your needs."
+imageAlt: "M-Shaped Corrugated Cardboard Cat Scratcher product view"
 image: /images/products/m-shaped-corrugated-cardboard-cat-scratcher/1.webp
 gallery:
   - /images/products/m-shaped-corrugated-cardboard-cat-scratcher/2.webp
@@ -65,3 +66,19 @@ The AliExpress title describes an M-shaped product made from corrugated paper an
 Place a scratcher on a stable surface near an area the cat already uses, rather than blocking a walkway. Check that it does not rock or slide when pressed. Cardboard will wear with use; inspect it for loose pieces and replace it when it no longer stays together.
 
 Cats differ in their preferred scratching angles and textures. Offer the new surface alongside existing approved scratching areas and let the cat choose. Do not use the product as a substitute for protecting furniture or providing other suitable scratching options.
+
+
+## Product-specific buying checklist
+
+For **M-Shaped Corrugated Cardboard Cat Scratcher**, focus on size, difficulty, supervised-use guidance, materials, cleanability, food compatibility, and small-part risks. Start with the listing fields above—especially Seller-listed material, Seller-listed shape, Listing extra—and confirm the exact model before comparing options.
+
+The useful question is whether the activity level is suitable and the product can be cleaned safely, not simply whether the product has the longest feature list. Compare the exact selectable option, since bundles and variants can differ.
+
+## Questions to ask before checkout
+
+- Does the current listing include every component shown or described?
+- Do the measurements, capacity, and limits match the intended use?
+- Are cleaning, storage, power, and setup requirements workable in the home?
+- Have shipping, returns, and seller terms been checked for the exact option?
+
+This checklist highlights points to verify rather than claims about independent testing or guaranteed performance.
