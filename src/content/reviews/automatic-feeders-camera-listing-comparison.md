@@ -17,7 +17,7 @@ products:
       - Camera and app control mentioned
       - Timed dry-food portions mentioned
     url: https://s.click.aliexpress.com/e/_c3wgKLMB
-    affiliate: false
+    affiliate: true
   - name: 7L Smart Pet Feeder with Camera and Two Bowls
     priceRange: Check the current listing
     features:
@@ -25,7 +25,7 @@ products:
       - Camera, Tuya app, and two-way audio mentioned
       - Timed feeding mentioned
     url: https://s.click.aliexpress.com/e/_c3IPcqjv
-    affiliate: false
+    affiliate: true
 faqs:
   - question: Does a 7L title mean the feeder holds seven liters of food in every option?
     answer: Not necessarily. Check the exact selected variant and its manual;
@@ -62,3 +62,11 @@ Do not rely on a feeder for a prescribed diet until its documented controls are 
 The listing titles make the advertised capacities and camera-related features easy to compare, but they do not prove accuracy, reliability, or suitability for a particular household. Treat the feature lists as a starting point for checking the exact model—not as test results. AutoPet has not tested either feeder.
 
 The links above are affiliate links. AutoPet may earn a commission if you purchase through them, at no extra cost to you.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [4L Smart Pet Feeder with Camera](/products/4l-smart-pet-feeder-with-camera/)
+- [7L Smart Pet Feeder with Camera and Two Bowls](/products/7l-smart-pet-feeder-camera-dual-bowls/)
+
+Browse the [AutoPet Automatic Cat Feeders category](/category/automatic-cat-feeders/) for the latest published resources.

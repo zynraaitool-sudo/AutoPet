@@ -44,3 +44,10 @@ Do not cut a door until the template, dimensions, and return terms are confirmed
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Automatic Locking Pet Door with Removable Flap](/products/automatic-pet-door-locking-flap/)
+
+Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for the latest published resources.

@@ -41,3 +41,10 @@ Inspect sprouts daily and discard anything moldy, slimy, or foul-smelling. Do no
 ## Bottom line
 
 The most important checks are package contents, drainage, cleaning, and freshness. A planter is a growing accessory, not a substitute for a complete diet or veterinary advice.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Hydroponic Cat Grass Growing Tray](/products/hydroponic-cat-grass-growing-tray/)
+
+Browse the [AutoPet Pet Enrichment category](/category/pet-enrichment/) for the latest published resources.

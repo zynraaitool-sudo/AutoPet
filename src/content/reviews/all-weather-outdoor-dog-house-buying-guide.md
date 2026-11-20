@@ -44,3 +44,10 @@ An outdoor shelter is not a substitute for bringing a dog indoors during dangero
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [All-Weather Outdoor Dog House](/products/all-weather-outdoor-dog-house/)
+
+Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for the latest published resources.

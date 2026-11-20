@@ -44,3 +44,10 @@ Do not use a ball that is too small, damaged, or easy for the dog to swallow. Fo
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Rechargeable Tennis-Ball Launcher for Dogs](/products/rechargeable-tennis-ball-launcher/)
+
+Browse the [AutoPet Pet Enrichment category](/category/pet-enrichment/) for the latest published resources.

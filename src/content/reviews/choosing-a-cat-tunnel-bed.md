@@ -45,3 +45,10 @@ Set the bed on a stable surface where the cat can enter and leave without being 
 ## Inspect it over time
 
 Check seams, fabric, and any loose filling periodically. Remove the bed if it becomes unstable or damaged. Before ordering, confirm the color and design variant, dimensions, cleaning instructions, shipping, and return terms.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Thick Winter Cat Tunnel Cave Bed](/products/winter-cat-tunnel-cave-bed/)
+
+Browse the [AutoPet Pet Enrichment category](/category/pet-enrichment/) for the latest published resources.

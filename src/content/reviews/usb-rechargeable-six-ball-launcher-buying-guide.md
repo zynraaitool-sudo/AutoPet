@@ -44,3 +44,10 @@ Supervise play and store the launcher unplugged when not in use. Follow the prod
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [USB-Rechargeable Dog Ball Launcher with Six Balls](/products/usb-rechargeable-six-ball-launcher/)
+
+Browse the [AutoPet Pet Enrichment category](/category/pet-enrichment/) for the latest published resources.

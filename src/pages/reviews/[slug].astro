@@ -43,6 +43,15 @@ const articleSchema = {
   articleSection: categoryLabel,
   mainEntityOfPage: canonical,
 };
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: [
+    { "@type": "ListItem", position: 1, name: "Home", item: new URL("/", Astro.site).href },
+    { "@type": "ListItem", position: 2, name: "Reviews & Guides", item: new URL("/reviews/", Astro.site).href },
+    { "@type": "ListItem", position: 3, name: title, item: canonical },
+  ],
+};
 ---
 
 <SiteLayout title={`${title} | AutoPet`} description={description} canonical={canonical} type="article" image={image} imageAlt={imageAlt ?? title}>
@@ -98,6 +107,7 @@ const articleSchema = {
     </div>
   </article>
   <script type="application/ld+json" set:html={JSON.stringify(articleSchema)}></script>
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)}></script>
 </SiteLayout>
 
 <style>

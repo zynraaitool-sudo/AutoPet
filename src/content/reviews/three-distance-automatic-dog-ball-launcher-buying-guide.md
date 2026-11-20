@@ -44,3 +44,10 @@ Use only the specified balls and supervise play; stop if the dog guards or chews
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Automatic Dog Ball Launcher with Three Distance Settings](/products/three-distance-automatic-dog-ball-launcher/)
+
+Browse the [AutoPet Pet Enrichment category](/category/pet-enrichment/) for the latest published resources.

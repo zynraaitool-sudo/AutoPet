@@ -44,3 +44,10 @@ Use only a secure, comfortable attachment and never treat video or location feat
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Wearable 4G Pet Video Camera with GPS Features](/products/wearable-pet-video-camera/)
+
+Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for the latest published resources.

@@ -44,3 +44,10 @@ Decide whether the capacity suits the dog and outing. Water needs vary with size
 The listing gives a stated capacity and materials to verify. Confirm the exact option, cleaning details, closure, and current delivery and return terms before buying.
 
 This is a direct AliExpress product link, not an affiliate link.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [285ml Portable Dog Water Bottle](/products/285ml-portable-dog-water-bottle/)
+
+Browse the [AutoPet Pet Walking Travel category](/category/pet-walking-travel/) for the latest published resources.

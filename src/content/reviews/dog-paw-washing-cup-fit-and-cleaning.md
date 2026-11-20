@@ -40,3 +40,10 @@ Introduce the cup while it is empty, then add a small amount of lukewarm water. 
 ## Bottom line
 
 Choose by measured fit and simple cleaning, not by a generic "deep clean" claim. Stop if your dog resists.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Manual Dog Paw-Washing Cup](/products/manual-dog-paw-washing-cup/)
+
+Browse the [AutoPet Pet Grooming category](/category/pet-grooming/) for the latest published resources.

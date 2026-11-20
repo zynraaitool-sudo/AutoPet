@@ -44,3 +44,10 @@ Test brakes and attachment points without a pet aboard before every first trip. 
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Extra-Large Pet Bike Trailer and Stroller](/products/extra-large-pet-bike-trailer/)
+
+Browse the [AutoPet Pet Walking Travel category](/category/pet-walking-travel/) for the latest published resources.

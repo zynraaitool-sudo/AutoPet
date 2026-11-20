@@ -1,0 +1,794 @@
+{
+  "src/content/products/20-inch-pet-bicycle-trailer.md": {
+    "sha256": "e5dbd75ff633cc8f9f72be5e77e5cc494764a0100ffcfafb77099cdef1c98fbb",
+    "draft": true
+  },
+  "src/content/products/285ml-portable-dog-water-bottle.md": {
+    "sha256": "361a1280269a716deff80e4fea2f20c07b758c9cc4804164619a82fabfb44cd0",
+    "draft": false
+  },
+  "src/content/products/360-degree-folding-grooming-table.md": {
+    "sha256": "f52f0928a882b3cd11cc38159eb215ae533f429e689fde09c29faf27aad15c40",
+    "draft": true
+  },
+  "src/content/products/360-degree-pet-bike-trailer.md": {
+    "sha256": "1d04d0d4073b5cf8a7c4b50ea4d2f320011bfb18a2bb4ce43d61fcc0409c8bca",
+    "draft": true
+  },
+  "src/content/products/46-inch-heavy-duty-grooming-table.md": {
+    "sha256": "564e1585c3a1da5943996e72eff555e6961a94c34d2fbd739b10e8e8d0bf1f99",
+    "draft": true
+  },
+  "src/content/products/4g-hunting-gps-dog-collar.md": {
+    "sha256": "ffe2c3f7c154c4f2f2c3cc9a1924813e4f995ae8e9f8361fc2fb354bf006d538",
+    "draft": true
+  },
+  "src/content/products/4l-smart-pet-feeder-with-camera.md": {
+    "sha256": "86f8b6b54bb200be50486839a7f7ac7c91831588fc90909a43a27d79a59b2fa7",
+    "draft": false
+  },
+  "src/content/products/7l-smart-pet-feeder-camera-dual-bowls.md": {
+    "sha256": "fe2985c12ca882ae067e2d61e178fe5c79edb4b1d00ad7e6712d434ce427953d",
+    "draft": false
+  },
+  "src/content/products/adjustable-dog-car-seat-belt-tether.md": {
+    "sha256": "c27c784913e3a37d419bb206ede2a5c66f46d69ca1f4c7b7bdec5f8df4735486",
+    "draft": false
+  },
+  "src/content/products/adjustable-dog-walking-harness.md": {
+    "sha256": "de6134b994304797dd86e02e093aabf738610b0a5e292f96d4af1accc2747c93",
+    "draft": false
+  },
+  "src/content/products/adjustable-raised-slow-feeder-bowl-set.md": {
+    "sha256": "5415ee9e5ff3dc61de449b64c3dc1a7b23d10b9bdeebecaa008ccc48b006e69d",
+    "draft": false
+  },
+  "src/content/products/airtag-cat-collar-holder.md": {
+    "sha256": "c379aba5bd81af9f2ec314835e6eef148e4022503785e83052633bc5a4b30bde",
+    "draft": false
+  },
+  "src/content/products/all-weather-outdoor-dog-house.md": {
+    "sha256": "0f9180e661593e02fd5ffa8660c5c2b3512337bbd1e813b1267cb9ba74f1613f",
+    "draft": true
+  },
+  "src/content/products/anti-slip-folding-large-dog-steps.md": {
+    "sha256": "66ed0e9f56154f33c0886f04df4180013c18a4cf6cf8f48eca19d6f90c03e282",
+    "draft": true
+  },
+  "src/content/products/app-controlled-pet-drying-box.md": {
+    "sha256": "45604e497112f749edfbabb4d43f5d672ec5a85022856845463b25272167e638",
+    "draft": true
+  },
+  "src/content/products/app-controlled-self-cleaning-cat-litter-box.md": {
+    "sha256": "3d32b384cb123036580d8696ebc7ef0b51315b5ab1010bc18c83b6e2c148c833",
+    "draft": false
+  },
+  "src/content/products/automatic-pet-door-locking-flap.md": {
+    "sha256": "5d232eaaaf0edba7e8f75490e89709d652cd2f3bfe3ba6692db1418e948e65b5",
+    "draft": true
+  },
+  "src/content/products/automatic-temperature-pet-dryer-box.md": {
+    "sha256": "1f2b0ad837646674f196a8b24c630e9daa4898d6016ce20999a99e59e9847c36",
+    "draft": true
+  },
+  "src/content/products/brompton-compatible-pet-bike-trailer.md": {
+    "sha256": "f19622f355a864b114a109171634b20bba8974bc8b78e42bbc32986f5ba26d3d",
+    "draft": true
+  },
+  "src/content/products/cat-grooming-hammock.md": {
+    "sha256": "b5959438ae9b9b890037db6fcbbcbfc7f87d6afaebe7098d2fe42455b14fb87d",
+    "draft": false
+  },
+  "src/content/products/cat-wall-climbing-shelves-set.md": {
+    "sha256": "30b8b7684701861d8672957fcfed72fe33feb2b19b5910dc1326a66267ad7d20",
+    "draft": false
+  },
+  "src/content/products/cat-window-hammock-suction-cup.md": {
+    "sha256": "ae0890c5dd6b727f1d6816affa1805231331e9501f686cd32a6123fa67df3027",
+    "draft": false
+  },
+  "src/content/products/cat-window-safety-mesh.md": {
+    "sha256": "0d5568c06e4886dc1b077c61365957252b4e799021d148ccaf0ba81fb6a54190",
+    "draft": false
+  },
+  "src/content/products/collapsible-silicone-pet-food-scoop-bowl.md": {
+    "sha256": "eb4ce21ce41898776d07521f7a08b63f13aa4a57f2f0a02fbf71addab7a7ee61",
+    "draft": false
+  },
+  "src/content/products/collar-activated-smart-cat-door.md": {
+    "sha256": "9f4fe1547bb416e15cdb601d8758ba6687133099690c24f95469c789eb11df2f",
+    "draft": true
+  },
+  "src/content/products/colorful-pet-dryer.md": {
+    "sha256": "1aec1c65b215b573594624902455a742fb003aa0cea2d5660e9ac61ad2f04834",
+    "draft": true
+  },
+  "src/content/products/diatomite-pet-feeding-mat.md": {
+    "sha256": "4543fcb77869dac5a16fa7e8203c8b36f6ad590737269ff0d2704f93292c2a05",
+    "draft": false
+  },
+  "src/content/products/direction-sensing-cat-flap.md": {
+    "sha256": "9086ce1140d4329c0e796097ca2282fe85097fcde5e83be4a9055a1036e55bb6",
+    "draft": true
+  },
+  "src/content/products/dog-agility-obstacle-set-tunnel.md": {
+    "sha256": "fb1f56c39524a1b1506e94dc77386787876c630cfb822663d5bfaa3fd3c478a4",
+    "draft": false
+  },
+  "src/content/products/dog-car-booster-seat.md": {
+    "sha256": "d26e6cfa72da20d364b75564295c23f1953aa9324bc9ede44d1494c326ae3a2f",
+    "draft": false
+  },
+  "src/content/products/dog-life-jacket-float-vest.md": {
+    "sha256": "ff3743c10c180ef5a9d4fbe208509eee6647739414b04dd882b70107c49a4013",
+    "draft": false
+  },
+  "src/content/products/dog-snuffle-mat-nosework.md": {
+    "sha256": "c6727fc771d8b1c9897f47dce7e23819b0cbf6d3fe82d6db066a678729cf677a",
+    "draft": false
+  },
+  "src/content/products/dog-training-clicker-whistle.md": {
+    "sha256": "8ed69f29aeb5c8040aca879093f999b2754a70da3d89d5f2c00ce6cf4f3535a1",
+    "draft": false
+  },
+  "src/content/products/dog-training-treat-pouch.md": {
+    "sha256": "db7851fdb88fe16928bdbea7734c7e786ae7357cb82ec270652a10051b4317bf",
+    "draft": false
+  },
+  "src/content/products/eight-post-cat-climbing-tree.md": {
+    "sha256": "878a8dda297cb7c95cb76adfe8f9a640be5ccb0c1e81072bc038a740c5c9e65c",
+    "draft": true
+  },
+  "src/content/products/electric-pet-nail-grinder.md": {
+    "sha256": "24a3bb368b140e3700225e2ffa45e7c9e293a3cc3e3fc6a15de8fa99823dcdb5",
+    "draft": false
+  },
+  "src/content/products/enclosed-pet-drying-cabinet.md": {
+    "sha256": "309d80a34a4c52ec8c68919a0549181c9ec9bcd1ff98b225cc678bea79b1e615",
+    "draft": true
+  },
+  "src/content/products/escape-resistant-cat-harness-leash.md": {
+    "sha256": "072f682228ae8612dc5c1e231bf416928cc9a977d81be52f41b8f35bbbe87c43",
+    "draft": false
+  },
+  "src/content/products/extra-large-pet-bike-trailer.md": {
+    "sha256": "71466db35456aba89e08316d9ab928f8f3e8fad81f94e01e9f720bcfeec53a49",
+    "draft": true
+  },
+  "src/content/products/firmhome-dual-outlet-slow-feed-dispenser.md": {
+    "sha256": "9b583697092d213305948a38a94c7793528697fb28a64dbcf8f9c6b9a4deccd8",
+    "draft": false
+  },
+  "src/content/products/fish-shaped-silicone-cat-lick-mat.md": {
+    "sha256": "a8415825932de1cd0e41e441d6bf62658d966410ddb0701e79d621b25184aaaf",
+    "draft": false
+  },
+  "src/content/products/five-ball-adjustable-launcher.md": {
+    "sha256": "f7fc64a1ac343897f4fb79c82b3f28a02813d49e9d70b2e695babb69086b3da6",
+    "draft": true
+  },
+  "src/content/products/foldable-dog-splash-pool.md": {
+    "sha256": "c3adc1e5c75e6e0a8d83c653a9723bfae39ac1c9171e86bfb4585d5c68d1ae0f",
+    "draft": false
+  },
+  "src/content/products/folding-aluminum-travel-dog-crate.md": {
+    "sha256": "c44df5f8d88c2dbbbd713739679ebbdb2c6a48362238c9a6e0a5114b225c70fc",
+    "draft": true
+  },
+  "src/content/products/folding-dog-car-ramp-side-rails.md": {
+    "sha256": "a9c825d93cebcf560e94a398f099df78bb9a2a48ef1779b30df373fd656d2227",
+    "draft": false
+  },
+  "src/content/products/folding-medium-large-pet-bike-trailer.md": {
+    "sha256": "5fe5c79ee88f54adc32141a35ac53a26272f1de209268addda46ab3eed83360b",
+    "draft": true
+  },
+  "src/content/products/folding-pet-stroller.md": {
+    "sha256": "28310c4d61f218aaed0451673b2bda1dd491df8b65875a1eb58a44dc06ddab0a",
+    "draft": false
+  },
+  "src/content/products/folding-professional-grooming-table.md": {
+    "sha256": "2154010e4bdc07aaa57e1eeb3c034888ed6fe5612ef53924fe7a26a5f0efd030",
+    "draft": true
+  },
+  "src/content/products/folding-wooden-sofa-pet-steps.md": {
+    "sha256": "6e54362768b7affa3d43a816dab4f9299f1f774ae4fbfbee2e68636d33169c87",
+    "draft": true
+  },
+  "src/content/products/four-megapixel-auto-tracking-pet-camera.md": {
+    "sha256": "7a3eaf10cd59ff11aa3789bc6d09f90112d94b547911220c6cfc64b44889e88b",
+    "draft": true
+  },
+  "src/content/products/heavy-duty-metal-dog-kennel-run.md": {
+    "sha256": "83cceac85125abe1774c45db988e7c14dc855e574a983ffcc5e82380da6c9ef6",
+    "draft": true
+  },
+  "src/content/products/hooded-waterproof-dog-raincoat.md": {
+    "sha256": "8bce589c6c086091e60eff3ca1b6ef74aae9332a99f734c611e2d6b650e0def7",
+    "draft": false
+  },
+  "src/content/products/hydraulic-round-pet-grooming-table.md": {
+    "sha256": "db9fcaa04b7085272eab2eb7d7d918faded990927c6cfa3ed1840f8eafa7e066",
+    "draft": true
+  },
+  "src/content/products/hydroponic-cat-grass-growing-tray.md": {
+    "sha256": "7af034d03c56336507b094868fc88cab521826b81e183b1e6eba59b1a16ebe94",
+    "draft": false
+  },
+  "src/content/products/ip67-real-time-pet-gps-tracker.md": {
+    "sha256": "46f122b235c13986ac8dbf8d135b0d4007102c2cfd1f7b9610ee9ac70bb47f1a",
+    "draft": true
+  },
+  "src/content/products/ipx6-pet-location-tracker.md": {
+    "sha256": "0fef1156b293b191a313055a758f3f6bd3b74fa828f4bc98fb9b179a8be92deb",
+    "draft": true
+  },
+  "src/content/products/large-app-controlled-self-cleaning-litter-box.md": {
+    "sha256": "72b0e934cdd7e0cf22523dd6eb307a67a6a5262d51e96b5ca1c977c550f1f1de",
+    "draft": false
+  },
+  "src/content/products/large-metal-outdoor-dog-run.md": {
+    "sha256": "3d5558ba0083bbba7a6fe3f8f4fffdc61532c8f4d183d76b31d2bc890d910653",
+    "draft": true
+  },
+  "src/content/products/lemeenq-rechargeable-interactive-cat-ball.md": {
+    "sha256": "e2e12a32e0a21485e2f8edf19379a38b6788cf6270c2c0339738ad2ea988c083",
+    "draft": false
+  },
+  "src/content/products/m-shaped-cardboard-cat-scratcher.md": {
+    "sha256": "12cecae47a8f129cbcd39c42c8b1b2a1936601e95e227579cc35e33465e1f0d4",
+    "draft": false
+  },
+  "src/content/products/manual-dog-paw-washing-cup.md": {
+    "sha256": "3f031cdc7b3bb980fbbdff8e54fae0a0b4b2a2d2e372c89c3aae80dbf795aa29",
+    "draft": false
+  },
+  "src/content/products/manual-hydraulic-50kg-grooming-table.md": {
+    "sha256": "de7d815b846cae29770f75e5ec37bc85fb0f12e68898e6984860e9e0d4a3526a",
+    "draft": true
+  },
+  "src/content/products/microchip-recognition-pet-door.md": {
+    "sha256": "351109dede43364c644028de10da5346079c928a0591529911fabb3f741fc9fa",
+    "draft": true
+  },
+  "src/content/products/modular-indoor-pet-kennel.md": {
+    "sha256": "a35a08e28db55df168075c51fecb723100f9134e2099ccb23b2429a442199a9d",
+    "draft": true
+  },
+  "src/content/products/motion-sensor-pet-water-fountain.md": {
+    "sha256": "7c81748ca84ea427e47ceb495c8d57c0d7698308a4db441a2f3b3e03166a29af",
+    "draft": false
+  },
+  "src/content/products/outdoor-bird-nest-wifi-camera.md": {
+    "sha256": "07d1fdda4885f87fab0a4f19ae8dafe232e7640b8859d924487aea1975170a20",
+    "draft": true
+  },
+  "src/content/products/parrot-treat-foraging-spinner.md": {
+    "sha256": "6cbc64f95b305dceb2b30f48e353e3c6106ca9ed81494a3a48508724ae91e1c9",
+    "draft": false
+  },
+  "src/content/products/pet-bath-brush-shower-hose.md": {
+    "sha256": "fd09dc6b6162a3b6914d9aacac4194cf2a577edf135c4c272d43ad9bb5df65f9",
+    "draft": false
+  },
+  "src/content/products/pet-emergency-first-aid-travel-kit.md": {
+    "sha256": "7b7d7c57c97609093b8b133508b9f195f0c1d51c2b0aa43c80937e4adda1f562",
+    "draft": false
+  },
+  "src/content/products/plastic-panel-multi-pet-enclosure.md": {
+    "sha256": "960277d507b9cfaee5c4c0913fba709e8b2218de9a07d202464c50012a2245a6",
+    "draft": true
+  },
+  "src/content/products/portable-octagonal-pet-playpen.md": {
+    "sha256": "7e33ba5c043d3ff609e29dba94553daf2ee5a6cce2b8442e8de448345eb9fcde",
+    "draft": false
+  },
+  "src/content/products/portable-plastic-pet-enclosure-door.md": {
+    "sha256": "b781def9304344f4026750e26afae40d570772f9fb34eb3d7cd074343c0e4623",
+    "draft": true
+  },
+  "src/content/products/rechargeable-tennis-ball-launcher.md": {
+    "sha256": "13f3735c8eac6c62c2684307c49875e9b8785c0454b76535afb9d5d9b8133bae",
+    "draft": true
+  },
+  "src/content/products/reusable-pet-hair-remover-roller.md": {
+    "sha256": "52030b2cb833f28bdc1c7dc51531ac6ab70c289a623d74062eae100963480ab1",
+    "draft": false
+  },
+  "src/content/products/rfid-radar-smart-pet-door.md": {
+    "sha256": "dffad6a335a4941dc70c8ef0df76a17c2ebf007695a13fb99bae54933d732362",
+    "draft": true
+  },
+  "src/content/products/rojeco-5l-feeder-3-5l-gravity-water.md": {
+    "sha256": "4bb1cd197fca25ad28132a7df63c3fdabcf306165e96bcebf8a1aab91ba5e714",
+    "draft": false
+  },
+  "src/content/products/rojeco-stainless-steel-pet-water-fountain.md": {
+    "sha256": "deec1453c17f5306eb2ef119940a35d265af58edefbda9890ce7a3ed2b1176c2",
+    "draft": false
+  },
+  "src/content/products/rotating-foam-pet-stairs.md": {
+    "sha256": "ea16f8a0932eba1536bc7c6246b82a4163f1878bda5c2c03e12550c780411dfd",
+    "draft": true
+  },
+  "src/content/products/second-generation-timed-pet-door.md": {
+    "sha256": "5afb27841d6695acb88b75ff9d80b3271d48441d29e261e3287b031ea19436d7",
+    "draft": true
+  },
+  "src/content/products/self-cleaning-pet-grooming-brush.md": {
+    "sha256": "a9b464b7cb354f52da1352dc56ffb0d4358324dc47ed548aa8d227c637d6e637",
+    "draft": false
+  },
+  "src/content/products/silent-cat-exercise-wheel.md": {
+    "sha256": "3c502e760649e6fa2257507e15cb47fa65214b91bbe469864d7c988b73f44f37",
+    "draft": false
+  },
+  "src/content/products/smart-timed-pet-feeder-app-control.md": {
+    "sha256": "ac9d8ce888a370cf3e6ffdfcd277d325de337bad82e12daff2c374397aa1bb18",
+    "draft": false
+  },
+  "src/content/products/solar-4g-outdoor-pet-camera.md": {
+    "sha256": "8f0471b99a03ade7fa75d1402700cf2e00e79acd7ef2b1c1e76abc1c34e80868",
+    "draft": true
+  },
+  "src/content/products/solid-wood-folding-pet-stairs.md": {
+    "sha256": "945bcd51ec2ca5ddc271c4b8a9727d174e811eb736307700e46d52effd167138",
+    "draft": true
+  },
+  "src/content/products/solid-wood-multi-cat-climbing-frame.md": {
+    "sha256": "07b59c3677eb66ccae4f24df47b6b5d978c49cf600e9021ed2be37fcd6d6b95d",
+    "draft": true
+  },
+  "src/content/products/space-saving-cat-climbing-condo.md": {
+    "sha256": "7c36aabac47e9f35cd98926d3f48afa5c227f98a50407c5851a84506a3195cb7",
+    "draft": true
+  },
+  "src/content/products/tall-solid-wood-cat-tower.md": {
+    "sha256": "9e7632b2806a080686c1317ebb28aac50be75f2b839a4bb53912300b3c4fc0a7",
+    "draft": true
+  },
+  "src/content/products/three-distance-automatic-dog-ball-launcher.md": {
+    "sha256": "a8e4af5be653fd76cb31cd17026130d5f22198edc24460913aebe933b916b753",
+    "draft": true
+  },
+  "src/content/products/transparent-capsule-pet-backpack.md": {
+    "sha256": "57c692af739c55b22ab3cb770c9daa1d0e9969ec81f6ccb82be2e9a4a981905c",
+    "draft": false
+  },
+  "src/content/products/tuya-five-megapixel-pet-camera.md": {
+    "sha256": "91f8670238a91f0cdf8fe6c898ddd406653925b8ece803135aa35e020b561e18",
+    "draft": true
+  },
+  "src/content/products/usb-rechargeable-led-dog-collar.md": {
+    "sha256": "2bb56e6136c505c4a7813da8964178bdd3cc30de507614292f2cc69ecb03bfce",
+    "draft": false
+  },
+  "src/content/products/usb-rechargeable-six-ball-launcher.md": {
+    "sha256": "7b3a7c0789430ae4191a9ba0640545a910bf3e3a4ec449781d20251e84108bde",
+    "draft": true
+  },
+  "src/content/products/usmilepet-plastic-grooming-table.md": {
+    "sha256": "daf3dc13cf3d0d194a908c60b88d2b893e421126350243e6ff86711fc46e9618",
+    "draft": true
+  },
+  "src/content/products/washable-pet-cooling-mat.md": {
+    "sha256": "7cb98ff83e6578cfa5aeca063b0abce423a777188ee393e56ec3e0bd25643680",
+    "draft": false
+  },
+  "src/content/products/waterproof-dog-cargo-seat-cover.md": {
+    "sha256": "6d7ec95417f0452a58ea3190ee22a42e6e234651c18ff1df68a1e273174ea5ac",
+    "draft": false
+  },
+  "src/content/products/wearable-pet-video-camera.md": {
+    "sha256": "61bd419edcecb08386bda236128a1ab83913ab728e811a0be69bdd81bd004240",
+    "draft": true
+  },
+  "src/content/products/weatherproof-wooden-cat-shelter.md": {
+    "sha256": "13b4a44129a9bd50fdd5ed4f6babce3d1415f1cc462dc8ad71fd321c8cf95887",
+    "draft": true
+  },
+  "src/content/products/winter-cat-tunnel-cave-bed.md": {
+    "sha256": "6a1638cea2012e6693d34e22fc493059b6294c30d7d1898bfa1826c54097e0d5",
+    "draft": false
+  },
+  "src/content/products/winter-pomeranian-dog-shoes.md": {
+    "sha256": "24075f9d1e73dac7d5f89ba8e66ee9a07f1178b242973e12a359f7d2039a4bbf",
+    "draft": false
+  },
+  "src/content/products/winter-washable-pet-house-bed.md": {
+    "sha256": "c97c080997b2332f2f4919c68705c670865e1c658059821a3386aa33717a62a6",
+    "draft": true
+  },
+  "src/content/reviews/20-inch-pet-bicycle-trailer-buying-guide.md": {
+    "sha256": "446ff2410a1793115ada027e0b0a7c3b331928c0887b920e46664a0efc2b83b0",
+    "draft": true
+  },
+  "src/content/reviews/360-degree-folding-grooming-table-buying-guide.md": {
+    "sha256": "876be0119c4562d7b6e2dfa39f30b389df9b4cdc0faa0b0f12ae1b4564c4c3df",
+    "draft": true
+  },
+  "src/content/reviews/360-degree-pet-bike-trailer-buying-guide.md": {
+    "sha256": "e0d55cdfa94d66c5b8df305b2a222bb50436e7adcc455dc43ba3785255cfc496",
+    "draft": true
+  },
+  "src/content/reviews/46-inch-heavy-duty-grooming-table-buying-guide.md": {
+    "sha256": "daf1cd61bbc9ac93ad1bd2cf64b978a20643c7a444897a6ae8a0e3883a268130",
+    "draft": true
+  },
+  "src/content/reviews/4g-hunting-gps-dog-collar-buying-guide.md": {
+    "sha256": "4068e19a43977bc995b0b664b602ef1d9b3e14aa22953fac0f12159ac7c3679e",
+    "draft": true
+  },
+  "src/content/reviews/all-weather-outdoor-dog-house-buying-guide.md": {
+    "sha256": "1825056ccd3639245c421ef993dcc73c5cc7479ac36a14946dfa2e2147851828",
+    "draft": true
+  },
+  "src/content/reviews/anti-slip-folding-large-dog-steps-buying-guide.md": {
+    "sha256": "ed51181a67dd079aa359da6857560449dc42667993014454a853a8774ad7253f",
+    "draft": true
+  },
+  "src/content/reviews/app-controlled-pet-drying-box-buying-guide.md": {
+    "sha256": "c6bdaefb05cbdcd475c8606104481cd7c46431101bc23e3981ad868c350bdd86",
+    "draft": true
+  },
+  "src/content/reviews/automatic-feeders-camera-listing-comparison.md": {
+    "sha256": "62e374f37e5069a597947c2bdb8413fdcc1932d705af3be3dce8270b40a4cf9d",
+    "draft": false
+  },
+  "src/content/reviews/automatic-pet-door-locking-flap-buying-guide.md": {
+    "sha256": "745f7c04a02257e44e295b8109f258332f53bf0f985656782761d100db337218",
+    "draft": true
+  },
+  "src/content/reviews/automatic-temperature-pet-dryer-box-buying-guide.md": {
+    "sha256": "a2d802464eadc2f00f42edc198a0f69d898b0922603f435507d73417820b5593",
+    "draft": true
+  },
+  "src/content/reviews/brompton-compatible-pet-bike-trailer-buying-guide.md": {
+    "sha256": "5c67f8e905c6844b80fba3e3b4dd646b8f546ee3e545335e64eb0c68b5a04e3b",
+    "draft": true
+  },
+  "src/content/reviews/cat-exercise-wheel-fit-and-introduction.md": {
+    "sha256": "61a4f4bcde7b829c3968cf2905d5295458b68fc7eeb8a0db1112a37f3eaff319",
+    "draft": false
+  },
+  "src/content/reviews/cat-wall-shelves-mounting-and-spacing-guide.md": {
+    "sha256": "627465a23dcb2a5e665c5dca1435d96e6ee215d8d04b0d904a66e4f972a01a75",
+    "draft": false
+  },
+  "src/content/reviews/cat-window-hammock-suction-cup-safety.md": {
+    "sha256": "341c838edcf32a140c27bbea27b2139f1acd3b0fafe96a0cf3ace30572ba4918",
+    "draft": false
+  },
+  "src/content/reviews/cat-window-protection-mesh-measurement-guide.md": {
+    "sha256": "48d61113431cb89bb51b8f00bdd4fbc52d36929d658e7bce62a52ed4bb7264a4",
+    "draft": false
+  },
+  "src/content/reviews/checking-a-collapsible-pet-food-accessory.md": {
+    "sha256": "c1bf688f1c1501f6990742ca17c36ab0d8ba2ba223ea4624145b55524c71f04e",
+    "draft": false
+  },
+  "src/content/reviews/checking-a-transparent-pet-backpack.md": {
+    "sha256": "54851c2a85b8555588072b1d3e4aa58180f2cbc6a73fa7cc77376cfbb527dad0",
+    "draft": false
+  },
+  "src/content/reviews/checking-an-adjustable-slow-feeder.md": {
+    "sha256": "7c47991dbc2427a9d1062e86468ce488cb6c4366ad6c9038b79f0d929e287ddd",
+    "draft": false
+  },
+  "src/content/reviews/choosing-a-cat-tunnel-bed.md": {
+    "sha256": "bf4aeb979dcfa6b04582e4dfe232769f955bf5a69f608da24e06c49819f562c5",
+    "draft": false
+  },
+  "src/content/reviews/choosing-a-diatomite-pet-feeding-mat.md": {
+    "sha256": "24a7badf4fd274870b920f1d8cc6397f3a328b54f686e7a88ae4ca91b6359b49",
+    "draft": false
+  },
+  "src/content/reviews/choosing-and-introducing-a-pet-nail-grinder.md": {
+    "sha256": "6349fc8a5159b4285e023275d7aa5f83663d141e0264c669398ae5f38b223ce9",
+    "draft": false
+  },
+  "src/content/reviews/collar-activated-smart-cat-door-buying-guide.md": {
+    "sha256": "3603d00326f409191ee0fb04db20f158c02b680d014e215e3aa03763e5a9ef52",
+    "draft": true
+  },
+  "src/content/reviews/colorful-pet-dryer-buying-guide.md": {
+    "sha256": "319fb2a39f4a744afe296176aa45f9d576c08ca82bdcc5d2f82ae313f484a407",
+    "draft": true
+  },
+  "src/content/reviews/direction-sensing-cat-flap-buying-guide.md": {
+    "sha256": "d5d57a4c4d835af85721edbe8eae647d7d618197f9c7e78cf0c1021a953d4a97",
+    "draft": true
+  },
+  "src/content/reviews/dog-agility-obstacle-set-safe-introduction.md": {
+    "sha256": "b3471da56c78ebfbed2eb6b93545bed34b6cc1e5728ef4da73efaf2840b340da",
+    "draft": false
+  },
+  "src/content/reviews/dog-bath-shower-brush-compatibility.md": {
+    "sha256": "b428379c4c7e0a1cb79c877c2f3746b20bca3d7fe362ad08eaaacbe1d95c2170",
+    "draft": false
+  },
+  "src/content/reviews/dog-car-booster-seat-setup-and-restraint.md": {
+    "sha256": "1ca4792d9a8692722a91bc0b9edd9cc40f64354c1727e99926f7cc82f3332492",
+    "draft": false
+  },
+  "src/content/reviews/dog-car-seat-belt-compatibility-guide.md": {
+    "sha256": "afd446681baca772beeaf130d10f178f9ce72d81c2ebb2370dd392da4faaa1eb",
+    "draft": false
+  },
+  "src/content/reviews/dog-harness-fit-check-guide.md": {
+    "sha256": "7629e298d9da822b85e41932728a2deed61f89f77d295c79f8d37c0ff2acecf6",
+    "draft": false
+  },
+  "src/content/reviews/dog-life-jacket-fit-and-water-safety.md": {
+    "sha256": "797d1818fbb663095eb479ba6bd0591026d11c231f56855db481faa4a7b4b3a5",
+    "draft": false
+  },
+  "src/content/reviews/dog-paw-washing-cup-fit-and-cleaning.md": {
+    "sha256": "c7ed220e866936044efa29aed2a65441134caae6c5f5a2ef96a2a90d7f6acd50",
+    "draft": false
+  },
+  "src/content/reviews/dog-snuffle-mat-supervision-and-cleaning-guide.md": {
+    "sha256": "8c768a5f660efa7bc2df898d81e896c17c1fb03dd36ec5e8d122ac2f232dc676",
+    "draft": false
+  },
+  "src/content/reviews/dog-training-clicker-timing-guide.md": {
+    "sha256": "608634512582c715f5579c29427eff3d2af9989c0e574ca0ebbd9b5fe53064ff",
+    "draft": false
+  },
+  "src/content/reviews/dog-training-treat-pouch-checklist.md": {
+    "sha256": "6eece788c7fab89e73913247674116f5335f19eb749662ccf33a360b0a0d63b8",
+    "draft": false
+  },
+  "src/content/reviews/eight-post-cat-climbing-tree-buying-guide.md": {
+    "sha256": "3d03e8b10f408a37cc275f0854a564e523b3b88a965b80a4b8fe4b00680ccdee",
+    "draft": true
+  },
+  "src/content/reviews/enclosed-pet-drying-cabinet-buying-guide.md": {
+    "sha256": "d9d241ff710acc707bb8560f1063804e51b10c4f64c03879b01fd1f1640ad081",
+    "draft": true
+  },
+  "src/content/reviews/escape-resistant-cat-harness-fitting-guide.md": {
+    "sha256": "ad99b337596e79ce5414ad5394f83de82258785f8a7c61bb797218a17b3e796d",
+    "draft": false
+  },
+  "src/content/reviews/extra-large-pet-bike-trailer-buying-guide.md": {
+    "sha256": "abdedce5ce4a53db9712cf4a5e9c0b8d2ee58ac49fe64e9b161a4b0bf7adce11",
+    "draft": true
+  },
+  "src/content/reviews/fitting-a-hooded-dog-raincoat.md": {
+    "sha256": "ca28bf087a4a053b7bb54c8d66be09569a684cf5588ed94945513ec7ce9d3490",
+    "draft": false
+  },
+  "src/content/reviews/fitting-winter-shoes-for-small-dogs.md": {
+    "sha256": "eb5e6e93b0502c5c03d37557394369a944bdc486fe75e095870a52e80cc483ec",
+    "draft": false
+  },
+  "src/content/reviews/five-ball-adjustable-launcher-buying-guide.md": {
+    "sha256": "9540c7bf07953753f33a1399ef5d845d98a811b24bc143bd6692405c169e214a",
+    "draft": true
+  },
+  "src/content/reviews/foldable-dog-pool-size-and-surface-guide.md": {
+    "sha256": "e34843f696abb18d1a7beee3c19d26d7029842ee919185c48f9f45f59055469c",
+    "draft": false
+  },
+  "src/content/reviews/folding-aluminum-travel-dog-crate-buying-guide.md": {
+    "sha256": "963b90d2c87d9a5c7ee2439e75f53178a7ad9fa9c6b1264af3b72e2103e62f52",
+    "draft": true
+  },
+  "src/content/reviews/folding-dog-car-ramp-fit-and-grip-guide.md": {
+    "sha256": "e1bd2db1969b58647ce7380d11f8afa14819cd2243454fd5e949d11ed4bda79c",
+    "draft": false
+  },
+  "src/content/reviews/folding-medium-large-pet-bike-trailer-buying-guide.md": {
+    "sha256": "9fb4d6b1c64acbde2051f333795c1fd1f413a69b8d86c4768337d946d957221f",
+    "draft": true
+  },
+  "src/content/reviews/folding-professional-grooming-table-buying-guide.md": {
+    "sha256": "8e49c442da02c115029e3f0467b6f066eb682b6b2a2a072910dbca2f7253efeb",
+    "draft": true
+  },
+  "src/content/reviews/folding-wooden-sofa-pet-steps-buying-guide.md": {
+    "sha256": "b84eea8e535aa97828a2946193acbb96bf541c883bae950f363d975b306f8bd4",
+    "draft": true
+  },
+  "src/content/reviews/four-megapixel-auto-tracking-pet-camera-buying-guide.md": {
+    "sha256": "20cb8f2576a3befcd6255dd731e7c3943252b03d268317f1e256dbffa8e97aa4",
+    "draft": true
+  },
+  "src/content/reviews/heavy-duty-metal-dog-kennel-run-buying-guide.md": {
+    "sha256": "34cb7c8dcdd8dfe5a50f6ce39a6985bf4c3d181e99fa506d48b22faa08ae806d",
+    "draft": true
+  },
+  "src/content/reviews/hydraulic-round-pet-grooming-table-buying-guide.md": {
+    "sha256": "0e4429534474636137e08cb0e06627541fb61b05794cefed20a75b61fc0fe9fe",
+    "draft": true
+  },
+  "src/content/reviews/hydroponic-cat-grass-planter-setup-guide.md": {
+    "sha256": "3b4382eeee8c38ebcbc32964354ba7a64d31115a75f800a37e86dee9c6e40609",
+    "draft": false
+  },
+  "src/content/reviews/ip67-real-time-pet-gps-tracker-buying-guide.md": {
+    "sha256": "33760012b539a28c81d1ed8d50800ad999b7b3ae97968f71fde8697a09d031d4",
+    "draft": true
+  },
+  "src/content/reviews/ipx6-pet-location-tracker-buying-guide.md": {
+    "sha256": "5643e2afc45c5b58f782e533d540374ca04eec56ccd13fdd8e14d64220a84cb4",
+    "draft": true
+  },
+  "src/content/reviews/large-capacity-auto-litter-box-questions.md": {
+    "sha256": "9bbf7636d07792dc8fa6294ad56a72f38f23f3b1654f68cc25889e5d3668c957",
+    "draft": false
+  },
+  "src/content/reviews/large-metal-outdoor-dog-run-buying-guide.md": {
+    "sha256": "fb8a73624589179c829657566d772bf3f13fc939d8585b5860af8fdd3b5553bb",
+    "draft": true
+  },
+  "src/content/reviews/manual-hydraulic-50kg-grooming-table-buying-guide.md": {
+    "sha256": "957151280d9e7a3fec4c824e02693d19c04e7741c990b7517cfd299fcc29de09",
+    "draft": true
+  },
+  "src/content/reviews/measuring-a-dog-car-cargo-cover.md": {
+    "sha256": "bac7e01bedb00fad60b834ec3dd011600f980190c40123cf988fd00064bcec36",
+    "draft": false
+  },
+  "src/content/reviews/microchip-recognition-pet-door-buying-guide.md": {
+    "sha256": "562960adfd8c2a3a85326cf4a124153ef65d7dad58103bfab78ab6b572debd03",
+    "draft": true
+  },
+  "src/content/reviews/modular-indoor-pet-kennel-buying-guide.md": {
+    "sha256": "de31421c72e5f8790117873521be32ed1bef3a8646a73453415efc85f3e29e6c",
+    "draft": true
+  },
+  "src/content/reviews/motion-sensor-pet-fountain-buying-checks.md": {
+    "sha256": "3aaa3825ea378f92ec7b9921bd4c3b2cf5ca7c09a7c0563b181db2b92b3f6e5b",
+    "draft": false
+  },
+  "src/content/reviews/outdoor-bird-nest-wifi-camera-buying-guide.md": {
+    "sha256": "f489294e97ac12e25ce0b121cc07adf19b6488f261d2af4d22e5988b19ae5319",
+    "draft": true
+  },
+  "src/content/reviews/parrot-treat-foraging-spinner-safety-guide.md": {
+    "sha256": "e2a7af30288a940d3bcf0c73b309cddf721a0e69281b88c2d1d904c4029ef9aa",
+    "draft": false
+  },
+  "src/content/reviews/pet-cooling-mat-care-and-temperature-guide.md": {
+    "sha256": "923505e4a44b2f684020cb8b7d892adc827c7191fe8902faa367f1eee90fc220",
+    "draft": false
+  },
+  "src/content/reviews/pet-first-aid-kit-checklist.md": {
+    "sha256": "b9bbe8a9ee5820249eca7ef4678ee8b3233877c84da4dfe00b7de480ded5d4c1",
+    "draft": false
+  },
+  "src/content/reviews/pet-grooming-hammock-fit-and-supervision.md": {
+    "sha256": "47967138e64a663267391678caaf9b07013292a863d1322c2f4921728898a10b",
+    "draft": false
+  },
+  "src/content/reviews/pet-stroller-wheel-fit-and-folding-guide.md": {
+    "sha256": "eb6d1d4e1d908d130c7e701d3b8b867fbe2c9f98cf15e7a3a31ea5e1e1f09849",
+    "draft": false
+  },
+  "src/content/reviews/plastic-panel-multi-pet-enclosure-buying-guide.md": {
+    "sha256": "334cd9687a7079dabae514ed8c89c9775eedaab51478eb470c779a11567bc957",
+    "draft": true
+  },
+  "src/content/reviews/portable-dog-water-bottle-listing-guide.md": {
+    "sha256": "9d944013869a56e982b432046230d12fa5d74f166a0ed7102eae4d7d7c32476d",
+    "draft": false
+  },
+  "src/content/reviews/portable-pet-playpen-setup-guide.md": {
+    "sha256": "172630fd4100baae8aa5aebbba2d96f7f58547f3674a46832a23590dcaa0d508",
+    "draft": false
+  },
+  "src/content/reviews/portable-plastic-pet-enclosure-door-buying-guide.md": {
+    "sha256": "1f071e300f06dee9181cf390b070be0fb5cffc867f3619c8dd6c697062bbf59e",
+    "draft": true
+  },
+  "src/content/reviews/rechargeable-cat-ball-toy-buying-guide.md": {
+    "sha256": "fbbc2f4727770a0a1961da501d5f5c4e6d97b917df76207c7bd2ede7683319fe",
+    "draft": false
+  },
+  "src/content/reviews/rechargeable-led-dog-collar-buying-guide.md": {
+    "sha256": "2c760372c03592068174d662b2fcc77cd33a952e493bdd3fe887be1fc4bb4c7f",
+    "draft": false
+  },
+  "src/content/reviews/rechargeable-tennis-ball-launcher-buying-guide.md": {
+    "sha256": "aa8f8fbd54740151787673934de665d89ec085841935ceab4e15211fcc5f5196",
+    "draft": true
+  },
+  "src/content/reviews/rfid-radar-smart-pet-door-buying-guide.md": {
+    "sha256": "b523d1dc81ecbfdd8d0ce15a30ce62eb2a7a6b27346a629007be6d10f40de043",
+    "draft": true
+  },
+  "src/content/reviews/rojeco-8-5l-smart-automatic-pet-feeder-water-fountain-review.md": {
+    "sha256": "3a7ea5fb1afec36d67914fad99022f39af12d510dbddb84eb307df3e6ee558a5",
+    "draft": false
+  },
+  "src/content/reviews/rojeco-stainless-water-fountain-listing-guide.md": {
+    "sha256": "c2084423f40609e1c5df46a64b8d1e4ee7984626f17cde1f49a5d31d7592bba2",
+    "draft": false
+  },
+  "src/content/reviews/rotating-foam-pet-stairs-buying-guide.md": {
+    "sha256": "051dd46f75b1d320a8552bb27be66131ed4b5ab54292a0ba3502f50b70417b5e",
+    "draft": true
+  },
+  "src/content/reviews/safe-use-of-silicone-lick-mats.md": {
+    "sha256": "310b953c97bbb1e58c3496e0c811cc78eb76a1abb21e9c5cea23325eaac724ca",
+    "draft": false
+  },
+  "src/content/reviews/second-generation-timed-pet-door-buying-guide.md": {
+    "sha256": "49a2764b1546c0dfc8d4a1e9a85817169ef1f1a3cc81c20bd0b149965b205c68",
+    "draft": true
+  },
+  "src/content/reviews/self-cleaning-pet-brush-buying-guide.md": {
+    "sha256": "f9d4435fe43b3a8686fcbe6eb0c22874a46e2ce04882cb13e167759feaa68ef8",
+    "draft": false
+  },
+  "src/content/reviews/setting-up-a-cardboard-cat-scratcher.md": {
+    "sha256": "43009761b6d83d8d6fc050a2dfd62100f874043511f68ce2fd9747d2853a99d3",
+    "draft": false
+  },
+  "src/content/reviews/smart-feeder-listings-comparison.md": {
+    "sha256": "8d4d06eaabe0718f711b8959d075ee2d3b892f46a1a0389b37a6562de783aa8f",
+    "draft": false
+  },
+  "src/content/reviews/solar-4g-outdoor-pet-camera-buying-guide.md": {
+    "sha256": "7322ca2377d7e4a4f95f61db19f171a31994e7591320d5f2be6fb14b68acb377",
+    "draft": true
+  },
+  "src/content/reviews/solid-wood-folding-pet-stairs-buying-guide.md": {
+    "sha256": "f7c5dad247e902570b5bb4c3b3b766b1cb037caa64d04d98996c9a9c5b4569fb",
+    "draft": true
+  },
+  "src/content/reviews/solid-wood-multi-cat-climbing-frame-buying-guide.md": {
+    "sha256": "a0c121cc23e532db1e961765579abc0dbf83d486a32bfc44b688a0ba4891e3f9",
+    "draft": true
+  },
+  "src/content/reviews/space-saving-cat-climbing-condo-buying-guide.md": {
+    "sha256": "809ad9a807eeb1c264bd0a74ee3a955deb664fe7173aad60bc813d803479b439",
+    "draft": true
+  },
+  "src/content/reviews/tall-solid-wood-cat-tower-buying-guide.md": {
+    "sha256": "4ebaf94e9646b261df773fc0e4dd128d62003aeb45297666de2dd826c3c43208",
+    "draft": true
+  },
+  "src/content/reviews/three-distance-automatic-dog-ball-launcher-buying-guide.md": {
+    "sha256": "34c2196f6bbf1b6036222868c6e69e0cc24abde62c4ceceffc8f8ee8bb0bdab5",
+    "draft": true
+  },
+  "src/content/reviews/tuya-five-megapixel-pet-camera-buying-guide.md": {
+    "sha256": "41ece0d446a0b07158d9f91204918f491202d7344dbb971f6fcb7701317931c1",
+    "draft": true
+  },
+  "src/content/reviews/usb-rechargeable-six-ball-launcher-buying-guide.md": {
+    "sha256": "cdaee4d66f76c83494f91738454730241a0f1e09fd48643b715573f906d4ca65",
+    "draft": true
+  },
+  "src/content/reviews/usmilepet-plastic-grooming-table-buying-guide.md": {
+    "sha256": "af9981ef6b706d1148e74f6f528c480d17d2a881ff3d120a49cb55b6535f0f68",
+    "draft": true
+  },
+  "src/content/reviews/washable-pet-hair-remover-use-guide.md": {
+    "sha256": "4d05d21e8b13445cdf1b262aec0e848007aa8d8ac69c6ec892fb8150f602c986",
+    "draft": false
+  },
+  "src/content/reviews/wearable-pet-video-camera-buying-guide.md": {
+    "sha256": "69744d7df12537adccf01beddd7904798f3c3101a3eaf8a4811d739c7c906396",
+    "draft": true
+  },
+  "src/content/reviews/weatherproof-wooden-cat-shelter-buying-guide.md": {
+    "sha256": "b302566b4fe58eb4dfe0b3c77ae77f25a3b49002b278a4d6a8528cb212860ed8",
+    "draft": true
+  },
+  "src/content/reviews/what-an-airtag-cat-collar-can-and-cannot-do.md": {
+    "sha256": "330da40693204ab5a7cf98d69247a9237b1a8f822e45f1847de718006aa8a20c",
+    "draft": false
+  },
+  "src/content/reviews/wifi-self-cleaning-cat-litter-box-checklist.md": {
+    "sha256": "7f42751e85eab2d27a752450e333a57244584fdb72e0b40e55b8512e0a7c5058",
+    "draft": false
+  },
+  "src/content/reviews/winter-washable-pet-house-bed-buying-guide.md": {
+    "sha256": "448e3320ea1e34c0017c2b73323afd49008ce9aab1ba30548054eebe98f3fc35",
+    "draft": true
+  }
+}

@@ -46,3 +46,10 @@ Keep a separate clean water source available while introducing a fountain. Follo
 The listing provides a starting point for comparing material and intended use, but not enough information to determine whether the fountain fits your household. Verify the exact parts, capacity, maintenance needs, and seller terms on the current page. This is not a hands-on review.
 
 This is a direct AliExpress product link, not an affiliate link.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [ROJECO Stainless Steel Pet Water Fountain](/products/rojeco-stainless-steel-pet-water-fountain/)
+
+Browse the [AutoPet Pet Water Fountains category](/category/pet-water-fountains/) for the latest published resources.

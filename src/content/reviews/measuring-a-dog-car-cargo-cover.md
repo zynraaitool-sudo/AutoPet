@@ -46,3 +46,10 @@ A cover may help protect upholstery from dirt, but it does not secure a dog duri
 ## Confirm care and current terms
 
 Check cleaning instructions, seams, dimensions, the exact variant, shipping, and returns. Test the fit while parked before taking a trip, and adjust or remove the cover if it slides or blocks access to safety equipment.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Waterproof Dog Cargo Seat Cover, 137 × 147 cm](/products/waterproof-dog-cargo-seat-cover/)
+
+Browse the [AutoPet Pet Walking Travel category](/category/pet-walking-travel/) for the latest published resources.

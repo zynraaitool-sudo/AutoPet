@@ -18,4 +18,29 @@ displayOrder: 842
 draft: true
 ---
 
+<!-- autopet-master-optimized -->
+## Overview
+Automatic Dog Ball Launcher with Three Distance Settings for climbing, resting, and play. Compare listed features and setup with your needs.
+
+## Listed features
+- "three launch distances, advertised as approximately 10-30 feet."
+
+## Details to verify
+- **AliExpress item:** "1005011749990352"
+
+## Practical considerations
+
+Potential benefits listed or reasonably tied to the seller listing:
+- "Automatic fetch can add a repeatable game for dogs that enjoy chasing balls."
+
+Limitations and checks:
+- Check the selected option's specifications, shipping, and return terms before ordering.
+
+## Before buying
+Check the correct size and weight range, stable placement, supervision needs, and wear points before regular use.
+
+This page summarizes the available listing information and has not been presented as an independent hands-on test or certification. Confirm the live option, included accessories, measurements, and seller terms before purchase.
+
+## Related guide
+Read [Three-Range Ball Launchers: Check Ball Size and Clear Space](/reviews/three-distance-automatic-dog-ball-launcher-buying-guide/) for practical fit, setup, or comparison checks.
 The listing describes three launch distances, advertised as approximately 10-30 feet. Before purchase, confirm ball diameter, launch distance settings, power method, replacement ball availability, and indoor clearance. Use only the specified balls and supervise play; stop if the dog guards or chews the launcher.

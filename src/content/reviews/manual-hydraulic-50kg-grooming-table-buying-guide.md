@@ -44,3 +44,10 @@ Use a stable floor and never exceed a verified manufacturer limit. Follow the pr
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Manual Hydraulic Grooming Table with 50 kg Listing Claim](/products/manual-hydraulic-50kg-grooming-table/)
+
+Browse the [AutoPet Pet Grooming category](/category/pet-grooming/) for the latest published resources.

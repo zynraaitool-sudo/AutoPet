@@ -43,3 +43,10 @@ Look at how the shoe closes, whether it can be adjusted without constriction, an
 Put on one shoe at a time and observe your dog's gait. Remove the shoes if they twist, slide, rub, or make the dog unwilling to walk. After a short trial, check each paw for redness, trapped debris, or dampness. Do not leave shoes on longer than the seller's instructions recommend.
 
 Before buying, verify the selected pair, size chart, material details, care instructions, shipping, and returns. If your dog has a paw injury or persistent discomfort, seek veterinary guidance rather than using footwear to manage it.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Cotton-Lined Winter Shoes for Small Dogs](/products/winter-pomeranian-dog-shoes/)
+
+Browse the [AutoPet Pet Walking Travel category](/category/pet-walking-travel/) for the latest published resources.

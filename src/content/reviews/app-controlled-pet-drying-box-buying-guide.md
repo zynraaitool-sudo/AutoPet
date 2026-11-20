@@ -44,3 +44,10 @@ Do not depend on an app as the only way to stop a heating appliance. Follow the 
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [App-Controlled Pet Drying Box](/products/app-controlled-pet-drying-box/)
+
+Browse the [AutoPet Pet Grooming category](/category/pet-grooming/) for the latest published resources.

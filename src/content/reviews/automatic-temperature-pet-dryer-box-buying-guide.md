@@ -44,3 +44,10 @@ Seller safety language is not independent certification; supervise continuously 
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Automatic-Temperature Pet Dryer Box](/products/automatic-temperature-pet-dryer-box/)
+
+Browse the [AutoPet Pet Grooming category](/category/pet-grooming/) for the latest published resources.

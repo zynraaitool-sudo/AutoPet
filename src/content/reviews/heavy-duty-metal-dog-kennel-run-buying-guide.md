@@ -44,3 +44,10 @@ Inspect every joint and latch; a kennel is not escape-proof unless the installed
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Heavy-Duty Metal Dog Kennel Run](/products/heavy-duty-metal-dog-kennel-run/)
+
+Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for the latest published resources.

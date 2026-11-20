@@ -44,3 +44,10 @@ Test each lock mode repeatedly indoors before relying on it to manage outdoor ac
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Direction-Sensing Automatic Cat Flap](/products/direction-sensing-cat-flap/)
+
+Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for the latest published resources.

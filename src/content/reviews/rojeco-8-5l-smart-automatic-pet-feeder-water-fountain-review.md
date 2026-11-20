@@ -73,3 +73,10 @@ The listing details alone do not establish app and Wi-Fi compatibility, all avai
 ## Bottom line
 
 The listing describes a 5L food container and a separate 3.5L gravity water dispenser; 8.5L is their combined advertised capacity. Before buying, confirm food compatibility, feeding controls and output, app and Wi-Fi requirements, charging and power options, cleaning instructions, included removable parts, and the water-dispenser mechanism. Treat the siphon refill description and all listing figures as seller-provided information, not guaranteed performance.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [ROJECO 5L Feeder with 3.5L Gravity Water Dispenser](/products/rojeco-5l-feeder-3-5l-gravity-water/)
+
+Browse the [AutoPet Automatic Cat Feeders category](/category/automatic-cat-feeders/) for the latest published resources.

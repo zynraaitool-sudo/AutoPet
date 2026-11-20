@@ -47,6 +47,15 @@ const productSchema = {
   url: canonical,
   category: categoryTitle,
 };
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: [
+    { "@type": "ListItem", position: 1, name: "Home", item: new URL("/", Astro.site).href },
+    { "@type": "ListItem", position: 2, name: "Products", item: new URL("/products/", Astro.site).href },
+    { "@type": "ListItem", position: 3, name, item: canonical },
+  ],
+};
 ---
 
 <SiteLayout
@@ -183,6 +192,7 @@ const productSchema = {
     <p class="product-disclosure">Product details are based on seller listings and have not been independently tested by AutoPet.</p>
   </article>
   <script type="application/ld+json" set:html={JSON.stringify(productSchema)}></script>
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)}></script>
 </SiteLayout>
 
 {galleryImages.length > 1 && (

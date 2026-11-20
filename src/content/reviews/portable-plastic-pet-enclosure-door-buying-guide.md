@@ -44,3 +44,10 @@ Check that panels cannot tip or separate and use only where the pet can be super
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Portable Plastic Pet Enclosure with Door](/products/portable-plastic-pet-enclosure-door/)
+
+Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for the latest published resources.

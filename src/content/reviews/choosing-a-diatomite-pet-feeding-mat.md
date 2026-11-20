@@ -43,3 +43,10 @@ Look for clear instructions on cleaning, drying, and storage. Do not use deterge
 Test the underside on the intended floor and check that the mat stays in place when a bowl is nudged. Keep it where your pet cannot chew it. Remove it if it breaks or if material begins to come loose.
 
 Before ordering, compare the actual size with the feeding area and check the package contents, shipping, and return policy. Treat “non-slip” and material claims as seller descriptions until independently verified.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Diatomite Pet Feeding Mat](/products/diatomite-pet-feeding-mat/)
+
+Browse the [AutoPet Pet Feeding Accessories category](/category/pet-feeding-accessories/) for the latest published resources.

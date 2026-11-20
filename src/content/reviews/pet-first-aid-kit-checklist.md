@@ -41,3 +41,10 @@ Store emergency contact details, your veterinarian's number, and the nearest eme
 ## Bottom line
 
 Buy only after verifying contents and consult a veterinarian about its use. A kit is an organizational aid, not a substitute for professional care.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Pet Emergency First-Aid Travel Kit](/products/pet-emergency-first-aid-travel-kit/)
+
+Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for the latest published resources.

@@ -44,3 +44,10 @@ Inspect for sharp edges, escape gaps, and loose fittings before allowing a dog i
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Large Metal Outdoor Dog Run](/products/large-metal-outdoor-dog-run/)
+
+Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for the latest published resources.

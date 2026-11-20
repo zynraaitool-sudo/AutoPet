@@ -45,3 +45,10 @@ Place it on the floor with the entrance open and let the pet investigate volunta
 ## Verify travel rules separately
 
 A product listing does not establish airline, public-transit, or vehicle approval. Measure the carrier and review the current rules for the transport provider. Confirm return terms and the exact options before ordering.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Transparent Capsule Pet Backpack Carrier](/products/transparent-capsule-pet-backpack/)
+
+Browse the [AutoPet Pet Walking Travel category](/category/pet-walking-travel/) for the latest published resources.

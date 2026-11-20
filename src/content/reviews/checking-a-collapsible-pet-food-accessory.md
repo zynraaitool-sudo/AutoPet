@@ -44,3 +44,10 @@ Find the stated capacity and confirm which surfaces touch food. Look for cleanin
 If the item is a bowl, test its stability and clean it at home before taking it on a trip. If it is a scoop, check that its volume works with your normal portion routine. Pack food and water separately unless the product's purpose and sealing behavior are clearly documented.
 
 Before purchase, confirm the package contents, material details, current price, delivery, and return conditions. Clear variant information matters more than a generic product title.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Collapsible Silicone Pet Food Scoop and Bowl](/products/collapsible-silicone-pet-food-scoop-bowl/)
+
+Browse the [AutoPet Pet Feeding Accessories category](/category/pet-feeding-accessories/) for the latest published resources.

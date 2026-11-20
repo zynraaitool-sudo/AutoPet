@@ -38,3 +38,10 @@ Let the cat sniff the harness, reward calm investigation, and build up wearing t
 ## Bottom line
 
 Outdoor walking is optional. A well-fitted harness and the cat's comfort matter more than an "escape-proof" label.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Escape-Resistant Cat Harness and Leash](/products/escape-resistant-cat-harness-leash/)
+
+Browse the [AutoPet Pet Walking Travel category](/category/pet-walking-travel/) for the latest published resources.

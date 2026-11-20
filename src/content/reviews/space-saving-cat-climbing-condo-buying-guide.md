@@ -44,3 +44,10 @@ A compact footprint still needs a stable base; check for wobble after assembly a
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Space-Saving Cat Climbing Condo with Sisal Post](/products/space-saving-cat-climbing-condo/)
+
+Browse the [AutoPet Pet Enrichment category](/category/pet-enrichment/) for the latest published resources.

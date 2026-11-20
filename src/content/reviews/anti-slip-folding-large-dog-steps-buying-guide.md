@@ -44,3 +44,10 @@ Place the steps on a non-slip surface and support the dog while it learns to use
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Anti-Slip Folding Steps for Large Dogs](/products/anti-slip-folding-large-dog-steps/)
+
+Browse the [AutoPet Pet Walking Travel category](/category/pet-walking-travel/) for the latest published resources.

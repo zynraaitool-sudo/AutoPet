@@ -40,3 +40,10 @@ Before each use, set the ramp on a flat surface and check that its joints lock, 
 ## Bottom line
 
 Choose dimensions and secure attachment over marketing claims. Do not use a ramp that rocks, has damaged edges, or does not fit the vehicle.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Folding Dog Car Ramp with Side Rails](/products/folding-dog-car-ramp-side-rails/)
+
+Browse the [AutoPet Pet Walking Travel category](/category/pet-walking-travel/) for the latest published resources.

@@ -47,3 +47,10 @@ Confirm how collected hair is released, whether the head can be detached, and ho
 The listing title gives a useful starting point—the seller describes a self-cleaning head for cats and dogs—but does not prove performance or comfort. Check dimensions, materials, cleaning instructions, and the return policy on the current page before ordering.
 
 This is a direct AliExpress product link, not an affiliate link.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Self-Cleaning Pet Grooming Brush](/products/self-cleaning-pet-grooming-brush/)
+
+Browse the [AutoPet Pet Grooming category](/category/pet-grooming/) for the latest published resources.

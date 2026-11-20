@@ -44,3 +44,10 @@ Inspect fasteners and fabric loops often; remove damaged pieces that could snag 
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Eight-Post Cat Climbing Tree with Washable Mat](/products/eight-post-cat-climbing-tree/)
+
+Browse the [AutoPet Pet Enrichment category](/category/pet-enrichment/) for the latest published resources.

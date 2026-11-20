@@ -47,3 +47,10 @@ Ask which app is used, what phone or network requirements apply, and whether loc
 Keep the familiar litter tray available during transition and let the cat explore the new unit voluntarily. Do not start a cleaning cycle while the cat is investigating it. Continue inspecting and cleaning the device according to its instructions even if an app reports normal operation.
 
 Before buying, check the selected variant, seller's return terms, replacement-part availability, and current delivery details. Treat the listing as a starting point for verification, not as evidence of hands-on performance.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Large-Capacity App-Controlled Self-Cleaning Litter Box](/products/large-app-controlled-self-cleaning-litter-box/)
+
+Browse the [AutoPet Smart Litter Boxes category](/category/smart-litter-boxes/) for the latest published resources.

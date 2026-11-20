@@ -39,3 +39,10 @@ The booster listing does not establish that it will protect a pet in a collision
 ## Bottom line
 
 Choose the booster for measured fit and ease of installation, not an implied safety rating. Secure the dog appropriately and do not allow it to ride loose.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Dog Car Booster Seat](/products/dog-car-booster-seat/)
+
+Browse the [AutoPet Pet Walking Travel category](/category/pet-walking-travel/) for the latest published resources.

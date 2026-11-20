@@ -44,3 +44,10 @@ Use restraints only as intended and never leave a pet unattended on an elevated 
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [46-Inch Heavy-Duty Pet Grooming Table](/products/46-inch-heavy-duty-grooming-table/)
+
+Browse the [AutoPet Pet Grooming category](/category/pet-grooming/) for the latest published resources.

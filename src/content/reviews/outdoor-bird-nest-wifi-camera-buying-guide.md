@@ -44,3 +44,10 @@ Avoid disturbing an occupied nest; check local wildlife rules and install equipm
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Outdoor Bird-Nest Wi-Fi Camera with Night Vision](/products/outdoor-bird-nest-wifi-camera/)
+
+Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for the latest published resources.

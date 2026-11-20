@@ -44,3 +44,10 @@ Do not rely on a tracker as a substitute for secure identification, a leash, or 
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [IP67 Real-Time Pet GPS Tracker with Type-C Charging](/products/ip67-real-time-pet-gps-tracker/)
+
+Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for the latest published resources.

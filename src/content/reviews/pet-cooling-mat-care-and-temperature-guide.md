@@ -40,3 +40,10 @@ Offer a shaded, ventilated area and fresh water, and avoid strenuous activity du
 ## Bottom line
 
 Check the material, fit, and care directions. A mat can be one resting surface among several, but it does not prevent heat-related illness.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Washable Pet Cooling Mat](/products/washable-pet-cooling-mat/)
+
+Browse the [AutoPet Pet Enrichment category](/category/pet-enrichment/) for the latest published resources.

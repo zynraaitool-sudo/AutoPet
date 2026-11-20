@@ -44,3 +44,10 @@ Keep a manual access plan available and test the latch before leaving a pet alon
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Second-Generation Timed Automatic Pet Door](/products/second-generation-timed-pet-door/)
+
+Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for the latest published resources.

@@ -40,3 +40,10 @@ Check whether the pouch can be turned inside out, wiped clean, or washed, and ho
 ## Bottom line
 
 Choose by dimensions, closure, attachment, and care instructions—not the product photos alone. Verify the current variant, shipping and return terms, and seller guidance before buying.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Dog Training Treat Pouch](/products/dog-training-treat-pouch/)
+
+Browse the [AutoPet Pet Walking Travel category](/category/pet-walking-travel/) for the latest published resources.

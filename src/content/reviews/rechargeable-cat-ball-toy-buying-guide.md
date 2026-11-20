@@ -43,3 +43,10 @@ Follow the manufacturer's charging instructions. Keep the toy away from your pet
 The listing title identifies a rechargeable play format, but it does not establish safety, durability, or suitability for every cat. Check dimensions, materials, detachable parts, and charging guidance before ordering.
 
 This is a direct AliExpress product link, not an affiliate link.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [LEMEENQ Rechargeable Interactive Cat Ball](/products/lemeenq-rechargeable-interactive-cat-ball/)
+
+Browse the [AutoPet Interactive Cat Toys category](/category/interactive-cat-toys/) for the latest published resources.

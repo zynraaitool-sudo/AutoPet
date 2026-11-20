@@ -41,3 +41,10 @@ Follow the assembly directions, then apply gentle pressure to every platform bef
 ## Bottom line
 
 Confirm the kit contents and mounting requirements before purchase. If the wall or anchoring method is uncertain, get help from a qualified installer rather than improvising.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Cat Wall Climbing Shelves Set](/products/cat-wall-climbing-shelves-set/)
+
+Browse the [AutoPet Pet Enrichment category](/category/pet-enrichment/) for the latest published resources.

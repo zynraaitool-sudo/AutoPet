@@ -32,6 +32,35 @@ displayOrder: 40
 draft: false
 ---
 
+<!-- autopet-master-optimized -->
+## Overview
+FirmHome Dual-Outlet Automatic Pet Feeder for scheduled cat meals. Compare listed features and setup with your needs.
+
+## Listed features
+- The listing title identifies a FirmHome automatic feeder with two outlets.
+- The title mentions a slow-feeding option and an information display.
+- The listing names cats and dogs as intended users.
+
+## Details to verify
+- **Listed design:** Two dispensing outlets
+- **Listed features:** Slow-feeding option and information display
+
+## Practical considerations
+
+Potential benefits listed or reasonably tied to the seller listing:
+- The two-outlet design is clearly stated in the listing title.
+
+Limitations and checks:
+- The title does not show how food is divided, whether meals are independently portioned, or what "slow feeding" means for this model.
+- Confirm capacity, schedule settings, cleaning, and power requirements with the seller.
+
+## Before buying
+Check capacity, measured portion size, kibble compatibility, Wi-Fi requirements, cleaning access, and backup-power behavior for the exact selected option.
+
+This page summarizes the available listing information and has not been presented as an independent hands-on test or certification. Confirm the live option, included accessories, measurements, and seller terms before purchase.
+
+## Related guide
+Read [Smart Pet Feeder Listings: App Control or Two Feeding Outlets?](/reviews/smart-feeder-listings-comparison/) for practical fit, setup, or comparison checks.
 The FirmHome listing describes a dual-outlet automatic feeder with a slow-feed option and information display. Its two-bowl format may help organize feeding in shared spaces.
 
 Before choosing, check how food is routed, whether both bowls receive the same meal, which settings can be scheduled, and how the slow-feed option operates. Compare capacity, kibble compatibility, cleaning, and power requirements, and confirm the bowls included with the selected model.

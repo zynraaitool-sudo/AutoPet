@@ -40,3 +40,10 @@ Charge and test the collar before a walk. Keep a separate, secure leash connecti
 ## Bottom line
 
 Choose a size that fits first, then compare charging and care details. Treat the light as an extra visibility cue, not a safety guarantee.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [USB-Rechargeable LED Dog Safety Collar](/products/usb-rechargeable-led-dog-collar/)
+
+Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for the latest published resources.

@@ -44,3 +44,10 @@ Turn off tracking if it points into private spaces, and secure the camera and po
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [4 MP Auto-Tracking Indoor Pet Camera](/products/four-megapixel-auto-tracking-pet-camera/)
+
+Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for the latest published resources.

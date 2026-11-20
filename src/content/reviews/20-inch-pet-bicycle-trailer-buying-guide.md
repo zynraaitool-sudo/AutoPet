@@ -44,3 +44,10 @@ Introduce the trailer while stationary first and secure the pet with a harness, 
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [20-Inch-Wheel Pet Bicycle Trailer](/products/20-inch-pet-bicycle-trailer/)
+
+Browse the [AutoPet Pet Walking Travel category](/category/pet-walking-travel/) for the latest published resources.

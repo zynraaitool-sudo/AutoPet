@@ -33,6 +33,34 @@ displayOrder: 70
 draft: false
 ---
 
+<!-- autopet-master-optimized -->
+## Overview
+The AliExpress listing describes a self-cleaning brush for cats and dogs. Check the pin design, size, and coat suitability before purchase.
+
+## Listed features
+- The listing title describes a self-cleaning head and grooming use for cats and dogs.
+- The seller title mentions detangling and massage.
+
+## Details to verify
+- **Listed use:** Grooming cats and dogs
+- **Listed feature:** Self-cleaning head
+
+## Practical considerations
+
+Potential benefits listed or reasonably tied to the seller listing:
+- The listing states its intended use and self-cleaning feature.
+
+Limitations and checks:
+- Brush size, pin material, coat compatibility, and cleaning method need confirmation.
+- Seller wording does not establish grooming effectiveness or suitability for sensitive skin.
+
+## Before buying
+Check the intended use, size range, materials, speed or heat controls, cleaning method, and the exact included attachments.
+
+This page summarizes the available listing information and has not been presented as an independent hands-on test or certification. Confirm the live option, included accessories, measurements, and seller terms before purchase.
+
+## Related guide
+Read [Self-Cleaning Pet Brushes: What to Check Before Buying](/reviews/self-cleaning-pet-brush-buying-guide/) for practical fit, setup, or comparison checks.
 This summary reflects the AliExpress listing title only.
 
 The title describes a self-cleaning grooming brush for cats and dogs and mentions detangling and massage. Check the photos and selected option for the actual head size, pin design, handle dimensions, and cleaning mechanism. Confirm which coat lengths and animal sizes the seller intends it for.

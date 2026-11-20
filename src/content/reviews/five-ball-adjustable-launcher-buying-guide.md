@@ -44,3 +44,10 @@ Start at the shortest setting in a supervised space and stop if the dog becomes 
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Adjustable Automatic Dog Ball Launcher with Five Balls](/products/five-ball-adjustable-launcher/)
+
+Browse the [AutoPet Pet Enrichment category](/category/pet-enrichment/) for the latest published resources.

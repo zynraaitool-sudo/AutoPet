@@ -39,3 +39,10 @@ Make sure all edges are attached without gaps and that the frame cannot be pushe
 ## Bottom line
 
 Treat mesh as one component, not a safety certification. If the installation method is uncertain, consult a qualified installer and keep the window closed.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Cat Window Safety Mesh](/products/cat-window-safety-mesh/)
+
+Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for the latest published resources.

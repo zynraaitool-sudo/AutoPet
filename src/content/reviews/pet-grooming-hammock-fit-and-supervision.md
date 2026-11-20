@@ -39,3 +39,10 @@ Allow the cat to investigate the hammock while it is on the floor, then introduc
 ## Bottom line
 
 Only use a correctly sized, intact hammock with secure support and direct supervision. The cat's comfort determines whether this tool is appropriate.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Cat Grooming Hammock](/products/cat-grooming-hammock/)
+
+Browse the [AutoPet Pet Grooming category](/category/pet-grooming/) for the latest published resources.

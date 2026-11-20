@@ -41,3 +41,10 @@ Clean and dry the surface as directed, then install the perch without stretching
 ## Bottom line
 
 The safest choice is not just the hammock that fits the window; it is a setup with sound supports, regular checks, and a low-risk location. Never leave a cat near an unsecured open window.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Cat Window Hammock with Suction Cups](/products/cat-window-hammock-suction-cup/)
+
+Browse the [AutoPet Pet Enrichment category](/category/pet-enrichment/) for the latest published resources.

@@ -45,3 +45,10 @@ Use the product only as its manual directs. Keep fur away from moving parts and 
 ## Check purchase and care terms
 
 Verify the chosen model, power source, included parts, cleaning method, and current return conditions. A new grooming tool should be tested in short, supervised sessions—not first used in a rushed situation.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Electric Nail Grinder for Dogs and Cats](/products/electric-pet-nail-grinder/)
+
+Browse the [AutoPet Pet Grooming category](/category/pet-grooming/) for the latest published resources.

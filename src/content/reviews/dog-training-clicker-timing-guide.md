@@ -39,3 +39,10 @@ In a quiet setting, make the sound and immediately offer a small reward. Repeat 
 ## Bottom line
 
 The tool is optional. A verbal marker works too, and training should remain calm, brief, and rewarding.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Dog Training Clicker with Whistle](/products/dog-training-clicker-whistle/)
+
+Browse the [AutoPet Pet Enrichment category](/category/pet-enrichment/) for the latest published resources.

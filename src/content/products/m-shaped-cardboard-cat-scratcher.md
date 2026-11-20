@@ -31,6 +31,35 @@ displayOrder: 180
 draft: false
 ---
 
+<!-- autopet-master-optimized -->
+## Overview
+M-Shaped Corrugated Cardboard Cat Scratcher for climbing, resting, and play. Compare listed features and setup with your needs.
+
+## Listed features
+- The listing describes a corrugated scratch surface for cats.
+- The seller mentions a shaped scratcher and catnip.
+
+## Details to verify
+- **Seller-listed material:** Corrugated cardboard
+- **Seller-listed shape:** M-shaped
+- **Listing extra:** Catnip is advertised; confirm whether it is included
+
+## Practical considerations
+
+Potential benefits listed or reasonably tied to the seller listing:
+- A shaped horizontal scratcher offers an alternative surface to place near a cat's usual scratching area.
+
+Limitations and checks:
+- Check that the footprint is stable and the scratching surface is long enough for your cat to stretch.
+- Catnip inclusion and quantity may vary by listing option.
+
+## Before buying
+Check the correct size and weight range, stable placement, supervision needs, and wear points before regular use.
+
+This page summarizes the available listing information and has not been presented as an independent hands-on test or certification. Confirm the live option, included accessories, measurements, and seller terms before purchase.
+
+## Related guide
+Read [M-Shaped Cardboard Cat Scratchers: Placement and Stability Checks](/reviews/setting-up-a-cardboard-cat-scratcher/) for practical fit, setup, or comparison checks.
 The AliExpress title describes an M-shaped product made from corrugated paper and advertises catnip. Confirm the dimensions and whether the selected option actually includes the catnip.
 
 Place a scratcher on a stable surface near an area the cat already uses, rather than blocking a walkway. Check that it does not rock or slide when pressed. Cardboard will wear with use; inspect it for loose pieces and replace it when it no longer stays together.

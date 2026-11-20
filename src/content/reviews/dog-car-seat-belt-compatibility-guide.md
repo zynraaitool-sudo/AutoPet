@@ -41,3 +41,10 @@ A restraint tether should be attached only to equipment intended for that use an
 ## Bottom line
 
 A tether can limit movement but cannot be assumed to protect occupants or an animal in a collision. Secure the dog using a compatible, properly fitted system and never allow the dog to ride loose.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Adjustable Dog Car Seat-Belt Tether](/products/adjustable-dog-car-seat-belt-tether/)
+
+Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for the latest published resources.

@@ -40,3 +40,10 @@ Begin with shallow water and allow the dog to approach at its own pace. Stay wit
 ## Bottom line
 
 Verify dimensions, drainage, and surface requirements before purchase. The pool is not a substitute for direct water supervision.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Foldable Dog Splash Pool](/products/foldable-dog-splash-pool/)
+
+Browse the [AutoPet Pet Enrichment category](/category/pet-enrichment/) for the latest published resources.

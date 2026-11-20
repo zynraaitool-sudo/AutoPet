@@ -44,3 +44,10 @@ Never leave a pet unattended in an enclosed dryer; consult a veterinarian before
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Enclosed Pet Drying Cabinet with Warm-Air Blower](/products/enclosed-pet-drying-cabinet/)
+
+Browse the [AutoPet Pet Grooming category](/category/pet-grooming/) for the latest published resources.

@@ -44,3 +44,10 @@ Lock all hinges and test the steps without the pet before introducing them. Foll
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Folding Wooden Pet Steps for Sofas and Beds](/products/folding-wooden-sofa-pet-steps/)
+
+Browse the [AutoPet Pet Enrichment category](/category/pet-enrichment/) for the latest published resources.

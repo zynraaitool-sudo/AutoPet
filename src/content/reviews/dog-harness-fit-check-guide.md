@@ -47,3 +47,10 @@ Introduce the harness gradually and check your dog's comfort during a short, sup
 Fit and intended use matter more than a generic "medium and large" label. Verify measurements, adjustment points, construction, return terms, and the exact option before ordering.
 
 This is a direct AliExpress product link, not an affiliate link.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Dog Walking Harness for Medium and Large Dogs](/products/adjustable-dog-walking-harness/)
+
+Browse the [AutoPet Pet Walking Travel category](/category/pet-walking-travel/) for the latest published resources.

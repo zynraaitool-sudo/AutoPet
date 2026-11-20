@@ -48,3 +48,10 @@ Find the reservoir volume, filter model, replacement interval, and availability 
 Keep a separate clean water bowl available when introducing a new fountain. Watch whether your pet drinks from it and check that the pump runs, the water remains clean, and the sensor responds as expected. Do not rely on the listing's description as proof of performance.
 
 Before buying, verify the selected option, seller instructions, current price, shipping, and return policy. The product title alone does not establish filter effectiveness or quiet operation.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Motion-Sensor Pet Water Fountain with Filter](/products/motion-sensor-pet-water-fountain/)
+
+Browse the [AutoPet Pet Water Fountains category](/category/pet-water-fountains/) for the latest published resources.

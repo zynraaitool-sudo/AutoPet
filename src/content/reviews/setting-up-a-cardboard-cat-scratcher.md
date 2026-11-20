@@ -44,3 +44,10 @@ Put the scratcher near an existing scratching location or resting area, not in t
 Inspect the cardboard for loose pieces and check that the shape remains stable. Replace it when it begins to break apart. If your cat eats pieces or chews the structure, remove the scratcher.
 
 The seller's catnip claim does not establish whether a packet is included. Check the selected variant, material details, shipping, and current return terms before ordering.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [M-Shaped Corrugated Cardboard Cat Scratcher](/products/m-shaped-cardboard-cat-scratcher/)
+
+Browse the [AutoPet Pet Enrichment category](/category/pet-enrichment/) for the latest published resources.

@@ -36,6 +36,35 @@ displayOrder: 130
 draft: false
 ---
 
+<!-- autopet-master-optimized -->
+## Overview
+An AliExpress listing for a USB-powered pet fountain that mentions motion sensing and filtration. Confirm the reservoir, filter, pump, and power requirements.
+
+## Listed features
+- The title describes an automatic water dispenser for pets.
+- Motion detection, filtration, and USB power are seller-listed claims.
+
+## Details to verify
+- **Seller-listed activation:** Motion sensor / infrared detection
+- **Power mentioned:** USB powered
+- **Filtration:** Filter is mentioned in the listing title; type is unspecified
+
+## Practical considerations
+
+Potential benefits listed or reasonably tied to the seller listing:
+- The advertised sensor mode may suit buyers comparing intermittent and continuous-flow designs.
+
+Limitations and checks:
+- Reservoir capacity, filter model, pump noise, and the sensor's detection range are not stated here.
+- The exact USB adapter requirements and replacement-filter availability need confirmation.
+
+## Before buying
+Check capacity, pump access, filter availability, cleaning instructions, and the water-level warning behavior for the exact option.
+
+This page summarizes the available listing information and has not been presented as an independent hands-on test or certification. Confirm the live option, included accessories, measurements, and seller terms before purchase.
+
+## Related guide
+Read [Motion-Sensor Pet Fountains: Verify Detection, Filters, and Power](/reviews/motion-sensor-pet-fountain-buying-checks/) for practical fit, setup, or comparison checks.
 The listing title mentions motion detection, infrared sensing, filtration, and USB power; these details should be checked against the selected variant and seller instructions.
 
 Confirm the reservoir capacity, filter type and replacement schedule, pump disassembly instructions, and required USB power supply. Ask whether the sensor can be disabled and whether the fountain can run continuously. Listing terms such as “universal” do not establish compatibility with every adapter or electrical supply.

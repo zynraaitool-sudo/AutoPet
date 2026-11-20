@@ -44,3 +44,10 @@ Choose location-only operation when possible; avoid aversive or shock functions 
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [4G GPS Dog Collar for Outdoor Tracking](/products/4g-hunting-gps-dog-collar/)
+
+Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for the latest published resources.

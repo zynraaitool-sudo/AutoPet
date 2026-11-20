@@ -44,3 +44,10 @@ Test the lock and direction settings before allowing unsupervised access outdoor
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Collar-Activated Smart Cat Door](/products/collar-activated-smart-cat-door/)
+
+Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for the latest published resources.

@@ -40,3 +40,10 @@ Start with an easy-to-reach reward and watch how the bird interacts with the toy
 ## Bottom line
 
 Foraging should be enriching, not frustrating or hazardous. Match the toy to the bird and inspect it frequently.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Parrot Treat-Foraging Spinner Toy](/products/parrot-treat-foraging-spinner/)
+
+Browse the [AutoPet Pet Enrichment category](/category/pet-enrichment/) for the latest published resources.

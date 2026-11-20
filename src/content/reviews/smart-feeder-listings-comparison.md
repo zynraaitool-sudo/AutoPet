@@ -16,14 +16,14 @@ products:
       - Timed feeding and portion control mentioned
       - Mobile app and remote control mentioned
     url: https://s.click.aliexpress.com/e/_c41WTxIF
-    affiliate: false
+    affiliate: true
   - name: FirmHome Dual-Outlet Automatic Pet Feeder
     priceRange: Check the current listing
     features:
       - Two dispensing outlets
       - Slow-feeding option and display mentioned
     url: https://s.click.aliexpress.com/e/_c3LRBBDh
-    affiliate: false
+    affiliate: true
 faqs:
   - question: Does app control mean the feeder works without Wi-Fi?
     answer: The listing title does not establish offline behavior. Check the manual
@@ -56,3 +56,11 @@ For pets with a medical diet or a prescribed feeding plan, confirm the device's 
 Choose based on the documented function you need, not on a product title alone. The app listing requires confirmation of connectivity and controls; the dual-outlet listing requires confirmation of how food is divided. AutoPet has not handled or tested either product.
 
 The links above are affiliate links. AutoPet may earn a commission if you purchase through them, at no extra cost to you.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [FirmHome Dual-Outlet Automatic Pet Feeder](/products/firmhome-dual-outlet-slow-feed-dispenser/)
+- [Smart Timed Pet Feeder with App and Portion Control](/products/smart-timed-pet-feeder-app-control/)
+
+Browse the [AutoPet Automatic Cat Feeders category](/category/automatic-cat-feeders/) for the latest published resources.

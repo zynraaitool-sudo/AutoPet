@@ -44,3 +44,10 @@ Secure tall furniture as directed and keep it away from unstable window covering
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Tall Solid-Wood Cat Tower with Integrated Scratching Posts](/products/tall-solid-wood-cat-tower/)
+
+Browse the [AutoPet Pet Enrichment category](/category/pet-enrichment/) for the latest published resources.

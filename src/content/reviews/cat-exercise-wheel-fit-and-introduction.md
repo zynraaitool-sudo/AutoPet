@@ -39,3 +39,10 @@ Allow the cat to explore the stationary wheel and reward calm interest. Do not p
 ## Bottom line
 
 A wheel is optional enrichment, not a required exercise device. Buy only if you have room for a stable setup and the cat is comfortable exploring it.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Silent Cat Exercise Wheel](/products/silent-cat-exercise-wheel/)
+
+Browse the [AutoPet Pet Enrichment category](/category/pet-enrichment/) for the latest published resources.

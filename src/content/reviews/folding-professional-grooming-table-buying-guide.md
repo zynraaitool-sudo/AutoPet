@@ -44,3 +44,10 @@ Set the table on a level surface, engage every lock, and support the pet through
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Foldable Professional Pet Grooming Table](/products/folding-professional-grooming-table/)
+
+Browse the [AutoPet Pet Grooming category](/category/pet-grooming/) for the latest published resources.

@@ -39,3 +39,10 @@ Let the dog wear the vest on dry land first, then introduce it in calm, shallow 
 ## Bottom line
 
 A well-fitted vest can be one precaution among several, not a promise of safety. Confirm measurements, inspect the product, and maintain direct supervision at all times.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Dog Life Jacket Float Vest](/products/dog-life-jacket-float-vest/)
+
+Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for the latest published resources.

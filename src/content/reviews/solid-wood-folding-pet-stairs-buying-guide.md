@@ -44,3 +44,10 @@ Keep the stairs on a level floor and inspect the folding joints for movement bef
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Solid-Wood Folding Pet Stairs in Multiple Sizes](/products/solid-wood-folding-pet-stairs/)
+
+Browse the [AutoPet Pet Walking Travel category](/category/pet-walking-travel/) for the latest published resources.

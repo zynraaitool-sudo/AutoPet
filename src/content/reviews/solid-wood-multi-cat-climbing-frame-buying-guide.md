@@ -44,3 +44,10 @@ Do not assume a seller’s load claims are verified; anchor the assembled struct
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [CW-22 Solid-Wood Multi-Cat Climbing Frame](/products/solid-wood-multi-cat-climbing-frame/)
+
+Browse the [AutoPet Pet Enrichment category](/category/pet-enrichment/) for the latest published resources.

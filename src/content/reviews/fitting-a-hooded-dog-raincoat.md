@@ -43,3 +43,10 @@ The hood must not cover the dog's eyes, interfere with hearing, or restrict brea
 Let your dog inspect the coat and try it briefly indoors. Watch for rubbing, restricted stride, or signs of stress. Remove it if the dog cannot move comfortably. Use a leash and harness as intended; do not attach walking gear to a coat unless the manufacturer explicitly says that is safe.
 
 Before buying, confirm the variant, care instructions, current shipping, and returns. The listing's weather claims do not establish warmth or suitability for every climate.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Hooded Waterproof Dog Raincoat](/products/hooded-waterproof-dog-raincoat/)
+
+Browse the [AutoPet Pet Walking Travel category](/category/pet-walking-travel/) for the latest published resources.

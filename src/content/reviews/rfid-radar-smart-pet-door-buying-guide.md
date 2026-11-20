@@ -44,3 +44,10 @@ Check for unintended opening and supervise initial use with every animal in the 
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [RFID Smart Pet Door with Radar Sensor](/products/rfid-radar-smart-pet-door/)
+
+Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for the latest published resources.

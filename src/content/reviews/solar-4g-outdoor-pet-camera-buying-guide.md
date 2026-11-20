@@ -44,3 +44,10 @@ Do not rely on a camera as a pet containment or emergency-alert system. Follow t
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Solar 4G/Wi-Fi Outdoor Camera for Pet Areas](/products/solar-4g-outdoor-pet-camera/)
+
+Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for the latest published resources.

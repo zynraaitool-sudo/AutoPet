@@ -44,3 +44,10 @@ Verify compatibility with the exact bicycle and use a separate harness attachmen
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Brompton-Compatible Pet Bicycle Trailer](/products/brompton-compatible-pet-bike-trailer/)
+
+Browse the [AutoPet Pet Walking Travel category](/category/pet-walking-travel/) for the latest published resources.

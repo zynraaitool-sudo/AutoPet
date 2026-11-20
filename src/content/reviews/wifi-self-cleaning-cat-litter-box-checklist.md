@@ -47,3 +47,10 @@ Read the manual for entry sensors, cycle delays, emergency stops, and cleaning p
 Find out how the waste bin, rake or drum, and sensors are cleaned, and how often the seller recommends maintenance. Keep the area clean and check for stuck waste or changes in operation. If your cat avoids the box or shows a sudden change in litter habits, do not assume the appliance is the cause; seek appropriate veterinary advice.
 
 Before ordering, compare the listing photos, selected variant, manual, return terms, and shipping. Do not rely on an app notification as proof that the box is clean or safe.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [App-Controlled Self-Cleaning Cat Litter Box](/products/app-controlled-self-cleaning-cat-litter-box/)
+
+Browse the [AutoPet Smart Litter Boxes category](/category/smart-litter-boxes/) for the latest published resources.

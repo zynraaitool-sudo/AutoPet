@@ -40,3 +40,10 @@ Show the dog a few treats placed on top before hiding them deeper. Keep the firs
 ## Bottom line
 
 Treat the mat as a supervised enrichment tool, not a medical or behavioral treatment. Confirm the selected size, cleaning instructions, and construction before ordering.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Dog Snuffle Mat for Nosework](/products/dog-snuffle-mat-nosework/)
+
+Browse the [AutoPet Pet Enrichment category](/category/pet-enrichment/) for the latest published resources.

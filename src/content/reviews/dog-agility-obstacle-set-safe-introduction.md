@@ -40,3 +40,10 @@ Start with walking through a stationary tunnel or stepping over a low obstacle, 
 ## Bottom line
 
 This is enrichment equipment, not a requirement for exercise. Choose a kit only if the dog enjoys it and you can set it up securely.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [7-Piece Dog Agility Set with Tunnel](/products/dog-agility-obstacle-set-tunnel/)
+
+Browse the [AutoPet Pet Enrichment category](/category/pet-enrichment/) for the latest published resources.

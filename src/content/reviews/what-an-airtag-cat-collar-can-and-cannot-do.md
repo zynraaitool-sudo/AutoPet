@@ -44,3 +44,10 @@ Confirm the collar circumference range, buckle design, and whether it has a suit
 Keep identification details current and follow local guidance for pet identification. Inspect the collar regularly for wear, fit, and irritation. Remove it if it becomes damaged or catches on objects.
 
 Before purchase, review the package contents, size chart, tracker compatibility, return terms, and current listing. Reflective trim may improve visibility in some lighting, but it does not replace supervision.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Reflective Cat Collar with AirTag Holder](/products/airtag-cat-collar-holder/)
+
+Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for the latest published resources.

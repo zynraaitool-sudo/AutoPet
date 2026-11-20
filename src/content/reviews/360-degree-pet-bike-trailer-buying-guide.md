@@ -44,3 +44,10 @@ Lock or remove swivel wheels as directed before cycling and secure the pet with 
 ## Bottom line
 
 Consider this item only if the exact configuration meets your requirements. Recheck the listing shortly before publication; AutoPet has not tested this product.
+
+<!-- autopet-master-optimized -->
+
+## Related product listings
+- [Pet Bicycle Trailer with 360-Degree Swivel Wheels](/products/360-degree-pet-bike-trailer/)
+
+Browse the [AutoPet Pet Walking Travel category](/category/pet-walking-travel/) for the latest published resources.
