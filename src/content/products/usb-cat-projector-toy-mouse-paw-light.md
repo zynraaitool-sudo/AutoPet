@@ -2,7 +2,14 @@
 name: USB Cat Projector Toy with Mouse and Paw-Themed Light
 category: interactive-cat-toys
 catalogVisible: true
-description: The AliExpress listing describes a USB-powered floor projector for cat play, featuring mouse- and paw-themed light patterns. Verify the selected option, light behavior, and use instructions before purchase.
+description: The AliExpress listing describes a USB-powered floor projector for
+  cat play, featuring mouse- and paw-themed light patterns. Verify the selected
+  option, light behavior, and use instructions before purchase.
+image: /images/products/usb-cat-projector-toy-with-mouse-and-paw-themed-light/4.webp
+gallery:
+  - /images/products/usb-cat-projector-toy-with-mouse-and-paw-themed-light/1-compressed.webp
+  - /images/products/usb-cat-projector-toy-with-mouse-and-paw-themed-light/2-compressed.webp
+  - /images/products/usb-cat-projector-toy-with-mouse-and-paw-themed-light/3-compressed.webp
 specifications:
   - name: Product type
     value: Projector-style interactive cat toy, according to the seller listing
@@ -14,27 +21,30 @@ features:
   - The listing describes a floor-projected light for interactive cat play.
   - The seller title mentions USB power and mouse- and paw-themed designs.
 pros:
-  - A projected target can offer a different play format for cats interested in moving light.
-  - The listed USB power format avoids relying on disposable batteries during use.
+  - A projected target can offer a different play format for cats interested in
+    moving light.
+  - The listed USB power format avoids relying on disposable batteries during
+    use.
 cons:
-  - The light source, brightness, projection behavior, and USB requirements have not been independently verified.
-  - A light target cannot be caught; pair play with a tangible toy and supervise use.
-productUrl: https://www.aliexpress.us/item/3256813497283913.html
+  - The light source, brightness, projection behavior, and USB requirements have
+    not been independently verified.
+  - A light target cannot be caught; pair play with a tangible toy and supervise
+    use.
+productUrl: https://s.click.aliexpress.com/e/_c3YPjecp
 relatedArticle: usb-cat-projector-toy-play-and-safety-guide
 displayOrder: 101
 draft: false
 ---
-
 ## Overview
 
 This AliExpress listing describes a USB-powered projector-style toy that casts mouse- and paw-themed light patterns onto the floor for cats. AutoPet has not tested the product, its light source, or its play behavior. The listing's translated title does not establish exact projection modes, brightness, dimensions, or USB specifications, so check the live listing and selected option before ordering.
 
 ## What to check before buying
 
-- **Included option:** Confirm that the selected variant includes the projector and any accessories shown in the listing.
-- **Power and placement:** Check the USB connector and power requirements, cable length, and a stable location where your cat cannot chew or pull the cable.
-- **Light behavior:** Review the seller's photos and instructions for the projected patterns, movement, brightness, and any flashing effects. Do not assume the light source is a laser or that the toy has automatic movement.
-- **Room setup:** Make sure the projection is visible on a suitable floor surface and that play does not lead your cat toward stairs, fragile objects, or other hazards.
+* **Included option:** Confirm that the selected variant includes the projector and any accessories shown in the listing.
+* **Power and placement:** Check the USB connector and power requirements, cable length, and a stable location where your cat cannot chew or pull the cable.
+* **Light behavior:** Review the seller's photos and instructions for the projected patterns, movement, brightness, and any flashing effects. Do not assume the light source is a laser or that the toy has automatic movement.
+* **Room setup:** Make sure the projection is visible on a suitable floor surface and that play does not lead your cat toward stairs, fragile objects, or other hazards.
 
 ## Play and supervision
 
@@ -46,7 +56,7 @@ Keep the cable out of reach, unplug the projector when it is not in use, and sto
 
 This listing may interest owners whose cats enjoy chasing moving light, but the available title alone is not enough to confirm the exact light source, settings, or safety details. Check those details for the specific option, supervise play, and include a physical catch at the end of the game.
 
-This is a direct AliExpress link, not an affiliate link. Listing details, price, shipping, and availability may change.
+Affiliate disclosure: This page contains affiliate links. If you purchase through a link, AutoPet may earn a small commission at no extra cost to you. Listing details, pricing, shipping, and availability are subject to change.
 
 ## Related guide
 
