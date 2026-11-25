@@ -20,30 +20,50 @@ pros:
 cons:
   - "This is not a hands-on review; product performance and availability may vary."
 faqs:
-  - question: "Has AutoPet tested the automatic dog ball launcher with three distance settings?"
-    answer: "No. This guide summarizes the public AliExpress listing; AutoPet has not purchased or independently tested this item."
+  - question: "Has AutoPet independently tested this exact product?"
+    answer: "No. This is a buying guide based on the supplied product-listing information. AutoPet has not independently verified the product's performance, durability, or suitability."
+  - question: "Which detail should be confirmed before paying?"
+    answer: "What measured distance corresponds to each of the three settings, and what exact ball size and replacement model are approved?"
+  - question: "Can the listing title be treated as a specification?"
+    answer: "No. Treat claims in the title, photographs, and seller description as claims for the selected variant. Confirm the exact option and request written specifications before ordering."
   - question: "Does the listing prove that the product is suitable for every pet?"
     answer: "No. Confirm the exact model and fit for the individual animal, and stop use if it causes distress or appears unsafe."
 draft: true
 ---
-The listing advertises approximately 10-30 feet across three launch settings. That range is a seller claim, not a test result, and actual distance can vary with the ball, surface, or model. The purchase decision should start with compatible ball size and the amount of clear, supervised space available.
+A three-distance automatic launcher is only useful if its ball size, launch settings, and available play area match the dog. A seller’s approximate distance range should be treated as an advertised claim until the exact model and test conditions are documented.
 
-## Check compatibility before checkout
-Confirm the ball diameter and whether the package includes enough balls for the exact selected option. Ask about replacement ball availability and whether non-standard balls are safe to use. The available product source does not state a tested distance, ball specification, or launch interval that can be quoted as verified fact.
+## What the listing tells us—and what it does not
 
-Measure the safest launch lane. It should have a clear end area, no stairs or traffic, and a surface that does not create slipping. Also check the power method and whether the unit needs mains power or batteries. If indoor use is intended, the 10-30-foot claim should be interpreted cautiously rather than as a guaranteed indoor result.
+The supplied product information identifies **Automatic Dog Ball Launcher with Three Distance Settings** and links to a seller listing. That is enough to identify the item being considered, but it is not independent evidence of performance, safety certification, durability, or suitability for every pet. Product options, photographs, bundles, and prices can change. Check the selected variant and the live listing immediately before purchase.
 
-## Introduce the launcher safely
-Place the launcher on a stable, level area and follow the manual. Use only the stated ball and start with the shortest setting while the dog is supervised. Keep hands, toys, and other pets away from the delivery opening. Stop if the dog guards the launcher, tries to chew the mechanism or balls, becomes overexcited, or loses interest.
+Do not turn a feature shown in a title or image into a verified specification. Where a measurement, rating, operating limit, included accessory, or compatibility statement is not documented, treat it as unknown and ask the seller for written confirmation. Keep a copy of the listing and the seller’s answer so the delivered option can be compared with what was promised.
 
-Compare the stated distance options, compatible ball size, and return terms in the current listing. This guide has not verified launch distance or ball fit through hands-on testing.
+## The measurements and features that decide fit
 
-## Common mistakes
-Do not buy a launcher because “automatic fetch” sounds convenient without confirming ball size and clearance. Do not use damaged or undersized balls, and do not leave a dog alone to manage repeated launches. Do not assume the same three settings will produce identical distances on carpet, outdoors, or with replacement balls.
+Confirm the ball diameter and whether the package includes the same ball type required for the launcher. Measure a clear lane with a safe stopping area and consider whether the shortest setting is still too long for the intended indoor space. Carpet, grass, and hard floors may change how a ball rolls after landing.
 
-## FAQs
-**Does 10-30 feet mean guaranteed throw lengths?** No. It is described in the listing as an advertised approximate range.
+Ask for the distance of each setting, how the distance was measured, launch interval, power source, ball material, replacement-ball part number, and whether the unit detects a ball before launching again. Confirm the opening dimensions and whether the machine can be disabled while a dog retrieves a ball.
 
-**Can any ball be used?** The source does not establish compatibility. Use only the manufacturer's specified ball and replacement type.
+## Setup, everyday use, and safety
 
-**What is the main unknown?** Verified ball size, actual setting distances, power details, launch interval, and replacement availability for the exact model.
+Place the unit on a level, non-slip surface and point it away from people, windows, stairs, and other animals. Begin with the shortest setting while the dog is supervised. Keep hands and faces away from the opening and teach the dog to wait at a safe distance before the next launch.
+
+Do not leave a dog alone with the launcher or allow chewing on the mechanism. Stop if the dog becomes overexcited, guards the device, or repeatedly puts its muzzle near the opening. The listing does not establish safe use for every dog or environment.
+
+## Who should consider this product?
+
+Consider the launcher only when all three settings, compatible ball size, replacement supply, and power details are clear. If the actual distance range cannot be confirmed, do not plan a room or yard around the advertised number.
+
+A useful buying decision is specific to the animal, the installation or use environment, and the exact product option. If the seller cannot answer the key questions above, waiting or choosing a better-documented alternative is more sensible than relying on a generic product title.
+
+## Common mistakes to avoid
+
+- Choosing from the main product photograph without checking the exact selected option and package contents.
+- Treating a seller’s feature, capacity, distance, waterproof, or compatibility claim as independently verified.
+- Measuring the outside dimensions while overlooking the usable opening, interior, footprint, or working area.
+- Ignoring ongoing costs such as batteries, replacement parts, data plans, filters, or cleaning supplies where relevant.
+- Skipping the manual, return conditions, warranty terms, and a supervised first-use check.
+
+## AutoPet's assessment
+
+This is a product-specific buying guide, not a hands-on review. The supplied listing information does not establish independent test results. Confirm the current seller specifications, package contents, and return terms before ordering. Revisit this guide if the seller changes the model, selected option, or published specifications.

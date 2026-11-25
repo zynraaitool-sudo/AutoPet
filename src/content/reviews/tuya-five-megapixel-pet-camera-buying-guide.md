@@ -20,30 +20,50 @@ pros:
 cons:
   - "This is not a hands-on review; product performance and availability may vary."
 faqs:
-  - question: "Has AutoPet tested the tuya 5 mp wi-fi camera for pet monitoring?"
-    answer: "No. This guide summarizes the public AliExpress listing; AutoPet has not purchased or independently tested this item."
+  - question: "Has AutoPet independently tested this exact product?"
+    answer: "No. This is a buying guide based on the supplied product-listing information. AutoPet has not independently verified the product's performance, durability, or suitability."
+  - question: "Which detail should be confirmed before paying?"
+    answer: "Does the selected camera stream and save at 5 MP, which Wi-Fi band does it use, and what storage or subscription costs apply?"
+  - question: "Can the listing title be treated as a specification?"
+    answer: "No. Treat claims in the title, photographs, and seller description as claims for the selected variant. Confirm the exact option and request written specifications before ordering."
   - question: "Does the listing prove that the product is suitable for every pet?"
     answer: "No. Confirm the exact model and fit for the individual animal, and stop use if it causes distress or appears unsafe."
 draft: true
 ---
-A 5 MP label does not identify the complete camera experience. This listing is described as having Wi-Fi, motion detection, night vision, and two-way audio, but the product source does not verify the exact resolution mode, network band, storage terms, or app region.
+A 5 MP label describes a claimed image resolution, not the whole camera experience. For a pet-monitoring camera, app availability, network compatibility, storage costs, privacy controls, and recording behavior can matter more than the headline megapixel figure.
 
-## Separate the must-have functions
-List which functions you actually need: live view, motion alerts, recording, night viewing, or two-way sound. Confirm whether “5 MP” applies to the selected model and whether the app supports that resolution on the live feed and recordings. Ask whether the camera records locally, through cloud storage, or both, and identify any subscription fee.
+## What the listing tells us—and what it does not
 
-Check the supported Wi-Fi band and whether the app is available in your region. Internet performance, phone compatibility, and account requirements can affect practical use even if the hardware appears to support them.
+The supplied product information identifies **Tuya 5 MP Wi-Fi Camera for Pet Monitoring** and links to a seller listing. That is enough to identify the item being considered, but it is not independent evidence of performance, safety certification, durability, or suitability for every pet. Product options, photographs, bundles, and prices can change. Check the selected variant and the live listing immediately before purchase.
 
-## Placement and privacy
-Place the camera where it has a stable view and cannot be reached through a fall or a pet's play. Keep cords and mounting hardware out of reach and avoid private rooms or neighbors' windows. Use a strong, unique account password and enable available account protections. Confirm how to disable recording or alerts and whether motion tracking is present.
+Do not turn a feature shown in a title or image into a verified specification. Where a measurement, rating, operating limit, included accessory, or compatibility statement is not documented, treat it as unknown and ask the seller for written confirmation. Keep a copy of the listing and the seller’s answer so the delivered option can be compared with what was promised.
 
-Check return and data-deletion terms before setup. A camera can help an owner check a pet area, but it is not a containment, medical, or emergency system.
+## The measurements and features that decide fit
 
-## Common mistakes
-Do not assume 5 MP automatically means good detail in every lighting condition. Do not buy without the app and Wi-Fi requirements. Do not overlook the cost of storage or a required SD card. Night vision, audio, and motion detection may be adjustable or limited depending on the selected model.
+Confirm whether the selected model actually records and streams at 5 MP or whether that figure refers to a sensor or still-image mode. Ask for the supported Wi-Fi band, app name and regional availability, live-view limits, motion-alert controls, night-vision method, and whether two-way audio is included in the exact option.
 
-## FAQs
-**Is 5 MP verified?** The listing makes the claim, but the exact live and recorded resolution must be confirmed for the selected camera.
+Identify local storage, cloud storage, or both; ask whether a memory card is included, what capacity is supported, and whether cloud recording requires a subscription. Confirm account sharing, firmware updates, data deletion, reset procedure, and what happens if internet access is interrupted.
 
-**Does it require a subscription?** The source does not establish storage terms. Check local and cloud options before purchase.
+## Setup, everyday use, and safety
 
-**Can it replace supervision?** No. It is a viewing tool, not proof of safety or a response system.
+Choose a mounting position with a stable view and secure the cable away from chewing or pulling. Test live view, recording playback, motion alerts, and audio before relying on the camera. Use a strong unique password and enable available account protections.
+
+Do not point the camera into neighbors’ private spaces or use it as a substitute for supervision. A camera cannot respond to an emergency. The listing summary does not independently verify resolution, night vision, audio quality, or cloud security.
+
+## Who should consider this product?
+
+Consider this camera when the app, network, storage plan, and privacy controls are clearly documented. If the 5 MP claim or recurring costs are unclear, compare cameras with published manuals and transparent storage terms.
+
+A useful buying decision is specific to the animal, the installation or use environment, and the exact product option. If the seller cannot answer the key questions above, waiting or choosing a better-documented alternative is more sensible than relying on a generic product title.
+
+## Common mistakes to avoid
+
+- Choosing from the main product photograph without checking the exact selected option and package contents.
+- Treating a seller’s feature, capacity, distance, waterproof, or compatibility claim as independently verified.
+- Measuring the outside dimensions while overlooking the usable opening, interior, footprint, or working area.
+- Ignoring ongoing costs such as batteries, replacement parts, data plans, filters, or cleaning supplies where relevant.
+- Skipping the manual, return conditions, warranty terms, and a supervised first-use check.
+
+## AutoPet's assessment
+
+This is a product-specific buying guide, not a hands-on review. The supplied listing information does not establish independent test results. Confirm the current seller specifications, package contents, and return terms before ordering. Revisit this guide if the seller changes the model, selected option, or published specifications.

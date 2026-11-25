@@ -20,53 +20,52 @@ pros:
 cons:
   - "This is not a hands-on review; product performance and availability may vary."
 faqs:
-  - question: "Has AutoPet tested the automatic locking pet door with removable flap?"
-    answer: "No. This guide summarizes the public AliExpress listing; AutoPet has not purchased or independently tested this item."
+  - question: "Has AutoPet independently tested this exact product?"
+    answer: "No. This is a buying guide based on the supplied product-listing information. AutoPet has not independently verified the product's performance, durability, or suitability."
+  - question: "Which detail should be confirmed before paying?"
+    answer: "What exactly happens to the flap when batteries are removed or power is lost, and how can a person release it from both sides?"
+  - question: "Can the listing title be treated as a specification?"
+    answer: "No. Treat claims in the title, photographs, and seller description as claims for the selected variant. Confirm the exact option and request written specifications before ordering."
   - question: "Does the listing prove that the product is suitable for every pet?"
     answer: "No. Confirm the exact model and fit for the individual animal, and stop use if it causes distress or appears unsafe."
 draft: true
 ---
-The listing describes an automatic pet door with a locking mechanism, but it does not establish how the lock is powered or how the flap behaves in the event of a power loss. The exact cutout, wall or door thickness, flap size, and included mounting parts are also unknown.
+An automatic locking pet flap is not simply a hole with a timer: the buyer needs to understand the lock mechanism, the flap’s default state, and what happens when power or a component fails. These details matter as much as the visible frame.
 
-## Establish the fail-safe behavior
+## What the listing tells us—and what it does not
 
-Ask whether loss of power leaves the flap locked, unlocked, or partially movable. Confirm how the lock is actuated and whether the unit has batteries, an external supply, or both. The source does not identify a fail-safe position or independent emergency test.
+The supplied product information identifies **Automatic Locking Pet Door with Removable Flap** and links to a seller listing. That is enough to identify the item being considered, but it is not independent evidence of performance, safety certification, durability, or suitability for every pet. Product options, photographs, bundles, and prices can change. Check the selected variant and the live listing immediately before purchase.
 
-Before installation, obtain the actual opening dimensions and cutout template. Confirm compatibility with the selected door, wall, or panel thickness. A photograph is not a usable template, and cutting too early can make returns difficult.
+Do not turn a feature shown in a title or image into a verified specification. Where a measurement, rating, operating limit, included accessory, or compatibility statement is not documented, treat it as unknown and ask the seller for written confirmation. Keep a copy of the listing and the seller’s answer so the delivered option can be compared with what was promised.
 
-## Pet and household fit
+## The measurements and features that decide fit
 
-Measure the pet's shoulder height and width and compare those figures with the exact opening. Check step-over or threshold height as well. Confirm whether the flap closes against the frame and whether the locking mechanism interferes with a pet's normal direction of movement.
+Measure the intended door or wall thickness and mark the proposed opening only after obtaining the exact cutting template. Compare the flap’s clear opening—not just the outer frame—with the pet’s shoulder width and height. Check both approach space and the swing direction on each side.
 
-Ask for manual override, lock schedules, battery requirements, flap material, weather sealing, and spare-flap availability. Verify all screws, frames, and mounting kits included in the exact option.
+Ask whether locking is motorized, magnetic, timed, or controlled by another trigger. Confirm the power source, battery type, low-battery warning, manual override, lock states, and whether the flap remains passable during a power failure. Request the full frame dimensions, tunnel extensions, weather seals, and included fasteners.
 
-## Installation and supervised use
+## Setup, everyday use, and safety
 
-Do not cut until dimensions, template, and return terms are confirmed. Follow the manufacturer?s instructions and seek professional help for a structural door or wall. Keep the flap supervised at first and test every lock position with the pet before allowing unsupervised access.
+Check whether the installation surface is wood, glass, metal, or masonry and whether a separate adapter is required. Confirm that the seller’s template matches the exact model and that the frame can be secured without sharp edges or gaps. Test every lock position before allowing the pet to use it.
 
-Check for gaps, loose fasteners, or a flap that opens unexpectedly. Outside access can expose pets to vehicles, wildlife, or neighbors' animals; a secure household plan is still needed.
+Do not assume the door fails open or fails closed; either behavior may create a different safety problem. Keep an alternative access plan while learning the controls. Do not cut the door based on a photograph or a dimension from a different version.
 
-## Common mistakes
+## Who should consider this product?
 
-- Cutting before verifying the template
-- Assuming the flap remains usable during power loss
-- Ignoring door or wall thickness
-- Buying before confirming opening size
-- Allowing unsupervised access before testing the lock
+This product category may suit households that need controlled access, but only when the fail-state, manual release, and installation compatibility are documented. If those details are unclear, choose a simpler door with a known manual lock.
 
-## FAQs
+A useful buying decision is specific to the animal, the installation or use environment, and the exact product option. If the seller cannot answer the key questions above, waiting or choosing a better-documented alternative is more sensible than relying on a generic product title.
 
-**What happens if power is lost?**
-That is not established by the source. Ask the seller for the exact behavior and a manual override.
+## Common mistakes to avoid
 
-**Does the selected option fit my door?**
-Only after the actual thickness and cutout dimensions match the listing.
+- Choosing from the main product photograph without checking the exact selected option and package contents.
+- Treating a seller’s feature, capacity, distance, waterproof, or compatibility claim as independently verified.
+- Measuring the outside dimensions while overlooking the usable opening, interior, footprint, or working area.
+- Ignoring ongoing costs such as batteries, replacement parts, data plans, filters, or cleaning supplies where relevant.
+- Skipping the manual, return conditions, warranty terms, and a supervised first-use check.
 
-**Is the locking flap pet-proof?**
-No independent security test is documented. Test the exact unit and keep access supervised initially.
+## AutoPet's assessment
 
-## Related listing
+This is a product-specific buying guide, not a hands-on review. The supplied listing information does not establish independent test results. Confirm the current seller specifications, package contents, and return terms before ordering. Revisit this guide if the seller changes the model, selected option, or published specifications.
 
-- [Automatic Locking Pet Door with Removable Flap](/products/automatic-pet-door-locking-flap/)
-
-Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for related resources.
+Explore related AutoPet resources: [Automatic Locking Pet Door with Removable Flap](/products/automatic-pet-door-locking-flap/) · [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/)

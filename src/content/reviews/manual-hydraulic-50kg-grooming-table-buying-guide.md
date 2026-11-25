@@ -1,18 +1,18 @@
 ---
-title: "Manual Lift Grooming Tables: Check the Capacity Claim"
-description: "Ask for the table’s tested load documentation and usable height range instead of relying on a number in a listing title."
+title: "Manual Hydraulic Grooming Table: Verify the 50 kg Claim"
+description: "The seller advertises a 50 kg capacity and arm with loop; ask for exact-model load documentation, usable dimensions, and lift range before ordering."
 date: 2026-11-17
 updated: 2026-11-17
 category: pet-grooming
 articleType: buying-guide
-quickVerdict: "Treat the listing as a starting point: Treat the capacity as a seller claim; ask how it was tested and confirm the adjustment range, arm, and base dimensions."
+quickVerdict: "The seller title advertises a manual hydraulic table, 50 kg capacity, and arm with loop. No test method, working-load limit, stability data, or model-specific dimensions are independently established."
 productLabel: AliExpress listing
 products:
   - name: "Manual Hydraulic Grooming Table with 50 kg Listing Claim"
     priceRange: Check the current AliExpress listing
     features:
-      - "a manually raised grooming table and states a 50 kg capacity."
-      - "Seller claims have not been independently verified."
+      - "The seller listing title advertises a manual hydraulic grooming table, 50 kg capacity, and arm with loop."
+      - "The capacity test, arm/loop inclusion in the selected option, lift range, dimensions, and stability are not established by the title."
     url: https://www.aliexpress.com/item/1005012830598912.html
     affiliate: false
 pros:
@@ -20,34 +20,41 @@ pros:
 cons:
   - "This is not a hands-on review; product performance and availability may vary."
 faqs:
-  - question: "Has AutoPet tested the manual hydraulic grooming table with 50 kg listing claim?"
-    answer: "No. This guide summarizes the public AliExpress listing; AutoPet has not purchased or independently tested this item."
-  - question: "Does the listing prove that the product is suitable for every pet?"
-    answer: "No. Confirm the exact model and fit for the individual animal, and stop use if it causes distress or appears unsafe."
+  - question: "What evidence would make the advertised 50 kg capacity meaningful?"
+    answer: "Ask for the manufacturer’s exact-model manual or test documentation, including whether 50 kg is a working-load limit for the complete table and how it was tested. The listing title alone does not establish a safe operating capacity."
+  - question: "Are the restraint arm and loop guaranteed in the package?"
+    answer: "The seller title mentions an arm and loop, but that does not confirm they are included with every selectable option. Request a written parts list for the exact variant."
+  - question: "How do I tell whether this table will fit my grooming space and animal?"
+    answer: "Ask for usable tabletop length and width, minimum and maximum height, and base footprint, then compare them with the animal’s standing space and your working posture. None of those dimensions is established here."
+  - question: "What should I check about the hydraulic lift before relying on it?"
+    answer: "Request the operating instructions, load limits during raising and lowering, locking or lowering controls, and maintenance guidance. Do not treat the word 'hydraulic' as evidence of smooth movement, stability, or a safety lock."
 draft: true
 ---
-This listing describes a manual hydraulic grooming table and assigns it a 50 kg capacity. A capacity printed in a listing title is not proof of tested load, because the source does not explain the test method or the exact configuration to which it applies.
+The linked seller-listing title advertises a manual hydraulic grooming table, a 50 kg capacity, and an arm with loop. The weight figure is a seller claim, not a verified working-load rating.
 
-## Verify capacity and dimensions
+## Evidence available
 
-Ask the seller for a manufacturer rating, documented test method, usable tabletop size, lowest and highest working heights, and the exact arm and base configuration. The source provides no table length or width, adjustment range, hydraulic mechanism rating, foot footprint, or attachment details. Treat those specifications as unknown until confirmed in the live listing or written seller response.
+The retrieved listing page displays those claims in its title. That establishes what the seller advertises, but not that a delivered table meets the stated load, includes the arm and loop in every option, or has a particular working range. No exact-model manual, test method, independent inspection, dimensions, stability evidence, or certification document is available here. Check the current listing and selected option before ordering.
 
-Compare the table’s usable top with the pet’s standing footprint and the available work area. Confirm whether an arm, clamps, noose, or non-slip mat is included; the listing feature alone does not establish the package. Check shipping weight and dimensions because a hydraulic table may require careful delivery and assembly.
+## Compare the table to the job
 
-## Setup and safe use
+Do not size the table from the pet’s weight alone. Compare the documented usable tabletop with the pet’s standing footprint, the minimum and maximum working height with the groomer’s reach, and the base footprint with the available floor space. Ask whether the capacity figure applies to the entire assembled table throughout its lift range, and whether it is a working limit or a one-time/static test. If the seller cannot provide the model-specific evidence, compare another table whose manufacturer publishes it; do not treat 50 kg as a safe target load.
 
-Place the table on a level, stable floor and fully lock or lower it according to the manual before use. Keep the load below a verified rating, if one can be obtained, and never exceed the seller’s stated limit based only on the title. Inspect hydraulic movement, fasteners, surface, and the arm before each session.
+Send the seller these questions before paying:
 
-Use restraint appropriate to the grooming task without leaving the animal unattended. Any hydraulic movement should be controlled so the pet is not startled or lifted onto an unstable surface. Stop if the table shifts, leaks, fails to hold height, or has exposed damage.
+- Can you provide the exact model number, manual, and load-test documentation showing the working-load limit and test conditions?
+- What are the usable tabletop dimensions, full base footprint, and minimum/maximum table heights?
+- What lift, lowering, and locking controls are fitted, and what operating instructions and maintenance are required?
+- Does this selected option include the arm and loop, and are they rated for restraint use?
 
-## Common mistakes
+The title’s arm-and-loop wording is not enough to establish the restraint’s rating or package inclusion. Verify both, and make sure any restraint is intended for the animal and use; it must not suspend or force the pet.
 
-Do not choose by 50 kg alone: pet fit and usable height matter. Do not assume every arm or clamp is included or that the frame is certified. Do not groom on a slippery or uneven floor.
+## Purchase and use risks
 
-## FAQs
+Shipping weight, carton size, assembly requirements, and return costs can affect whether this table is practical; ask for them along with the specifications. A hydraulic lift that sinks, jerks, tilts, or leaks is unsafe to use. Until an applicable working-load limit and stable operation are documented, do not place an animal near the advertised 50 kg figure on it or rely on it for professional use. Keep the pet supported and supervised on any raised table.
 
-**Has the 50 kg capacity been independently verified?** No. Ask for manufacturer documentation and confirm the test condition and selected model.
+## Buying decision
 
-**What information is missing?** Tabletop dimensions, adjustment range, lift mechanism details, base footprint, arm contents, and weight or stability testing.
+Choose this table only if the seller can substantiate the working-load limit for the complete model and provide dimensions, lift range, operating instructions, and an exact-option parts list. Otherwise, a table with verifiable manufacturer documentation is the safer comparison. This guide is not a hands-on review; the product’s capacity and performance have not been independently tested.
 
-Browse the [AutoPet Pet Grooming category](/category/pet-grooming/) for published resources.
+Explore related AutoPet resources: [AutoPet Pet Grooming category](/category/pet-grooming/)

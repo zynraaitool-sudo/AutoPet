@@ -20,38 +20,52 @@ pros:
 cons:
   - "This is not a hands-on review; product performance and availability may vary."
 faqs:
-  - question: "Has AutoPet tested the modular indoor pet kennel with enclosed panels?"
-    answer: "No. This guide summarizes the public AliExpress listing; AutoPet has not purchased or independently tested this item."
+  - question: "Has AutoPet independently tested this exact product?"
+    answer: "No. This is a buying guide based on the supplied product-listing information. AutoPet has not independently verified the product's performance, durability, or suitability."
+  - question: "Which detail should be confirmed before paying?"
+    answer: "How many panels and connectors are included in the selected option, and what assembled shapes are approved by the manufacturer?"
+  - question: "Can the listing title be treated as a specification?"
+    answer: "No. Treat claims in the title, photographs, and seller description as claims for the selected variant. Confirm the exact option and request written specifications before ordering."
   - question: "Does the listing prove that the product is suitable for every pet?"
     answer: "No. Confirm the exact model and fit for the individual animal, and stop use if it causes distress or appears unsafe."
 draft: true
 ---
-A modular indoor kennel can be adapted to a room, but the selected bundle determines the actual size and shape. The source describes configurable enclosed panels for cats and dogs and provides no panel count, panel dimensions, or independent load testing.
+A modular indoor kennel can be reconfigured, but its usefulness depends on the panel dimensions, connector strength, door placement, and stability of the chosen shape. The number of panels in a photograph may not match the selected package.
 
-## Map the enclosure first
+## What the listing tells us—and what it does not
 
-Measure the available floor area and planned layout. Confirm individual panel dimensions, the number of panels in the exact option, door location and width, connector style, and whether a top or base is included. The product may be shown with accessories that are not supplied, so compare the package line with photographs and seller text.
+The supplied product information identifies **Modular Indoor Pet Kennel with Enclosed Panels** and links to a seller listing. That is enough to identify the item being considered, but it is not independent evidence of performance, safety certification, durability, or suitability for every pet. Product options, photographs, bundles, and prices can change. Check the selected variant and the live listing immediately before purchase.
 
-Match the assembled footprint to the pet’s turning and resting needs. A cat or dog that is being introduced to a restricted area may need a larger setup and continuous supervision. Height, spacing, and climb resistance are not established by the source and should be checked for the individual animal.
+Do not turn a feature shown in a title or image into a verified specification. Where a measurement, rating, operating limit, included accessory, or compatibility statement is not documented, treat it as unknown and ask the seller for written confirmation. Keep a copy of the listing and the seller’s answer so the delivered option can be compared with what was promised.
 
-## Assemble and inspect
+## The measurements and features that decide fit
 
-Use the manufacturer’s connector sequence and assemble on a level, clear floor. Before use, press gently around joints and the door to check that panels do not separate or tip. Inspect gaps for trapped paws or heads and check edges and corners for sharp features.
+Draw the intended footprint before ordering. Include the door swing, access for cleaning, and enough room for the pet to stand, turn, and lie down. Compare panel height and spacing with the pet’s size and behavior, including whether it climbs, pushes, or chews.
 
-Keep food, water, toys, and safe resting items in positions that do not interfere with latches or exits. Do not leave a pet unattended until you have completed a supervised trial and confirmed that the enclosure remains stable.
+Ask for the exact number of panels, dimensions of each panel, connector type, door-panel location, latch mechanism, floor-protection pieces, and maximum recommended configuration. Confirm whether the listing price covers the full enclosure or a starter set, and whether extra connectors are supplied.
 
-## Common mistakes
+## Setup, everyday use, and safety
 
-Do not calculate area from the number of panels alone. Do not assume a pictured mat or roof is included. Do not use a modular setup for unsupervised confinement when the exact latch and connector strength are unknown.
+Assemble the kennel on a level floor and check every joint for movement. Test the door latch repeatedly and look for sharp edges, pinch points, and gaps where paws or heads could become trapped. If the system is designed for several shapes, confirm that the selected arrangement is supported rather than improvising an unstable layout.
 
-## FAQs
+A modular panel system is not automatically suitable for unsupervised confinement. Do not use it if the pet can push the panels apart, climb over them, or become caught in a gap. Provide bedding, water, and regular breaks appropriate to the animal.
 
-**What is missing from the listing summary?** Panel count, dimensions, assembled footprint, material, connector strength, door size, and whether a base or top is included.
+## Who should consider this product?
 
-**Is the enclosure escape-proof?** No claim is supported in the source. Check spacing and latch security against the specific pet and supervise early use.
+This format is useful when a room needs a flexible boundary, provided the complete panel set and connector system are clear. If the seller cannot list the exact package contents, compare a fixed-size kennel instead.
 
-## Related pages
+A useful buying decision is specific to the animal, the installation or use environment, and the exact product option. If the seller cannot answer the key questions above, waiting or choosing a better-documented alternative is more sensible than relying on a generic product title.
 
-- [Modular Indoor Pet Kennel with Enclosed Panels](/products/modular-indoor-pet-kennel/)
+## Common mistakes to avoid
 
-Browse the [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/) for published resources.
+- Choosing from the main product photograph without checking the exact selected option and package contents.
+- Treating a seller’s feature, capacity, distance, waterproof, or compatibility claim as independently verified.
+- Measuring the outside dimensions while overlooking the usable opening, interior, footprint, or working area.
+- Ignoring ongoing costs such as batteries, replacement parts, data plans, filters, or cleaning supplies where relevant.
+- Skipping the manual, return conditions, warranty terms, and a supervised first-use check.
+
+## AutoPet's assessment
+
+This is a product-specific buying guide, not a hands-on review. The supplied listing information does not establish independent test results. Confirm the current seller specifications, package contents, and return terms before ordering. Revisit this guide if the seller changes the model, selected option, or published specifications.
+
+Explore related AutoPet resources: [Modular Indoor Pet Kennel with Enclosed Panels](/products/modular-indoor-pet-kennel/) · [AutoPet Pet Safety Accessories category](/category/pet-safety-accessories/)

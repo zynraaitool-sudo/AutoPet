@@ -20,30 +20,52 @@ pros:
 cons:
   - "This is not a hands-on review; product performance and availability may vary."
 faqs:
-  - question: "Has AutoPet tested the weatherproof wooden outdoor cat shelter?"
-    answer: "No. This guide summarizes the public AliExpress listing; AutoPet has not purchased or independently tested this item."
+  - question: "Has AutoPet independently tested this exact product?"
+    answer: "No. This is a buying guide based on the supplied product-listing information. AutoPet has not independently verified the product's performance, durability, or suitability."
+  - question: "Which detail should be confirmed before paying?"
+    answer: "What treatment is applied to the wood, how is the roof sealed, and how far is the floor raised above the ground?"
+  - question: "Can the listing title be treated as a specification?"
+    answer: "No. Treat claims in the title, photographs, and seller description as claims for the selected variant. Confirm the exact option and request written specifications before ordering."
   - question: "Does the listing prove that the product is suitable for every pet?"
     answer: "No. Confirm the exact model and fit for the individual animal, and stop use if it causes distress or appears unsafe."
 draft: true
 ---
-The listing describes an enclosed wooden outdoor cat shelter, but “weatherproof” is not a substitute for verified construction details. The source does not provide treatment specifications, roof materials, interior dimensions, or a weather rating.
+An outdoor wooden cat shelter needs more than a weatherproof label. Roof joints, raised flooring, ventilation, drainage, wood treatment, and the entrance orientation all affect whether the shelter can provide a dry and usable resting place.
 
-## Define the shelter's job
-Measure the cat and the intended resting position. Then ask for interior length, width, height, entrance opening, and floor elevation. Confirm whether bedding is included and whether the selected option is an assembled shelter or a kit. Compare the package dimensions with the delivery route.
+## What the listing tells us—and what it does not
 
-Ask about the wood type, treatment, roof sealing, water drainage, ventilation, and whether the finish is rated for outdoor use. The source gives no certification or independently verified water resistance. The [wooden shelter product page](/products/weatherproof-wooden-cat-shelter/) records the item number and basic outdoor claim.
+The supplied product information identifies **Weatherproof Wooden Outdoor Cat Shelter** and links to a seller listing. That is enough to identify the item being considered, but it is not independent evidence of performance, safety certification, durability, or suitability for every pet. Product options, photographs, bundles, and prices can change. Check the selected variant and the live listing immediately before purchase.
 
-## Choose and maintain the location
-Set the shelter on a dry, level surface with drainage and some protection from direct wind or rain. Do not place it where it can become a trap or where sharp heat or cold can build around the walls. Follow the manual for assembly and any treatment or curing instructions. Keep the interior dry and inspect it for moisture, rot, splinters, loose fasteners, and pests.
+Do not turn a feature shown in a title or image into a verified specification. Where a measurement, rating, operating limit, included accessory, or compatibility statement is not documented, treat it as unknown and ask the seller for written confirmation. Keep a copy of the listing and the seller’s answer so the delivered option can be compared with what was promised.
 
-A shelter can provide a dry resting place, but it does not make outdoor conditions safe in every season. If a cat is unwell or the temperature is dangerous, use safe local care resources rather than relying on the shelter alone.
+## The measurements and features that decide fit
 
-## Common mistakes
-Do not assume that an outdoor label means weatherproof without checking roof and floor details. Do not use a photo to estimate interior room. Do not apply an unspecified coating or cleaner until its manufacturer instructions are known. Do not leave water pooling beneath or inside the shelter.
+Compare the internal floor area and entrance dimensions with the cat’s body and resting posture. Check whether there is enough room to turn around while avoiding an oversized interior that is difficult to keep warm. Plan the entrance away from prevailing rain and direct wind where possible.
 
-## FAQs
-**Is the shelter fully waterproof?** The source does not establish that. Ask for exact roof, floor, seam, and treatment details.
+Ask what wood or panel material is used, how it is treated, whether the roof is sealed, how the floor is raised, and where ventilation openings are located. Confirm whether the roof lifts for cleaning, whether the floor is removable, and whether insulation or a liner is included or sold separately.
 
-**What is the essential unknown?** Interior dimensions, wood treatment, drainage, ventilation, floor elevation, and assembly method.
+## Setup, everyday use, and safety
 
-**Can it be used for every season?** The listing is only a general description. Local conditions and the cat's needs determine whether the shelter is appropriate.
+Choose a level, drained location and keep the shelter off standing water. Check that the roof overhang and entrance do not direct rain inside. Assemble according to the instructions and inspect every edge, screw, and hinge. Provide dry bedding that can be replaced and cleaned.
+
+A weatherproof claim does not establish performance in heavy rain, snow, or prolonged sun. Avoid coatings with unclear pet-safety information and allow any finish to cure as directed before use. Inspect for dampness, mold, splinters, loose roofing, and blocked ventilation.
+
+## Who should consider this product?
+
+This shelter may suit a protected outdoor location when the seller documents the material, roof, floor elevation, and ventilation. If the construction details are missing, plan for additional weather protection or compare a better-documented model.
+
+A useful buying decision is specific to the animal, the installation or use environment, and the exact product option. If the seller cannot answer the key questions above, waiting or choosing a better-documented alternative is more sensible than relying on a generic product title.
+
+## Common mistakes to avoid
+
+- Choosing from the main product photograph without checking the exact selected option and package contents.
+- Treating a seller’s feature, capacity, distance, waterproof, or compatibility claim as independently verified.
+- Measuring the outside dimensions while overlooking the usable opening, interior, footprint, or working area.
+- Ignoring ongoing costs such as batteries, replacement parts, data plans, filters, or cleaning supplies where relevant.
+- Skipping the manual, return conditions, warranty terms, and a supervised first-use check.
+
+## AutoPet's assessment
+
+This is a product-specific buying guide, not a hands-on review. The supplied listing information does not establish independent test results. Confirm the current seller specifications, package contents, and return terms before ordering. Revisit this guide if the seller changes the model, selected option, or published specifications.
+
+Explore related AutoPet resources: [wooden shelter product page](/products/weatherproof-wooden-cat-shelter/)
